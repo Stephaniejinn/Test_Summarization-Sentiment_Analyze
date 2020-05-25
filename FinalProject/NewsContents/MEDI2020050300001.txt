@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300001
+
+Date : 2020-05-01 00:00:00
+Title : UK govt says COVID-19 death toll up by 621 to 28,131
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:London/UK
+Cases:182,260 people
+Description:UK govt says COVID-19 death toll up by 621 to 28,131

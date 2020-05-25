@@ -1,0 +1,33 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006906363
+ID : GPHN2020050500057
+
+Date : 2020-05-04 15:38:00
+Title : Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform
+Ariticle : 
+04 May 2020
+This is an unedited manuscript that has been accepted for publication. Nature Research are providing this early                             version of the manuscript as a service to our authors and readers. The manuscript will undergo copyediting,                             typesetting and a proof review before it is published in its final form. Please note that during                             the production process errors may be discovered which could affect the content, and all legal                             disclaimers apply.
+Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform
+Virology
+Abstract
+Reverse genetics has been an indispensable tool revolutionising insights into viral pathogenesis and vaccine development. Large RNA virus genomes, such as from Coronaviruses, are cumbersome to clone and manipulate in E. coli due to size and occasional instability1–3. Therefore, an alternative rapid and robust reverse genetics platform for RNA viruses would benefit the research community. Here we show the full functionality of a yeast-based synthetic genomics platform to genetically reconstruct diverse RNA viruses, including members of the Coronaviridae, Flaviviridae and Paramyxoviridae families. Viral subgenomic fragments were generated using viral isolates, cloned viral DNA, clinical samples, or synthetic DNA, and reassembled in one step in Saccharomyces cerevisiae using transformation associated recombination (TAR) cloning to maintain the genome as a yeast artificial chromosome (YAC). T7-RNA polymerase has been used to generate infectious RNA to rescue viable virus. Based on this platform we have been able to engineer and resurrect chemically-synthetized clones of the recent epidemic SARS-CoV-24 in only a week after receipt of the synthetic DNA fragments. The technical advance we describe here allows a rapidly response to emerging viruses as it enables the generation and functional characterization of evolving RNA virus variants—in real-time—during an outbreak.
+These authors contributed equally: Tran Thi Nhu Thao, Fabien Labroussaa, Nadine Ebert
+These authors jointly supervised this work: Joerg Jores, Volker Thiel
+Affiliations
+Institute of Virology and Immunology (IVI), Bern, Switzerland
+Tran Thi Nhu Thao
+Department of Infectious Diseases and Pathobiology, Vetsuisse Faculty, University of Bern, Bern, Switzerland
+Tran Thi Nhu Thao
+Graduate School for Biomedical Science, University of Bern, Bern, Switzerland
+Tran Thi Nhu Thao
+Institute of Veterinary Bacteriology, Vetsuisse Faculty, University of Bern, Bern, Switzerland
+Fabien Labroussaa
+Insitute for Infectious Diseases, University of Bern, Bern, Switzerland
+Melle Holwerda
+Department for Molecular & Medical Virology, Ruhr-Universität Bochum, Bochum, Germany
+Stephanie Pfaender
+Institute of Virology, Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany
+Simon Schröder
+German Centre for Infection Research, associated partner Charité, Berlin, Germany
+Doreen Muth
+Martsinovsky Institute of Medical Parasitology, Tropical and Vector Borne Diseases, Sechenov University, Moscow, Russia
+Marcel A. Müller

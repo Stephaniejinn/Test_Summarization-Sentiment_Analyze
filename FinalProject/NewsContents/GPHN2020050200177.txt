@@ -1,0 +1,43 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006893033
+ID : GPHN2020050200177
+
+Date : 2020-05-02 07:01:00
+Title : India’s new coronavirus contact tracing app will be mandatory for all workers
+Ariticle : 
+India’s new coronavirus contact tracing app will be mandatory for all workers
+Scroll back to top of the page
+Back
+India’s new coronavirus contact tracing app will be mandatory for all workers
+By Sankalp Phartiyal Reuters
+Posted May 2, 2020 3:01 am
+Updated May 2, 2020 3:02 am
+5:02
+Coronavirus outbreak: What are the privacy risks behind ‘contact tracing’ apps?
+As companies like Apple and Google take measures to tackle COVID-19, Ryerson University Associate Professor Richard Lachman breaks down their high tech approach – and the privacy concerns contact tracing apps could pose.
+Smaller font Descrease article font size
+-A
+Larger font Increase article font size
+A+
+Copy link
+India has mandated that all public and private sector employees use a government-backed Bluetooth tracing app and maintain social distancing in offices as New Delhi begins easing some of its lockdown measures in lower-risk areas.
+Prime Minister Narendra Modi’s government on Friday said India — the country with the largest number of people in lockdown — would extends its nationwide control measures for another two weeks from Monday to battle the spread of the coronavirus that causes the COVID-19 illness, but allow “considerable relaxations” in lower-risk districts.
+As part of its efforts to fight the deadly virus, India last month launched the app Aarogya Setu — meaning Health Bridge — a Bluetooth and GPS-based system developed by the country’s National Informatics Centre. The app alerts users who may have come in contact with people later found to be positive for COVID-19 or deemed to be at high risk.
+READ MORE: Trudeau open to ‘voluntary’ coronavirus tracking app but says privacy paramount
+Story continues below advertisement
+“Use of Aarogya Setu shall be made mandatory for all employees, both private and public,” India’s Ministry of Home Affairs said in a notification late on Friday.
+It will be the responsibility of the heads of companies and organizations “to ensure 100% coverage of this app among the employees,” the ministry said.
+Trending Stories
+United Front groups in Canada helped Beijing stockpile coronavirus safety supplies
+Officials at India’s technology ministry and a lawyer who framed the privacy policy for Aarogya Setu told Reuters the app needs to be on at least 200 million phones for it to be effective in the country of 1.3 billion people.
+2:01
+Alberta launches ABTraceTogether app to improve COVID-19 contact tracing
+Alberta launches ABTraceTogether app to improve COVID-19 contact tracing
+The app has been downloaded around 50 million times on Android phones, which dominate India’s smartphone user base of 500 million, according to Google Play Store data.
+The app’s compulsory use is raising concerns among privacy advocates, who say it is unclear how the data will be used and who stress that India lacks privacy laws to govern the app.
+“Such a move should be backed by a dedicated law which provides strong data protection cover and is under the oversight of an independent body,” said Udbhav Tiwari, Public Policy Advisor for internet company Mozilla.
+New Delhi has said the app will not infringe on privacy as all data is collected anonymously.
+Story continues below advertisement
+The app can help authorities identify virus hotspots and better-target health efforts, the tech ministry told Reuters in late April, adding that information on the app is used “only for administering necessary medical interventions”.
+On Friday, the government said that offices re-opening will also have to implement measures like gaps between shifts and staggered lunch breaks to contain spread of the coronavirus that has infected 3.3 million worldwide and caused more than 230,000 deaths.
+India has reported over 37,000 cases and 1,218 deaths from the virus.
+(Reporting by Sankalp Phartiyal; Editing by Alexandra Ulmer and Tom Hogue)

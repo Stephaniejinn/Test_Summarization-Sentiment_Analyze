@@ -1,0 +1,76 @@
+URL : https://www.bbc.com/news/world-latin-america-52517167
+ID : BBCH2020050300003
+
+Date : 2020-05-02 00:00:00
+Title : Venezuela prison riot leaves more than 40 dead
+Ariticle : 
+        
+            
+                                
+                                                                 
+Image copyright
+                 
+Reuters
+                            
+                        
+                
+Image caption
+                
+                    The injured were brought to this hospital in Guanare                
+            
+                    
+More than 40 people were reportedly killed after rioting broke out at a prison in Venezuela. 
+Inmates at Los Llanos jail, near western Guanare city, were angry at a lack of food and water, according to the Venezuelan Prison Observatory.
+The organisation called for an investigation, casting doubt on the official version that the prisoners had attempted a jail-break.
+Prison staff including the governor were wounded in the incident.
+The Prisons Minister Iris Varela told a Venezuelan newspaper that there had been an incident at the jail but did not give a death toll. The incident was described as an escape attempt in that report.
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+/* sc-component-id: SimpleMapGraphic__GraphicContainer-s1ketwac-0 */.dXwefP.dXwefP{width:100%;height:100px;background-color:#fff;box-sizing:border-box;}
+        
+          html, body{            margin: 0;            padding: 0;          }            @font-face {    font-family: 'ReithSans';    font-display: swap;    src: url(/static/media/BBCReithSans_W_Rg.woff2) format("woff2"), url(/static/media/BBCReithSans_W_Rg.woff) format("woff");  }  @font-face {    font-family: 'ReithSans';    font-display: swap;    src: url(/static/media/BBCReithSans_W_Md.woff2) format("woff2"), url(/static/media/BBCReithSans_W_Md.woff) format("woff");    font-weight: bold;  }  @font-face {    font-family: 'BBCNassim';    font-display: swap;    src: url(/static/media/BBCNassimRegularFADesktop.ttf) format("truetype");  }  @font-face {    font-family: 'BBCNassim';    font-display: swap;    src: url(/static/media/BBCNassimBoldFADesktop.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Iskoola_pota_bbc';    font-display: swap;    src: url(/static/media/iskpotaRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Iskoola_pota_bbc';    font-display: swap;    src: url(/static/media/iskpotaBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Latha';    font-display: swap;    src: url(/static/media/lathaRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Latha';    font-display: swap;    src: url(/static/media/lathaBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Mangal';    font-display: swap;    src: url(/static/media/mangalRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Mangal';    font-display: swap;    src: url(/static/media/mangalBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Noto Sans CJK KR';    font-display: swap;    src: url(/static/media/NotoSansCJKkr-Regular.otf) format("opentype");  }  @font-face {    font-family: 'Noto Sans CJK KR';    font-display: swap;    src: url(/static/media/NotoSansCJKkr-Bold.otf) format("opentype");    font-weight: bold;  }  @font-face {    font-family: 'Noto Sans Gurmukhi';    font-display: swap;    src: url(/static/media/NotoSansGurmukhi-Regular.ttf) format("truetype");  }  @font-face {    font-family: 'Noto Sans Gurmukhi';    font-display: swap;    src: url(/static/media/NotoSansGurmukhi-Bold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Padauk';    font-display: swap;    src: url(/static/media/PadaukRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Padauk';    font-display: swap;    src: url(/static/media/PadaukBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Shonar_bangala';    font-display: swap;    src: url(/static/media/ShonarRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Shonar_bangala';    font-display: swap;    src: url(/static/media/ShonarBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'NotoSansEthiopic';    font-display: swap;    src: url(/static/media/NotoSansEthiopic-Regular.ttf) format("truetype");  }  @font-face {    font-family: 'NotoSansEthiopic';    font-display: swap;    src: url(/static/media/NotoSansEthiopic-Bold.ttf) format("truetype");    font-weight: bold;  }        
+      
+          IDT.init({"graphicUUID":"130d7e54-0fbd-47d7-bffa-3b75ba9e96bc","graphicData":{"type":"MapGraphic","altText":"Map showing location of the city of Guanare in Venezuela","service":"news","centerPosition":{"latitude":8.254342962202443,"longitude":-66.55568668199994},"zoomLevel":5,"areas":[{"id":"9a821679-a7ec-40ac-b157-ff725d1081ac","providerId":"Venezuela_0_collection_1","longName":"Venezuela","originalTitle":"Venezuela","title":"VENEZUELA","entityType":"country","location":{"latitude":7.125769878312892,"longitude":-66.16370934514555},"boundingBox":[-73.321125555,0.655733314000031,-59.7902478089999,15.709722051],"fillColour":"#FFEBC1","lineColour":"#BABABA","labelLocation":{"latitude":7.862741443239827,"longitude":-65.45705386949994},"labelDisplayOptions":{"bold":false,"large":false,"alignment":"center"}}],"points":[{"id":"266b3739-99dd-4f30-9f77-4362f853e4f7","longName":"Guanare, Portuguesa, Venezuela","originalTitle":"Guanare","title":"Guanare","location":{"latitude":9.042,"longitude":-69.7498},"icon":"CIRCLE_ICON","entityType":"PopulatedPlace","labelLocation":{"latitude":8.819300131846262,"longitude":-71.96096011949994},"labelDisplayOptions":{"bold":false,"large":false,"italic":false,"colour":"","alignment":"left"}},{"id":"e2b0c2bf-bd53-45de-a3fe-2a94ee792d74","longName":"Caracas, Federal District, Venezuela","originalTitle":"Caracas","title":"Caracas","location":{"latitude":10.5053,"longitude":-66.9178},"icon":"CIRCLE_ICON","entityType":"PopulatedPlace","labelLocation":{"latitude":10.724746137821484,"longitude":-64.88576480699994},"labelDisplayOptions":{"bold":false,"large":false,"italic":false,"colour":"","alignment":"left"}}],"locator":{"zoomLevel":20,"centerPosition":{"latitude":0,"longitude":0}},"locatorPosition":"Bottom left"},"externalAssetHostname":"https://news.files.bbci.co.uk/include/idt2"});        
+Riots in the unsanitary and overcrowded prisons of Latin America have been increasing as governments introduce containment measures to help slow the coronavirus outbreak.
+Quarantine measures may mean that inmates cannot receive food brought by relatives, on which they may depend.
+            
+                                                
+                                            
+                    
+You may also be interested in:
+
+El Salvador's jails: Where social distancing is impossible
+
+Colombia foils jail break attempt amid contagion fears
+
+Peru jail riot: Nine inmates killed after Covid deaths
+
+            
+                                                
+                                            
+                    
+The observatory, a prison watchdog, said 46 inmates had died and the local hospital's emergency department was overwhelmed with the number of wounded.
+Opposition National Assembly member Maria Beatriz Martinez, 
+tweeting from outside the prison (in Spanish)
+, described the incident as a "massacre" and said relatives understood their loved ones would be buried in mass graves. They were demanding the bodies be returned to them, they said.
+            
+                                                
+                                                 
+Image copyright
+                 
+Maria Beatriz Martinez
+                            
+                        
+                
+Image caption
+                
+                    Opposition lawmaker Beatriz Martinez filmed footage of grieving relatives outside the jail                
+            
+                    
+As well as the coronavirus pandemic, Venezuela is engulfed in a political crisis with two rival politicians claiming to be the country's legitimate leader.
+Under President Nicolás Maduro the economy has collapsed and shortages of basic commodities have become widespread. Millions of people have fled to neighbouring countries.
+Venezuela crisis in 300 words
+            

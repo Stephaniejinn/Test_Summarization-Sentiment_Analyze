@@ -1,0 +1,27 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-industry/u-s-arms-makers-and-medical-device-firms-team-up-to-make-ventilators-idUSKBN22G12C
+ID : RTRS2020050400042
+
+Date : 2020-05-04 10:04:00
+Title : U.S. arms makers and medical device firms team up to make ventilators
+Ariticle : 
+WASHINGTON (Reuters) - U.S. weapons makers have teamed up with medical device companies to increase the supply of ventilators that can be used to combat the coronavirus pandemic, people working on the project said. 
+The two groups do not regularly partner on projects, but when a defense industry consultant with an engineering background realized weapons makers could help solve supply-chain problems within the U.S. ventilator industry, the creation of Vent Connect was set in motion and is set to be announced on Monday, the people said. 
+The idea gathered momentum when industry associations like the Aerospace Industries Association, which represents plane makers and defense contractors including Lockheed Martin Corp (
+LMT.N
+) and General Dynamics Corp (
+GD.N
+), teamed up with AdvaMed, the Advanced Medical Technology Association, whose members include vent manufacturers. 
+A handful of ventilator makers including ResMed Inc (
+RMD.N
+), and Zoll, an Asahi Kasei Corp (
+3407.T
+) company, post requests in the ventilator parts marketplace to a group of 60 weapons and airplane makers to help meet surging demand for the life-saving machines, an AdvaMed representative said. 
+Working since March to cut through challenges as varied as how to handle intellectual property, confidentiality issues, cybersecurity and logistics, the two associations created the marketplace that is now serving as a new avenue for the ventilator supply chain. 
+The defense companies involved in the project did not want their names published because they did not want to appear to seek credit for their efforts.  
+At its outset, the task was gargantuan. One ventilator maker, Medtronic (
+MDT.N
+), released a parts list with over 1,500 items to see if there was any crossover with the defense supply chain, two of the people said. Alphabet Inc’s Google (
+GOOGL.O
+) was brought in to help set up a website so that the companies could better coordinate online. 
+The two industries share some common equipment. For example, fighter jets use pressure sensors to regulate oxygen to their face masks, which are also a key element in a ventilator to ensure that the rhythm of a patient’s breathing pattern is monitored and maintained for the person’s comfort. 
+The efforts to try to stem the ventilator shortage are being worked on by the U.S. Army as well. In mid-April, Army Secretary Ryan McCarthy offered an investment of $100,000 to innovators who could come up with a “rapid ventilator production system to support field hospitals that are still requiring critical infrastructure.” 

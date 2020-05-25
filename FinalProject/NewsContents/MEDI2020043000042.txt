@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000042
+
+Date : 2020-04-29 00:00:00
+Title : Heart disease main underlying condition in COVID-19 deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Oregon
+Cases:two deaths
+Description:Heart disease main underlying condition in COVID-19 deaths

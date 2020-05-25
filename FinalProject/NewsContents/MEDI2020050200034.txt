@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200034
+
+Date : 2020-05-07 00:00:00
+Title : French coronavirus death toll rises by 218
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.07
+Location:France
+Cases:100 people
+Description:French coronavirus death toll rises by 218

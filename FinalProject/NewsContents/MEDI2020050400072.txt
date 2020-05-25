@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400072
+
+Date : 2020-05-02 00:00:00
+Title : 37 BSF personnel test positive for COVID-19; total cases 54
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:India
+Cases:Twelve more cases
+Description:37 BSF personnel test positive for COVID-19; total cases 54

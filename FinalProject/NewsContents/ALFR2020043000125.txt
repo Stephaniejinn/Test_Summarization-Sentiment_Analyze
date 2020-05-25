@@ -1,0 +1,25 @@
+URL : https://allafrica.com/stories/202004300181.html
+ID : ALFR2020043000125
+
+Date : 2020-04-30 00:00:00
+Title : Ghana: Drones Help Combat COVID-19
+Ariticle : 
+The COVID-19 pandemic has forced Ghana to improve its health care system. This week the government pledged to build dozens of new hospitals throughout the West African nation.
+New technologies are also coming into play. The Silicon Valley company Zipline is using drones to shuttle medical supplies and carry samples from suspected coronavirus patients to labs in Ghana’s big cities, allowing the government to more quickly monitor the spread of COVID-19.
+Ghana’s President Nana Akufo-Addo, in a televised address to the nation Sunday night, said the virus had “exposed the deficiencies” of Ghana’s health care system, the result of years of underinvestment and neglect.
+He pledged to make a major investment in Ghana’s health care infrastructure and build 88 hospitals with 100 beds each throughout the nation.
+“We shall make these investments in our health care system not because it is going to be easy, but because it is self-evidently necessary to serve the needs of 21st-century Ghana,” he said.
+As of Saturday evening EDT, Ghana had 1,671 confirmed cases of COVID-19 to date and 16 deaths, according to Johns Hopkins University figures.
+Help from Zipline
+Akufo-Addo said the virus had also highlighted the crucial role of emergency services such as Zipline, which has been in operation for a year and is playing an active role in fighting the virus.
+The tech company is delivering COVID-19 test samples from rural areas of Ghana to the country’s two testing centers, in Accra and Kumasi, the country’s second-largest city.
+The process begins when health care workers place orders for medicine or medical products to Zipline's distribution center.
+The deliveries are sent out by drones, which within an average of 30 minutes drop a box of medical products by parachute at a designated spot.
+Daniel Marfo, general manager of Zipline in Ghana, said the company is also sending out personal protection equipment to rural health facilities when they have a suspected COVID-19 case.
+Marfo said the drone deliveries save time for rural health facilities and are more efficient than road transportation.
+Much faster
+“Immediately [when] they have a suspected case of COVID, they reach out to Zipline. Using multimodal transportation, we are then able to reach out to them, pick up the samples from them, [go] to our distribution center, and from our distribution center, our drone then flies it off to the testing lab,” Marfo said.
+Cosmas Tibe Maakuu, a disease control officer, has been using Zipline’s drones to deliver samples from COVID-19 patients in Ghana’s Sekyere Central district.
+The district is mostly rural, and many areas do not have good roads.  Maakuu said drones transport samples to testing centers in about one-third the time it would take by car.
+“All samples, when taken, need to get to the testing laboratories as soon as possible to maintain sample quality. So comparing the traditional method of sample transport — which is by road — and Zipline's drone technology, you would realize transporting samples through Zipline is more judicious in terms of time, cost and risk,” he said.
+Maakuu said he hopes Zipline will expand its drone service to transport other kinds of medical samples and should continue doing so once the pandemic is over.

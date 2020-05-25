@@ -1,0 +1,69 @@
+URL : https://www.cidrap.umn.edu/news-perspective/2020/05/news-scan-may-04-2020
+ID : CIDR2020050500004
+
+Date : 2020-05-04 00:00:00
+Title : News Scan for May 04, 2020
+Ariticle : 
+The Food and Drug Administration (FDA) today said that it's revising a policy that aimed to accelerate the availability of COVID-19 antibody tests in the wake of reports that some companies have been marketing fraudulent tests.
+Under the policy that the agency issued on March 16, makers of tests, which can determine whether an individual has previously been infected with the novel coronavirus, were allowed to market and sell their devices to certified clinical laboratories without FDA review, as long as the tests had been internally validated and weren't being used for diagnostic purposes. The FDA says it allowed more flexibility for antibody tests so that researchers could begin to answer critical questions about the prevalence of COVID-19 infections in different communities.
+But since then, the agency says, some test developers have falsely claimed their tests are FDA approved, or that they can be used to diagnose COVID-19 or be used at home. And some tests are performing poorly, based on independent review by the National Institutes of Health.
+"However, flexibility never meant we would allow fraud," the agency said in a statement. "We unfortunately see unscrupulous actors marketing fraudulent test kits and using the pandemic as an opportunity to take advantage of Americans' anxiety."
+Noting that the balancing of risks and benefits has shifted from where it was in mid-March, the FDA now says that commercial manufacturers of antibody tests must submit a request for an Emergency Use Authorization (EUA), along with their validation data, to the FDA within 10 days from when the test is validated or from the date of the revised policy. An EUA allows the agency to make available unauthorized treatments or diagnostics, based on a review of limited data, during a public health emergency.
+The FDA is also providing test developers with specific performance threshold recommendations for sensitivity and specificity.
+The agency says it will continue to take appropriate action against companies unlawfully marketing their tests. More than 200 antibody tests are currently under pre-EUA or EUA review, and 12 have been granted an EUA within the past few days.
+May 4 FDA 
+statement
+ 
+Three observational studies published late last week in the 
+New England Journal of Medicine 
+found no evidence that use of angiotensin-converting enzyme (ACE) inhibitors or angiotensin-receptor blockers (ARBs)—which are used to lower high blood pressure—increases the risk of COVID-19 infection, severity, or death.
+Because the novel coronavirus enters human cells by binding to the membrane-bound form of ACE2, some animal studies have suggested that the use of ACE inhibitors and ARBs facilitate and worsen infection.
+A study by Mandeep Mehra, MD, and colleagues involving 8,910 COVID-19 patients hospitalized from Dec 20, 2019, to Mar 15, 2020, in 11 countries on three continents found no link between ACE inhibitors or ARBs and increased risk of death. Neither did a secondary analysis restricted to patients with high blood pressure.
+A case-control study by Giuseppe Mancia, MD, and colleagues comparing 6,272 COVID-19 patients diagnosed from Feb 21 to Mar 11 in Lombardy, Italy, with 30,759 controls found that, while use of ACE inhibitors and ARBs was more common among patients with the coronavirus than controls because they had a higher prevalence of cardiovascular disease, there was no link between the drugs and infection risk.
+And an analysis by Harmony Reynolds, MD, and colleagues of electronic health record data from 5,894 coronavirus patients in New York University Langone Health system, including 1,002 with severe illness, found no link between ACE inhibitors or ARBs and COVID-19 infection or serious illness.
+In a commentary in the same journal, John Jarcho, MD, from Brigham and Women's Hospital in Boston, and colleagues called for one or more randomized trials to confirm these results.
+"Professional scientific societies and experts have spoken with one voice in advising that patients should not discontinue ACE inhibitor or ARB therapy out of a concern that they are at increased risk for infection, severe illness, or death during the COVID-19 pandemic," they wrote. "The data from these three studies support those recommendations."
+May 1 
+NEJM
+ 
+Mehra study
+, 
+Mancia study
+, 
+Reynolds study
+, and 
+commentary
+ 
+The Seattle Flu Study started in 2018 as the way for the city to quickly detect respiratory illnesses in the city, and in February this year the program helped identify the first instance of COVID-19 community spread, according to a research letter published in the 
+New England Journal of Medicine
+.
+The Flu Study allows participants to access a rapid delivery service for home collection of mid-nasal swabs, which were returned via the mail and provided results in 2 to 4 days. Beginning on Mar 4, the Flu Study gained permission to test all samples for SARS-CoV-2 (the virus that causes COVID-19), as well as influenza, something the group had been doing since February.
+From Jan 1 to Mar 9, a total of 3,524 participants provided specimens for the study, and of these 2,353 completed all the study procedures. Researchers detected SARS-CoV-2 in 25 (1.1%) of samples, including 2 children's samples. Only 7 of the 25 people with COVID-19 (28%) reported seeking clinical care.
+"The most common reported symptoms were fatigue, myalgia, fever, cough, and chills," wrote Helen Chu, MD, MPH, director of the Seattle Flu Study, and her colleagues. "The median duration of symptoms before swab collection was 4 days; 9 participants (36%) had had symptoms for less than 2 days at time of swab collection. Coinfection with another respiratory virus was present in 4 cases (16%)."
+The authors said the Flu Study is a model of how a city can help rapidly identify novel respiratory illnesses before they become widespread. 
+ May 1 
+N Engl J Med 
+study
+ 
+Rates of bacterial or fungal co-infection reported in patients with COVID-19 are low, according to a new review of medical literature published in 
+Clinical Infectious Diseases.
+ But use of broad-spectrum antibiotics in these patients is common.
+The review, led by researchers from Imperial College London, looked at all medical literature on coronavirus infections and bacterial or fungal co-infections published from 2000 through April 2020. The researchers included literature on other coronaviruses, such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), because of the lack of data on COVID-19 and a desire to explore whether similar observations have been made between these infections. To date, early reports from China have suggested a high rate of bacterial co-infection in COVID-19 patients.
+Of the 1,007 abstracts identified, a total of 18 that reported bacterial/fungal coinfection were included in the final analysis. Nine of the studies reported on COVID-19, 5 on SARS-1, 1 on MERS, and 3 on other coronaviruses. Studies on COVID-19 reported that 8% of patients (62/806) had bacterial/fungal co-infection. A secondary analysis of the COVID-19 studies found that 72% of patients (1,450/2,010) received antibiotic therapy, with most therapy tending to be broad-spectrum.
+The authors say potential stewardship interventions to support reduced antibiotic prescribing during the COVID-19 pandemic should be considered, and that prospective studies on antibiotic use and stewardship in COVID-19 patients are needed to develop evidence-based strategies.
+"Despite the extensive reporting of broad-spectrum empirical antibiotic prescribing in patients with coronavirus respiratory infections, there is a paucity of data to support their association with bacterial/fungal co-infection," the authors wrote. "With increasing pressure on healthcare infrastructure during the COVID-19 pandemic, a general evidence-base on which to develop antimicrobial prescribing and stewardship strategies is required to support optimal treatment outcomes and prevention of the unintended consequences of antimicrobial usage on the individual and wider society." 
+May 2 
+Clin Infect Dis
+ 
+abstract
+ 
+French researchers report in the 
+Journal of Antimicrobial Chemotherapy
+ that the use of Antibioclic, a web-based computerized decision support system (CDSS) to aid appropriate antibiotic prescribing in primary care in France, has seen steadily increasing in use since its introduction in 2011.
+Designed by a team of French general practitioners (GPs), Antibioclic is a stand-alone web application that allows clinicians to access guideline-based recommendations for treatment of common infections seen in primary care settings. In an analysis of queries made to Antibioclic by French GPs from 2012 through 2018, the researchers found that the number of queries increased from a median of 796 per day in 2012 to 11,125/day in 2018, while unique users increased from 414/day to 5,365/day. Among more than 3.5 million queries in 2018, 78% were for adult patients, with six conditions—cystitis, acute otitis media, acute sinusitis, community-acquired pneumonia, sore throat, and pyelonephritis—accounting for more than 50% of queries.
+Among 4,016 GPs who responded to surveys conducted in 2014 and 2019, 96% reported using Antibioclic during a consultation with patients, with 24% systematically using the CDSS to initiate an antibiotic course and 93% following the program's recommendation for the latest prescription. In addition, 43% of GPs reported using Antibioclic to explain to patients why they did not prescribe an antibiotic.
+The authors conclude, "This study demonstrates that Antibioclic has been successfully implemented and adopted by French GPs, with data indicating sustained use and a continuous increase in users. Antibioclic may have a positive impact on users’ prescriptions, antibiotic consumption, AMR [antimicrobial resistance] and patient care. In an era in which AMR is increasing while therapeutic innovation is rare, such systems should be promoted and developed through a global collaborative approach."
+May 1 
+J Antimicrob Chemother
+ 
+abstract

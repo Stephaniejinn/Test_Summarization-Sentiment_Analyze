@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500009
+
+Date : 2020-05-04 00:00:00
+Title : Jordan COVID-19 Daily Wrap-up (May 4, 2020)
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:USA
+Cases:3 coronavirus patients
+Description:Jordan COVID-19 Daily Wrap-up (May 4, 2020)

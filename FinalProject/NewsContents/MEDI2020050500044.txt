@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500044
+
+Date : 2020-05-04 00:00:00
+Title : Coronavirus: Passenger on Toronto-Moncton WestJet flight tests positive
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Canada
+Cases:person
+Description:Coronavirus: Passenger on Toronto-Moncton WestJet flight tests positive

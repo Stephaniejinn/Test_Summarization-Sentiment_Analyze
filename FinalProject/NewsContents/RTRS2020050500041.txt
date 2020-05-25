@@ -1,0 +1,32 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-japan-telecommutin/call-centres-expose-fault-line-in-japans-pandemic-fight-idUSKBN22H08U
+ID : RTRS2020050500041
+
+Date : 2020-05-05 03:52:00
+Title : Call centres expose fault line in Japan's pandemic fight
+Ariticle : 
+TOKYO (Reuters) - Almost a month after Tokyo declared a state of emergency, dozens of call centre employees for telecom KDDI Corp still commute into their crowded office, where the fear of coronavirus infection has taken a back seat to data security.  
+Call centres have exposed one of the fault lines in Japan’s fight against the pandemic, as it takes a less forceful approach than many countries. In the past few weeks, 17 infections were confirmed at a post office call centre in the northern island of Hokkaido and 11 at a Kyoto mail-order business. 
+Japan Inc has been reluctant to embrace telecommuting, with firms citing concerns about data security. Companies also fear a decline in worker productivity and customer service. 
+“Dozens of us are still working in a crowded office,” a worker at KDDI Evolva, KDDI’s call centre business, told Reuters. “We could be hit with mass infection any time.” 
+Until recently, the KDDI Evolva office in Tokyo was packed at peak hours with nearly 80 operators sitting less than a metre apart without partitions, said the worker, who spoke on condition of anonymity.   
+Staff numbers have now been thinned, but not enough to dispel infection concerns, the worker said. 
+Another Evolva worker said operators were flooded with non-urgent enquiries because more people were now at home, adding: “Are these inquiries worth the infection risk for us?”. 
+KDDI Evolva said it was taking measures to protect workers, including reducing the number of operators and installing partitions. 
+A KDDI spokeswoman said call centres were part of social infrastructure and need to remain open. She said it was considering requests from KDDI Evolva. 
+Reuters spoke to a total of eight call centre operators at multiple companies. All of them described fears about working conditions. 
+Japan has some 250,000 call centre operators, many of them contractors with less job security than permanent employees. 
+General Support Union, a labour union, has received more than 100 calls from operators worried about safety in the last month, representative Kotaro Aoki said. Some who opted to take leave were told it would hurt their careers, he said. 
+“Most of us have no choice but continue to work to keep the jobs,” one contractor at a call centre for photocopier maker Fuji Xerox Co said.  
+A Fuji Xerox spokesman said it made no distinction between contractors and regular employees in allowing telecommuting. He said it was expanding telecommuting, but some workers need to be in the office and in front of physical photocopiers and printers to troubleshoot for customers.   
+One Tokyo contract worker, who didn’t want her company identified, said staff were told they couldn’t reduce operations because customers would complain. 
+Japan declared a state of emergency in Tokyo and six other areas on April 7 that has since been extended nationwide until the end of May.  
+Under Japan’s post World War Two constitution, the government can’t order companies to close, but it has tried to limit infections while keeping the economy ticking over.  
+It has targeted a 70%-80% reduction in person-to-person contact, but as of April 26, Google mobility data showed traffic to workplaces was just 27% lower than before the pandemic. 
+Japan has reported nearly 16,000 infections and some 569 deaths. 
+Call centres have been resistant to telecommuting. A survey last year found only 6.3% of call centres allowed staff to work from home. Nearly 80% said they had no plans to introduce telecommuting, with most citing fears of data leaks. 
+Top wireless carrier NTT DoCoMo saw 10 confirmed infections at one centre in March.    
+“Call operators need to be physically there to take calls from customers,” a company spokesman said. 
+By contrast, the Japanese unit of Switzerland’s Zurich Insurance Group switched 95% of its 500 operators to telecommuting by using virtual desktops that prevent information from being stored locally. 
+Telecoms companies such as KDDI and NTT DoCoMo have felt pressure to keep centres open after the communications ministry requested they scale back in-person operations, an industry source said.  
+A ministry official said the request was meant to reduce human contact, not as an order to keep call centres open. 
+“We hope the carriers contrive ways to prevent infections,” the official said. 

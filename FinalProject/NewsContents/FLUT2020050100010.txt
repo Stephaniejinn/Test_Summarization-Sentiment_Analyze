@@ -1,0 +1,106 @@
+URL : https://flutrackers.com/forum/forum/-2019-ncov-new-coronavirus/-2019-ncov-studies-research-academia/855890-2019-novel-coronavirus-research-compendium-ncrc
+ID : FLUT2020050100010
+
+Date : 2020-04-30 19:45:11
+Title : 2019 Novel Coronavirus Research Compendium (NCRC)
+Ariticle : 
+																							
+Our take —
+
+
+
+In this important study, country-wide suppression measures in Europe (e.g., lockdowns and school closures) are estimated to have prevented tens of thousands of deaths and to have considerably reduced transmission, though not to levels that would extinguish the epidemic. Results suggest the need for suppression measures to continue for a long time, since susceptible individuals are still estimated to represent a large fraction of the European population.
+
+Study design
+
+
+Modeling/Simulation
+
+Study population and setting
+
+
+A semi-mechanistic Bayesian hierarchical model was fit to observed COVID-19 deaths in 11 European countries. The model estimated the impact of large-scale non-pharmaceutical interventions on the reproductive rate of the virus, with particular attention to whether reproductive number had been driven below 1, a level at which the outbreak would die out, and on the number of infections and deaths in these countries up to March, 31, 2020.
+
+Summary of Main Findings
+
+
+59,000 deaths (95% credible interval: 21,000 – 120,000) are estimated to have been averted by non-pharmaceutical interventions in 11 European countries up to March 31, and the reproductive number of the virus is estimated to have been reduced from 3.87 to 1.43 (averaged across countries). Many times more people are estimated to have been infected by SARS-CoV-2 than have been confirmed, with estimates of attack rate ranging from 0.41% (0.09%-3.2%) in Norway to 9.8% (3.2%-26%) in Italy. Lockdown was estimated to have the greatest impact, followed by school closure, but no intervention impacts were statistically significantly different from one another.
+
+Study Strengths
+
+
+The model is fit to observed deaths, which are likely to be more reliable than case counts or hospitalizations. The model reproduces observed data up to March 28th very well. Uncertainty from various sources is appropriately handled by the model explicitly and by the discussion implicitly. Prior distributions and parameter values are chosen based on current, best available data.
+
+Limitations
+
+
+There is considerable uncertainty over model parameters such as the infection fatality ratio. Interventions are assumed to have the same impact across countries and time; the timing of country-specific interventions makes it difficult to distinguish between the effects of specific interventions. The interval between infection and death means that effects of control measures are not yet as apparent in countries in an earlier phase of the epidemic; relatedly, the model is heavily influenced by countries with a high number of deaths that implemented interventions earlier. The model assumes that If there had been no intervention, the reproductive number would not have changed, which is unlikely as people often change behavior during large outbreaks, even if no formal policies are put into place.
+
+Value added
+
+
+This study is the most thorough model-based estimate of the impact of European country-wide non-pharmaceutical interventions at the time of review.
+
+Our take —
+
+
+
+Reanalysis of two controversial publications using additional data refutes the hypotheses that SARS-CoV-2 was engineered to contain pieces of HIV-1 and uses snakes as an intermediate host. Available evidence suggests the probable evolutionary origin of SARS-CoV-2 is bats, with the involvement of one or more mammalian intermediate hosts. Additionally, the study finds that comparing host and virus codon usage is not specific enough to determine intermediate hosts of coronaviruses.
+
+Study design
+
+
+Ecological, Modeling/simulation, Other
+
+Study population and setting
+
+
+The authors present a reanalysis of data from three recent publications: 1) similarities in genetic sequences within the spike protein of SARS-CoV-2 and human immunodeficiency virus (HIV-1) published by Pradhan et al. (
+https://www.biorxiv.org/content/10.1...01.30.927871v2
+, now withdrawn); 2) identification of potential intermediate hosts of SARS-CoV-2 by comparing the ways that the virus and animals use their genetic code to produce proteins, specifically their relative synonymous codon usage, published by Ji et al. (
+https://doi.org/10.1002/jmv.25682
+); and 3) assembly of a draft coronavirus genome from metagenomic reads from Malayan pangolins produced by multiple research groups.
+
+Summary of Main Findings
+
+
+The authors found that the genetic sequences within the spike protein share no significant similarity with HIV-1 (contradicting Pradhan et al.); rather, all four sequences were close matches to other viruses and three out of four matched exactly with sequences in a coronavirus from a bat. The reanalysis of codon usage between SARS-CoV-2 and potential intermediate hosts was performed using a more complete database than that used by Ji et al. and additional coronaviruses for comparison. The authors find that the most probable intermediate hosts for SARS-CoV-2, SARS-CoV, and MERS-CoV based on codon usage are frogs, which are not known to be involved in any way with the life history of these viruses, thus calling into question the biological validity of relying on codon usage for identifying intermediate hosts. Finally, they successfully put together all of the sequences of pangolin coronaviruses into a draft genome, with 73% coverage and 91% sequence identity (92% for the spike protein) compared to the SARS-CoV-2 genome.
+
+Study Strengths
+
+
+The authors make a clear and well-supported argument against the claims presented in the Pradhan et al. and Ji et al. studies. The authors reexamine the spike protein sequences with broader search parameters than the original Pradhan et al. study. For the codon usage analysis, a broader diversity of viruses (SARS-CoV and MERS-CoV) and potential intermediate hosts were considered, and the database of codon usage was updated more recently than the one used by Ji et al.
+
+Limitations
+
+
+Regarding the analysis of pangolin coronavirus metagenomes, the phylogenetic distance of the pangolin coronavirus to SARS-CoV-2 is still too far to implicate pangolins as the intermediate hosts of the virus. More surveying must be done in bats, pangolins, and other mammals to identify the zoonotic source of SARS-CoV-2 in humans.
+
+Value added
+
+
+This study discredits two controversial hypotheses regarding the origin of SARS-CoV-2 that emerged early in the outbreak and generated significant media attention.
+
+Our take —
+
+
+
+Mobility out of Wuhan led to strong transmission chains in other parts of China. The strict ban on travel in or out of Wuhan reduced transmission in the early stage of the outbreak, when importation was the dominant source of new cases. Findings confirm existing knowledge and will not be helpful in settings where the epidemic is well beyond the early stages, or where such severe travel restrictions are impractical.
+
+Study design
+
+
+Ecological and Modeling/Simulation
+
+Study population and setting
+
+
+The Chinese government issued a strict ban on travel into or out of Wuhan on January 23, 2020 (the “cordon sanitaire”). Other travel restrictions and suppression measures, not enumerated here, were implemented in close succession. To assess the effect of the Wuhan travel ban on human movements and COVID-19 spread, the authors built a line list dataset of COVID-19 cases in China from December 1, 2019 to February 10, 2020, including information on travel history and demographic characteristics, by extracting individual-level data from official Chinese reports (provincial, municipal, national health governments). Proprietary indices of aggregated human mobility out of Wuhan, and the proportions going to different provinces, were extracted from the Baidu Qianxi web platform.
+
+Summary of Main Findings
+
+
+The mean incubation period was estimated to be 5.1 days (SD=3.0). The early case count (before February 10, 2020) was tightly associated with the volume of human movement out of Wuhan (R2=0.89). Cases exported from Wuhan before implementation of the cordon sanitaire measures appear to have contributed to initiating local chains of transmission in other provinces. Correlation between daily case counts and human mobility from Wuhan decreased once the cordon sanitaire was put in place, suggesting the increased relative importance of local transmission, and thus of local mitigation strategies.
+.....
+https://ncrc.jhsph.edu/research/study-design/modeling/
+													

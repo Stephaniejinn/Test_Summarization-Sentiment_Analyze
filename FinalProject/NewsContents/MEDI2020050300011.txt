@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300011
+
+Date : 2020-04-29 00:00:00
+Title : Tajikistan Reports First Deaths From Coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:Tajikistan
+Cases:first coronavirus cases
+Description:Tajikistan Reports First Deaths From Coronavirus

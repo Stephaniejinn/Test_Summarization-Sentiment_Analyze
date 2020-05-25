@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000033
+
+Date : 2020-04-29 00:00:00
+Title : LATEST NUMBERS: 25,634 cases of coronavirus in Georgia, 1,095 dead
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Georgia
+Cases:2,766 reported cases
+Description:LATEST NUMBERS: 25,634 cases of coronavirus in Georgia, 1,095 dead

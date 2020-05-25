@@ -1,0 +1,26 @@
+URL : http://www.xinhuanet.com/english/2020-04/30/c_139021197.htm
+ID : XINH2020043000088
+
+Date : 2020-04-30 16:06:27
+Title : No evidence of manipulation of Chinese COVID-19 data: study
+Ariticle : 
+ Staff members do nucleic acid testing work at a novel coronavirus detection lab in Wuhan, central China's Hubei Province, Feb. 22, 2020. (Xinhua/Cheng Min)
+A recent study have found that:
+- China didn't manipulate COVID-19 statistics
+- Chinese data from February had already shown the effectiveness of the quarantine measures
+- the ongoing doubts over the credibility of China's data are problematic as "it impacts subsequent policy choices by countries that saw epidemics later"
+BEIJING, April 30 (Xinhua) -- There is no evidence of manipulation of China's COVID-19 data using Benford's law, and its data should be used not only for calibration of models to inform policy measures to slow infection, but also guide policy in other countries, researchers have claimed.
+The study dated Tuesday was conducted by Christoffer Koch, a senior research economist at the Federal Research Bank of Dallas and Ken Okamura, a researcher with the University of Oxford's Said Business School.
+Aerial combo photo shows the Hankou Railway Station in Wuhan, central China's Hubei Province on Feb. 10, 2020 (upper) and on April 8, 2020.
+ (Xinhua/Xiao Yijiu)
+Contrary to speculation that China has understated the numbers of those affected by coronavirus, "we find no evidence that the Chinese massaged their COVID-19 statistics," using Benford's Law, a statistical fraud detection technique, to assess the veracity of the statistics, said the study.
+Benford's Law is used to detect fraud or flaws in data collection based on the distribution of the first digits of observed data.
+Chinese data from February had already shown the effectiveness of the quarantine measures in slowing the progress of the disease, both within Hubei and in other Chinese provinces.
+The study found that "China's distribution of first digits for confirmed cases is in line with Benford's Law ...it also matches the distribution found in the United States and Italy."
+ Combo photo shows pedestrains crossing the road at a street in Hankou District of Wuhan, central China's Hubei Province on Jan. 26, 2020 (upper) and on April 8, 2020.
+ (Xinhua/Xiong Qi)
+"To manipulate the Chinese data in this fashion would require someone to coordinate daily announcements across all provinces while accurately forecasting future infection rates. This is improbable," it said.
+The paper pointed out that the ongoing doubts over the credibility of China's data are problematic as "it impacts subsequent policy choices by countries that saw epidemics later."
+Since the policy choice of many countries has been to undertake social distancing, travel bans and lockdowns patterned after the successful choices made by China, "it is important that policy makers know the data is reliable," it said.
+"Lack of confidence in the Chinese data may have led to a slower response in Europe to the emergent pandemic," it added.  
+■

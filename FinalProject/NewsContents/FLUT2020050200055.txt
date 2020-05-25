@@ -1,0 +1,105 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/laboratory-and-imaging-features/856332-j-clin-virol-ad-hoc-laboratory-based-surveillance-of-sars-cov-2-by-real-time-rt-pcr-using-minipools-of-rna-prepared-from-routine-respiratory-samples
+ID : FLUT2020050200055
+
+Date : 2020-05-01 18:56:27
+Title : J Clin Virol. Ad hoc laboratory-based surveillance of SARS-CoV-2 by real-time RT-PCR using minipools of RNA prepared from routine respiratory samples
+Ariticle : 
+																							
+
+J Clin Virol.
+ 2020 Apr 22;127:104381. doi: 10.1016/j.jcv.2020.104381. [Epub ahead of print]
+
+Ad hoc laboratory-based surveillance of SARS-CoV-2 by real-time RT-PCR using minipools of RNA prepared from routine respiratory samples.
+
+
+
+Eis-Hübinger AM
+1
+, 
+Hönemann M
+2
+, 
+Wenzel JJ
+3
+, 
+Berger A
+4
+, 
+Widera M
+4
+, 
+Schmidt B
+3
+, 
+Aldabbagh S
+1
+, 
+Marx B
+1
+, 
+Streeck H
+1
+, 
+Ciesek S
+4
+, 
+Liebert UG
+2
+, 
+Huzly D
+5
+, 
+Hengel H
+5
+, 
+Panning M
+6
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+
+A novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged in China in late 2019 and subsequently caused a pandemic. Surveillance is important to better appreciate this evolving pandemic and to longitudinally monitor the effectiveness of public health measures.
+
+OBJECTIVES:
+
+We aimed to provide a rapid, easy to establish and costeffective laboratory-based surveillance tool for SARS-CoV-2.
+
+STUDY DESIGN:
+
+We used minipools of RNA prepared from nucleic acid extractions of routine respiratory samples. We technically validated the assay and distributed the protocol within an informal network of five German university laboratories.
+
+RESULTS:
+
+We tested a total of 70 minipools resembling 700 samples shortly before the upsurge of cases in Germany from 17.02.2020 to 10.03.2020. One minipool reacted positive and after resolution one individual sample tested SARS-CoV-2 positive. This sample was from a hospitalized patient not suspected of having contracted SARS-CoV-2.
+
+CONCLUSIONS:
+
+Our approach of a laboratory-based surveillance for SARSCoV-2 using minipools proved its concept is easily adaptable and resource-saving. It might assist not only public health laboratories in SARS-CoV-2 surveillance.
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+
+
+
+KEYWORDS:
+
+Laboratory; Minipools; RT-PCR; SARS-CoV-2; Surveillance
+
+
+PMID:32344319PMCID:
+PMC7175872
+DOI:
+10.1016/j.jcv.2020.104381
+
+Free PMC Article
+
+													

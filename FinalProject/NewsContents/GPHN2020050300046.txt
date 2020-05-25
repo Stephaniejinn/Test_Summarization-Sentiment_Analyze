@@ -1,0 +1,44 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006895592
+ID : GPHN2020050300046
+
+Date : 2020-05-02 14:00:00
+Title : Why making anti-viral drugs is so hard - and how COVID-19 could be great for the field - National Post
+Ariticle : 
+LinkedIn
+It was 1928 when Scottish scientist Alexander Fleming noticed an odd phenomenon: mould that had formed accidentally in one of his petri dishes was stopping the growth of bacteria.
+Fleming had of course just discovered penicillin, and by the mid-1940s the world’s first antibiotic would be in mass production, launching a historic era when most bacterial infections became curable.
+As COVID-19 has made painfully clear, viral diseases are a rather different matter.
+Partly because of the unique, parasitical qualities of the virus, making drugs to treat infections ranging from the common cold to flu and Ebola has proven a much more daunting task, with a few major successes and many failures.
+COVID-19: Provinces begin to ease restrictions as Canada takes baby steps toward normalcy
+An effective medication against COVID-19 could lessen the disease’s death toll and burden on health care in the year or so it until a vaccine comes online. But even the most promising treatment so far, Remdesivir, may only modestly speed up recovery, trial results released this week suggested. It was invented to treat Ebola and failed at that task.
+Hopes for ending the pandemic are instead being pinned largely on vaccines, substances that prevent infection rather than treating it.
+But as the scientific community receives funding to pivot massively toward the novel coronavirus, the anti-viral field in general could take a giant leap forward, a rare silver lining to the pandemic cloud, experts say.
+Looking for a way to fight COVID-19 is likely to have spillover benefits for a variety of largely untreatable viruses, they say.
+“It’s always a question of dollars for research — there’s never enough to do everything you want,” said Roy Duncan , a Dalhousie University virology professor. “So unfortunate situations like this do focus people’s and politicians’ attention on the need to do that … I think there will be big consequences.”
+Two ampules of Ebola drug Remdesivir are pictured during a news conference at the University Hospital Eppendorf (UKE) in Hamburg, Germany, April 8, 2020. Ulrich Perrey/Pool via REUTERS
+Dr. Gerald Evans , chair of the infectious-diseases division at Queen’s University medical school, likens the potential explosion in science to what happened when AIDS emerged.
+“HIV research really took off in the late ’80s and early ’90s, and taught us how the virus replicates,” he said. “We’re kind of with anti-virals now where antibiotics were in the 1950s … This particular (COVID-19) virus is going to really dramatically accelerate a lot of work.”
+As for existing anti-virals, HIV definitely represents one of the success stories. The infection killed almost everyone who got it 30 years ago, but patients can now live a long and healthy life thanks to the drug regimen most now take. The medicine doesn’t cure the virus, but suppresses it enough that the deadly symptoms of AIDS are kept at bay.
+A new generation of Hepatitis C drugs, which come with massive price tags, are another breakthrough, actually curing that disease.
+But what about “acute” viral infections — flu, measles or West Nile — where there is a short, sharp onset of symptoms and relatively quick recovery, or sometimes death?
+“We really don’t have good anti-virals for any acute viral infections,” said Dr. Srinivas Murthy, who’s heading a Canadian trial of possible COVID-19 drug treatments.
+It is, said Evans, “a heck of a lot harder” to create an anti-viral than an antibiotic.
+Much of the challenge lies in the nature of the germ itself.
+Bacteria are complete, free-living cellular organisms, equipped with the biology to survive and reproduce independent of the host they invade. As such, they offer up a variety of relatively easy targets for drug weaponry, though inappropriate use of antibiotics has led to a dire resistance problem.
+Viruses essentially consist of nucleic acid — genetic material — encased in protein.
+“It’s really a chemical. It’s inert,” said Duncan. “They’re not alive or dead, they’re inactive or active.”
+Only when they infiltrate a host, like humans, and glom onto a cell do viruses become active, burrowing into the cell and using its molecular machinery to replicate, creating more viruses to infect other cells.
+That’s a difficult, more limited target, and drug developers have to ensure their medicine does not prove toxic to the host cell, as well as the virus attached to it.
+“They’re parasites, by definition that’s what they do — they take advantage of a host,” said Duncan.
+Scientists are seen working at Cobra Biologics, they are working on a potential vaccine for COVID-19, following the outbreak of the coronavirus disease (COVID-19), in Keele, Britain, April 30, 2020. REUTERS/Carl Recine
+There is another difference that makes viruses harder to target with drugs than bacteria: their tendency to mutate more often and quickly, rendering any medicine targeting them less potent.
+As Murthy says, “viruses are tricky, they change.”
+And when people become seriously ill from viral infections, it is often the response of the body’s immune system that does the most damage, creating dangerous inflammation or sepsis.
+There are immune-suppressing and anti-inflammatory drugs that can treat those symptoms, but anti-virals may be of limited use by that point, even though it’s when many people seek medical help.
+Drug development has also been held back by a more practical issue, though also related to how the virus affects humans, says Joanne Lemieux , a University of Alberta biochemistry professor.
+Because flus and other acute viruses can often cause relatively short bouts of disease from which most people recover, the demand for drugs can be limited, she said.
+Scientists are seen working at Cobra Biologics, they are working on a potential vaccine for COVID-19, following the outbreak of the coronavirus disease (COVID-19), in Keele, Britain, April 30, 2020. REUTERS/Carl Recine
+And some acute viruses simply disappear. That includes SARS, a coronavirus similar to the one that causes COVID-19. While in training, Lemieux worked in a lab developing a promising anti-SARS agent, but it never progressed to animal or human trials. Investment in that expensive part of the research dried up as SARS ceased to be an imminent threat, stopped in part by good anti-epidemic campaigns.
+“In the face of this pandemic, where public health measures are not sufficient, it is going to propel research further,” she predicted. “(It) is enhancing and will likely increase the number anti-virals being developed and tested.”
+Now with her own lab, Lemieux has changed gears like so many other scientists to address SARS-CoV-2, the new coronavirus. She and colleagues have found that a drug shown to be effective against a fatal, closely related coronavirus in cats is “very promising” in stopping the COVID-19 bug’s replication. And in felines, at least, it has already been proven safe.
+Now she is hoping it can move on to human trials. And, if eventually approved, have a possible role in combating the pandemic.

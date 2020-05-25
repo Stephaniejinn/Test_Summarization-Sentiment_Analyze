@@ -1,0 +1,36 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006891103
+ID : GPHN2020050200124
+
+Date : 2020-05-01 17:11:00
+Title : COVID-19 in Canada far more widespread than official numbers suggest: study - Radio Canadá Internacional
+Ariticle : 
+Posted: Friday, May 1, 2020 13:11
+Last Updated: Friday, May 1, 2020 13:13
+As provincial governments across Canada prepare to gradually lift some of the pandemic restrictions that have ground much of their economies to a halt, a new study suggests that the number of COVID-19 infections could be far greater than officially reported.
+The statistical study led by researchers at Université de Montréal (UdeM) suggests that nearly half a million residents of Ontario and Quebec have had COVID-19, a number that is about 14 times greater than what Canada’s two largest provinces officially report.
+The study argues that because testing in Canada – like in many other countries – is limited to a small fraction of the population, governments may greatly understate the true scope of infection since large numbers of individuals with mild or no symptoms go untested.
+Striking results
+The problem is compounded by differences in testing capabilities and standards, says the study by UdeM economists Joshua Lewis, Raphael Godefroy and David Benatia of the Institut Polytechnique de Paris.
+For example, official numbers show that Quebec, which has been doing much more aggressive testing, has thousands more confirmed cases than neighbouring Ontario, Canada’s largest province with a population nearly twice as large.
+As of Apr. 22, Quebec with a population of 8.4 million residents had 20,965 confirmed COVID-19 cases versus 12,245 in Ontario with 14.4 million residents.
+Using official Canadian data the researchers developed a statistical technique that corrects for non-random testing to estimate population infection rates in Quebec and Ontario.
+The results are striking.
+As of Apr. 22, the researchers estimate, the actual infection numbers were 256,130 in Quebec (more than 12 times as many as officially reported) and 220,602 in Ontario, (more than 18 times as many).
+“It does suggest that either because of the constraints in testing or because people with mild symptoms don’t bother to go and get tested, that those official numbers are significantly understating how widespread the disease is,” Lewis said in an interview with Radio Canada International.
+There is also some evidence that public health authorities are undercounting the number of deaths caused by the virus, Lewis said.
+Testing makes a difference
+Laboratory personnel at Ontario’s public health laboratory have been working long hours for weeks trying to keep up with the demand for COVID-19 testing. (Craig Chivers/CBC)
+Data from the United States shows that in places where public health authorities do more widespread testing they are better able to catch cases of COVID-19.
+For example, in New York State, which leads the U.S. in the number of tests, the ratio of diagnosed to undiagnosed cases is much lower, Lewis said.
+The study’s findings are remarkably similar to the results of a health survey conducted by the Angus Reid Institute in April, which also found that the real prevalence of COVID-19 in Canada is likely an order of magnitude larger than what the official numbers suggest.
+Rapid diagnostic and antibody testing should be expanded to the general population to prevent recurrent unobserved community transmission and identify the large numbers of individuals who may have some level of immunity to the virus, Lewis said.
+Getting a better picture of the epidemic
+Having a much better picture of the epidemic in Canada is important for policymakers who have to make difficult choices about how long to impose costly social distancing measures, Lewis said.
+The research suggests that a much larger portion of the population might have at least short-term immunity than the official numbers of recoveries would suggest, he said.
+However, Lewis cautioned that these numbers are nowhere near the levels that would confer herd immunity on the Canadian population.
+Scientists believe that about 70 per cent of population needs to develop immunity to the coronavirus to develop herd immunity, which effectively slows down the disease.
+Building herd immunity needs strategic approach but won’t be easy, experts warn
+Only a small fraction of the Canadian population has been infected so far.
+“Our numbers suggest that in Quebec, for example, only 4 per cent of the population has been infected,” Lewis said. “That’s still nowhere near the amount where the virus has gone through the population.”
+And that is well below the numbers you would need to really reduce the spread of the virus through herd immunity, he added.
+“But again, if we can identify who those people are, that could allow those people to enter the workforce safely,” Lewis said.

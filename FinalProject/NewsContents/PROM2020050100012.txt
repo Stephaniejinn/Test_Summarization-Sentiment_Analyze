@@ -1,0 +1,268 @@
+URL : https://promedmail.org/promed-post/?id=7287216
+ID : PROM2020050100012
+
+Date : 2020-05-01 08:44:23
+Title : PRO/AH/EDR> COVID-19 update (147): global, contact tracing China, new countries, WHO
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (147): GLOBAL, CONTACT TRACING CHINA, NEW COUNTRIES, WHO
+****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Global update: Worldometer accessed 30 Apr 2020 22:15 EDT [GMT-4]
+[2] New countries/territories confirming cases (Tajikistan, Comoros)
+[3] China (Shenzhen, Guangdong province): impact of contact tracing
+[4] WHO situation report 101 (as of 30 Apr 2020)
+******
+[1] Global update: Worldometer
+Date: Wed 30 Apr 2020 accessed 22:15 EDT [GMT-4]
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 26 Apr 2020 / 27 Apr 2020 / 28 Apr 2020 / 29 Apr 2020 / 30 Apr 2020 / Country
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 830 / 82 836 / 82 858 / 82 862 / 82 874 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 738 / 10 752 / 10 761 / 10 765 / 10 774 / South Korea
+Countries with major activity (more than 5000 cases with community spread)
+--------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 987 160 / 1 010 356 / 1 035 765 / 1 045 717 / 1 095 023 / USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 226 629 / 229 422 / 232 128 / 236 899 / 239 639 / Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 197 675 / 199 414 / 201 505 / 203 591 / 205 463 / Italy
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 152 840 / 157 149 / 161 145 / 161 145 / 171 253 / UK
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 162 100 / 165 842 / 165 911 / 165 911 / 167 178 / France
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 157 770 / 158 758 / 159 912 / 160 479 / 163 009 / Germany
+11 Mar 2020: 1 / ... / N/A /... / 15 679 / ... / 110 130 / 112 261 / 114 653 / 117 589 / 120 204 / Turkey
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 80 949 / 87 147 / 93 558 / 99 399 / 106 498 / Russia
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 90 481 / 91 472 / 92 584 / 93 657 / 94 640 / Iran
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 63 100 / 66 501 / 73 235 / 73 235 / 87 187 / Brazil
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 46 895 / 48 500 / 50 026 / 50 373 / 53 236 / Canada
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 46 134 / 46 687 / 47 334 / 47 859 / 48 519 / Belgium
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 37 845 / 38 245 / 38 416 / 38 802 / 39 316 / Netherlands
+6 Mar 2020: 1 / ... / N/A / ... / 1323 /... / 27 517 / 28 699 / 31 190 / 31 190 / 36 976 / Peru
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 27 890 / 29 451 / 31 324 / 31 787 / 34 863 / India
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 061 / 29 164 / 29 264 / 29 407 / 29 586 / Switzerland
+2 Mar 2020: 2 / ... / N/A / ... / 8251 / ... / 23 864 / 24 027 / 24 322 / 24 505 / 25 045 / Portugal
+29 Feb 2020: 1 / 6 / ... / 2758 / ... / 22 719 / 23 240 / 24 258 / 24 258 / 24 934 / Ecuador
+2 Mar 2020: 1 / ... / N/A / ... / 1720 / ... / 17 522 / 18 811 / 20 077 / 21 402 / 22 753 / Saudi Arabia
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 18 640 / 18 926 / 19 621 / 20 302 / 21 092 / Sweden
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 19 262 / 19 648 / 19 877 / 19 877 / 20 612 / Ireland
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 14 677 / 15 529 / 16 752 / 16 752 / 19 224 / Mexico
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 13 328 / 13 915 / 14 612 / 15 289 / 16 817 / Pakistan
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 13 624 /14 423 / 14 951 / 15 641 / 16 169 / Singapore
+3 Mar 2020: 1 / ... / N/A / ... / 3031 / ... / 13 331 / 13 813 / 14 365 / 14 885 / 16 023 / Chile
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 15 443 / 15 555 / 15 728 / 15 782 / 15 946 / Israel
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 225 / 15 274 / 15 357 / 15 402 / 15 452 / Austria
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 13 441 / 14 153 / 13 736 / 13 736 / 14 088 / Japan
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 10 463 / 11 289 / 12 208 / 13 181 / 14 027 / Belarus
+29 Feb 2020: 1 / 3 / ... / 835 / ... / 10 287 / 11 244 / 11 921 / 12 564 / 13 409 / Qatar
+3 Mar 2020: 1 / ... / N/A / ... / 2554 / ... / 11 617 / 11 902 / 12 218 / 12 640 / 12 877 / Poland
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 10 349 / 10 839 / 11 380 / 11 380 / 12 481 / United Arab Emirates
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 11 036 / 11 339 / 11 616 / 11 978 / 12 240 / Romania
+3 Mar 2020: 1 / ... / N/A / ... / 794 / ... / 8617 / 9009 / 9410 / 9866 / 10 406 / Ukraine
+2 Mar 2020: 2 / ... / N/A / ... / 1677 / ... / 8882 / 9096 / 9511 / 9771 / 10 118 / Indonesia
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 8575 / 8698 / 8851 / 9008 / 9158 / Denmark
+6 Mar 2020: 1 / ... / N/A / ... / 1060 / ... / 8042 / 8275 / 8497 / 8724 / 9009 / Serbia
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 7579 / 7777 / 7958 / 8212 / 8488 / Philippines
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7527 / 7599 / 7660 / 7680 / 7738 / Norway
+1 Mar 2020: 3 / ... / N/A / 3589 / ... / 7404 / 7445 / 7504 / 7563 / 7682 / Czech Republic
+8 Mar 2020: 3 / ... / N/A / ... / 54 / ... / 5416 / 5913 / 6462 / 7103 / 7667 / Bangladesh
+1 Mar 2020: 1 / ... / N/A / ... / 1284 / ... / 6135 / 6293 / 6416 / 6652 / 6972 / Dominican Republic
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6719 / 6725 / 6738 / 6746 / 6766 / Australia
+10 Mar 2020: 1 / ... / N/A / ... / 1317 / ... / 5779 / 6021 / 6021 / 6200 / 6532 / Panama
+6 Mar 2020: 1 / ... / N/A / ... /1065 /... / 5379 / 5597 / 5949 / 5949 / 6507 / Colombia
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 5780 / 5820 / 5851 / 5945 / 6002 / Malaysia
+5 Mar 2020: 1 / ... / N/A / ... / 1380 / ... / 4546 / 4793 / 4996 / 5450 / 5647 / South Africa
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 4534 / 4782 / 5042 / 5268 / 5537 / Egypt
+[In the table above, N/A is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+Countries and territories with more than 1000 cases:
+Finland, Morocco, Argentina, Luxembourg, Moldova, Algeria, Kuwait, Thailand, Kazakhstan, Bahrain, Hungary, Greece, Croatia, Oman, Uzbekistan, Iraq, Iceland, Armenia, Azerbaijan, Estonia, Cameroon, Ghana, Afghanistan, Bosnia and Herzegovina, New Zealand, Lithuania, Slovenia, North Macedonia, Slovakia, Cuba, Bulgaria, Nigeria, Cote d'Ivoire, Guinea, Djibouti, Bolivia, Hong Kong
+Countries with more than 500 cases (and less than 1000):
+Tunisia, Cyprus, Latvia, Andorra, Albania, Lebanon, Niger, Kyrgyzstan, Costa Rica, Senegal, Honduras, Burkina Faso, Uruguay, San Marino, Channel Islands, Sri Lanka, Guatemala, Congo DR, Georgia, Somalia, Mayotte
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Algeria, Guinea, Croatia, Senegal, Belgium, Oman, Somalia, Serbia, Cameroon, Armenia, Slovenia, Gabon, Belarus, Tanzania, Sudan, El Salvador, Mali, Kazakhstan, Cuba, Azerbaijan, Bulgaria, Togo, Moldova, Afghanistan, Bosnia and Herzegovina, Albania, Lithuania, Congo DR, Jamaica, Hungary, Honduras, Maldives, Sierra Leone, Chad, Tajikistan
+Total number of reported deaths: 234 100
+Total number of worldwide cases: 3 308 044
+Number of newly confirmed cases in past 24 hours: 88 559
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is 3 308 044, with reports of cases by 216 countries and territories worldwide. The total number of confirmed cases reported from outside China now represents 97.5% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with over 1 million confirmed cases now represents 33.1% of the global cases of COVID-19. A global total of 234 100 deaths have been reported, 229 467 (98.0%) outside mainland China.
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by the UK, France, Germany, Turkey, Russia, Iran, and Brazil as number 10. China is now number 11 and the UK has surpassed France. - Mod.MPP]
+******
+[2] New countries/territories confirming cases (Tajikistan, Comoros)
+Date: Thu 30 Apr 2020
+- Tajikistan (15 cases as 1st report: 5 positive in the capital, Dushanbe, and the other 10 in the northern region of Sughd) 
+https://www.aljazeera.com/news/2020/04/tajikistan-declares-coronavirus-cases-200430115708060.html
+- Comoros ex France. (Man who had contact with someone with recent travel history to France). 
+https://www.aljazeera.com/news/2020/04/comoros-verifies-confirmed-coronavirus-case-200430155748926.html
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[As of 30 Apr 2020, with the addition of Tajikistan (European region of WHO) and Comoros (African region of WHO), there are now 216 countries and territories that have reported COVID-19 cases; 22 countries have not reported any cases. - Mod.MPP
+HealthMap/ProMED-mail maps
+Tajikistan: 
+http://healthmap.org/promed/p/141
+Comoros: 
+http://healthmap.org/promed/p/175
+]
+******
+[3] China (Shenzhen, Guangdong province): impact of contact tracing
+Date: Mon 27 Apr 2020
+Source: The Lancet Infectious Disease [edited]
+https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30287-5.pdf
+ref: Bi Q, Wu Y, Mei S, et al. Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study [published online ahead of print, 27 Apr 2020]. Lancet Infect Dis. 2020; S1473-3099(20)30287-5. doi:10.1016/S1473-3099(20)30287-5
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background: Rapid spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan, China, prompted heightened surveillance in Shenzhen, China. The resulting data provide a rare opportunity to measure key metrics of disease course, transmission, and the impact of control measures.
+Methods: From [14 Jan 2020] to [12 Feb 2020], the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts. We compared cases identified through symptomatic surveillance and contact tracing and estimated the time from symptom onset to confirmation, isolation, and admission to hospital. We estimated metrics of disease transmission and analysed factors influencing transmission risk.
+Findings: Cases were older than the general population (mean age 45 years) and balanced between males (n=187) and females (n=204). 356 (91%) of 391 cases had mild or moderate clinical severity at initial assessment. As of [22 Feb 2020], three cases had died and 225 had recovered (median time to recovery 21 days; 95% CI 20-22). Cases were isolated on average 4.6 days (95% CI 4.1-5.0) after developing symptoms; contact tracing reduced this by 1.9 days (95% CI 1.1-2.7). Household contacts and those travelling with a case were at higher risk of infection (odds ratio 6.27 [95% CI 1.49-26.33] for household contacts and 7.06 [1.43-34.91] for those travelling with a case) than other close contacts. The household secondary attack rate was 11.2% (95% CI 9.1-13.8), and children were as likely to be infected as adults (infection rate 7.4% in children less 10 years vs population average of 6.6%). The observed reproductive number (R) was 0.4 (95% CI 0.3-0.5), with a mean serial interval of 6.3 days (95% CI 5.2-7.6).
+Interpretation: Our data on cases as well as their infected and uninfected close contacts provide key insights into the epidemiology of SARS-CoV-2. This analysis shows that isolation and contact tracing reduce the time during which cases are infectious in the community, thereby reducing the R. The overall impact of isolation and contact tracing, however, is uncertain and highly dependent on the number of asymptomatic cases. Moreover, children are at a similar risk of infection to the general population, although less likely to have severe symptoms; hence they should be considered in analyses of transmission and control.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[A comment by Sun K and Viboud C was published along with the original article:
+Sun K, Viboud C. Impact of contact tracing on SARS-CoV-2 transmission. Comment [published online ahead of print, 27 Apr 2020]. Lancet Infect Dis. 2020: S1473-3099(20)30357-1. doi: 10.1016/S1473-3099(20)30357-1; 
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30357-1/fulltext
+--------------------------------------------------------------------------------
+"As the far-reaching impacts of the coronavirus disease 2019 (COVID-19) pandemic expand to more and more countries, key questions about transmission dynamics and optimal intervention strategies remain unanswered. In particular, the age profile of susceptibility and infectivity, the frequency of super-spreading events, the amount of transmission in the household, and the contribution of asymptomatic individuals to transmission remain debated. The study by Qifang Bi and colleagues /1 in The Lancet Infectious Diseases explores some of these questions by analysing detailed contact tracing data from Shenzhen, a large and affluent city in southern China at the border with Hong Kong. To dissect the drivers of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission, the authors modelled PCR-confirmed infections in 391 cases and 1286 of their close contacts from Jan 14 to Feb 12, 2020. /1
+"Shenzhen is an interesting location to study the dynamics of SARS-CoV-2 because it was affected early in the pandemic and reacted quickly. /2 Strict case isolation, contact tracing, and social distancing measures kept the transmission rate near the epidemic threshold throughout the study period. /2 Bi and colleagues report that most secondary infections occurred in the household (77 of 81), with a secondary attack rate estimated at 11.2% (95% CI 9.1-13.8) among household contacts. /1 This figure should be considered an underestimate of the unmitigated household attack rate of SARS-CoV-2 since transmission chains were cut short in Shenzhen because of strict control measures. Index cases detected by symptom-based surveillance were isolated outside of the home on average 4.6 days (95% CI 4.1-5.0) after symptom onset. Furthermore, individuals identified via contact tracing were isolated or quarantined outside of the home on average 2.7 days (95% CI 2.1-3.3) after symptom onset. /1 Consequently, the serial interval of SARS-CoV-2 in Shenzhen (mean estimate 6.3 days; 95% CI 5.2-7.6) should be considered a lower bound and would probably increase in less successfully controlled outbreaks.
+"The age profile of PCR-confirmed infections in Shenzhen indicates that children are as susceptible to SARS-CoV-2 infection as adults, although they are less likely to display symptoms. /1 The distinctive age profile of COVID-19 severity has been noted very early on in the pandemic, /3 although the biological mechanisms at play remain unclear. In the Shenzhen data, the authors noted no difference in the transmission potential of SARS-CoV-2 from children or adults. /1 This is in contrast to pandemic influenza virus, which is more easily transmitted by children. It will be useful to confirm the age profile of SARS-CoV-2 transmissibility with data from other locations and serological surveys, which capture more infections than PCR. Age-specific susceptibility, infectivity, and severity are important factors to get right to project the impact of school closures on SARS-CoV-2 dynamics and disease burden. School closures exert a substantial economic toll on societies and maintaining these interventions for long periods of time requires robust supportive evidence.
+"As would be expected from a well controlled outbreak, the mean R in Shenzhen was very low, at 0.4, /1 substantially reduced from a baseline non-intervention value of 2.0-4.0. /4 This aligns with the strict interventions implemented in this city. However, the mean R does not tell the full story. There is evidence of transmission heterogeneity with SARS-CoV-2, with 10% of cases accounting for 90% of transmission. /1 Such a high level of heterogeneity is consistent with, if a little more extreme than, that of SARS-coronavirus (SARS-CoV), and more pronounced than for other directly transmitted respiratory viruses such as measles or influenza. /5 Beyond the intensity of contacts, there is no clear factor in the Shenzhen data that could explain the high transmission potential of some infections. Further research into the biological (such as, shedding and symptoms) and social factors (such as, type of contacts and environment) that drive transmission heterogeneity is warranted to guide more targeted interventions against SARS-CoV-2.
+"Armed with their descriptive findings, Bi and colleagues go on to simulate the impact of case isolation and contact tracing on SARS-CoV-2 dynamics. /1 They consider a range of possible durations for the infectious period of SARS-CoV-2, which is reasonable given the scarcity of data on this figure. They show that for a given R, the longer the infectious period, the more easily the epidemic can be brought under control with case-based interventions. This is because case isolation reduces the full transmission potential of each case, particularly if the infectious period is long and cases can be isolated 2-5 days after symptom onset. Furthermore, Bi and colleagues show that contact-based interventions are more efficient than case-based interventions to reduce transmission since infected contacts are typically isolated earlier in their infection history than index cases. This worthwhile modelling exercise highlights the urgent need for more information about the infectious period of SARS-CoV-2.
+"However, there is an important caveat in this modelling work: the potential for pre-symptomatic and asymptomatic transmission is not considered. As a result, the conclusion that case-based or contact-based interventions alone could bring the epidemic under control for longer durations of the infectious period is optimistic, and contrasts with previous simulation studies. /6 Viral shedding studies and epidemiological investigations suggest that in the household, around 40% of transmission occurs before symptom onset, the live virus is shed for at least 1 week after symptom onset, and there is high shedding in asymptomatic individuals. /7, /8, /9. Crucially, the effectiveness of case isolation and contact tracing will depend on the fraction of transmission originating from asymptomatic and pre-symptomatic individuals. /9
+"As we look towards post-lockdown strategies, we should examine the experience of countries that have successfully controlled SARS-CoV2 transmission or have low mortality (such as, China, Singapore, Taiwan, South Korea, Germany, and Iceland). Successful strategies include ample testing and contact tracing, supplemented by moderate forms of social distancing. /10 Contact tracing on the scale that is needed for the SARS-CoV-2 response is labour intensive, and imperfect if done manually. Hence new technology-based approaches are greatly needed to assist in identification of contacts, especially if case detection is aggressive. /9 Building on the SARS-CoV-2 experience in Shenzhen and other settings, we contend that enhanced case finding and contact tracing should be part of the long-term response to this pandemic--this can get us most of the way towards control. /9" [references available at this article's URL above]
+One important observation mentioned here is the variable R0 in this outbreak; there is the range where the majority have low R0, but a minority have very high R0's, and frequently are asymptomatic while spreading the virus. The classic superspreader is an important individual with the SARS-CoV-2. Similar to SARS-CoV and MERS-CoV, with the exception that the peak viral loads and shedding in the SARS-CoV and MERS-CoV events is when the individual is very symptomatic, whereas in the case of the SARS-CoV-2 it is when the individual is asymptomatic or pre-symptomatic. A challenge when the strategy is contact tracing, requiring testing of all contacts whether symptomatic or not. - Mod.MPP
+HealthMap/ProMED-mail map of Shenzhen, Guangdong Province, China: 
+http://healthmap.org/promed/p/733
+]
+******
+[4] WHO situation report 101 (as of 30 Apr 2020)
+Date: Thu 30 Apr 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200430-sitrep-101-covid-19.pdf
+*The situation report includes information provided by national authorities as of 10:00 CEST, 30 Apr 2020
+Highlights
+----------
+- WHO reminds health authorities to take specific steps to protect healthcare workers and communities during essential immunization activities during the COVID-19 pandemic. PAHO has published an article on this, available at 
+https://www.paho.org/en/news/29-4-2020-health-care-workers-must-be-protected-while-vaccinating-during-covid-19-pandemic
+.
+- WHO AMRO/PAHO Director, Dr Carissa F Etienne, has urged for vaccination programs to continue during the COVID-19 pandemic: "If we fall behind on routine immunizations, particularly for children, we risk outbreaks, thus overwhelming hospitals and clinics with preventable diseases in addition to COVID-19." Her full statement is available at 
+https://www.paho.org/en/node/70468
+.
+- WHO/EURO Director, Dr Hans Henri P Kluge, called for transparent knowledge sharing, tailored support on the ground, and steadfast solidarity. His statement is available at 
+http://www.euro.who.int/en/media-centre/sections/statements/2020/statement-through-transparent-knowledge-sharing,-tailored-support-on-the-ground,-and-steadfast-solidarity-we-will-beat-covid-19
+.
+- WHO SEARO organized a meeting yesterday [29 Apr 2020] with vaccine manufacturers and national regulatory authorities to discuss future COVID-19 vaccine manufacturing in the Region. An article on this is available at 
+https://www.who.int/southeastasia/news/detail/29-04-2020-who-convenes-manufacturers-regulatory-authorities-meet-on-covid-19-vaccines
+.
+- WHO endeavours to ensure that all Member States have timely and accurate testing capacity for COVID-19. In the 'subject in focus' below, we describe some of the mechanisms WHO uses to support Member States.
+Subject in focus: detection of disease - an update on laboratory services for COVID-19
+--------------------------------------------------------------------------------
+Diagnostic laboratory testing is a cornerstone of the management of the COVID-19 pandemic. It allows for the detection of cases to inform care and for the isolation of infected individuals to interrupt disease transmission. Confirmatory testing also enables the disease to be tracked in the community and for clusters of cases to be identified. WHO endeavours to ensure that all Member States have timely and accurate testing capacity for COVID19. This is done through several mechanisms.
+First, a reference laboratory network has been established across the 6 WHO regions, and recently expanded to include some 2 dozen laboratories with expertise in virology, diagnostics, sequencing, and often viral culture (see Figure 2 [at source URL above]). These laboratories act to support Member States that currently do not have testing capacity or need to get confirmation of their initial test results while building in-country capacity. These same laboratories serve as a valuable source of support for strategic planning for the WHO HQ team and provide guidance to the WHO Regional Office laboratory focal points as well. A shipment fund to allow transport of samples to WHO reference laboratories for confirmatory testing has been made available to cover transport costs.
+Second, working with WHO's Global Influenza Surveillance and Response System, surveillance testing for COVID-19 disease has been established in clinics caring for patients with respiratory disease, giving an early hint to community penetration by COVID-19. [Figure 2. WHO COVID-19 Reference Laboratory Network available at the source URL above].
+Surveillance
+------------
+[The following data come from Table 1: Countries, territories, or areas with reported laboratory-confirmed COVID-19 cases and deaths. Data as of (10:00 am CEST 30 Apr 2020), available at the source URL above. I am presenting the regional case totals inclusive of China. - Mod.MPP]
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 147 743 (1294) / 6094 (57)
+European Region (60): 1 434 649 (27 824) / 135 961 (6650)
+South East Asia Region (10): 54 021 (2670) / 2088 (87)
+Eastern Mediterranean Region (22): 183 417 (5489) / 7447 (143)
+Region of the Americas (54): 1 246 190 (33 102) / 65 228 (2824)
+African Region (47): 24 713 (1460) / 938 (36)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 3 090 445 (71 839) / 217 769 (9797)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[The number of countries and territories reporting confirmed cases of COVID-19 is stable at 212. This includes 19 countries (including 4 territories) from the Western Pacific region, 60 countries (including 7 territories) from the European region, 10 countries from the Southeast Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 47 countries (including 2 territories) from the African region.
+In the 24 hours since the last WHO update:
+----------------------------------------
+The Americas region reported 33 102 new cases (46.1% of the global newly reported cases) and 2824 deaths (28.8% of the global newly reported deaths). Of the newly confirmed cases in the region, 62.0% were reported by the USA, followed by Brazil at 16.3%, Peru at 7.5%, and Canada at 4.1%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 42.8% of the newly reported cases in the region, followed by Peru at 19.8%, Canada at 10.7%, Mexico at 9.7%, Chile at 4.1%, and Ecuador at 3.3%.
+The European region reported 27 824 new cases (38.7% of the global newly reported cases) and 6650 deaths (67.9% of the global newly reported deaths). Russia reported 25.5% of the newly confirmed cases in the region, the UK 14.7%, Turkey 10.6%, Spain at 7.7%, and Italy 7.5%.
+The Eastern Mediterranean region reported 5489 new cases (7.6% of the global newly reported cases) and 143 deaths (1.5% of the global newly reported deaths). Saudi Arabia reported 24.1% of the regional newly reported cases, followed by Iran at 19.6%, Pakistan at 15.9%, Qatar 11.7%, and the United Arab Emirates at 10.0%.
+The African region reported 1460 new cases (2.0% of the global newly reported cases) and 36 deaths (0.4% of the global newly reported deaths). South Africa reported 24.3% of the newly reported cases in the region in the past 24 hours, followed by Algeria at 13.6%, Nigeria at 13.4%, Tanzania at 12.3%, Guinea at 7.6%, and Cameroon at 6.9%.
+The Western Pacific region reported 1294 new cases (1.8% of the global newly reported cases) and 57 deaths (0.6% of the global newly reported deaths). Singapore reported 53.3% of the newly reported cases, followed by the Philippines at 19.6%, Japan at 18.2%, and Malaysia at 7.3.
+The South East Asia region reported 2670 new cases (3.7% of the global newly reported cases) and 87 deaths (0.9% of the global newly reported deaths). India reported 64.4% of newly reported cases, followed by Bangladesh at 24.0% and Indonesia at 9.7%. Removing India from the denominator, Bangladesh represents 67.3% of the newly reported cases, Indonesia represents 27.3%, and Sri Lanka 3.2%.
+Figure 3. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region through (30 Apr 2020) at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend..
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP] 
+See Also
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI  
+20200430.7286479
+Undiagnosed pediatric inflammatory syndrome: UK COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology NEED ARCHIVE NUMBER
+COVID-19 update (145) - USA: home remedy, bleach/household cleansers  
+20200430.7282290
+COVID-19 update (144): China, South Korea, countries w/ high local transmission  
+20200430.7284979
+COVID-19 update (143): USA (NY) zoo, tiger, lion, tests  
+20200430.7284183
+COVID-19 update (142): global, care home, WHO  
+20200430.7281182
+COVID-19 update (141): India, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (140): China, South Korea, countries w/ high local transmission  
+20200429.7278751
+COVID-19 update (130): USA (NY) zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................sb/mpp/mj/ml

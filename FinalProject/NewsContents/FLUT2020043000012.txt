@@ -1,0 +1,127 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/treatments/855466-lancet-remdesivir-in-adults-with-severe-covid-19-a-randomised-double-blind-placebo-controlled-multicentre-trial-and-fauci-rebuttal
+ID : FLUT2020043000012
+
+Date : 2020-04-29 16:02:30
+Title : Lancet: Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial - and Fauci rebuttal
+Ariticle : 
+																							
+
+Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial
+Yeming Wang, MD 
+†
+
+Dingyu Zhang, MD 
+†
+
+Prof Guanhua Du, PhD 
+†
+
+Prof Ronghui Du, MD 
+†
+
+Prof Jianping Zhao, MD 
+†
+
+Prof Yang Jin, MD 
+†
+
+et al.
+
+Show all authors
+
+Show footnotes
+
+Published:April 29, 2020DOI:
+https://doi.org/10.1016/S0140-6736(20)31022-9
+
+Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial
+
+Previous ArticleRemdesivir for COVID-19: challenges of underpower …
+
+Next Article1-week hypofractionated adjuvant whole-breast radiot …
+Summary
+
+References
+
+Article Info
+
+Linked Articles
+
+
+Summary
+
+
+Background
+
+No specific antiviral drug has been proven effective for treatment of patients with severe coronavirus disease 2019 (COVID-19). Remdesivir (GS-5734), a nucleoside analogue prodrug, has inhibitory effects on pathogenic animal and human coronaviruses, including severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in vitro, and inhibits Middle East respiratory syndrome coronavirus, SARS-CoV-1, and SARS-CoV-2 replication in animal models.
+
+
+
+Methods
+
+We did a randomised, double-blind, placebo-controlled, multicentre trial at ten hospitals in Hubei, China. Eligible patients were adults (aged ≥18 years) admitted to hospital with laboratory-confirmed SARS-CoV-2 infection, with an interval from symptom onset to enrolment of 12 days or less, oxygen saturation of 94% or less on room air or a ratio of arterial oxygen partial pressure to fractional inspired oxygen of 300 mm Hg or less, and radiologically confirmed pneumonia. Patients were randomly assigned in a 2:1 ratio to intravenous remdesivir (200 mg on day 1 followed by 100 mg on days 2–10 in single daily infusions) or the same volume of placebo infusions for 10 days. Patients were permitted concomitant use of lopinavir–ritonavir, interferons, and corticosteroids. The primary endpoint was time to clinical improvement up to day 28, defined as the time (in days) from randomisation to the point of a decline of two levels on a six-point ordinal scale of clinical status (from 1=discharged to 6=death) or discharged alive from hospital, whichever came first. Primary analysis was done in the intention-to-treat (ITT) population and safety analysis was done in all patients who started their assigned treatment. This trial is registered with 
+ClinicalTrials.gov
+, 
+NCT04257656
+.
+
+
+
+Findings
+
+Between Feb 6, 2020, and March 12, 2020, 237 patients were enrolled and randomly assigned to a treatment group (158 to remdesivir and 79 to placebo); one patient in the placebo group who withdrew after randomisation was not included in the ITT population. Remdesivir use was not associated with a difference in time to clinical improvement (hazard ratio 1·23 [95% CI 0·87–1·75]). Although not statistically significant, patients receiving remdesivir had a numerically faster time to clinical improvement than those receiving placebo among patients with symptom duration of 10 days or less (hazard ratio 1·52 [0·95–2·43]). Adverse events were reported in 102 (66%) of 155 remdesivir recipients versus 50 (64%) of 78 placebo recipients. Remdesivir was stopped early because of adverse events in 18 (12%) patients versus four (5%) patients who stopped placebo early.
+
+
+
+Interpretation
+
+In this study of adult patients admitted to hospital for severe COVID-19, remdesivir was not associated with statistically significant clinical benefits. However, the numerical reduction in time to clinical improvement in those treated earlier requires confirmation in larger studies.
+
+
+https://www.thelancet.com/journals/l..._medium=social
+													
+																							
+
+Remdesivir, an experimental antiviral drug, effective against Covid-19, according to Dr. Fauci
+
+
+
+https://www.msnbc.com/msnbc/watch/fa...m_npd_ms_tw_ma
+
+
+
+Dr. Fauci speaks on the clinical trial for potential coronavirus treatment drug remdesivir:
+
+
+“What it has proven is that a drug can block this virus ... This drug happens to be blocking an enzyme that the virus uses."
+
+
+
+The American Institutes of Health (NIH) announced on Wednesday that the experimental antiviral drug remdesivir from the Gilead laboratory is helping hospitalized Covid-19 patients recover faster, according to preliminary results of a large placebo-controlled clinical trial thousand patients.
+
+
+"The data show that remdesivir has a clear, significant and positive effect in reducing recovery time" 
+ for patients with the new coronavirus SARS-CoV-2, said Anthony Fauci, director of the Institute of Infectious Diseases, in the office Oval of the White House. 
+'
+ C 
+' is evidence of very important concept because it shows that we can block the virus "
+, he said, cautiously optimistic, but who says that remdesivir can now become standard treatment for severe forms of the disease. Remdesivir inserts into the genetic material of the coronavirus and short-circuits it to prevent it from replicating.
+
+Compared to patients who received a placebo, patients treated with remdesivir, a drug developed for Ebola but which has never been approved for any disease, recovered in 11 days (median time) instead of 15 days, detailed an NIH press release. Recovery time was shortened by an average of 31%, according to the institutes. Recovery is defined as discharge from hospital or return to normal activities. The statistical reliability of this result is very high.
+
+However, the preliminary results do not show whether the drug saves lives. The mortality in the remdesivir group was 8%, compared with 11.6% in the control group; a difference too small to exclude that it is the result of chance. The trial included 1,063 patients with advanced form of Covid and lung problems, at 47 sites in the United States and 21 others in Europe and Asia. This is the largest study on remdesivir for which results are available.
+
+In the presence of Donald Trump, Anthony Fauci explained that the first results were so clear that the decision was made to make them public, so that patients treated with placebo can now have access to remdesivir. The American laboratory Gilead had anticipated this announcement by a brief press release Wednesday morning evoking 
+"positive data"
+ . This trial, launched on February 21, is in fact one of the most anticipated, with the European trial Discovery, the results of which are still awaited.
+
+The US government announcement puts into perspective the importance of inconclusive results from a smaller Chinese study (237 patients), also compared to a placebo in ten hospitals in Wuhan, China, and which was published on Wednesday by the journal medical 
+Lancet
+. In the Chinese trial, patients treated with remdesivir did no better than those treated with placebo. But the size of the trial, interrupted for lack of patients because the epidemic stopped in Wuhan, limits the interpretation of the results. American Anthony Fauci deemed the Chinese study " 
+inadequate"
+ .
+
+
+
+https://www.lemonde.fr/planete/live/...8074_3244.html
+													

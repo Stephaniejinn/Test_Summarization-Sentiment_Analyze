@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300088
+
+Date : 2020-05-02 00:00:00
+Title : Two deaths reported by MOH for 2 May; One from complications due to COVID-19 infection, the other still under investigation
+Ariticle : 
+Disease:COVID-19 infection
+Time:2020.05.02
+Location:Singapore
+Cases:Two deaths
+Description:Two deaths reported by MOH for 2 May; One from complications due to COVID-19 infection, the other still under investigation

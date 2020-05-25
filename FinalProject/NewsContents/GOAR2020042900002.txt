@@ -1,0 +1,25 @@
+URL : https://extranet.who.int/goarn/content/understanding-coronavirus-disease-2019
+ID : GOAR2020042900002
+
+Date : 2020-04-29 00:00:00
+Title : Understanding the Coronavirus disease 2019
+Ariticle : 
+Fueled by a novel virus, the COVID-19 pandemic has placed unprecedented demand on research to inform evidence-based response. Demonstration of efficacy and impact of interventions is even more crucial when they significantly affect livelihoods and prove challenging to implement in resource-limited settings. Recognizing the diversity of expertise, resources, and mandates across partner institutions, the Global Outbreak Alert and Response Network (GOARN) has the distinct potential to connect dots between multidisciplinary evidence, technical guidance, and frontline response. This requires engaging already stretched institutions and tapping into unrealized resources in others. It requires GOARN learn to work intra-nationally, intra-regionally, and virtually, pushing ourselves to innovate and problem solve in ways we have not done before. 
+The GOARN Research community was activated for COVID-19 research response in January and has gone through several reiterations and reassessments of where it can deliver the most impact with the present resources and capacity. The ultimate goal of the research response is that GOARN partners have technical guidance, capabilities, and tools needed to 1) characterize the COVID-19 pandemic within their local or regional context; 2) effectively implement evidence-based practices for COVID-19; and 3) assess the effectiveness and impact of their response. The group has built out work areas for technical and research working group leadership and support, knowledge management of evidence, investigation tools and protocols, regional and in-country research support, and GOARN partner engagement. Each area is integrally linked and interdependent on the other.
+ 
+ 
+
+Within these work areas, several ongoing activities have been foundational to further the goals of GOARN COVID-19 research response. These activities include:
+•    Coordination of global partners to support the 
+WHO COVID-19 Research Innovation and Research Roadmap 
+Social Science Working Group. On-going research includes psychosocial impact of community-based interventions, psychosocial assessment of healthcare workers (HCWs), HCW readiness for COVID-19 infection prevention and control, home-based care delivery, and decision-making for palliative care.
+•    
+Librarian Reserve Corps
+, a group of 150+ volunteer medical librarians created in response to COVID-19 and ready to support GOARN operational partners with the following services: rapid literature searches, daily curation of new publications by operational pillar, support for teams performing rapid systematic reviews.
+•    Contact Tracing Working Group to develop comprehensive integration of guidance, training, and tools for contact tracing for COVID-19. Still in the early phases of development, this group links FETPs and alumni networks, GOARN partners, Go.Data, and the WHO Epi Technical Network.
+•    Repository of research and investigation tools for risk communication and community engagement, contact tracing, and other operational research tools hosted on the GOARN COVID-19 Knowledge Hub. 
+Critical to ensuring these and future activities impact affected communities and frontline response, the next steps are to improve regional and in-country partnerships, leveraging the diverse capacity of GOARN to operationalize evidence into response.
+For more information visit the 
+GOARN COVID-19 Hub
+. 
+ 

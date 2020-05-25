@@ -1,0 +1,21 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006913109
+ID : GPHN2020050600071
+
+Date : 2020-05-05 21:16:00
+Title : Scientists Identify ‘Alarming’ COVID-19 Strain That Leaves Survivors With Higher Viral Loads
+Ariticle : 
+18:55 GMT 05.05.2020
+A new report published on April 30 on bioRxiv, a website where researchers share their work before it is reviewed by their peers, reveals that there is a new strain of the COVID-19 coronavirus that is more dominant and contagious than earlier varieties.
+The study, which was completed by scientists at the Los Alamos National Laboratory (LANL) in New Mexico, shows that the new, more dominant strain first appeared some time in February in Europe and then migrated to the East Coast of the United States. The strain, referred to as mutation spike D614G, has been the globe’s dominant COVID-19 strain since mid-March, the researchers said.
+"D614G is increasing in frequency at an alarming rate, indicating a fitness advantage relative to the original Wuhan strain that enables more rapid spread," the study notes.
+According to the scientists, the D614G mutation is more contagious than other COVID-19 strains and makes people more susceptible to a second infection. However, there is no indication in the study that the D614G mutation is more lethal than earlier mutations. It simply appears that patients infected with the mutated strain have higher viral loads, meaning they have more virus particles within their bodies.
+ 
+“The viral load is a measure of how bright the fire is burning in an individual, whereas the infectious dose is the spark that gets that fire going,” Edward Parker of the London School of Hygiene and Tropical Medicine explained to the New Scientist. The infectious dose of a virus is the quantity needed to infect a person.
+The report was based on a computational analysis of more than 6,000 coronavirus genetic sequences collected by a German organization called the Global Initiative for Sharing All Influenza Data. The researchers in the study have identified 14 mutations of the novel coronavirus so far.
+ 
+"The story is worrying, as we see a mutated form of the virus very rapidly emerging, and over the month of March becoming the dominant pandemic form," study leader Bette Korber is quoted as saying by the Los Angeles Times. "When viruses with this mutation enter a population, they rapidly begin to take over the local epidemic, thus they are more transmissible."
+"This is hard news but please don’t only be disheartened by it. Our team at LANL was able to document this mutation and its impact on transmission only because of a massive global effort of clinical people and experimental groups, who make new sequences of the virus (SARS-CoV-2) in their local communities available as quickly as they possibly can,” Korber added.
+Some medical experts believe that there are at least two strains of the novel coronavirus in the US.
+“We are looking to identify the mutation,” Alan Wu, a University of California, San Francisco professor, told the Times, noting that the San Francisco General Hospital where he works only has a few hundred cases of the respiratory illness, which is “quite a different story than we are hearing from New York.”
+In late March, researchers at the US Department of Energy’s Oak Ridge National Laboratory in Tennessee also began screening through more than 8,000 compounds to determine which ones can bind to the S-protein spike of the novel coronavirus, which it uses to infect host cells by injecting them with its genetic material. If scientists find compounds that bind to the spike, they could potentially stop the virus from infecting host cells. 
+The latest data by Worldometer shows that there have been more than 1.2 million cases of the coronavirus in the US, and more than 71,000 people have died due to the disease.

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500049
+
+Date : 2020-05-04 00:00:00
+Title : COVID-19 death toll at 801 following another 11 deaths of infected persons
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Romania
+Cases:11 persons
+Description:COVID-19 death toll at 801 following another 11 deaths of infected persons

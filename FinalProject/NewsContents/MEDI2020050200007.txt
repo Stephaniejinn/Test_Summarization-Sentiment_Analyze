@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200007
+
+Date : 2020-05-02 00:00:00
+Title : N.J. coronavirus hospitalizations fall below 6K for first time in weeks
+Ariticle : 
+Disease:Coronavirus
+Time:--
+Location:USA/New Jersey
+Cases:patients
+Description:N.J. coronavirus hospitalizations fall below 6K for first time in weeks

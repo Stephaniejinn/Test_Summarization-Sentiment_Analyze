@@ -1,0 +1,88 @@
+URL : https://www.bbc.com/news/world-us-canada-52511270
+ID : BBCH2020050200018
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus: US authorises use of anti-viral drug Remdesivir
+Ariticle : 
+        
+            
+                                
+                                                                 
+Image copyright
+                 
+Reuters
+                            
+                        
+                
+Image caption
+                
+                    Experts warn remdesivir shouldn't be seen as a "magic bullet"                
+            
+                    
+The US's Food and Drug Administration (FDA) has authorised the emergency use of the Ebola drug remdesivir for treating the coronavirus.
+The authorisation means the anti-viral drug can now be used on people who are hospitalised with severe Covid-19.
+A recent clinical trial showed the drug helped shorten the recovery time for people who were seriously ill.
+But emergency FDA authorisation is not the same as formal approval, which requires a higher level of review.
+Experts have also warned the drug - which was originally developed to treat Ebola, and is produced by Gilead pharmaceutical company - shouldn't be seen as a "magic bullet" for coronavirus.
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+What is the most promising coronavirus drug?
+During a meeting with US President Donald Trump in the Oval Office, Gilead Chief Executive Daniel O'Day said the FDA authorisation was an important first step. The company would donate 1.5 million vials of the drug, he said.
+FDA Commissioner Stephen Hahn also said at the meeting: "It's the first authorised therapy for Covid-19, so we're really proud to be part of it."
+What do we know about remdesivir?
+President Trump has been a vocal supporter of remdesivir as a potential treatment for the coronavirus.
+In its clinical trial, the US National Institute of Allergy and Infectious Diseases (NIAID) found that remdesivir cut the duration of symptoms from 15 days down to 11. The trials involved 1,063 people at hospitals around the world. Some were given the drug and others were given a placebo (dummy) treatment.
+Dr Anthony Fauci who runs NIAID, said that remdesivir had "a clear-cut, significant, positive effect in diminishing the time to recovery".
+However, although remdesivir may aid recovery - and possibly stop people having to be treated in intensive care - the trials did not give any clear indication whether it can prevent deaths from coronavirus.
+            
+                                                
+                                            
+                    
+
+A SIMPLE GUIDE:  
+How do I protect myself?
+
+
+AVOIDING CONTACT: 
+The rules on self-isolation and exercise
+
+
+LOOK-UP TOOL: 
+Check cases in your area
+
+
+MAPS AND CHARTS: 
+Visual guide to the outbreak
+
+
+STRESS: 
+How to look after your mental health
+
+
+            
+                                                
+                                            
+                    
+New York nursing home deaths 
+News of the potential treatment comes as a nursing home in New York reports 98 coronavirus-related deaths.
+The Isabella Geriatric Center in Manhattan said 46 of its residents died after testing positive, while the other 52 were suspected to have had the virus.
+And Dr Fauci has been barred from testifying next week to a congressional committee examining the Trump administration's response to the pandemic.
+"While the Trump administration continues its whole-of-government response to Covid-19, including safely opening up America again and expediting vaccine development, it is counter-productive to have the very individuals involved in those efforts appearing at congressional hearings," White House spokesman Judd Deere said in a statement.
+In other coronavirus news:
+
+Irish Taoiseach Leo Varadkar has said the country will begin to lift its lockdown on 18 May, 
+"in a slow, phased way"
+
+
+India has also extended its restrictions 
+for two weeks past 4 May
+
+
+The World Health Organization (WHO) has defended its response to the early stages of the coronavirus outbreak in China, saying it 
+"didn't waste time"
+
+
+            

@@ -1,0 +1,70 @@
+URL : https://flutrackers.com/forum/forum/-2019-ncov-new-coronavirus/-2019-ncov-studies-research-academia/epidemiology/856605-sci-rep-genetic-diversity-and-ecology-of-coronaviruses-hosted-by-cave-dwelling-bats-in-gabon
+ID : FLUT2020050200136
+
+Date : 2020-05-02 13:50:22
+Title : Sci Rep. Genetic diversity and ecology of coronaviruses hosted by cave-dwelling bats in Gabon
+Ariticle : 
+																							
+
+Sci Rep.
+ 2020 Apr 30;10(1):7314. doi: 10.1038/s41598-020-64159-1.
+
+Genetic diversity and ecology of coronaviruses hosted by cave-dwelling bats in Gabon.
+
+
+
+Maganga GD
+1,
+2
+, 
+Pinto A
+3
+, 
+Mombo IM
+3
+, 
+Madjitobaye M
+3
+, 
+Mbeang Beyeme AM
+4
+, 
+Boundenga L
+3
+, 
+Ar Gouilh M
+5
+, 
+N'Dilimabaka N
+3
+, 
+Drexler JF
+6,
+7
+, 
+Drosten C
+6,
+7
+, 
+Leroy EM
+3,
+8
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+Little research on coronaviruses has been conducted on wild animals in Africa. Here, we screened a wide range of wild animals collected in six provinces and five caves of Gabon between 2009 and 2015. We collected a total of 1867 animal samples (cave-dwelling bats, rodents, non-human primates and other wild animals). We explored the diversity of CoVs and determined the factors driving the infection of CoVs in wild animals. Based on a nested reverse transcription-polymerase chain reaction, only bats, belonging to the Hipposideros gigas (4/156), Hipposideros cf. ruber (13/262) and Miniopterus inflatus (1/249) species, were found infected with CoVs. We identified alphacoronaviruses in H. gigas and H. cf. ruber and betacoronaviruses in H. gigas. All Alphacoronavirus sequences grouped with Human coronavirus 229E (HCoV-229E). Ecological analyses revealed that CoV infection was significantly found in July and October in H. gigas and in October and November in H. cf ruber. The prevalence in the Faucon cave was significantly higher. Our findings suggest that insectivorous bats harbor potentially zoonotic CoVs; highlight a probable seasonality of the infection in cave-dwelling bats from the North-East of Gabon and pointed to an association between the disturbance of the bats' habitat by human activities and CoV infection.
+
+
+
+PMID:32355260DOI:
+10.1038/s41598-020-64159-1
+
+													

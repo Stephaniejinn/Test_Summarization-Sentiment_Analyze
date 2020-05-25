@@ -1,0 +1,120 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/856180-cardiovasc-res-covid-19-and-the-cardiovascular-system-implications-for-risk-assessment-diagnosis-and-treatment-options
+ID : FLUT2020050200022
+
+Date : 2020-05-01 15:19:40
+Title : Cardiovasc Res. COVID-19 and the cardiovascular system: implications for risk assessment, diagnosis, and treatment options
+Ariticle : 
+																							
+
+Cardiovasc Res.
+ 2020 Apr 30. pii: cvaa106. doi: 10.1093/cvr/cvaa106. [Epub ahead of print]
+
+COVID-19 and the cardiovascular system: implications for risk assessment, diagnosis, and treatment options.
+
+
+
+Guzik TJ
+1,
+2
+, 
+Mohiddin SA
+3,
+4
+, 
+Dimarco A
+3
+, 
+Patel V
+3
+, 
+Savvatis K
+3
+, 
+Marelli-Berg FM
+4
+, 
+Madhur MS
+5
+, 
+Tomaszewski M
+6
+, 
+Maffia P
+7,
+8
+, 
+D'Acquisto F
+9
+, 
+Nicklin SA
+1
+, 
+Marian AJ
+10
+, 
+Nosalski R
+1,
+2
+, 
+Murray EC
+1
+, 
+Guzik B
+11
+, 
+Berry C
+1
+, 
+Touyz RM
+1
+, 
+Kreutz R
+12
+, 
+Wang DW
+13
+, 
+Bhella D
+14
+, 
+Sagliocco O
+15
+, 
+Crea F
+16
+, 
+Thomson EC
+7,
+14,
+17
+, 
+McInnes IB
+7
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+The novel coronavirus disease (COVID-19) outbreak, caused by SARS-CoV-2, represents the greatest medical challenge in decades. We provide a comprehensive review of the clinical course of COVID-19, its comorbidities, and mechanistic considerations for future therapies. While COVID-19 primarily affects the lungs, causing interstitial pneumonitis and severe acute respiratory distress syndrome (ARDS), it also affects multiple organs, particularly the cardiovascular system. Risk of severe infection and mortality increase with advancing age and male sex. Mortality is increased by comorbidities: cardiovascular disease, hypertension, diabetes, chronic pulmonary disease, and cancer. The most common complications include arrhythmia (atrial fibrillation, ventricular tachyarrhythmia, and ventricular fibrillation), cardiac injury [elevated highly sensitive troponin I (hs-cTnI) and creatine kinase (CK) levels], fulminant myocarditis, heart failure, pulmonary embolism, and disseminated intravascular coagulation (DIC). Mechanistically, SARS-CoV-2, following proteolytic cleavage of its S protein by a serine protease, binds to the transmembrane angiotensin-converting enzyme 2 (ACE2) -a homologue of ACE-to enter type 2 pneumocytes, macrophages, perivascular pericytes, and cardiomyocytes. This may lead to myocardial dysfunction and damage, endothelial dysfunction, microvascular dysfunction, plaque instability, and myocardial infarction (MI). While ACE2 is essential for viral invasion, there is no evidence that ACE inhibitors or angiotensin receptor blockers (ARBs) worsen prognosis. Hence, patients should not discontinue their use. Moreover, renin-angiotensin-aldosterone system (RAAS) inhibitors might be beneficial in COVID-19. Initial immune and inflammatory responses induce a severe cytokine storm [interleukin (IL)-6, IL-7, IL-22, IL-17, etc.] during the rapid progression phase of COVID-19. Early evaluation and continued monitoring of cardiac damage (cTnI and NT-proBNP) and coagulation (D-dimer) after hospitalization may identify patients with cardiac injury and predict COVID-19 complications. Preventive measures (social distancing and social isolation) also increase cardiovascular risk. Cardiovascular considerations of therapies currently used, including remdesivir, chloroquine, hydroxychloroquine, tocilizumab, ribavirin, interferons, and lopinavir/ritonavir, as well as experimental therapies, such as human recombinant ACE2 (rhACE2), are discussed.
+Published on behalf of the European Society of Cardiology. All rights reserved. © The Author(s) 2020. For permissions, please email: 
+journals.permissions@oup.com
+.
+
+
+
+
+KEYWORDS:
+
+ACE2; Acute coronary syndrome; COVID-19; Cardiac; Endothelium; Microvascular; Myocardial infarction; Myocarditis; Vascular; Virus
+
+
+PMID:32352535DOI:
+10.1093/cvr/cvaa106
+
+													

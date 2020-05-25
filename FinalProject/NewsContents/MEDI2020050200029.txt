@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200029
+
+Date : 2020-04-30 00:00:00
+Title : Total confirmed COVID-19 cases in Sri Lanka to 690
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.30
+Location:Sri Lanka
+Cases:25 positive cases
+Description:Total confirmed COVID-19 cases in Sri Lanka to 690

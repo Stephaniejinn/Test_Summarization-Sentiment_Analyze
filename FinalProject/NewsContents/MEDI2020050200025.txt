@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200025
+
+Date : 2020-05-01 00:00:00
+Title : COVID-19 cases in Thane cross 1000-mark
+Ariticle : 
+Disease:COVID-19 pandemic
+Time:2020.05.01
+Location:USA
+Cases:31 cases
+Description:COVID-19 cases in Thane cross 1000-mark

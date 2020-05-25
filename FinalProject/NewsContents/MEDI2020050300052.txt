@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300052
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus cases in Africa top 41,000
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:Chad
+Cases:five deaths
+Description:Coronavirus cases in Africa top 41,000

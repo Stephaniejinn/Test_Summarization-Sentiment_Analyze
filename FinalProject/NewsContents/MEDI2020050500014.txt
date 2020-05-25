@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500014
+
+Date : 2020-05-04 00:00:00
+Title : Brazil records 263 more deaths from coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Brazil
+Cases:7,288 deaths
+Description:Brazil records 263 more deaths from coronavirus

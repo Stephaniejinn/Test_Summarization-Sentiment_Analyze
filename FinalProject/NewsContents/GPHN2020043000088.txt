@@ -1,0 +1,15 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006876964
+ID : GPHN2020043000088
+
+Date : 2020-04-30 00:56:00
+Title : US COVID-19 death toll is far higher than reported, CDC data suggests
+Ariticle : 
+New York Times
+Via The New York Times: U.S. Coronavirus Death Toll Is Far Higher Than Reported, C.D.C. Data Suggests. Excerpt:
+Total deaths in seven states that have been hard hit by the coronavirus pandemic are nearly 50 percent higher than normal for the five weeks from March 8 through April 11, according to new death statistics from the Centers for Disease Control and Prevention. That is 9,000 more deaths than were reported as of April 11 in official counts of deaths from the coronavirus.
+The new data is partial and most likely undercounts the recent death toll significantly. But it still illustrates how the coronavirus is causing a surge in deaths in the places it has struck, probably killing more people than the reported statistics capture. These increases belie arguments that the virus is only killing people who would have died anyway from other causes. Instead, the virus has brought a pattern of deaths unlike anything seen in recent years.
+If you look at the provisional deaths from all causes, death counts in New York, New Jersey, Michigan, Massachusetts, Illinois, Maryland and Colorado have spiked far above their normal levels for the period. In New York City, the home of the biggest outbreak, the number of deaths over this period is more than three times the normal number. (Recent data suggests it could have reached six times higher than normal.)
+In New Jersey, deaths have been 172 percent of the normal number so far — more than 5,000 additional deaths, compared with an average count from the past five years. In Michigan, the partial death count is 121 percent of the count in a normal year, the equivalent of nearly 2,000 more deaths.
+These numbers are preliminary because death certificates take time to be processed and collected, and complete death tallies from the Centers for Disease Control and Prevention can take up to eight weeks to become final. The speed of that data reporting varies considerably by state. In Connecticut, for example, where reported coronavirus deaths are high, the C.D.C. statistics include zero reported deaths from any cause since Feb. 1, because of reporting lags.
+We compared these provisional death counts with the average number of deaths each week over the past five years. Public health researchers use the term “excess deaths” to describe a gap between recent trends and a typical level of deaths.
+It’s difficult to know whether the differences between excess deaths and the official counts of coronavirus deaths reflect an undercounting of coronavirus deaths or a surge in deaths from other causes. It’s probably a mix of both.

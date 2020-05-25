@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300033
+
+Date : 2020-05-02 00:00:00
+Title : New COVID-19 cases reported in Saline, Williamson County
+Ariticle : 
+Disease:illness
+Time:2020.05.02
+Location:USA/Illinois
+Cases:one new case
+Description:New COVID-19 cases reported in Saline, Williamson County

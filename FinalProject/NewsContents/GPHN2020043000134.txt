@@ -1,0 +1,20 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006880079
+ID : GPHN2020043000134
+
+Date : 2020-04-29 08:01:00
+Title : Hawaii's coronavirus cases rise to 613, up 4
+Ariticle : 
+Hawaii's tally of coronavirus cases has risen to 613, up four from Tuesday, the state Department of Health said today.
+Of all the confirmed cases in Hawaii since the start of the outbreak, 69 have required hospitalizations, with no new hospitalizations reported today, health officials said.
+The state's coronavirus death toll stands at 16, unchanged from Tuesday. Eleven of the deaths have been on Oahu and five on Maui.
+A total 516 patients have recovered since the start of the outbreak, with health officials reporting 11 new recoveries today. More than 84% of the people who have been infected in Hawaii are now classified as released from isolation by the state Health Department.
+Today's statewide total includes 399 cases on Oahu, 115 in Maui County, 70 on Hawaii island, and 21 in Kauai County, according to health officials.
+Three of the new cases were Oahu adults. The fourth was a Hawaii resident diagnosed outside the state, bringing the total for that category to eight.
+The statewide total also includes eight Hawaii residents diagnosed outside of the state, with one new case added today.
+By county, Honolulu has seen 360 patients (or 90%) recover, Maui has had 83 recoveries (72%), the Big Island has had 53 (75%), and Kauai has seen 20 of its 21 patients (95%) released from isolation, as of noon today, the Health Department says.
+Of the 69 hospitalizations in the state, 53 have been on Oahu, 14 on Maui and one each on the Big Island and Kauai.
+The state's Joint COVID-19 Information Center said that of the 29,757 coronavirus tests so far conducted by state and clinical laboratories in the islands, just over 2% have been positive.
+Of Hawaii's 613 total coronavirus cases, 321 cases are travel-related, 236 are the result of community spread, and the origin of 56 infections are unknown as of today, officials said.
+On Tuesday, the Health Department announced two new COVID-19 cases statewide including the first known Lanai resident, who was hospitalized on Maui in early March for a condition unrelated to the coronavirus, but later tested positive while hospitalized. The patient is expected to stay on Maui "for the interim," health officials said.
+RELATED STORY: Coronavirus antibody tests will start Thursday in Hawaii
+var divElement = document.getElementById('viz1587590415324'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='560px';vizElement.style.maxHeight='860px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='560px';vizElement.style.maxHeight='860px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='700px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);

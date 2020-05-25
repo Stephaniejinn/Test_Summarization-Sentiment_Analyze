@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900021
+
+Date : 2020-04-27 00:00:00
+Title : Tracking COVID-19 with cell phone data while safeguarding privacy
+Ariticle : 
+Disease:virus
+Time:2020.04.27
+Location:GLOBAL
+Cases:people
+Description:Tracking COVID-19 with cell phone data while safeguarding privacy

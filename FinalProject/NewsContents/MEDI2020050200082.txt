@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200082
+
+Date : 2020-05-02 00:00:00
+Title : COVID-19: One More Recovered Patien...
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:Cambodia
+Cases:patients
+Description:COVID-19: One More Recovered Patien...

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300005
+
+Date : 2020-05-02 00:00:00
+Title : Egypt contracts with Gilead to get remdesivir drug for COVID-19 patients
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:Egypt
+Cases:9 deaths
+Description:Egypt contracts with Gilead to get remdesivir drug for COVID-19 patients

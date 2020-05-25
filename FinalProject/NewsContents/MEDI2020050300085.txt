@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300085
+
+Date : 2020-05-03 00:00:00
+Title : Coronavirus in Melbourne
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:Australia
+Cases:teacher
+Description:Coronavirus in Melbourne

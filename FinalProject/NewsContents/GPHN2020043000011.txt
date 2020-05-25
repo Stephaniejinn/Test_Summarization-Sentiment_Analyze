@@ -1,0 +1,20 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006874239
+ID : GPHN2020043000011
+
+Date : 2020-04-29 15:40:00
+Title : Gilead says early results of coronavirus drug trial show improvement with shorter remdesivir treatment
+Ariticle : 
+Gilead Sciences said Wednesday preliminary results of a coronavirus drug trial showed at least 50% of patients treated with a 5-day dosage of antiviral drug remdesivir improved and more than half were discharged from the hospital within two weeks.
+The company also said another trial by the National Institute of Allergy and Infectious Diseases met its main goal. It did not provide further details, however. 
+Shares of Gilead were up more than 3% in midmorning trading.
+The clinical trial involved 397 patients with severe cases of Covid-19. The severe study is “single-arm,” meaning it did not evaluate the drug against a control group of patients who didn’t receive the drug.
+The study tracked two groups of patients who were hospitalized with Covid-19. One group received a 5-day treatment of remdesivir, while the other group took the drug for 10 days. The researchers said more than half of the patients in both treatment groups were discharged from the hospital within 14 days. They said 64.5% of the patients who received the shorter treatment course were discharged, compared with 53.8% of the group who were treated for 10 days. 
+“These data are encouraging as they indicate that patients who received a shorter, 5-day course of remdesivir experienced similar clinical improvement as patients who received a 10-day treatment course,” said Aruna Subramanian, a lead investigator of the study. 
+There are no proven treatments for Covid-19, which has infected more than 3 million people worldwide and killed at least 217,569 as of Wednesday morning, according to data compiled by Johns Hopkins University. U.S. health officials say producing a vaccine to prevent the disease will take at least 12 to 18 months, making finding an effective drug treatment soon even more crucial.
+There a number of ongoing studies testing Gilead’s remdesivir to see if it’s effective in stopping the coronavirus from replicating.
+Remdesivir has shown some promise in treating SARS and MERS, which are also caused by coronaviruses. Some health authorities in the U.S., China and other parts of the world have been using remdesivir, which was tested as a possible treatment for the Ebola outbreak, in hopes that the drug can reduce the duration of Covid-19 in patients.
+Dr. Scott Gottlieb, shortly after the Gilead news was released, described remdesivir as “part of a better toolbox” for dealing with the coronavirus. But he said on CNBC’s “Squawk Box” that it’s “not a home run, a cure by any means.”
+“It’s not going to be a cure, but it is going to be a drug potentially that if you use it particularly early in the course of the disease ... it could reduce their chances of having a really bad outcome,” he said.
+Gilead shares have seesawed in recent weeks as investors bet on developments for treatments for the coronavirus.
+Earlier this month,  Gilead surged after details leaked about one of its clinical trials, showing what appeared to be promising results in treating the disease.  The University of Chicago found that patients with Covid-19 had “rapid recoveries in fever and respiratory symptoms” and were discharged in less than a week, according to STAT News.
+The company’s stock fell last week after multiple reports, citing a draft document that was accidentally published by the World Health Organization, said the drug did not improve Covid-19 patients’ conditions or reduce the virus’ presence in the bloodstream in a clinical trial in China.

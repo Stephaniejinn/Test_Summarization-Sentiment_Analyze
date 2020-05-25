@@ -1,0 +1,24 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006875383
+ID : GPHN2020043000024
+
+Date : 2020-04-29 17:59:00
+Title : Gilead says experimental drug helps COVID-19 patients, raising hopes in pandemic fight
+Ariticle : 
+(Reuters) - Gilead Sciences Inc on Wednesday said its experimental antiviral drug remdesivir helped improve outcomes for patients with COVID-19 in a clinical trial, and provided data suggesting it worked better when given earlier in the course of illness.
+The closely watched drug has moved markets in the past few weeks following the release of several studies that painted a mixed picture of its effectiveness. On Wednesday, broader markets again rose on the data and Gilead shares rose 4%.
+"There's now enough data to support consideration of access under an emergency use authorization by FDA. The data from NIAID study should push this firmly over the line," former U.S. Food and Drug Administration Commissioner Scott Gottlieb said on Twitter, referring to the National Institute of Allergy and Infectious Diseases.
+A NIAID spokeswoman said the agency's trial data is likely to be announced during a White House task force briefing scheduled for 5 pm ET (2100 GMT) on Wednesday.
+Gilead provided information on two clinical trials. The study being conducted by the NIAID met its main goal of helping patients with a range of severity of COVID-19, the disease caused by the novel coronavirus, Gilead said.
+Results from that trial have been highly anticipated because it compares how patients who received remdesivir fared versus those given a placebo, meaning it should definitively demonstrate whether the drug provides benefit.
+The trial's lead researcher told Reuters on Friday that results could come by mid-May, with preliminary findings possible even earlier.
+Gilead also provided data on a study in severe COVID-19 patients it has conducted in dozens of medical centers, which does not compare remdesivir to a placebo.
+In that trial, Gilead said 62% of patients treated early with remdesivir were discharged from the hospital, compared with 49% of patients who were treated later in the course of the infection.
+"This is good news for Gilead and the market," Jefferies analyst Michael Yee said in a research note.
+The 397-patient trial evaluated the safety and efficacy of five-day and 10-day dosing regimens of remdesivir in hospitalized patients with severe manifestations of COVID-19.
+"The study demonstrates the potential for some patients to be treated with a five-day regimen, which could significantly expand the number of patients who could be treated with our current supply of remdesivir," said Gilead Chief Medical Officer Merdad Parsey in a statement.
+Gilead has defended the prospects for remdesivir helping fight the coronavirus pandemic against signs it may not provide a significant benefit.
+Also on Wednesday, results were published by the Lancet medical journal of a trial conducted in China that concluded remdesivir failed to improve patients’ condition or reduce the pathogen’s presence in the bloodstream. Gilead said previously that those findings, released inadvertently by the World Health Organization last week, were inconclusive because the study was terminated early.
+Interest in Gilead's drug has been high as there are currently no approved treatments or preventive vaccines for COVID-19, and doctors are desperate for anything that might alter the course of the disease that attacks the lungs and can shut down other organs in severe cases.
+Remdesivir, which previously failed as a treatment for Ebola, is being tried against COVID-19 because it is designed to disable the mechanism by which certain viruses make copies of themselves and potentially overwhelm their host's immune system.
+The company is also studying the drug in patients with less severe COVID-19, but those results are not expected until later next month.
+(Reporting by Manas Mishra in Bengaluru; Additional reporting by Deena Beasley in Los Angeles; Editing by Bernadette Baum and Bill Berkrot)

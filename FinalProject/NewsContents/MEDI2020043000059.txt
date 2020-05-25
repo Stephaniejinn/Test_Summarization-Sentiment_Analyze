@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000059
+
+Date : 2020-03-30 00:00:00
+Title : Mass. Treatment Center Has Among The Highest COVID-19 Prisoner Death Rates In The Nation
+Ariticle : 
+Disease:Coronavirus
+Time:2020.03.30
+Location:USA/Massachusetts
+Cases:five prisoners
+Description:Mass. Treatment Center Has Among The Highest COVID-19 Prisoner Death Rates In The Nation

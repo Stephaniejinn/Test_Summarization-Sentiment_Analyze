@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000040
+
+Date : 2020-04-29 00:00:00
+Title : 82 dead at veterans home in U.S. state Massachusetts amid coronavirus outbreak
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA
+Cases:81 employees
+Description:82 dead at veterans home in U.S. state Massachusetts amid coronavirus outbreak

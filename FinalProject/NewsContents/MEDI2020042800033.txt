@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042800033
+
+Date : 2020-05-09 00:00:00
+Title : Canada begins staggered lifting of pandemic lockdown
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03-2020.05.09
+Location:Canada
+Cases:most coronavirus cases
+Description:Canada begins staggered lifting of pandemic lockdown

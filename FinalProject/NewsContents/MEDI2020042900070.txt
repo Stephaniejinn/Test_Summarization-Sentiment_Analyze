@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900070
+
+Date : 2020-04-27 00:00:00
+Title : CDC reports 981,246 coronavirus cases, 55,258 deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.27
+Location:USA/New York
+Cases:cases
+Description:CDC reports 981,246 coronavirus cases, 55,258 deaths

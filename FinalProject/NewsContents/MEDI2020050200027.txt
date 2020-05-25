@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200027
+
+Date : 2020-05-02 00:00:00
+Title : 291 care homes in West Midlands 'have current outbreaks of coronavirus'
+Ariticle : 
+Disease:291 outbreaks
+Time:2020.04.26-2020.05.02
+Location:USA/Alabama
+Cases:179 people
+Description:291 care homes in West Midlands 'have current outbreaks of coronavirus'

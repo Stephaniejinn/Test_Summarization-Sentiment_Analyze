@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900016
+
+Date : 2020-04-24 00:00:00
+Title : Coronavirus deaths at care homes are soaring and could soon overtake hospital fatalities
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.24
+Location:UK
+Cases:380 Covid-19 deaths
+Description:Coronavirus deaths at care homes are soaring and could soon overtake hospital fatalities

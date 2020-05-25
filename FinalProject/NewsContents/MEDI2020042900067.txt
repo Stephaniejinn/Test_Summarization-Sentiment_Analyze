@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900067
+
+Date : 2020-04-28 00:00:00
+Title : North Carolina pug becomes first U.S. dog diagnosed with coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:USA/North Carolina
+Cases:three people
+Description:North Carolina pug becomes first U.S. dog diagnosed with coronavirus

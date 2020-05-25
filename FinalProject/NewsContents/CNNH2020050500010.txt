@@ -1,0 +1,33 @@
+URL : https://edition.cnn.com/2020/05/04/health/health-coronavirus-model-doubles-deaths/index.html
+ID : CNNH2020050500010
+
+Date : 2020-05-05 01:52:48
+Title : Key coronavirus model doubles projected US deaths to 134,000 as social distancing fades
+Ariticle : 
+ (CNN)
+An influential coronavirus model often cited by the White House has doubled its projections for US deaths, now forecasting that more than 134,000 people will die from Covid-19 by August.
+The researchers who designed the model changed their methodology to account for an increasingly restless population and moves in many states to ease restrictions aimed at slowing the spread of the virus.
+This "effect of premature relaxation of social distancing, which has a substantial effect in some states," will lead to more cases and more deaths, said Dr. Christopher Murray, director of the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, which built the model.
+Warmer weather and debate over restrictions drive Americans outside while coronavirus cases rise
+Murray said his team is tracking cell phone data that shows an increase in movement in many states, a sign that people may be interacting more.
+"There have been many, many states where mobility is starting to go up, even before the social distancing mandates are coming off," Murray said, citing data from Facebook and Google. "This rise of mobility in the last week or 10 days is likely leading to some increased transmission."
+Read More
+In Georgia, for example, the model shows that mobility has risen steadily since the beginning of April. But it predicts a spike in movement in May, just as the state begins to relax social distancing measures.
+Nearly 3,000 more people are now expected to die in Georgia from now through August, under the updated model. Illinois is projected to see an additional 4,000 deaths, and the model has added 5,200 new deaths for Indiana.
+In New York, an additional 7,800 people are now expected to die, and the model is projecting an additional 8,800 deaths in New Jersey. The increases stem in part from longer "peaks," with deaths declining more slowly than expected in many states. 
+Transmission could stop if social distancing is maintained, modeler says
+The IHME model had previously projected that coronavirus deaths would come to a halt this summer, which outside experts criticized as unrealistic. The newest version of the model, however, predicts that daily deaths will continue -- reflecting a longer, more drawn-out epidemic.
+"If you persisted with social distancing as New Zealand has, and don't relax, in a sense, from a public health point of view, prematurely social distancing, then you can certainly get transmission down to zero," Murray said. New Zealand recently announced that it had "eliminated" the virus after weeks of lockdown.
+US coronavirus cases surpass 1 million and the death toll is greater than US losses in Vietnam War
+"The challenge, of course, is that there's enormous economic turmoil and hardship created by that," he said, adding that the model is only looking at the public health impact of social distancing.
+It is not "trying to make a judgment on the total choice that clearly governors and local leaders have to make of balancing poverty, unemployment, versus saving lives," Murray said.
+"Those are extremely difficult choices to make and our role is to provide information on the public health aspect."
+Model takes into account temperature and population density, too
+The new model takes into account temperature as well, according to Murray. The association is "roughly about a 2% reduction in transmission for every degree Celsius increase in temperature," he said.
+The model is also considering population density in different states -- which could accelerate transmission -- and it's looking at testing capacity too, which could help catch outbreaks earlier.
+Get CNN Health's weekly newsletter 
+Sign up here to get 
+The Results Are In with Dr. Sanjay Gupta
+ every Tuesday from the CNN Health team.
+Ali Mokdad, a professor of Health Metrics Sciences at IHME, told CNN's John King that multiple variables can impact infections -- like heat, testing capacity and population density -- but "the most important one is mobility."
+Right now, he said, "we're seeing an increase in mobility that's leading to an increase in mortality unfortunately in the United States."

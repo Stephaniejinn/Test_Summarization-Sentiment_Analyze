@@ -1,0 +1,52 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/856629-j-clin-med-the-ocular-surface-and-the-coronavirus-disease-2019-does-a-dual-ocular-route-exist
+ID : FLUT2020050300004
+
+Date : 2020-05-02 14:05:43
+Title : J Clin Med. The Ocular Surface and the Coronavirus Disease 2019: Does a Dual 'Ocular Route' Exist?
+Ariticle : 
+																							
+
+J Clin Med.
+ 2020 Apr 28;9(5). pii: E1269. doi: 10.3390/jcm9051269.
+
+The Ocular Surface and the Coronavirus Disease 2019: Does a Dual 'Ocular Route' Exist?
+
+
+
+Napoli PE
+1
+, 
+Nioi M
+2
+, 
+d'Aloja E
+2
+, 
+Fossarello M
+1,
+3
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+Coronavirus disease 2019 (COVID-19) is an important health problem that was defined as a pandemic by the World Health Organization on 11 March 2020. Although great concern has been expressed about COVID-19 infection acquired through ocular transmission, its underlying mechanism has not currently been clarified. In the current work, we analyzed and elucidated the two main elements that should be taken into account to understand the "ocular route", both from a clinical and molecular point of view. They are represented by the dynamism of the ocular surface system (e.g., the tear film turnover) and the distribution of ACE2 receptors and TMPRSS2 protein. Although it seems, at the moment, that there is a low risk of coronavirus spreading through tears, it may survive for a long time or replicate in the conjunctiva, even in absence of conjunctivitis signs, indicating that eye protection (e.g., protective goggles alone or in association with face shield) is advisable to prevent contamination from external droplets and aerosol.
+
+
+
+
+KEYWORDS:
+
+ACE-2 receptor; COVID-19; SARS-CoV-2; conjunctivitis; cornea; coronavirus; dual ocular route; eye; ocular surface; transmission
+
+
+PMID:32353982DOI:
+10.3390/jcm9051269
+
+													

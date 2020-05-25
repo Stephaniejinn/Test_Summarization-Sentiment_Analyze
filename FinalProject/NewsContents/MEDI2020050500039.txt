@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500039
+
+Date : 2020-05-04 00:00:00
+Title : Australia has 26 new coronavirus cases, biggest daily jump in 2 weeks
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Australia
+Cases:three new cases
+Description:Australia has 26 new coronavirus cases, biggest daily jump in 2 weeks

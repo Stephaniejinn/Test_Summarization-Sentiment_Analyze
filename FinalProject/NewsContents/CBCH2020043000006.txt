@@ -1,0 +1,115 @@
+URL : https://www.cbc.ca/news/health/typical-covid-19-progression-1.5546949
+ID : CBCH2020043000006
+
+Date : 2020-04-28 17:06:41.355000
+Title : How COVID-19 symptoms develop, and how long they last
+Ariticle : 
+How COVID-19 progresses from incubation to recovery has implications for everything from how long people may spread it before showing symptoms, to how long people can be expected to 
+occupy resources such as ICU beds and ventilators
+ in hospitals. 
+Here's a closer look at what has been learned about how symptoms develop from international studies and interviews with front-line doctors.
+Note that the averages represent typical cases, and there tends to be a wide range at all stages of the disease.
+The period in which a person is infected but shows no symptoms appears to 
+average around five to six days
+, although it can vary from one to 14 days, according to the 
+World Health Organization
+ and 
+Chinese data
+.
+Because people without symptoms aren't usually tested, positive tests typically represent infections that happened on average five days and up to two weeks earlier. Studies also suggest people with no symptoms or mild symptoms are 
+responsible for most of the spread
+.
+Even those who go on to experience more severe symptoms typically begin with mild symptoms, most often 
+fever and a dry cough
+, although they can also include more 
+unusual symptoms
+ such as 
+loss of taste and smell
+.
+Symptoms will 
+remain mild in about 80 per cent of cases
+, 
+the WHO says
+, until recovery in about 14 days. Typically, the cough lasts a week longer than the fever, 
+a Chinese study found
+. Patients with mild or moderate symptoms are told to recover at home.
+A key, more severe symptom that sometimes leads to hospitalization is 
+shortness of breath or dyspnea
+, which shows up on average 
+five to six days
+ after symptoms began, Chinese researchers reported in medical journals JAMA and 
+The Lancet
+.
+For more details, read these personal accounts of what it's like to have a milder case of COVID-19 from 
+Kym Murphy of Saint John, N.B.
+, 
+David Anzarouth of Toronto
+ 
+and 
+Todd Rowan of Saskatoon
+.
+Studies in 
+China
+ and the 
+U.S 
+suggest that most patients who are hospitalized are
+ admitted, on average, about a week after symptoms begin
+.
+In Canada, patients appear to be sickest at about that time, said Dr. Bram Rochwerg, site lead at the Juravinski Hospital intensive care unit in Hamilton and an associate professor at McMaster University.
+However, other studies show wide variations in when patients are hospitalized — the average time from symptom onset varied from 
+1.5 days in one Chinese study
+ to 
+11 days in another
+. 
+The rate at which people are hospitalized and admitted to ICU and how long they spend there can vary from country to country.
+Rochwerg said that timing depends partly on criteria for hospitalization. Some hospitals in China admitted most patients who showed up, while many hospitals in the U.S. and Canada have been more restrictive, sending patients home unless their symptoms are severe.
+Two Chinese studies found that patients who are hospitalized in general wards typically stayed for an average of 
+10
+ or 
+12 days
+.
+Those who died in general wards tended to do so in about the same amount of time, the same studies found.
+WATCH | COVID-19 patient 'would beg' Canadians to listen to top doctors:
+A key symptom that often leads to ICU admission is 
+acute respiratory distress syndrome or ARDS
+. That is lung inflammation and fluid build-up in the lungs that stops air from getting in and causes blood oxygen levels to drop. Acute respiratory distress syndrome typically requires life support such as mechanical ventilation that must be administered in the ICU.
+The onset of ARDS has been reported to average eight or 11 days after symptoms begin
+ 
+(about one to three days after hospital admission) in Chinese studies in 
+JAMA
+ and 
+The Lancet
+.
+ ICU admission typically follows within two days.
+Rochwerg said at his hospital in Hamilton it's not unusual for patients with ARDS to be admitted straight from the emergency room into the ICU.
+ARDS is part of an exaggerated immune response called a "cytokine storm," that can also lead to complications 
+such as acute kidney damage.
+ 
+Very sick patients died on average 
+four
+ or 
+five
+ days after being admitted to ICU, Chinese studies found. In Italy, patients averaged 
+seven days in the ICU
+ before death.
+Those who eventually recovered spent longer in the ICU, averaging eight, nine and 14 days in studies from 
+China
+, 
+Italy
+ and the 
+U.S.
+ respectively. There's a wide variation.
+Dr. Rob Fowler, chief of Sunnybrook Hospital's trauma and critical-care program in Toronto, 
+told CBC News earlier in April
+ that dozens of COVID-19 patients have come through his ICU and required care lasting for "many, many days to many, many weeks."
+Rochwerg noted that while the virus is the trigger, it's actually the body's own response that generates severe complications, such as ARDS.
+"That's the reason they stay critically ill for five days, a week, two weeks," he said.
+That's much longer than the three days spent in ICU by average critically ill patients without COVID-19. This is 
+why 
+experts say COVID-19 patients tend to accumulate in ICUs and the pandemic poses such a challenge
+ for health systems.
+Most studies didn't describe how long patients spent recovering in hospital after leaving the ICU. However, Dr. Kenneth Lyn-Kew, an associate professor of pulmonology and critical care medicine at National Jewish Health in Denver, told Scientific American that it can take 
+two days to two weeks
+.
+Rochwerg said patients typically discharged from the ICU spend at least as much time as they spent in the ICU recovering in general hospital wards, if not more. "But everyone is different." 
+Some, he said, may even require extensive rehab or long-term care afterward.

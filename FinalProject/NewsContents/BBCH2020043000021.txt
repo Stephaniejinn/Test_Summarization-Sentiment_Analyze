@@ -1,0 +1,118 @@
+URL : https://www.bbc.com/news/uk-52480643
+ID : BBCH2020043000021
+
+Date : 2020-04-30 00:00:00
+Title : Coronavirus: Deadline day for 100,000 tests pledge
+Ariticle : 
+        
+            
+                                
+                                                                 
+Image copyright
+                 
+Reuters
+                            
+                    
+The government is facing the deadline for its daily coronavirus testing target of 100,000 per day, after reaching just over 52,000 on Tuesday.
+Health Secretary Matt Hancock pledged to reach the goal by the end of April.
+A scientist advising the government on testing, Prof John Newton, said he is confident the target will be met, but warned there will be a lag in the data.
+Meanwhile, the PM is set to lead the daily Downing Street briefing later, following his return to work this week.
+Prime Minister Boris Johnson - who will also chair a meeting of cabinet on Thursday morning - "will give an update on the country's fight against this disease and the steps we are taking to defeat it", his spokesman said. 
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+However, BBC political editor Laura Kuenssberg said the PM will not give "chapter and verse on exactly how and when the country's doors will re-open".
+
+Can you compare different countries?
+
+Coronavirus 'as deadly as Ebola in hospital'
+
+The hidden health cost of the pandemic
+
+Drug has 'clear cut' power to fight coronavirus
+
+The government's chief scientific adviser, Sir Patrick Vallance, and chief medical officer, Prof Chris Whitty, will also appear at Thursday's briefing.
+Mr Johnson, who has just recovered from coronavirus, returned to work in Downing Street on Tuesday
+ following the birth of his son 
+with his fiancee Carrie Symonds.
+            
+                                                
+                                                 
+Image copyright
+                 
+Andrew Parsons/10 Downing Street
+                            
+                        
+                
+Image caption
+                
+                    Boris Johnson arrives back in Downing Street after the birth of his son                
+            
+                    
+It comes as the Scientific Advisory Group for Emergencies (Sage), which is working on a range of options for easing lockdown restrictions, prepares to meet later. The lockdown is due to be reviewed on 7 May.
+Earlier this week, Mr Johnson said the lockdown 
+would not be relaxed too soon
+ and details on any changes would be set out over the "coming days".
+At Wednesday's press conference, Foreign Secretary Dominic Raab said he "did not know" whether 
+the five tests
+ for lifting lockdown had been met and warned that the country was at a "delicate and dangerous moment in this challenge".
+He said that the UK was still "coming through the peak" of the virus and called for people to maintain social distancing measures "until we are out of the woods".
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+What's next? The prime minister will not give chapter and verse later today on exactly how and when the country's doors will re-open.
+But after meeting his cabinet virtually, Boris Johnson will seek to explain to the public how and why, if not exactly when, they will make the decisions that are vital, not just to our health, but the country's suffering economy too.
+He'll restate the hurdles that must be passed before any restrictions are lifted, including making sure the NHS can cope, with tests, and equipment, and a consistent fall in the death rate.
+Crucially he will emphasise the importance of the so-called "R" rate of infection - in other words, the extent to which people with the virus are passing it on.
+That rate has come down significantly since the lockdown was imposed, slowing the spread of the disease. But Mr Johnson will outline how the "R" rate will be a crucial yardstick of whether to lift, or even reinstate, restrictions as the weeks go on.
+Read Laura's full blog 
+here
+.
+            
+                                                
+                                            
+                    
+Testing target
+The health secretary set out 
+the government's daily testing target of 100,000 per day on 2 April, even though Mr Johnson initially identified the aim to carry out 250,000 tests a day.
+The latest figures announced during Wednesday's briefing showed 52,429 people were tested for Covid-19 in the UK on Tuesday, despite Mr Hancock announcing a massive expansion of the groups eligible for testing earlier in the week.
+Ministers say that there is capacity for about 73,000 tests per day, and Downing Street has repeatedly said it is aiming to reach its target by Thursday.
+Why does the UK need 100,000 tests a day?
+Prof Newton, director of public health improvement for Public Health England (PHE), said on Wednesday that he was "pretty confident we will hit that target."
+He said there would be a lag due to receiving the data but it would be clear whether the government has reached the target by the end of the week.
+In the Commons on Wednesday, Mr Raab said the 250,000 tests a day target remained "an aspiration" in response to questions from Labour Party leader Sir Keir Starmer.
+Later in the press conference, the foreign secretary admitted there had been a "distribution issue" in getting tests for care home staff and residents.
+But he said the government was now doing "everything we possibly can" to improve supply and delivery.
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+People over 65 and anyone who cannot work at home are also among 
+millions able to apply for a coronavirus test
+ if they have symptoms, under the government's expanded testing programme.
+The expansion in eligibility beyond just essential workers and hospital patients means 25 million people can now book through 
+the government's test-booking website
+.
+Some 14,700 home tests and 33,000 drive-through appointments were booked on Wednesday.
+The total number of people who have died in the UK with coronavirus has now passed 26,000, as official figures include deaths in the community, such as in care homes, for the first time.
+A new method of counting includes retrospective deaths since the beginning of March.
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+            

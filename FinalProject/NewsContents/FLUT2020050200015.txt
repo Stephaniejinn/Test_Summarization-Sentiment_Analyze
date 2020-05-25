@@ -1,0 +1,140 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/856199-j-intern-med-clinical-and-epidemiological-characteristics-of-1-420-european-patients-with-mild-to-moderate-coronavirus-disease-2019
+ID : FLUT2020050200015
+
+Date : 2020-05-01 15:45:28
+Title : J Intern Med. Clinical and Epidemiological Characteristics of 1,420 European Patients with mild-to-moderate Coronavirus Disease 2019
+Ariticle : 
+																							
+
+J Intern Med.
+ 2020 Apr 30. doi: 10.1111/joim.13089. [Epub ahead of print]
+
+Clinical and Epidemiological Characteristics of 1,420 European Patients with mild-to-moderate Coronavirus Disease 2019.
+
+
+
+Lechien JR
+1,
+2,
+3,
+4
+, 
+Chiesa-Estomba CM
+1,
+5
+, 
+Place S
+1,
+6
+, 
+Van Laethem Y
+7
+, 
+Cabaraux P
+1,
+8
+, 
+Mat Q
+1,
+8
+, 
+Huet K
+1,
+2
+, 
+Plzak J
+9,
+10
+, 
+Horoi M
+1,
+4
+, 
+Hans S
+1,
+3
+, 
+Barillari MR
+1,
+11
+, 
+Cammaroto G
+1,
+12
+, 
+Fakhry N
+1,
+13
+, 
+Martiny D
+14
+, 
+Ayad T
+1,
+15
+, 
+Jouffe L
+1,
+16
+, 
+Hopkins C
+17,
+18
+, 
+Saussez S
+2,
+4,
+19
+; 
+COVID-19 Task Force of YO-IFOS
+.
+
+
+Collaborators (38)
+
+
+
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+
+The clinical presentation of European patients with mild-to-moderate Covid-19 infection is still unknown.
+
+OBJECTIVE:
+
+To study the clinical presentation of Covid-19 in Europe.
+
+METHODS:
+
+Patients with positive diagnosis of Covid-19 were recruited from 18 European hospitals. Epidemiological and clinical data were obtained through a standardized questionnaire. Bayesian analysis was used for analyzing the relationship between outcomes.
+
+RESULTS:
+
+1,420 patients completed the study (962 females, 30.7% of health care workers). The mean age of patients was 39.17±12.09 years. The most common symptoms were headache (70.3%), loss of smell (70.2%), nasal obstruction (67.8%), cough (63.2%), asthenia (63.3%), myalgia (62.5%), rhinorrhea (60.1%), gustatory dysfunction (54.2%) and sore throat (52.9%). Fever was reported by on 45.4%. The mean duration of Covid-19 symptoms of mild-to-moderate cured patients was 11.5±5.7 days. The prevalence of symptoms significantly varied according to age and sex. Young patients more frequently had ear, nose, and throat complaints, whereas elderly individuals often presented fever, fatigue and loss of appetite. Loss of smell, headache, nasal obstruction and fatigue were more prevalent in female patients. The loss of smell was a key symptom of mild-to-moderate Covid19 patients and was not associated with nasal obstruction and rhinorrhea. Loss of smell persisted at least 7 days after the disease in 37.5% of cured patients.
+
+CONCLUSION:
+
+The clinical presentation of mild-to-moderate Covid-19 substantially varies according to the age and the sex characteristics of patients. Olfactory dysfunction seems to be an important underestimated symptom of mild-to-moderate Covid-19 that needs to be recognized as such by the WHO.
+This article is protected by copyright. All rights reserved.
+
+
+
+
+KEYWORDS:
+
+Europe; clinical; coronavirus; covid-19; epidemiological; medicine; patients; symptoms
+
+
+PMID:32352202DOI:
+10.1111/joim.13089
+
+													

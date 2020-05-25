@@ -1,0 +1,91 @@
+URL : https://promedmail.org/promed-post/?id=7284183
+ID : PROM2020050100003
+
+Date : 2020-04-30 11:38:04
+Title : PRO/AH/EDR> COVID-19 update (143): USA (NY) zoo, tiger, lion, tests
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (143): USA (NEW YORK) ZOO, TIGER, LION, TESTS
+*****************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Sun 26 Apr 2020
+From: Paul Calle <pcalle@wcs.org> [edited]
+On 22 Apr 2020, the USDA National Veterinary Services Laboratory announced SARS‐Coronavirus‐2 (SARS‐CoV‐2) had been confirmed in an African lion (_Panthera leo_) at the Wildlife Conservation Society's Bronx Zoo based upon molecular testing including sequencing of the virus. This is one of a group of 3 African lions, 2 Malayan (_Panthera tigris jacksoni_), and 2 Amur (_Panthera tigris altaica_) tigers that had previously been reported as presenting with cough similar to a Malayan tiger confirmed with SARS-CoV-2 from respiratory tract samples. The initial diagnosis in the lion was made through rRT-PCR testing of opportunistically collected voided fecal samples so anesthesia was not required for sample collection.
+After receiving necessary state veterinary and public health approvals, initial testing was performed at the New York State Veterinary Diagnostic Laboratory and Animal Health Diagnostic Center at Cornell University and at the University of Illinois, College of Veterinary Medicine Veterinary Diagnostic Laboratory followed by testing at the USDA National Veterinary Services Laboratory. All 3 laboratories conducted testing and sequencing from samples independently.
+The fecal rRT-PCR testing identified viral RNA in the feces of symptomatic tigers and lions; as well as an additional asymptomatic Amur tiger in the same facility as the other tigers. The academic partners will continue rRT-PCR testing of fecal samples to help understand how long the RNA can be detected. This test detects viral RNA and does not confirm shedding of infectious virus.
+All 8 cats are doing well. They are behaving normally, eating well, and only the original affected tiger still has an occasional cough.
+In the United States, animal SARS-CoV-2 testing requires coordination with the state veterinarian before sample submission.
+The laboratories are also working on the development and validation of a serologic test and other ongoing investigations.
+--
+Paul Calle
+Wildlife Conservation Society's Bronx Zoo, 
+New York City
+<pcalle@wcs.org>
+[ProMED-mail thanks Paul Calle for this submission.
+It was shown by a recent study that in some human cases of COVID-19, rectal swabs tested positive even after nasopharyngeal testing was negative. In a recent experiment in which domestic animals were inoculated with SARS-CoV-2, viral RNA was detected in rectal swabs of dogs and ferrets and in fecal samples of cats. Diagnosis by testing voided feces is a very useful noninvasive diagnostic tool when working with wild animals, as shown by this example. - Mod.PMB
+HealthMap/ProMED-mail map of the United States: 
+http://healthmap.org/promed/p/65692
+] 
+See Also
+COVID-19 update (141): India, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (130): USA (NY) zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (85): USA (NY) tiger, OIE  
+20200406.7191480
+COVID-19 update (84): USA, tigers  
+20200406.7191352
+COVID-19 update (76): China (HU) animal, cat, owned, stray, seropositive  
+20200403.7179946
+COVID-19 update (75): China (Hong Kong) cat, OIE  
+20200403.7179945
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (58): Belgium, cat, clinical case, RFI  
+20200327.7151215
+COVID-19 update (57): global, re-using PPE, DR Congo, more countries, WHO  
+20200327.7149046
+COVID-19 update (56): China (Hong Kong) animal, dog, final serology positive  
+20200326.7146438
+COVID-19 update (45): China (Hong Kong) animal, dog, 2nd case PCR positive  
+20200319.7112693
+COVID-19 update (37): China (Hong Kong) animal, dog, prelim. serology negative  
+20200312.7081842
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (25): China (Hong Kong) dog, susp, OIE  
+20200302.7040373
+COVID-19 update (22): companion animals, dog susp, RFI  
+20200229.7036661
+COVID-19 update (17): China, animal reservoir, wildlife trade & consumption  
+20200225.7024245
+COVID-19 update (11): animal reservoir, intermediate hosts, pangolin susp  
+20200220.7009213
+COVID-19 update (08): companion animals, RFI  
+20200218.7002276
+COVID-19 update (06): animal reservoir, intermediate hosts  
+20200217.6997782
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (28): China (HU) animal reservoir  
+20200201.6943858
+Novel coronavirus (22): reservoir suggested, bats  
+20200129.6930718
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (18): China (HU) animal reservoir  
+20200125.6915411
+Novel coronavirus (15): China (HU) wild animal sources  
+20200123.6909913
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI  
+20200114.6887480
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus  
+20200108.6878869
+.................................................pmb/mj/ml

@@ -1,0 +1,117 @@
+URL : https://promedmail.org/promed-post/?id=7289409
+ID : PROM2020050200005
+
+Date : 2020-05-01 19:40:51
+Title : PRO/AH/EDR> COVID-19 update (149): France (IF) animal, cat, owned
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (149): FRANCE (ILE-DE-FRANCE) ANIMAL, CAT, OWNED
+********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Thu 30 Apr 2020
+From: Stephan Zientara <stephan.zientara@anses.fr> [edited]
+We think that the following information, officially reported to the French Veterinary Services, should be distributed to the ProMED scientific community. A full publication is in preparation.
+COVID-19 (SARS-CoV-2), cat, Paris
+---------------------------------
+Summary
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first reported in Wuhan, China, and rapidly spread worldwide. Previous studies suggested cats could be a species susceptible to SARS-CoV-2 with only 4 naturally infected cats reported to date.
+Here, we investigated the putative infection of SARS-CoV-2 in cats from owners previously suspected of being infected with COVID-19. For each cat, rectal and nasopharyngeal swabs were taken. They were submitted to qRT-PCR assay targeting 2 genes of SARS-CoV-2.
+One cat tested positive by qRT-PCR on rectal swab, and this was confirmed by the OIE collaborating centre at the Pasteur Institute. Nasopharyngeal swabs from this animal were tested negative. This cat showed mild respiratory and digestive signs.
+This study reports for the first time the natural infection of a cat in France (near Paris), probably through their owners. There is currently no evidence that cats can be a source of COVID-19, and owners should not abandon their pets or compromise their welfare.
+A more detailed publication will soon be submitted.
+Authors: Corinne Sailleau, Marine Dumarest, Jessica Vanhomwegen, Bernard Klonjkowski, Valerie Caro, Jean-Claude Manuguerra, Stephan Zientara, Sophie Lepoder
+--
+Communicated by:
+Stephan Zientara
+Deputy Head, Animal Health Laboratory-ANSES
+Head, JRU Virology 1161 ANSES/INRAE/ENVA
+94700 Maisons Alfort, France
+<stephan.zientara@anses.fr>
+[We are grateful to Dr. Zientara and his colleagues for this firsthand information.
+The above preliminary report provides the qRT-PCR test results of a naturally infected cat owned by a person suspected as being infected by SARS-CoV-2. Notably, nasopharyngeal swabs from this animal tested negative, whereas rectal swabs were positive. This cat showed mild respiratory and digestive signs. The number of additional tested cats (owned by people "previously suspected of being infected with COVID-19") is not specified.
+The 1st SARS-CoV-2-infected cat was reported from Belgium at the end of March 2020; it was owned by a COVID-19 patient and tested PCR positive ( 
+20200327.7151215
+). The cat presented clinical signs: diarrhea, vomiting and difficulty breathing. A few days later, a cat in Hong Kong, similarly owned by a COVID-19 patient, tested PCR positive, although in this case no clinical signs were detected. This case was officially reported to the OIE ( 
+20200403.7179945
+).
+On 22 Apr 2020, the USA reported to the OIE about 2 cats from separate households in New York with respiratory illness that tested PCR positive for SARS-CoV-2. Both manifested respiratory illness, including sneezing and ocular discharge, and tested negative for other respiratory pathogens. One cat was from a 2-cat household with a known COVID-19-affected person; the other was from a household in an affected neighborhood and allowed to go outdoors.
+A serological investigation addressing cats in Wuhan, China, was reported in a pre-print, not peer-reviewed paper ( 
+20200403.7179946
+). Of the 15 cats testing ELISA-positive, 3 were home-kept (owned by COVID-19 patients); they presented the highest neutralization titers. The other 12 cats came from pet hospitals or were stray cats -- 6 each. No information on clinical signs in any of the tested cats was reported.
+An experimental infection trial, undertaken by HVRI (Harbin, China), revealed that SARS-CoV-2 will infect cats both by inoculation as well as by contact with infected cats (item 2 in  
+20200402.7173286
+).
+The susceptibility of other members of the _Felidae_ family to SARS-CoV-2 became apparent from the detection of infections, including clinical cases, in the Bronx zoo (tiger, lion), which were reported to the OIE ( 
+20200406.7191480
+).
+A possible role of cats in the epidemiology of COVID-19 is yet to be further studied; their infection could rather present a case of anthropozoonosis, namely, infection from human to animal. This, obviously, does not preclude the need to prevent exposure of susceptible humans to infected cats or other pets. Excrements from infected stray cats may, at least theoretically, contribute to environmental contamination. Stray cats should be kept away, as far as possible, from the premises of sheltered facilities for the elderly to protect the health of the inhabitants and their owned pets.
+OIE's guidelines to animal owners, in relation to COVID-19, have been updated 27 Apr 2020. Selected excerpts follow:
+- Can animals be infected with SARS-CoV-2?
+"Dogs, cats (domestic cats and a tiger), and minks have tested positive for SARS-CoV-2 in the field setting, following close contact with infected humans (or humans suspected to be infected with SARS-CoV-2).
+"Studies are underway to better understand the susceptibility of different animal species to SARS-CoV-2 and to assess infection dynamics in susceptible animal species. To date, preliminary findings from studies suggest that poultry and pigs are not susceptible to SARS-CoV-2 infection.
+"Preliminary findings from laboratory studies suggest that, of the animal species investigated so far, cats are the most susceptible species for SARS-CoV-2, and cats can be affected with clinical disease. In the laboratory setting, cats were able to transmit infection to other cats."
+- What precautionary measures should be taken when companion or other animals have close contact with humans suspected or confirmed to be infected with SARS-CoV-2?
+"Currently, there is no evidence that animals are playing a significant epidemiological role in the spread of human infections with SARS-CoV-2. However, because animals and people can sometimes share diseases (known as zoonotic diseases), it is still recommended that people who are suspected or confirmed to be infected with SARS-CoV-2 limit contact with animals.
+"When handling and caring for all animals, basic hygiene measures should always be implemented. This includes hand washing before and after being around or handling animals, their food, or supplies, as well as avoiding kissing, being licked by animals, or sharing food.
+"People who are suspected or confirmed to be infected with SARS-CoV-2 should minimise close direct contact with animals, including farm animals, zoo animals, other captive animals, and wildlife; particularly species which have demonstrated to be susceptible to infection with SARS-CoV-2 [cats, ferrets, dogs]. As good practice, appropriate and effective biosecurity measures should always be practiced when people have contact with groups of animals, e.g., on farms, at zoos, and in animal shelters.
+"When possible, people who are infected with SARS-CoV-2 should avoid close contact with their pets and have another member of their household care for their animals. If they must look after their pets, they should maintain good hygiene practices and wear a face mask if possible. Animals belonging to owners infected with SARS-CoV-2 should be kept indoors as much as possible and contact with those pets should be avoided as much as possible."
+The above and additional useful information is available at 
+https://www.oie.int/en/scientific-expertise/specific-information-and-recommendations/questions-and-answers-on-2019novel-coronavirus/
+. - Mod.AS
+HealthMap/ProMED-mail map:
+Ile-de-France, France: 
+http://healthmap.org/promed/p/15023
+] 
+See Also
+COVID-19 update (141): India, animal, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (138): India, animal, wild tiger, fatal  
+20200428.7275765
+COVID-19 update (135): Netherlands (NB) animal, farmed mink  
+20200427.7272289
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (124): USA (NY) cat, lion, OIE  
+20200423.7259119
+COVID-19 update (123): USA (NY) animal, cat, conf  
+20200422.7256272
+COVID-19 update (113): USA (NY) cats, animals, suspected, RFI  
+20200418.7240811
+COVID-19 update (88): Germany, animals, research, pig, chicken, bat, ferret  
+20200407.7196506
+COVID-19 update (85): USA (NY) tiger, OIE  
+20200406.7191480
+COVID-19 update (84): USA, tigers  
+20200406.7191352
+COVID-19 update (76): China (HU) animal, cat, owned, stray, seropositive  
+20200403.7179946
+COVID-19 update (75): China (Hong Kong) cat, OIE  
+20200403.7179945
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (58): Belgium, cat, clinical case, RFI  
+20200327.7151215
+COVID-19 update (56): China (Hong Kong) animal, dog, final serology positive  
+20200326.7146438
+COVID-19 update (45): China (Hong Kong) animal, dog, 2nd case PCR positive  
+20200319.7112693
+COVID-19 update (37): China (Hong Kong) animal, dog, prelim. serology negative  
+20200312.7081842
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (25): China (Hong Kong) dog, susp, OIE  
+20200302.7040373
+COVID-19 update (22): companion animals, dog susp, RFI  
+20200229.7036661
+COVID-19 update (17): China, animal reservoir, wildlife trade & consumption  
+20200225.7024245
+COVID-19 update (11): animal reservoir, intermediate hosts, pangolin susp  
+20200220.7009213
+COVID-19 update (08): companion animals, RFI  
+20200218.7002276
+COVID-19 update (06): animal reservoir, intermediate hosts  
+20200217.6997782
+.................................................arn/rd/ml

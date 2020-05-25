@@ -1,0 +1,18 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006903420
+ID : GPHN2020050400200
+
+Date : 2020-05-04 09:40:00
+Title : Sentry Model: What is it and how the tool that estimates thousands of coronavirus contagions in Mexico works
+Ariticle : 
+Despite there are 3,181 confirmed cases, it is estimated that at the national level there are 26 thousand 519 cases of the disease, the Undersecretary of Prevention and Promotion of Health, Hugo López-Gatell Ramírez, reported in explaining the Sentinel Surveillance Model used by health authorities in Mexico to analyze the development of the pandemic by COVID-19.
+The health officer explained that this model began to be used in 2006, along with the U.S. Centers for Disease Control (CDC) and the Pan American Health Organization (PAHO), with the aim of learning:
+how the COVID-19 pandemic behaves in Mexico and how control and prevention decisions need to be made according to the reality identified. At the same time, it allows us to assume the reality
+He emphasized that it is not only the confirmed data that exist, because these are the cases that have been visible to the authorities and from there it is possible to estimate "how many are in the population that I did not see"
+The Epidemiological Surveillance Sentinel Model considers both cases that have been confirmed and those that have not come to consultation, since "of what you see, the epidemic is 8 times larger (...) That's why, when we had 12 cases, it was enough to make the decision on massive mitigation measures (against COVID-19)." And this system records the likely real amount of contagion nationwide.
+That is, instead of interrogating the 127 million Mexicans, which would be a titanic and almost impossible task, a sample of thousands is taken to make a statistical inference that allows to calculate the potential dispersion of the disease.
+Of the three thousand and so many we have just reported, there are others who did not come to consultation but these methods allow us to say, with reasonable certainty: there they are
+Estimates are based on data confirmed in the country so far, so the figure exceeds 26 thousand cases. "The number of cases is the minimum piece of information one can have" to estimate the total amount that might exist.
+There are cases that have not been confirmed, but exist in the country (Photo: Cuartoscuro) (Magdalena Montiel/)The model was compared to opinion polls, as they allow to estimate or appreciate in a general way some phenomenon. It uses two components: clinical-epidemiological surveillance and laboratory surveillance, where the current pandemic is considered a list of 14 viruses.
+He compared the statistical model they occupy in Mexico with the "methodological error" of trying to account for all cases, as in other countries. The official explained that mass confirmations leave out those contagions that were not verified for various reasons such as "it was not severe enough to go to a hospital or was very serious and did not even arrive at the hospital, or it arrived at the hospital and was not detected."
+80% of cases in Mexico, people can stay at home and recover for 10 to 14 days, leaving no aftermath and immune to the disease. These cases "are not going to be recorded, but we know it (we recognize them), because we are using a scientific method of surveillance (statistics)".
+Sentry Model

@@ -1,0 +1,16 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006911127
+ID : GPHN2020050600009
+
+Date : 2020-05-05 11:37:00
+Title : Beyond the Spike: identification of viral targets of the antibody response to SARS-CoV-2 in COVID-19 patients
+Ariticle : 
+Advanced Search
+Beyond the Spike: identification of viral targets of the antibody response to SARS-CoV-2 in COVID-19 patients
+Asmaa Hachim, Niloufar Kavian, Carolyn A Cohen, Alex WH Chin, Daniel KW Chu, Chris Ka Pun Mok, Owen TY Tsang, Yiu Cheong Yeung, Ranawaka APM Perera, Leo LM Poon, Malik JS Peiris, Sophie A Valkenburg
+doi: https://doi.org/10.1101/2020.04.30.20085670
+Preview PDF
+Abstract
+Background: The SARS-CoV-2 virus emerged in December 2019 and caused a pandemic associated with a spectrum of COVID-19 disease ranging from asymptomatic to lethal infection. Serology testing is important for diagnosis of infection, determining infection attack rates and immunity in the population. It also informs vaccine development. Although several serology tests are in use, improving their specificity and sensitivity for early diagnosis on the one hand and for detecting past infection for population-based studies, are priorities. Methods: We evaluated the anti-SARS-CoV-2 antibody profiles to 15 SARS-CoV-2 antigens by cloning and expressing 15 open reading frames (ORFs) in mammalian cells and screened antibody responses to them in COVID-19 patients using the Luciferase Immunoprecipitation System (LIPS). Results: The LIPS technique allowed us to detect antibody responses in COVID-19 patients to 11 of the 15 SARS-CoV-2 antigens tested, identifying novel immunogenic targets. This technique shows that antigens ORF3b and ORF8 allow detection of antibody early in infection in a specific manner and reveals the immuno-dominance of the N antigen in COVID-19 patients. Conclusion: Our report provides an unbiased characterization of antibody responses to a range of SARS-CoV-2 antigens. The combination of 3 SARS-CoV-2 antibody LIPS assays, i.e. N, ORF3b, and ORF8, is sufficient to identify all COVID-19 patients of our cohort even at early time-points of illness, whilst Spike alone fails to do so. Furthermore, our study highlights the importance of investigating new immunogens NSP1, ORF3b, ORF7a and ORF8 which may mediate immune functions other than neutralization which may be beneficial or harmful to the patient.
+Competing Interest Statement
+A Hachim, N Kavian, LLM Poon, JSM Peiris and SA Valkenburg have filed a patent application on the basis of the invention described in this study.
+Funding Statement

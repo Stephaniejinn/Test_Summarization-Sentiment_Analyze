@@ -1,0 +1,29 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006899437
+ID : GPHN2020050400060
+
+Date : 2020-05-02 17:17:00
+Title : The promise — and pitfalls — of antibody testing for COVID-19 - Yahoo News
+Ariticle : 
+The promise — and pitfalls — of antibody testing for COVID-19
+Share
+In New York, the number of patients coming to the ER with COVID-19 symptoms has dropped and there is hope that the worst is behind us. As we look to the future, many of my colleagues on the frontline are eager to know if they have antibodies. Our institution, New York Presbyterian Hospital, has offered antibody tests, also known as serologic tests, to all staff that have recovered from suspected or confirmed COVID-19. In the early days of an infection, the immune response is still being developed and antibodies may not be detectable, so only staff who have been symptom-free for at least 14 days are eligible to be tested.
+We are using a qualitative test that gives a yes-no result for the presence of antibodies. The alternative, a quantitative test, can determine the amount of antibody in a sample, also referred to as a titer, which is useful information once researchers determine what is needed for immunity, but a qualitative result gives us the information we need within about a week.
+The test is not infallible. It is around 92 percent “sensitive,” meaning 92 percent of people who were infected with COVID-19 and have antibodies will test positive. It has 87 percent “specificity,” which means that about 87 percent who do not have the antibody will test negative
+Sorting samples for a new COVID-19 antibody test developed by Abbott Laboratories. (AP Photo/David J. Phillip)
+More
+Here are two examples of how testing has played out among my colleagues:
+Confirmed COVID-19 infection and a negative antibody test:  A 28-year-old physician’s assistant I work alongside developed a runny nose, cough and body aches in late March. Her COVID-19 PCR test — the nasal-swab test, which directly detects the presence of the virus — was positive. And yet, after four symptom-free weeks, her antibody test is negative, leading her to wonder: “I definitely had it. How does this make any sense?”
+The doctor who gave her the results shared that he’s seen many patients with the same odd story: either the test was wrong (in other people this may occur if the test was done too early) or she failed to develop protective immunity.
+The FDA has approved four antibody tests through Emergency Use Authorizations, and, given the scope of the pandemic, nearly 100 “unapproved” tests that meet certain criteria are also available.
+There is considerable variation across antibody tests in how accurately they can confirm exposure to SARS CoV2, the virus that causes COVID-19. A few tests have failed to identify up to a third of previously infected patients.
+We are still in the early rollout of serologic testing, and resolving technical issues requires trial and error. Over time it is fair to expect that the accuracy of antibody tests will improve.
+AP Photo/David J. Phillip
+More
+Suspected COVID-19 infection and a positive antibody test: A 44-year-old colleague shares a different story. He returned from a medical mission in sub-Saharan Africa with fevers, a dry cough and muscle aches several weeks before the first confirmed case in New York, which was on March 1. His influenza test came back negative and he decided to self-quarantine, despite eye rolls from his family. On Thursday, his antibody test was positive. His reaction: “I knew it!”
+Another doctor shrugs: He could have caught it in the ER weeks later when we were overrun with COVID-19 patients and never developed symptoms. But in either case, he now has antibodies, and the possibility he is protected against reinfection is great news.
+While preliminary data is promising, infection does not guarantee immunity. In people with a healthy immune system, viral infections trigger the production of multiple different antibodies — some may protect against reinfection, others won’t. We do not yet understand which antibodies, if any, will prevent COVID-19 reinfection. Furthermore, if true immunity develops, it is unclear how long it will last. In other human coronavirus infections, protection ranges from around one to three years.
+On an individual level, there is much to be learned, and public health experts have cautioned against using the results of serologic testing to make decisions about staffing and the need for personal protective equipment. Despite the challenges, antibody testing is valuable for understanding what proportion of the population has been infected, which can guide policy decisions at the population level.
+Ashita Batavia, MD, MSc, (Instagram: @ashita_batavia) is a board-certified infectious diseases specialist and public health expert at Lawrence Hospital NYPH-Columbia.
+_____
+Click here for the latest coronavirus news and updates. According to experts, people over 60 and those who are immunocompromised continue to be the most at risk. If you have questions, please refer to the CDC’s and WHO’s resource guides. 
+Read more:

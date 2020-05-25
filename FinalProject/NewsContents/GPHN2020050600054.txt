@@ -1,0 +1,19 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006912553
+ID : GPHN2020050600054
+
+Date : 2020-05-05 19:38:00
+Title : Man-made antibody 'neutralizes' coronavirus for first time, study shows
+Ariticle : 
+Published 3 hours ago
+Though there is currently no known scientific cure for the disease known as COVID-19, researchers have created an antibody "that neutralizes SARS-CoV-2" in cells, offering the potential for prevention and treatment.
+The study notes the antibody, known as 47D11, was created in a lab environment and was able to inhibit the spike protein found in SARS-CoV-2, the virus that causes COVID-19, as well as SARS-CoV.
+"Our data show that 47D11 neutralizes SARS-CoV and SARS-CoV-2 through a yet unknown mechanism that is different from receptor-binding interference," the researchers wrote in the study. "Alternative mechanisms of coronavirus neutralization by RBD-targeting antibodies have been reported including spike inactivation through antibody-induced destabilization of its prefusion structure17, which may also apply for 47D11."
+ISARS-CoV is also known as severe acute respiratory syndrome (SARS), which first surfaced in 2002 in China and resulted in the 2002-2004 outbreak of the virus.
+The virus, linked to horseshoe bats, resulted in 774 known deaths, according to the Centers for Disease Control and Prevention.
+The 47D11 antibody is known as a monoclonal antibody, which has been used for cancer drugs previously, according to the Mayo Clinic.
+Monoclonal antibodies are defined as "laboratory-produced molecules engineered to serve as substitute antibodies," the Mayo Clinic added.
+It's early in the development process of any potential drug, but it's promising nonetheless, the researchers noted.
+"...This is the first report of a (human) monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike RBD explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor-binding inhibition," the researchers wrote.
+The researchers continued: "This antibody will be useful for development of antigen detection tests and serological assays targeting SARS-CoV-2. Neutralizing antibodies can alter the course of infection in the infected host supporting virus clearance or protect an uninfected host that is exposed to the virus. Hence, this antibody – either alone or in combination – offers the potential to prevent and/or treat COVID-19, and possibly also other future emerging diseases in humans caused by viruses from the Sarbecovirus subgenus."
+The study was published in the scientific journal Nature Communications.
+As of Tuesday morning, more than 3.6 million coronavirus cases have been diagnosed worldwide, more than 1.18 million of which are in the U.S., the most impacted country on the planet.

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300027
+
+Date : 2020-05-01 00:00:00
+Title : COVID-19: France daily death toll reaches a low of 166
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:France
+Cases:218 deaths
+Description:COVID-19: France daily death toll reaches a low of 166

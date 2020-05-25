@@ -1,0 +1,266 @@
+URL : https://promedmail.org/promed-post/?id=7290671
+ID : PROM2020050200007
+
+Date : 2020-05-02 09:10:07
+Title : PRO/AH/EDR> COVID-19 update (150): global, USA state prisons, WHO
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (150): GLOBAL, USA PRISONS, WHO
+***************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Global update: Worldometer accessed 1 May 2020 22:04 EDT [GMT-4]
+[2] New countries/territories confirming cases (none)
+[3] USA (Ohio): prison outbreaks
+[4] WHO situation report 102 (as of 1 May 2020)
+******
+[1] Global update: Worldometer
+Date: Fri 1 May 2020 accessed 22:04 EDT [GMT-4]
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+[Please note that the table's entries for 29 Apr 2020 have been updated in many cases, as many daily counts had not been posted at the time of preparation of this table. - Mod.MPP]
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 26 Apr 2020 / 27 Apr 2020 / 28 Apr 2020 / 29 Apr 2020 / 30 Apr 2020 / 1 May 2020 / Country
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 830 / 82 836 / 82 858 / 82 862 / 82 874 / 82 875 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 738 / 10 752 / 10 761 / 10 765 / 10 774 / 10 780 / South Korea
+Countries with major activity (more than 5000 cases with community spread)
+--------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 987 160 / 1 010 356 / 1 035 765 / 1 045 717 / 1 095 023 / 1 131 280 / USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 226 629 / 229 422 / 232 128 / 236 899 / 239 639 / 242 988 / Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 197 675 / 199 414 / 201 505 / 203 591 / 205 463 / 207 428 / Italy
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 152 840 / 157 149 / 161 145 / 165 221 / 171 253 / 177 454 / UK
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 162 100 / 165 842 / 165 911 / 166 420 / 167 178 / 167 346 / France
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 157 770 / 158 758 / 159 912 / 160 479 / 163 009 / 164 077 / Germany
+11 Mar 2020: 1 / ... / N/A /... / 15 679 / ... / 110 130 / 112 261 / 114 653 / 117 589 / 120 204 / 122 392 / Turkey
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 80 949 / 87 147 / 93 558 / 99 399 / 106 498 / 114 431 / Russia
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 90 481 / 91 472 / 92 584 / 93 657 / 94 640 / 95 646 / Iran
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 63 100 / 66 501 / 73 235 / 73 235 / 87 187 / 92 109 / Brazil
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 46 895 / 48 500 / 50 026 / 50 373 / 53 236 / 55 061 / Canada
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 46 134 / 46 687 / 47 334 / 47 859 / 48 519 / 49 032 / Belgium
+6 Mar 2020: 1 / ... / N/A / ... / 1323 /... / 27 517 / 28 699 / 33 931 / 31 190 / 36 976 / 40 459 / Peru
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 37 845 / 38 245 / 38 416 / 38 802 / 39 316 / 39 791 / Netherlands
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 27 890 / 29 451 / 31 324 / 31 787 / 34 863 / 37 257 / India
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 061 / 29 164 / 29 264 / 29 407 / 29 586 / 29 705 / Switzerland
+29 Feb 2020: 1 / 6 / ... / 2758 / ... / 22 719 / 23 240 / 24 258 / 24 675 / 24 934 / 26 336 / Ecuador
+2 Mar 2020: 2 / ... / N/A / ... / 8251 / ... / 23 864 / 24 027 / 24 322 / 24 505 / 25 045 / 25 351 / Portugal
+2 Mar 2020: 1 / ... / N/A / ... / 1720 / ... / 17 522 / 18 811 / 20 077 / 21 402 / 22 753 / 24 097 / Saudi Arabia
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 18 640 / 18 926 / 19 621 / 20 302 / 21 092 / 21 520 / Sweden
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 19 262 / 19 648 / 19 877 / 20 253 / 20 612 / 20 833 / Ireland
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 14 677 / 15 529 / 16 752 / 17 799 / 19 224 / 20 739 / Mexico
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 13 328 / 13 915 / 14 612 / 15 289 / 16 817 / 18 114 / Pakistan
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 13 624 /14 423 / 14 951 / 15 641 / 16 169 / 17 101 / Singapore
+3 Mar 2020: 1 / ... / N/A / ... / 3031 / ... / 13 331 / 13 813 / 14 365 / 14 885 / 16 023 / 17 008 / Chile
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 15 443 / 15 555 / 15 728 / 15 782 / 15 946 / 16 101 / Israel
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 225 / 15 274 / 15 357 / 15 402 / 15 452 / 15 531 / Austria
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 10 463 / 11 289 / 12 208 / 13 181 / 14 027 / 14 917 / Belarus
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 13 441 / 14 153 / 13 736 / 13 895 / 14 088 / 14 305 / Japan
+29 Feb 2020: 1 / 3 / ... / 835 / ... / 10 287 / 11 244 / 11 921 / 12 564 / 13 409 / 14 096 / Qatar
+3 Mar 2020: 1 / ... / N/A / ... / 2554 / ... / 11 617 / 11 902 / 12 218 / 12 640 / 12 877 / 13 105 / Poland
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 10 349 / 10 839 / 11 380 / 11 929 / 12 481 / 13 038 / United Arab Emirates
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 11 036 / 11 339 / 11 616 / 11 978 / 12 240 / 12 567 / Romania
+3 Mar 2020: 1 / ... / N/A / ... / 794 / ... / 8617 / 9009 / 9410 / 9866 / 10 406 / 10 861 / Ukraine
+2 Mar 2020: 2 / ... / N/A / ... / 1677 / ... / 8882 / 9096 / 9511 / 9771 / 10 118 / 10 551 / Indonesia
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 8575 / 8698 / 8851 / 9008 / 9158 / 9311 / Denmark
+6 Mar 2020: 1 / ... / N/A / ... / 1060 / ... / 8042 / 8275 / 8497 / 8724 / 9009 / 9205 / Serbia
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 7579 / 7777 / 7958 / 8212 / 8488 / 8772 / Philippines
+8 Mar 2020: 3 / ... / N/A / ... / 54 / ... / 5416 / 5913 / 6462 / 7103 / 7667 / 8238 / Bangladesh
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7527 / 7599 / 7660 / 7680 / 7738 / 7783 / Norway
+1 Mar 2020: 3 / ... / N/A / 3589 / ... / 7404 / 7445 / 7504 / 7563 / 7682 / 7737 / Czech Republic
+1 Mar 2020: 1 / ... / N/A / ... / 1284 / ... / 6135 / 6293 / 6416 / 6652 / 6972 / 7288 / Dominican Republic
+6 Mar 2020: 1 / ... / N/A / ... /1065 /... / 5379 / 5597 / 5949 / 6207 / 6507 / 7006 / Colombia
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6719 / 6725 / 6738 / 6746 / 6766 / 6767 / Australia
+10 Mar 2020: 1 / ... / N/A / ... / 1317 / ... / 5779 / 6021 / 6021 / 6200 / 6532 / 6720 / Panama
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 5780 / 5820 / 5851 / 5945 / 6002 / 6071 / Malaysia
+5 Mar 2020: 1 / ... / N/A / ... / 1380 / ... / 4546 / 4793 / 4996 / 5450 / 5647 / 5951 / South Africa
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 4534 / 4782 / 5042 / 5268 / 5537 / 5895 / Egypt
+2 Feb 2020: 1 / ... / 6 / ... / 1446 / ... / 4576 / 4695 / 4740 / 4906 / 4995 / 5051 / Finland
+[In the table above, N/A is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+Countries and territories with more than 1000 cases:
+Morocco, Argentina, Kuwait, Algeria, Moldova, Luxembourg, Kazakhstan, Bahrain, Thailand, Hungary, Greece, Oman, Afghanistan, Armenia, Nigeria, Iraq, Uzbekistan, Croatia, Ghana, Azerbaijan, Cameroon, Iceland, Bosnia and Herzegovina, Estonia, Bulgaria, Cuba, Guinea, North Macedonia, New Zealand, Slovenia, Slovakia, Lithuania. Cote d'Ivoire, Bolivia, Djibouti, Hong Kong, Senegal
+Countries with more than 500 cases (and less than 1000):
+Tunisia, Honduras, Latvia, Cyprus, Albania, Kyrgyzstan, Andorra, Lebanon, Niger, Costa Ria, Sri Lanka, Burkina Faso, Uruguay, Guatemala, Congo DR, Somalia, Georgia, San Marino, Mayotte, Channel Islands, Sudan, Mali
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Algeria, Guinea, Croatia, Belgium, Oman, Somalia, Cameroon, Armenia, Slovenia, Gabon, Belarus, Tanzania, Sudan, El Salvador, Mali, Kazakhstan, Cuba, Azerbaijan, Bulgaria, Togo, Moldova, Afghanistan, Bosnia and Herzegovina, Albania, Lithuania, Congo DR, Jamaica, Hungary, Honduras, Maldives, Sierra Leone, Chad, Tajikistan, Paraguay, Guinea-Bissau, Benin, Central African Republic
+Total number of reported deaths: 239 586
+Total number of worldwide cases: 3 317 799
+Number of newly confirmed cases in past 24 hours: 92 630
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is 3 317 799, with reports of cases by 216 countries and territories worldwide. The total number of confirmed cases reported from outside China now represents 97.5% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with over 1 million confirmed cases now represents 34.1% of the global cases of COVID-19. A global total of 239 586 deaths have been reported, 234 953 (98.1%) outside mainland China.
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by the UK, France, Germany, Turkey, Russia, Iran, and Brazil as number 10. China is now number 11. Russia has the highest number of newly confirmed cases in the past 24 hours (7933) followed by the UK (6201).. - Mod.MPP]
+******
+[2] New countries/territories confirming cases (none)
+Date: Fri 1 May 2020
+No newly identified countries with 1st cases of COVID-19 confirmed.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[As of 1 May 2020, 216 countries and territories have reported COVID-19 cases; 22 countries have not reported any cases. - Mod.MPP]
+******
+[3] USA (Ohio): prison outbreaks
+Date: Thu 30 Apr 2020
+Source: Ohio Capital Journal [edited]
+https://ohiocapitaljournal.com/2020/04/30/31-dead-thousands-infected-in-ohio-prisons-counts-climb-at-five-facilities/
+The outbreaks in Ohio's prisons worsened Wednesday [29 Apr 2020] as COVID-19 illnesses turned to deaths in 2 facilities and a newer outbreak snowballed in another. 2 prison workers and 29 inmates have died since officials detected the new coronavirus that causes the disease in the prison system [29 Mar 2020]. A spokeswoman for the Ohio Department of Rehabilitation and Corrections [ORC] said Wednesday [29 Apr 2020] another 97 are hospitalized.
+The deaths mostly trace back to Marion Correctional Institution, where nearly 80% of the 2500 inmates have confirmed cases; and Pickaway Correctional Institution, where nearly 75% of the 2000 inmates have confirmed cases. Mass testing at the 2 facilities in early April [2020] shined a light on just how deeply the new coronavirus penetrated the 2 facilities. Both prisons, like many in Ohio, are overcrowded, rendering social distancing nearly impossible.
+Statewide, nearly 3900 of the state's 49 000 inmates have confirmed cases. About 170 have recovered. At least 419 prison workers have confirmed cases, 124 of whom have recovered. Now, Belmont Correctional Institution looks to be in increasingly bad shape, with 39 confirmed cases and 6 tests pending. The facility had virtually no cases present as recently as about 2 weeks ago. Prison planning documents and recent population reports show the Belmont facility houses 150% of the inmates it's designed for.
+An inmate who said he's eligible for release to a halfway home in October 2020, said he's bracing for becoming infected. With the crowded facility, lack of hygienic supplies, shared bathrooms and showers, and communal eating, he said there's no way to execute social distancing in prison. "We can lay on our racks and hold each other's hands. That's how close we are together," he said in an interview.
+Making matters worse, he alleged that the prison is only conducting testing after inmates in the general area exhibit a fever. If they show a fever, they're quarantined with people with confirmed cases. Meaning even if they test negative, the prison authorities are housing them with the positive cases. "It doesn't matter if we have it or not, if we got a temperature of 101 deg F [38.3 deg C], they're taking us out of there and putting us with the guys that do have it," he said. "That's how we catch it."
+ORC spokeswoman JoEllen Smith said there's a particular unit at Belmont where contract tracing of positive cases determined all residents "had exposure and [are] likely positive." She said the unit is being quarantined. She did not respond when asked how many live in this unit. "Social distancing is uniquely challenging within a correctional environment," Smith said. "Congregate settings such as prisons are vulnerable to the spread of viruses, which is why we began limiting movement well before we had our first confirmed case. Most of the time, the physical layout of a correctional facility does not lend itself to isolating every inmate at all times, especially in lower level facilities where there is dormitory style living."
+Although Gov Mike DeWine has said in the past that inmates in any "hotspot" prison would undergo mass testing, a prison spokeswoman did not respond when asked if this would occur at Belmont. 2 other prisons are experiencing outbreaks as well. At the Correctional Reception Center, 44 inmates and 11 prison workers have confirmed cases. At Franklin Medical Center, 108 inmates have confirmed cases, 2 of whom have died. 74 workers have confirmed cases as well.
+Statewide, more than 17 000 Ohioans have confirmed and probable cases of COVID-19, 937 of whom have died.
+[Byline: Jake Zuckerman]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[Outbreaks in prisons have been reported worldwide and reflect the close quarters inmates live in and the proximity of the guards as well. In some countries political prisoners were released early. The 75% and 80% attack rates in 2 of the prisons are sobering statistics about the ease of spread and infectivity of this virus in ideal settings for transmission. A much higher attack rate than has been seen on cruise ships and military ships. - Mod.MPP
+HealthMap/ProMED-mail map of Ohio, United States: 
+http://healthmap.org/promed/p/237
+]
+******
+[4] WHO situation report 102 (as of 1 May 2020)
+Date: Fri 1 May 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200501-covid-19-sitrep.pdf
+*The situation report includes information provided by national authorities as of 10:00 CEST, 1 May 2020
+Highlights
+----------
+- Two new Member States (Comoros and Tajikistan) reported cases of COVID-19 in the past 24 hours.
+- The 3rd meeting of the Emergency Committee was convened by the WHO Director-General under the International Health Regulations (2005) (IHR) regarding COVID-19 (
+https://www.who.int/news-room/detail/01-05-2020-statement-on-the-third-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-coronavirus-disease-(covid-19)
+).
+- The WHO Regional Director for Europe, Dr Hans Henri P Kluge mentioned that "we will defeat COVID-19 by disseminating knowledge in all transparency, by personalized support in the field and by unfailing solidarity" (
+http://www.euro.who.int/en/media-centre/sections/statements/2020/statement-through-transparent-knowledge-sharing,-tailored-support-on-the-ground,-and-steadfast-solidarity-we-will-beat-covid-19
+) . In another statement, he emphasized that "we cannot allow the impact of COVID-19 to be amplified by neglecting other vital health protection measures" (
+http://www.euro.who.int/en/about-us/regional-director/statements/statement-we-cannot-allow-the-impact-of-covid-19-to-be-amplified-by-neglecting-other-vital-health-protection-measures
+).
+- The WHO Regional Office for the Americas urged health authorities to take specific steps to protect healthcare workers and communities during essential immunization activities throughout the COVID-19 pandemic (
+https://www.paho.org/en/news/29-4-2020-health-care-workers-must-be-protected-while-vaccinating-during-covid-19-pandemic
+).
+- WHO virtually convened vaccine manufacturers and national regulatory authorities from its South East Asia Region to discuss COVID-19 vaccines (
+https://www.who.int/southeastasia/news/detail/29-04-2020-who-convenes-manufacturers-regulatory-authorities-meet-on-covid-19-vaccines
+).
+- In the 'subject in focus' below, we describe WHO's work to ensure that shipping and seafarers can continue to deliver vital goods, including medical supplies and food during the COVID-19 pandemic.
+Subject in focus: partnership coordination to facilitate ship movements during COVID-19, including the issuance of Ship Sanitation Certificates
+--------------------------------------------------------------------------------
+On [22 Apr 2020] the Directors-General of the World Health Organization (WHO) and the International Labour Organization (ILO) and the Secretary-General of the International Maritime Organization (IMO) issued a joint statement on medical certificates of seafarers, ship sanitation certificates and medical care of seafarers in the context of the COVID-19 pandemic. WHO, IMO, and the ILO, in cooperation with international seafarers' and ship-owners' organizations, are working together to ensure the ability of shipping and seafarers to continue to deliver vital goods, including medical supplies and food (
+https://www.who.int/docs/default-source/coronaviruse/2020-04-22-ilo-who-imo-joint-statement-on-medical-certificates-of-seafarers-ship-sanitation-certificates-22-april-sg-(003).pdf?sfvrsn=6afdd464_2
+).
+In the statement, the 3 organizations strongly encourage governments to facilitate ship movements, including docking, crew changes, ship inspection, and the issuance of Ship Sanitation Certificates (SSDs) during the COVID-19 pandemic.
+Under the framework of the International Health Regulations (IHR) (2005), State Parties are required to authorize ports to conduct ship inspections and issue Ship Sanitation Certificates, as well as to provide the services referred to in Annex 1 of the IHR, which expands on an important set of core capacities for points of entry. The scope of the application of SSDs is delineated in the WHO Handbook for inspection of ships and issuance of ship sanitation certificates (
+https://apps.who.int/iris/bitstream/handle/10665/44594/9789241548199_eng.pdf
+). A ship without a valid SSC (such as carrying an expired SSC) is considered an 'affected' ship and is subject to health measures, as deemed necessary by the health authorities, to prevent the spread of diseases.
+The SSDs are valid for a maximum period of 6 months and this period may be extended by 1 month if the inspection or control measures required cannot be accomplished at the port. However, in the current situation, renewals of SSDs may not be possible at ports due to port closures and other restriction measures put in place by countries. This in turn could impede the movement of ships as ships without SSDs are considered 'affected'. To facilitate the renewal of ship sanitation certificates and prevent unnecessary interference to international maritime traffic, extraordinary temporary measures have been introduced. These are referred to in the joint statement with regard to the renewal of SSDs, as well as ship inspections, and protective measures against COVID-19.
+Surveillance
+------------
+[The following data come from "Situation in numbers" The regional case totals are inclusive of China. - Mod.MPP]
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 148 838 (1095) / 6127 (33)
+European Region (61): 1 461 404 (26 764) / 138 200 (2239)
+South East Asia Region (10): 57 088 (3067) / 2174 (86)
+Eastern Mediterranean Region (22): 188 585 (6168) / 7598 (151)
+Region of the Americas (54): 1 291 917 (45 727) / 69 087 (3859)
+African Region (48): 26 663 (1950) / 973 (35)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 3 175 207 (84 771) / 224 172 (6403)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[With the addition of Tajikistan (European region) and Comoros (African region), the number of countries and territories reporting confirmed cases of COVID-19 is now 214. This includes 19 countries (including 4 territories) from the Western Pacific region, 61 countries (including 7 territories) from the European region, 10 countries from the Southeast Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 48 countries (including 2 territories) from the African region.
+In the 24 hours since the last WHO update:
+----------------------------------------
+The Americas region reported 45 727 new cases (53.9% of the global newly reported cases) and 3859 deaths (60.3% of the global newly reported deaths). Of the newly confirmed cases in the region, 68.6% were reported by the USA, followed by Brazil at 13.7%, Peru at 5.9%, and Canada at 3.7%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 43.7% of the newly reported cases in the region, followed by Peru at 19.1%, Canada at 11.8%, Chile at 7.9%, Mexico at 7.3%, and the Dominican Republic at 2.2%.
+The European region reported 26 764 new cases (31.6% of the global newly reported cases) and 2239 deaths (35.0% of the global newly reported deaths). Russia reported 29.6% of the newly confirmed cases in the region, the UK 22.5%, Turkey 9.8%, Italy 7.0%, and France 3.9%.
+The Eastern Mediterranean region reported 6168 new cases (7.3% of the global newly reported cases) and 151 deaths (2.4% of the global newly reported deaths). Saudi Arabia reported 21.9% of the regional newly reported cases, followed by Pakistan at 17.2%, Iran at 15.9%, Qatar 13.7%, and the United Arab Emirates at 9.0%.
+The African region reported 1950 new cases (2.3% of the global newly reported cases) and 35 deaths (0.55% of the global newly reported deaths). Ghana reported 20.7% of the newly reported cases in the region in the past 24 hours, followed by Nigeria at 20.5%, South Africa at 15.2%, Algeria at 8.1%, and Guinea at 7.4%.
+The Western Pacific region reported 1095 new cases (1.3% of the global newly reported cases) and 33 deaths (0.52% of the global newly reported deaths). Singapore reported 48.2% of the newly reported cases, followed by the Philippines at 25.2%, Japan at 17.6%, and Malaysia at 5.2%.
+The South East Asia region reported 3067 new cases (3.6% of the global newly reported cases) and 86 deaths (1.3% of the global newly reported deaths). India reported 65.0% of newly reported cases, followed by Bangladesh at 18.4% and Indonesia at 11.3%. Removing India from the denominator, Bangladesh represents 52.5% of the newly reported cases, Indonesia represents 32.3%, and the Maldives 13.0%.
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region through (1 May 2020) at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend.
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP] 
+See Also
+COVID-19 update (149): France (IF) animal, cat, owned  
+20200501.7289409
+COVID-19-update (148): China, South Korea, countries w/ high local transmission  
+20200501.7287311
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI  
+20200430.7286479
+COVID-19 update (147): global, contact tracing China, new countries, WHO  
+20200501.7287216
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology  
+20200501.7286113
+COVID-19 update (145): USA, home remedy, bleach/household cleansers  
+20200430.7282290
+Undiagnosed pediatric inflammatory syndrome: UK, COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (144): China, South Korea, countries w/ high local transmission  
+20200430.7284979
+COVID-19 update (143): USA (NY) animal, zoo, tiger, lion, tests  
+20200430.7284183
+COVID-19 update (142): global, care home, WHO  
+20200430.7281182
+COVID-19 update (141): India, animal, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (140): China, South Korea, countries w/ high local transmission  
+20200429.7278751
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) animal, dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................sb/mpp/mj/ml
