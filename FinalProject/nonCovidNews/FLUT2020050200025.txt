@@ -1,0 +1,80 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/genetics-aa/856254-j-chin-med-assoc-genomic-analysis-and-comparative-multiple-sequence-of-sars-cov2
+ID : FLUT2020050200025
+
+Date : 2020-05-01 16:58:16
+Title : J Chin Med Assoc. Genomic Analysis and Comparative Multiple Sequence of SARS-CoV2
+Ariticle : 
+																							
+
+J Chin Med Assoc.
+ 2020 Apr 27. doi: 10.1097/JCMA.0000000000000335. [Epub ahead of print]
+
+Genomic Analysis and Comparative Multiple Sequence of SARS-CoV2.
+
+
+
+Chang TJ
+1,
+2
+, 
+Yang DM
+3,
+4,
+5
+, 
+Wang ML
+6,
+7
+, 
+Liang KH
+7,
+8
+, 
+Tsai PH
+9
+, 
+Chiou SH
+9,
+10
+, 
+Lin TH
+11,
+12
+, 
+Wang CT
+13,
+14
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+
+China announced an outbreak of new coronavirus in the city of Wuhan on December 31, 2019; lash to now, the virus transmission has become pandemic worldwide. Severe cases from Huanan Seafood Wholesale market in Wuhan were confirmed pneumonia with a novel coronavirus. (2019-nCoV). Understanding the molecular mechanisms of genome selection and packaging is critical for developing antiviral strategies. Thus, we defined the correlation in ten SARS-CoV2 sequences from different countries to analyze the genomic patterns of disease origin and evolution aiming for development new control pandemic processes.
+
+METHODS:
+
+We apply genomic analysis to observe SARS-Co-V2 sequences from GenBank (http:// 
+www.ncbi.nim.nih.gov/genebank/):
+ MN 908947 China, C1), MN985325 (USA:WA, UW), MN996527 (China, C2), MT007544 (Australia:Victoria, A1), MT027064 (USA:CA, UC), MT039890 (South Korea, K1), MT066175 (Taiwan,T1), MT066176 (Taiwan, T2), LC528232 (Japan, J1), and LC528233 (Japan, J2) for genomic sequence alignment an analysis. Multiple Sequence Alignment by Clustalw (
+https://www.genome.jp/tools-bin/clustalw
+) web is applied as our alignment tool.
+
+RESULTS:
+
+We analyze ten sequences from NCBI database by genome alignment and find no difference in amino acid sequences within M and N proteins. There are two amino acid variances in Spike protein region. One mutation found from south Korea sequence is verified. Two possible "L" and "S" SNP found in ORF1ab and ORF8 regions are detected CONCLUSION:: We perform genomic analysis and comparative multiple sequence of SARS-CoV-2. Studies about the biological symptoms of SARS-CoV-2 in clinic animal and humans will manipulate an understanding the origin of pandemic crisis.
+
+
+
+PMID:32349035DOI:
+10.1097/JCMA.0000000000000335
+
+													

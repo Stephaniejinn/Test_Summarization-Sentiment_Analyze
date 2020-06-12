@@ -1,0 +1,15 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868735
+ID : GPHN2020042900162
+
+Date : 2020-04-28 22:49:00
+Title : Peptides and Proteins - Proteome; PCV2 aggravated SS2 infection directly showed from differentially expressed proteome of PK15 cells. (Published February 26, 2020)
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- By a News Reporter-Staff News Editor at Life Science Weekly - According to news reporting based on a preprint abstract, our journalists obtained the following quote sourced from biorxiv.org:
+“PCV2 and SS2 were clinically two major pathogens in pigs and they were zoonotic pathogens.
+“There was extensive cellular tropism for both PCV2 and SS2, as well as, PK15 cells was PCV2 infection mainly cell model. It was found that when PCV2 infected PK15 cells before at the MOI=0.1, SS2 could cause more damage to PK15 cells. ITRAQ labeling proteomic technology was used to explore the differentially expressed proteome of PCV2 and SS2 single infection and co-infection in PK15 cells.
+“The results showed that there were total 4736 proteins distinct changed in this infection models for PK15 cells. PCV2 aggravated SS2 infection were showed directly in the big amount of differentially expressed proteins like AGO3, OSBPL1A, ALB, RIC8A, UBL4A, INTS5 and so on. For the KEGG pathway analysis, it indicated that PCV2 mainly induced the proteins lessen though a series of disease pathway like metabolic pathways, huntingtons disease, insulin signaling pathways, long-term depression, etc. to make cell at a state of compensation. PCV2 before infection made the cells was on the chopping block. Contemporary, SS2 induced the proteins of PK15 rapidly changing, including pathways like spliceosome, endoplasmic reticulum, tight junction, actin cytoskeleton and some involved in parasitic infections pathways like ECM-receptor interaction, Leishmaniasis, Toxoplasmosis and so on. Simultaneously, PCV2 and SS2 existed common ground that they influence PK15 cell by some virulence factor interacted with cytomembrane, influenced the function of ribosome and tRNA.
+“The role of SS2 in the co-infection like a cook chopper.”
+This preprint may not have been peer-reviewed. For more information on this research see: biorxiv.org/content/10.1101/2020.02.24.962738v1
+Keywords for this news article include: Peptides and Proteins, Proteins, Proteome.
+Keywords for this news article include: Peptides and Proteins - Proteome.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

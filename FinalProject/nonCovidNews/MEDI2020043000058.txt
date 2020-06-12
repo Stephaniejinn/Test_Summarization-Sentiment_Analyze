@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000058
+
+Date : 2020-04-25 00:00:00
+Title : Zimbabwe: Health Officials Panic Over Hwange Surge in Malaria Cases
+Ariticle : 
+Disease:Malaria
+Time:2020.04.19-2020.04.25
+Location:Zimbabwe
+Cases:At least 131 people
+Description:Zimbabwe: Health Officials Panic Over Hwange Surge in Malaria Cases

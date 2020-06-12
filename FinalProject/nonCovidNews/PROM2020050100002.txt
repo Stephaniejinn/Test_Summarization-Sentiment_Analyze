@@ -1,0 +1,80 @@
+URL : https://promedmail.org/promed-post/?id=7282717
+ID : PROM2020050100002
+
+Date : 2020-04-30 11:48:26
+Title : PRO/AH/EDR> West Nile virus (02): Americas (Brazil)
+Ariticle : 
+WEST NILE VIRUS (02): AMERICAS (BRAZIL)
+***************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Tue 28 Apr 2020 10:21 BRT
+From: G1 [in Portuguese trans. Mod.TY, edited]
+https://g1.globo.com/pi/piaui/noticia/2020/04/28/piaui-registra-o-7o-caso-de-febre-do-nilo-ocidental.ghtml
+The Piaui state Secretariat of Health [SESAPI] announced this Tuesday [28 Apr 2020] that the state registered another case of West Nile fever. The patient is a young adult who presented a clinical picture of meningoencephalitis and was hospitalized in the Natan Portela Institute of Tropical Diseases.
+According to SESAPI, the hospital admission occurred in February 2020. The patient was released with a better clinical picture. The patient lives in the urban zone of Agua Branca, but his symptoms began during a stay in Sao Paulo.
+This is the 7th case of West Nile fever diagnosed in Piaui. The other 6 cases correspond to patients residing in the municipalities of Aroeiras do Itaim (2014), Picos (2017), Piripiri (2017), Lagoa Alegre (2019), Teresina (2019), and Amarante (2019). Cases in animals [horses?] were registered in Brazil in the states of Espirito Santo (2018), Ceara (2019), and Sao Paulo (2019).
+SESAPI stated that since 2013, all confirmed and suspected cases of the disease are actively monitored. The Natan Portela Institute of Tropical Diseases is the reference [center] for diagnosis and treatment of the cases.
+The preventive measures recommended are similar to those recommended against dengue, Zika, and chikungunya: avoid the proliferation of breeding sites of mosquito vectors.
+Transmission
+------------
+West Nile fever virus infection is transmitted by _Culex_ mosquitoes (a common mosquito). It is an arbovirus like dengue, Zika, and chikungunya [viruses].
+According to the Ministry of Health, there is no available treatment for mild or moderate cases -- the patient stays at rest and drinks liquids. For serious cases, attention in the intensive care unit is necessary.
+Symptoms
+--------
+According to the Ministry of Health, about 20% of individuals with West Nile fever are symptomatic [as follows]:
+- acute fever beginning abruptly, frequently accompanied by malaise;
+- anorexia [loss of appetite];
+- nausea;
+- vomiting;
+- eye pain;
+- headache;
+- muscle pain;
+- maculopapular rash (red spots on the skin) and lymphadenopathy (nodule usually behind the ear).
+--
+Communicated by:
+Centro de Informações Estratégicas em Vigilância em Saúde/CIEVS 
+(Health Surveillance Strategic Information Center) 
+Piauí, Brazil
+<cievs@saude.pi.gov.br>
+[West Nile virus transmission in Piaui and other states in Brazil, beginning in 2014 has continued. The 2014 date is interesting considering that West Nile virus arrived in North America in 1999 and has taken only 15 years or less to reach Brazil. With cases occurring in several states in Brazil in the past 6 years, it is likely that the virus has become established there. The virus has caused cases in South America earlier than that. West Nile virus (WNV) was first reported in South America in equine animals in Colombia in 2004 and in 2006 in horses in Argentina, 5 and 7 years, respectively, after it was introduced into the Americas in New York in 1999. Owners of equine animals would be wise to vaccinate their animals and humans prudent to avoid mosquito bites. No vaccine for humans is available. - Mod.TY
+HealthMap/ProMED-mail map of Brazil: 
+http://healthmap.org/promed/p/9666
+] 
+See Also
+2019
+----
+West Nile virus (43): Americas (Brazil)  
+20191016.6729046
+West Nile virus (03): Americas (Brazil)  
+20190208.6306915
+2018
+----
+West Nile virus (05): Americas (Brazil) equine, OIE  
+20180608.5845490
+2014
+----
+West Nile virus - South America (03): Brazil (PI) equine, human  
+20141224.3052066
+West Nile virus - South America (02): Brazil (PI) conf.  
+20141007.2840309
+West Nile virus - South America: Brazil (PI) susp.  
+20141006.2837004
+West Nile virus, equine - Brazil: (MS) 1st rep  
+20110809.2410
+2006
+----
+West Nile Virus Update 2006 - Western Hemisphere (23): Argentina: 1st case  
+20061228.3642
+West Nile virus, equines - Argentina (03): OIE  
+20060427.1220
+West Nile virus, equines - Argentina (02)  
+20060426.1216
+West Nile virus, equines - Argentina (02)  
+20060425.1204
+West Nile virus - Argentina: equines, RFI  
+20060423.1196
+.................................................ml/ty/mj/ml

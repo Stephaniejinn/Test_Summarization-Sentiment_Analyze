@@ -1,0 +1,73 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/anti-virals-and-anti-viral-resistance/856538-adv-ther-alternative-regimens-of-neuraminidase-inhibitors-for-therapy-of-hospitalized-adults-with-influenza-a-systematic-review-of-randomized-controlled-trials
+ID : FLUT2020050200126
+
+Date : 2020-05-02 11:37:44
+Title : Adv Ther. Alternative Regimens of Neuraminidase Inhibitors for Therapy of Hospitalized Adults with Influenza: A Systematic Review of Randomized Controlled Trials
+Ariticle : 
+																							
+
+Adv Ther.
+ 2020 Apr 28. doi: 10.1007/s12325-020-01347-5. [Epub ahead of print]
+
+Alternative Regimens of Neuraminidase Inhibitors for Therapy of Hospitalized Adults with Influenza: A Systematic Review of Randomized Controlled Trials.
+
+
+
+Tejada S
+1,
+2
+, 
+Campogiani L
+3
+, 
+Solé-Lleonart C
+4
+, 
+Rello J
+5,
+6,
+7
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+INTRODUCTION:
+
+Influenza in hospitalized intensive care unit (ICU) patients with respiratory failure is associated with 25% mortality, despite timely oseltamivir treatment. A systematic review of randomized controlled trials (RCTs) was conducted to evaluate the efficacy and safety of alternative neuraminidase inhibitor (NAI) regimens compared to standard of care in patients hospitalized for H1N1, H3N2, or B influenza.
+
+METHODS:
+
+The Cochrane collaboration searching methods were followed in Cochrane Library, PubMed, and Web of Science databases (2009-2019). Eligibility criteria were RCTs comparing different regimens of NAIs in hospitalized patients (at least 1 year old) for clinically diagnosed influenza (H1N1, H3N2, or B). Pre-defined endpoints were time to clinical resolution (TTCR), overall mortality, hospital discharge, viral clearance, drug-related adverse events (AEs), and serious adverse events.
+
+RESULTS:
+
+Seven trials (1579 patients) were included. Two trials compared two regimens of oral oseltamivir therapy, and one trial compared two regimens of intravenous zanamivir therapy vs oral oseltamivir therapy. Four trials focused on intravenous peramivir therapy: two trials compared two different regimens and two trials compared two different regimens vs oral oseltamivir therapy. Overall, the different regimens were well tolerated, with no significant differences in AEs; nonetheless non-significant differences were reported among different regimens regarding TTCR, mortality, and viral clearance.
+
+CONCLUSION:
+
+Higher compared to standard doses of NAIs or systemic peramivir therapy compared to oral oseltamivir therapy did not demonstrate benefit.
+
+
+
+
+KEYWORDS:
+
+Adverse events; Influenza; Mortality; Neuraminidase inhibitors; Oseltamivir; Peramivir; Zanamivir
+
+
+PMID:32347523PMCID:
+PMC7187665
+DOI:
+10.1007/s12325-020-01347-5
+
+Free PMC Article
+
+													

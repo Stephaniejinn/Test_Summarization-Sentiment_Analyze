@@ -1,0 +1,42 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006907355
+ID : GPHN2020050500118
+
+Date : 2020-05-04 19:52:00
+Title : Intensive farming increases risk of epidemics
+Ariticle : 
+Follow all of ScienceDaily's latest research news and top science headlines !
+Science News
+Intensive farming increases risk of epidemics
+Date:
+University of Bath
+Summary:
+Overuse of antibiotics, high animal numbers and low genetic diversity from intensive farming increase the risk of animal pathogens transferring to humans.
+Share:
+FULL STORY
+Overuse of antibiotics, high animal numbers and low genetic diversity caused by intensive farming techniques increase the likelihood of pathogens becoming a major public health risk, according to new research led by UK scientists.
+advertisement
+An international team of researchers led by the Universities of Bath and Sheffield, investigated the evolution of Campylobacter jejuni, a bacterium carried by cattle which is the leading cause of gastroenteritis in high income countries.
+Campylobacter facts:
+Causes bloody diarrhea in humans
+Transferred to humans from eating contaminated meat and poultry
+Although not as dangerous as typhoid, cholera or E.coli, it causes serious illness in patients with underlying health issues and can cause lasting damage.
+Around 1 in 7 people suffer from an infection at some point in their life
+Causes three times more cases than E.coli, Salmonella and listeria combined
+Carried in the faeces of chickens, pigs, cattle and wild animals
+Campylobacter is estimated to be present in the faeces of 20% cattle worldwide
+The bug is very resistant to antibiotics due to their use in farming
+The researchers, publishing in the journal Proceedings of the National Academy of Sciences, studied the genetic evolution of the pathogen and found that cattle-specific strains of the bacterium emerged at the same time as a dramatic rise in cattle numbers in the 20th Century.
+The authors of the study suggest that changes in cattle diet, anatomy and physiology triggered gene transfer between general and cattle-specific strains with significant gene gain and loss. This helped the bacterium to cross the species barrier and infect humans, triggering a major public health problem.
+Combine this with the increased movement of animals globally, intensive farming practices have provided the perfect environment in which to spread globally through trade networks.
+Professor Sam Sheppard from the Milner Centre for Evolution at the University of Bath, said: "There are an estimated 1.5 billion cattle on Earth, each producing around 30 kg of manure each day; if roughly 20 per cent of these are carrying Campylobacter, that amounts to a huge potential public health risk.
+"Over the past few decades, there have been several viruses and pathogenic bacteria that have switched species from wild animals to humans: HIV started in monkeys; H5N1 came from birds; now Covid-19 is suspected to have come from bats.
+"Our work shows that environmental change and increased contact with farm animals has caused bacterial infections to cross over to humans too.
+"I think this is a wake-up call to be more responsible about farming methods, so we can reduce the risk of outbreaks of problematic pathogens in the future."
+Professor Dave Kelly from the Department of Molecular Biology and Biotechnology at the University of Sheffield said: "Human pathogens carried in animals are an increasing threat and our findings highlight how their adaptability can allow them to switch hosts and exploit intensive farming practices."
+The researchers hope that their study can help scientists predict potential problems in the future so they can be prevented before they turn into another epidemic.
+make a difference: sponsored opportunity
+Story Source:
+Materials provided by University of Bath . Note: Content may be edited for style and length.
+Journal Reference:
+Evangelos Mourkas, Aidan J. Taylor, Guillaume Méric, Sion C. Bayliss, Ben Pascoe, Leonardos Mageiros, Jessica K. Calland, Matthew D. Hitchings, Anne Ridley, Ana Vidal, Ken J. Forbes, Norval J. C. Strachan, Craig T. Parker, Julian Parkhill, Keith A. Jolley, Alison J. Cody, Martin C. J. Maiden, David J. Kelly, Samuel K. Sheppard. Agricultural intensification and the evolution of host specialism in the enteric pathogen Campylobacter jejuni. Proceedings of the National Academy of Sciences, 2020; 201917168 DOI: 10.1073/pnas.1917168117
+Cite This Page:

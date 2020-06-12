@@ -1,0 +1,21 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888214
+ID : GPHN2020050200018
+
+Date : 2020-05-01 11:44:00
+Title : African horse sickness virus NS4 is a nucleocytoplasmic protein that localizes to PML nuclear bodies
+Ariticle : 
+African horse sickness virus NS4 is a nucleocytoplasmic protein that localizes to PML nuclear bodies
+, A. Christiaan Potgieter 2​,3​, Vida van Staden 1​
+View Affiliations Hide Affiliations
+*Correspondence: Vida van Staden, [email protected]
+First Published: 03 March 2020 https://doi.org/10.1099/jgv.0.001396
+African horse sickness virus NS4 is a nucleocytoplasmic protein that localizes to PML nuclear bodies
+http://instance.metastore.ingenta.com/content/journal/jgv/10.1099/jgv.0.001396
+African horse sickness virus NS4 is a nucleocytoplasmic protein that localizes to PML nuclear bodies
+http://instance.metastore.ingenta.com/content/journal/jgv/10.1099/jgv.0.001396
+/recommendto/form?webId=%2Fcontent%2Fjournal%2Fjgv&title=Journal+of+General+Virology&issn=0022-1317&eissn=1465-2099
+Journal of General Virology — Recommend this title to your library
+Share
+Abstract
+African horse sickness virus (AHSV) is the causative agent of the often fatal disease African horse sickness in equids. The non-structural protein NS4 is the only AHSV protein that localizes to the nucleus. Here we report that all AHSV reference and representative field strains express one of the two forms of NS4, i.e. NS4-I or NS4-II. Both forms of NS4 are nucleocytoplasmic proteins, but NS4-I has a stronger nuclear presence whilst NS4-II has a proportionally higher cytoplasmic distribution. A subtype of NS4-II containing a nuclear localization signal (NLS), named NLS-NS4-II, displays distinct punctate foci in the nucleus. We showed that NS4 likely enters the nucleus via passive diffusion as a result of its small size. Colocalization analysis with nuclear compartments revealed that NS4 colocalizes with promyelocytic leukaemia nuclear bodies (PML-NBs), suggesting a role in the antiviral response or interferon signalling. Interestingly, we showed that two other AHSV proteins also interact with nuclear components. A small fraction of the NS1 tubules were present in the nucleus and associated with PML-NBs; this was more pronounced for a virus strain lacking NS4. A component of nuclear speckles, serine and arginine rich splicing factor 2 (SRSF2) was recruited to viral inclusion bodies (VIBs) in the cytoplasm of AHSV-infected cells and colocalized with NS2. Nuclear speckles are important sites for cellular mRNA transcript processing and maturation. Collectively, these results provide data on three AHSV non-structural proteins interacting with host cell nuclear components that could contribute to overcoming antiviral responses and creating conditions that will favour viral replication.
+Received:

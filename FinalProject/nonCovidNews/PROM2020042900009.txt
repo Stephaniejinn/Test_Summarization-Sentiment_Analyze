@@ -1,0 +1,118 @@
+URL : https://promedmail.org/promed-post/?id=7278049
+ID : PROM2020042900009
+
+Date : 2020-04-28 22:00:52
+Title : PRO/PL> Orange rust, sugar cane - Mauritius: new strain susp.
+Ariticle : 
+ORANGE RUST, SUGAR CANE - MAURITIUS: NEW STRAIN SUSPECTED
+*********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Sat 24 Apr 2020
+Source: Sugar Tech [edited]
+https://link.springer.com/article/10.1007%2Fs12355-020-00818-x
+[Ref: H Mungur et al (2020): Presence of Sugarcane Orange Rust in Mauritius. Sugar Tech 22, online preview; DOI: 10.1007/s12355-020-00818-x]
+-----------------------------------------------------------------------------------------------------------
+Orange rust caused by _Puccinia kuehnii_ was observed in Mauritius in March 2018 [ProMED-mail post  
+20180613.5853746
+] on cultivar M 2705/06 under selection. Typical symptoms of cinnamon to yellowish brown lesions, with pustules protruding on the underside of leaves and occurring at times in patches were observed. 
+The causal agent of orange rust was confirmed by light microscopy, PCR using specific primers and sequencing of PCR fragments. It could be distinguished from brown rust (_P. melanocephala_) that has been present in Mauritius since 1978 by both light microscopy and PCR. An initial survey showed the disease was present in 4 experimental sites in the Centre and West of the island, where cultivar M 2705/06 was being evaluated. 
+An island-wide survey carried out in May 2018 showed a rapid escalation of the disease all over the island with more pronounced infection in the North and East. The commercial variety R570 and cultivar R582 under selection were rated susceptible under natural inoculum pressure. A reduction of 20.6% in sucrose content was noted in severely infected cultivar M 2705/06. 
+There is no evidence on how and when the disease was introduced, but its high incidence on R570, which occupies about 18% of area under cane, indicates a recent introduction. The insignificant level of infection in cultivar Q124 in the germplasm collection points towards a different strain of the pathogen present in Mauritius as the variety was found to be highly susceptible in Queensland, Australia. The evolution of orange rust in Mauritius will be followed in coming crop seasons.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[Orange rust of sugar cane caused by the fungus _Puccinia kuehnii_ has the potential to cause significant economic losses to the crop. Symptoms include minute, elongated yellow lesions which develop an orange to orange-brown colour as they expand. Most rust pustules occur on the lower leaf surface with more lesions toward the leaf base. Disease development is favoured by warm, humid summers and cool autumns, as well as by rain. The rust spores are rapidly spread by wind, mechanical means and with contaminated materials. Disease management includes fungicides and use of resistant cane varieties suitable to local requirements.
+_P. kuehnii_ had been present for 100 years in Australia, but in 2000, a much more virulent strain emerged (ProMED-mail post  
+20010225.0365
+) devastating the then most widely grown sugarcane cultivar Q124 mentioned above. Orange rust has been reported since also from the Americas, Asia and Africa. Various crop cultivars have shown different levels of susceptibility. Resistance breeding programmes are ongoing in cane producing regions to stay ahead of pathogen evolution. 
+It is not clear whether scenarios similar to the Australian one with emergence of new strains of a previously unrecognised endemic pathogen have occurred in other cases, including this recent incursion in Mauritius, or whether the pathogen or a more aggressive strain of it has actually been introduced to new areas at various times. Characterisation and comparison of fungal isolates from the different areas would be needed to clarify this.
+The related _P. melanocephala_ causes brown or common rust on the crop. Colour and distribution of leaf lesions vary from orange rust and development of this species is inhibited by rain.
+Maps
+Mauritius:
+http://www.geographicguide.com/pictures/maps/mauritius-map.jpg
+Pictures
+Sugar cane orange rust:
+https://internationalsugarjournal.com/wp-content/uploads/2018/09/ang.jpg
+,
+http://static.catalog.farmis.lt/problems/c/c8/c8c/c8c08d31-b2c8-406b-9fc0-bb733d3b6686.jpg
+,
+http://static.catalog.farmis.lt/problems/d/dc/dce/dce76c4e-3b56-49b3-8d04-485432a03869.jpg
+,
+http://amarillo.tamu.edu/files/2010/11/OtherSickCropsTX.jpg
+_P. kuehnii_ spores:
+https://www.researchgate.net/profile/Diego_Trevisan/publication/330873953/figure/fig1/AS:722873375272960@1549357851857/Figura-2-Urediniosporos-de-Puccinia-kuehnii-Fonte-APS-2014.png
+Links
+Information on sugar cane orange rust:
+https://sunshinesugar.com.au/crop-management/pests-diseases/19-information/diseases-and-pests/27-orange-rust.html
+,
+https://www.cabi.org/isc/datasheet/45818
+ (with distribution map),
+https://edis.ifas.ufl.edu/sc099
+,
+https://link.springer.com/article/10.1071/AP09012
+ (phylogeny),
+http://eprints.qut.edu.au/28111/
+,
+https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-10-10-0762
+,
+https://link.springer.com/article/10.1007%2Fs12033-016-9914-5
+,
+https://link.springer.com/article/10.1007/s40858-016-0076-6
+ and
+https://link.springer.com/article/10.1007/s12355-013-0233-x
+_P. kuehnii_ taxonomy and synonyms:
+http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=243512
+ and
+http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=243512
+ - Mod.DHA
+HealthMap/ProMED map available at:
+Mauritius: 
+http://healthmap.org/promed/p/182
+] 
+See Also
+2018
+----
+Orange rust, sugar cane - Mauritius  
+20180613.5853746
+2016
+----
+Orange rust, sugarcane - Argentina: 1st rep (MN), (TM) disease survey  
+20160119.3947470
+2012
+----
+Orange rust, sugarcane - Mexico: (TB)  
+20121029.1371682
+2011
+----
+Orange rust, sugarcane - Ecuador: 1st rep.  
+20111214.3597
+2010
+----
+Orange rust, sugarcane - Mexico: 1st rep  
+20100426.1342
+Orange rust, sugarcane - Brazil (02): spread  
+20100401.1041
+Orange rust, sugarcane - Brazil: (SP) 1st rep  
+20100122.0247
+2008
+----
+Orange rust, sugarcane - Americas: spread  
+20080903.2756
+Orange rust, sugarcane - Guatemala: 1st rep.  
+20080605.1795
+2007
+----
+Orange rust, sugarcane - USA (02): widespread in FL  
+20070911.3008
+Orange rust, sugarcane - USA: 1st report  
+20070731.2457
+2001
+----
+Puccinia sp., sugarcane orange rust - Australia (Qd)  
+20010225.0365
+.................................................sb/dha/msp/ml

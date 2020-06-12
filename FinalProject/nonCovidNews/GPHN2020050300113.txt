@@ -1,0 +1,39 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006897683
+ID : GPHN2020050300113
+
+Date : 2020-05-02 08:37:00
+Title : Data shows coronavirus creates higher death toll in Colorado than seasonal flu
+Ariticle : 
+More Coloradans have died from COVID-19 in less than two months than died in any of the recent flu seasons - which last almost two-thirds of the year.
+As of Friday afternoon, 820 people had died of complications from the new coronavirus since the state confirmed its first case on March 5. That's the equivalent of 14 deaths every day — four to five times as many the average daily deaths in any of the last four flu seasons with available data.
+If the virus lingers into the fall, as expected, and continues to kill at that rate, it could mean 2,500 or more deaths in Colorado.
+Whether that happens depends on many factors, including how much social distancing people observe, said Ryan Malosh, an infectious disease epidemiologist at University of Michigan School of Public Health. But there's no reason to believe it's going to moderate on its own, he said.
+"You bring the number of infections per day down, and you bring the rate of hospitalizations (and deaths) down," he said. "I haven't seen any indications that it would slow down without interventions."
+While it can be difficult to compare data directly, it's clear the new virus is more contagious and more deadly than seasonal flu, said Glen Mays, chair of health systems, management and policy at the Colorado School of Public Health. It's possible to protect the most vulnerable people from the flu through vaccination, and most people who get the flu feel sick enough that they end up staying in bed before they've infected many others, he said. Neither is true of the new coronavirus, which some people spread for a week or more before developing symptoms.
+"That's why we never talk about shutting down the economy" during flu season, he said. "No pharmaceutical prevention, plus being more infectious, plus a much higher death rate are why we had to pull out all the stops."
+The projections for Colorado show cases plateauing if people continue practicing social distancing because many of the cases are coming from long-term care facilities and prisons, Mays said. There could be fewer hospitalizations and deaths if we get better at using testing to stop spread in those facilities, he said, or there could be more if the virus starts spreading more widely in the general population.
+Hospitalizations on track to exceed flu
+As of Friday, 2,747 people have been hospitalized in Colorado because of complications of the new coronavirus. While the state hasn't passed the 3,832 hospitalizations from flu in the most recent year, it could before long. More than twice as many people are hospitalized on average day for COVID-19 than were with seasonal flu.
+Some other states have seen the same pattern as Colorado, with COVID-19 hospitalizations still below ones for the flu, but rapidly gaining, Malosh said. Others, including Michigan, already have passed their flu totals in about two months, he said.
+Each person with the new virus spreads it to about twice as many people as they would give the flu, on average, and there's no vaccine or existing immunity to slow the virus' spread, Malosh said. That's enabled the virus to sicken and kill people faster than most respiratory diseases.
+"It moves through the population very quickly," he said.
+It's difficult to directly compare COVID-19 and flu because Colorado collects data for the two diseases differently, but state officials said they believe the new virus has a higher probability of sending an infected person to the hospital. The Colorado Department of Public Health and Environment estimates people who get COVID-19 are about 10 times as likely as those who get the seasonal flu to require hospital-level care.
+The Centers for Disease Control and Prevention estimates about 1.4% of people who get a typical seasonal flu need hospital care, but it appears 10% or more of those who get COVID-19 may.
+"Unfortunately, we know that the COVID-19 pandemic is not over, and we will see more hospitalizations," CDPHE spokesman Ian Dicksonsaid.
+The difficulty in drawing comparison is obvious when looking at the oldest age groups. Colorado counts those who died of COVID-19 separately from those who were hospitalized, even though many of them likely spent time in a hospital before succumbing. That could make the hospitalization rate for people in their 80s, for example, look low — because more have died of the virus, in the hospital or out of it, than have been discharged alive.
+It's also possible that some of the oldest victims, particularly those in nursing homes, had advanced directives requesting to avoid invasive measures like ventilators, so they weren't taken to a hospital and died where they lived, Mays said.
+It's easier to make a comparison for working age people and children. CDPHE data, analyzed by The Denver Post, yielded the following daily hospitalization rates:
+* 3.3 flu hospitalizations among adults, 18-49
+* 11.5 COVID-19 hospitalizations among adults, 20-49
+* 3.3 flu hospitalizations among kids, 0-17
+* 0.6 COVID-19 hospitalizations among kids, 0-20
+It's less certain, however, whether COVID-19 is any less deadly for children. One minor, a teenager from Denver, is confirmed to have died of the new virus in the roughly two months it's been circulating in Colorado, and three children died in about eight months in the 2018-2019 flu season.
+The flu typically has a "U-shaped" pattern, meaning it's most severe for young children and older adults, Malosh said. COVID-19 has more of a "linear" pattern, with the risk of hospitalization and death rising with each decade a person has lived, and it's not clear why that's the case, he said.
+"We need more data on what's happening with kids," he said.
+Annual flu deaths in Colorado
+2017-2018: 577
+2016-2017: 533
+2015-2016: 659
+2014-2015: 701
+Source: Colorado Department of Public Health and Environment
+Subscribe to bi-weekly newsletter to get health news sent straight to your inbox.

@@ -1,0 +1,57 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/surveillance-and-epidemic-control/856516-highly-pathogenic-h5n6-avian-influenza-virus-subtype-clade-2-3-4-4-indigenous-in-south-korea
+ID : FLUT2020050200116
+
+Date : 2020-05-02 10:06:56
+Title : Highly pathogenic H5N6 avian influenza virus subtype clade 2.3.4.4 indigenous in South Korea
+Ariticle : 
+																							
+
+Sci Rep.
+ 2020 Apr 29;10(1):7241. doi: 10.1038/s41598-020-64125-x.
+
+Highly pathogenic H5N6 avian influenza virus subtype clade 2.3.4.4 indigenous in South Korea.
+
+
+
+Shin J
+1
+, 
+Kang S
+2
+, 
+Byeon H
+2
+, 
+Cho SM
+3
+, 
+Kim SY
+3
+, 
+Chung YJ
+1,
+3
+, 
+Jung SH
+4,
+5
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+The outbreaks of the highly pathogenic avian influenza (HPAI) in 2016-2017 and 2017-2018, caused by novel reassortant clade 2.3.4.4 H5N6 viruses, resulted in the loss of one billion birds in South Korea. Here, we characterized the H5N6 viruses isolated from wild birds in South Korea from December 2017 to August 2019 by next-generation sequencing. The results indicated that clade 2.3.4.4 H5N6 viruses isolated in 2017 and 2019 shared almost identical nucleotide sequences with the HPAI H5N6 viruses from 2016 in South Korea. This repeated detection of evolutionarily identical H5N6 viruses in same region for more than three years may suggest indigenization of the HPAI H5N6 virus in South Korea. Phylogenetic analysis demonstrated that the clade 2.3.4.4 H5N6 viruses isolated in 2017 and 2019 were evolutionarily distinct from those isolated in 2018. Molecular analysis revealed that the H5N6 viruses isolated in 2017 and 2019 had features associated with an increased risk of human infection (e.g. a deletion at position 133 of HA and glutamic acid residue at position 92 of NS1). Overall, these genomic features of HPAI H5N6 viruses highlight the need for continuous monitoring of avian influenza viruses in wild migratory birds as well as in domestic birds.
+
+
+
+PMID:32350323DOI:
+10.1038/s41598-020-64125-x
+Free full text
+
+													

@@ -1,0 +1,107 @@
+URL : https://promedmail.org/promed-post/?id=7289037
+ID : PROM2020050400001
+
+Date : 2020-05-03 13:34:41
+Title : PRO/EDR> Cholera, diarrhea & dysentery update (02): Africa, Asia
+Ariticle : 
+CHOLERA, DIARRHEA AND DYSENTERY UPDATE (02): AFRICA, ASIA
+*********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Cholera - Kenya, Ethiopia, Somalia
+[2] Dysentery - India (Orissa)
+******
+[1] Cholera - Kenya, Ethiopia, Somalia
+Date: Thu 30 Apr 2020
+Source: Anadolu Agency [edited]
+https://www.aa.com.tr/en/africa/7-dead-in-northern-kenya-cholera-outbreak/1824637
+At least 7 people have died, and over 100 have needed medical attention due to a cholera outbreak in northern Kenya, authorities said on Thu 30 Apr 2020. According to an official, 134 people have been discharged after treatment this week in Marsabit County in northern Kenya, bordering Somalia.
+"All 7 of the deceased were from Illeret Ward and died of severe diarrhea. Most of those affected in the outbreak are children," Marsabit County Health Executive Jamma Wolde told Anadolu Agency. He said medical supplies have been sent to the area, and efforts are being made to stop the spread of the disease.
+According to a report by newspaper Daily Nation, the outbreak is being attributed to interaction of locals with residents of Bubua in neighboring Ethiopia, where hundreds have died due to recurrent waves of cholera since last April [2020].
+There was a cholera outbreak in neighboring Somalia as well earlier in 2020. A total of 732 cases were recorded across the country between 23 Jan 2020 and 25 Feb 2020 according to the UN Office for the Coordination of Humanitarian Affairs. Seven deaths and 617 cases were reported in the central Hiran region, and at least 115 cases were recorded in a week in the southeastern Banadir region, in which the capital Mogadishu is located.
+[Byline: Andrew Wasike]
+--
+Communicated by:
+ProMED-mail 
+<promed@promedmail.org>
+******
+[2] Dysentery - India (Orissa)
+Date: Thu 30 April 2020
+Source: Orissa Post [edited]
+https://www.orissapost.com/20-villagers-fall-ill-in-daringbadi/
+While coronavirus has been a cause of concern for people across the state, villagers of B Dakebadi under Daringbadi panchayat in Kandhamal district are fighting a different battle against fever and dysentery. More than 20 villagers of this village have been suffering from the disease for 10 days now. Meanwhile, a medical team visited some of the affected families to check the condition of some of the victims. That said, some of the villagers said that many more were yet to receive medical help.
+Some of the patients were rushed to nearby private clinics and some to government hospitals after their condition worsened. The doctors treating these patients were of the opinion that contaminated drinking water is causing the health issue in the village. Some of the villagers, meanwhile, suggested that getting pure drinking water in the village has long been an issue in summer. The lone well in their village gets contaminated, and the water level also goes down, they added.
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+[The report from India is likely to represent bacillary dysentery caused by _Shigella_. _ Shigella_ was discovered over 100 years ago by the Japanese microbiologist, Kiyoshi Shiga, for whom the genus is named. There are 4 species: _S. boydii_, _S. dysenteriae_, _S. flexneri_, and _S. sonnei_. _Shigella_ organisms can survive transit through the stomach since they are less susceptible to acid than other bacteria; for this reason, as few as 10 to 100 organisms can cause disease. Ingested bacteria pass into the small intestine where they multiply; large numbers of bacteria then pass into the colon, where they enter the colonic cells. Given its relatively low infectious dose, transmission can occur via contaminated food and water or via direct person-to-person spread, including sexual practices more common in MSM (men who have sex with men). Humans are the only natural reservoir for the disease.
+Dysentery (formerly known as flux or the bloody flux) is an inflammatory disorder of the colon, which results in severe diarrhea containing mucus and/or blood in the feces with fever, abdominal pain, and rectal tenesmus (pain while passing the diarrhea). - Mod.LL
+HealthMap/ProMED maps available at:
+Kenya: 
+http://healthmap.org/promed/p/174
+Somalia: 
+http://healthmap.org/promed/p/125
+Ethiopia: 
+http://healthmap.org/promed/p/95
+India: 
+http://healthmap.org/promed/p/142
+] 
+See Also
+Cholera, diarrhea & dysentery update (01): Asia, Africa   
+20200317.7077892
+2019 
+----
+Cholera, diarrhea & dysentery update (24): Africa (Somalia)  
+20191206.6824571
+Cholera, diarrhea and dysentery update (23): Africa  
+20191031.6752320
+Cholera, diarrhea & dysentery update (22): Asia (Yemen)  
+20191016.6731138
+Cholera, diarrhea & dysentery update (21): Asia (Yemen)  
+20190909.6665442
+Cholera, diarrhea and dysentery update (20): Africa  
+20190710.6561579
+Cholera, diarrhea & dysentery update (19): Asia (Yemen)  
+20190704.6552324
+Cholera, diarrhea & dysentery update (18): Asia (Yemen)  
+20190626.6539574
+Cholera, diarrhea & dysentery update (17): Africa, Asia  
+20190613.6518570
+Cholera, diarrhea & dysentery update (16): Africa  
+20190531.6497403
+Cholera, diarrhea & dysentery update (15): Asia (Yemen)  
+20190530.6493539
+Cholera, diarrhea & dysentery update (14): Africa  
+20190515.6470243
+Cholera, diarrhea & dysentery update (13): Asia (Yemen)  
+20190513.6466617
+Cholera, diarrhea & dysentery update (12): Africa, Asia  
+20190509.6460944
+Cholera, diarrhea & dysentery update (11): Asia (Yemen)  
+20190420.6432780
+Cholera, diarrhea & dysentery update (10): Africa  
+20190418.6429588
+Cholera, diarrhea & dysentery update (09): Africa (Mozambique)  
+20190408.6411125
+Cholera, diarrhea & dysentery update (08): Africa  
+20190405.6406836
+Cholera, diarrhea and dysentery update (07): Asia (Yemen)  
+20190405.6406201
+Cholera, diarrhea & dysentery update (06): Africa (Mozambique)  
+20190403.6402352
+Cholera, diarrhea & dysentery update (05): Asia (Yemen) WHO  
+20190325.6386507
+Cholera, diarrhea & dysentery update (04): Asia (Yemen) WHO  
+20190307.6351260
+Cholera, diarrhea & dysentery update (03): Asia (Yemen) WHO  
+20190207.6305014
+Cholera, diarrhea & dysentery update (02): Asia (Yemen)  
+20190118.6265918
+Cholera, diarrhea & dysentery update: Africa, Asia  
+20190109.6250233
+.................................................sb/ll/msp/ml

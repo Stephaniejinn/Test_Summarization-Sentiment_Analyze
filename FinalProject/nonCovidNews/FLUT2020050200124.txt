@@ -1,0 +1,123 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/viral-mechanisms/pathogenicity-virulence-status/856540-cardiovasc-res-human-influenza-a-virus-causes-myocardial-and-cardiac-specific-conduction-system-infection-associated-with-early-inflammation-and-premature-death
+ID : FLUT2020050200124
+
+Date : 2020-05-02 11:43:23
+Title : Cardiovasc Res.  Human Influenza A virus causes myocardial and cardiac-specific conduction system infection associated with early inflammation and premature death
+Ariticle : 
+																							
+
+Cardiovasc Res.
+ 2020 Apr 28. pii: cvaa117. doi: 10.1093/cvr/cvaa117. [Epub ahead of print]
+
+Human Influenza A virus causes myocardial and cardiac-specific conduction system infection associated with early inflammation and premature death.
+
+
+
+Filgueiras-Rama D
+1,
+2,
+3
+, 
+Vasilijevic J
+4,
+5
+, 
+Jalife J
+2,
+3,
+6
+, 
+Noujaim SN
+7
+, 
+Alfonso JM
+2
+, 
+Nicolas-Avila JA
+2
+, 
+Gutierrez C
+4
+, 
+Zamarreño N
+4
+, 
+Hidalgo A
+2
+, 
+Bernabé A
+2
+, 
+Cop CP
+2
+, 
+Ponce-Balbuena D
+6
+, 
+Guerrero-Serna G
+6
+, 
+Calle D
+2,
+8
+, 
+Desco M
+2,
+8,
+9,
+10
+, 
+Ruiz-Cabello J
+5,
+11,
+12,
+13
+, 
+Nieto A
+4,
+5
+, 
+Falcon A
+4,
+5
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+AIMS:
+
+Human influenza A virus (hIAV) infection is associated with important cardiovascular complications, although cardiac infection pathophysiology is poorly understood. We aimed to study the ability of hIAV of different pathogenicity to infect the mouse heart, and establish the relationship between the infective capacity and the associated in vivo, cellular and molecular alterations.
+
+METHODS AND RESULTS:
+
+We evaluated lung and heart viral titers in mice infected with either one of several hIAV strains inoculated intranasally. Three-dimensional reconstructions of infected cardiac tissue were used to identify viral proteins inside mouse cardiomyocytes, Purkinje cells, and cardiac vessels. Viral replication was measured in mouse cultured cardiomyocytes. Human induced pluripotent stem cells-derived cardiomyocytes (hiPSC-CMs) were used to confirm infection and study underlying molecular alterations associated with the in vivo electrophysiological phenotype. Pathogenic and attenuated hIAV strains infected and replicated in cardiomyocytes, Purkinje cells and hiPSC-CMs. The infection was also present in cardiac endothelial cells. Remarkably, lung viral titers did not statistically correlate with viral titers in the mouse heart. The highly pathogenic human recombinant virus PAmut showed faster replication, higher level of inflammatory cytokines in cardiac tissue and higher viral titers in cardiac HL-1 mouse cells and hiPSC-CMs compared with PB2mut attenuated virus. Correspondingly, cardiac conduction alterations were especially pronounced in PAmut-infected mice, associated with high mortality rates, compared with PB2mut-infected animals. Consistently, connexin43 and NaV1.5 expression decreased acutely in hiPSC-CMs infected with PAmut virus. YEM1L protease also decreased more rapidly and to lower levels in PAmut-infected hiPSC-CMs compared with PB2mut-infected cells, consistent with mitochondrial dysfunction. Human IAV infection did not increase myocardial fibrosis at 4 days post-infection, although PAmut-infected mice showed an early increase in mRNAs expression of lysyl oxidase.
+
+CONCLUSIONS:
+
+Human IAV can infect the heart and cardiac specific conduction system, which may contribute to cardiac complications and premature death.
+
+TRANSLATIONAL PERSPECTIVE:
+
+Influenza A virus (IAV) can infect several cell types in the mouse heart. Human IAV with the highest pathogenicity replicate more rapidly in mouse cardiomyocyte cultures and induce a cardiac pro-inflammatory state, which correlates with underlying molecular changes and mitochondrial dysfunction in human induced pluripotent stem cells-derived cardiomyocytes. The data demonstrate that heart infection and associated damage need not be a consequence of lung pathology. In fact, direct cardiac pathogenicity with the virus reaching and infecting the heart seems more relevant, which supports the relevance of early detection of IAV in clinical cases with acute cardiac disease during influenza outbreaks.
+© The Author(s) 2020. Published by Oxford University Press on behalf of the European Society of Cardiology.
+
+
+
+
+KEYWORDS:
+
+Human Influenza A virus; heart infection; premature death; viral replication
+
+
+PMID:32346730DOI:
+10.1093/cvr/cvaa117
+
+													

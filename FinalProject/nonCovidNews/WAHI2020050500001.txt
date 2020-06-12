@@ -1,0 +1,19 @@
+URL : https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=34213
+ID : WAHI2020050500001
+
+Date : 2020-05-04 00:00:00
+Title : Low pathogenic avian influenza (poultry),Denmark
+Ariticle : 
+Information received on 04/05/2020 from Dr Hanne Larsen, Chief Veterinary Officer, Danish Veterinary and Food Administration,         	Ministry of Environment and Food , Glostrup, Denmark
+Report type:Follow-up report No. 1 (Final report)
+Date of start of the event:27/01/2020
+Date of confirmation of the event:29/01/2020
+Report date:04/05/2020
+Date submitted to OIE:04/05/2020
+Date event resolved:04/02/2020
+Reason for notification:Recurrence of a listed disease
+Date of previous occurrence:01/07/2019
+Manifestation of disease:Sub-clinical infection
+Causal agent:Low pathogenic avian influenza virus
+Serotype:H5N1
+Nature of diagnosis:Laboratory (advanced)

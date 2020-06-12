@@ -1,0 +1,81 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/diagnosis-testing/856521-appl-clin-inform-noninterruptive-clinical-decision-support-decreases-ordering-of-respiratory-viral-panels-during-influenza-season
+ID : FLUT2020050200112
+
+Date : 2020-05-02 10:11:54
+Title : Appl Clin Inform.  Noninterruptive Clinical Decision Support Decreases Ordering of Respiratory Viral Panels during Influenza Season
+Ariticle : 
+																							
+
+Appl Clin Inform.
+ 2020 Mar;11(2):315-322. doi: 10.1055/s-0040-1709507. Epub 2020 Apr 29.
+
+Noninterruptive Clinical Decision Support Decreases Ordering of Respiratory Viral Panels during Influenza Season.
+
+
+
+Escovedo C
+1
+, 
+Bell D
+2
+, 
+Cheng E
+3
+, 
+Garner O
+4
+, 
+Ziman A
+4
+, 
+Vangala S
+5
+, 
+Gounder P
+6
+, 
+Lerner C
+1
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+OBJECTIVE:
+
+ A growing body of evidence suggests that testing for influenza virus alone is more appropriate than multiplex respiratory viral panel (RVP) testing for general populations of patients with respiratory tract infections. We aimed to decrease the proportion of RVPs out of total respiratory viral testing ordered during influenza season.
+
+METHODS:
+
+ We implemented two consecutive interventions: reflex testing for RVPs only after a negative influenza test, and noninterruptive clinical decision support (CDS) including modifications of the computerized physician order entry search behavior and cost display. We conducted an interrupted time series of RVPs and influenza polymerase chain reaction tests pre- and postintervention, and performed a mixed-effects logistic regression analysis with a primary outcome of proportion of RVPs out of total respiratory viral tests. The primary predictor was the intervention period, and covariates included the provider, clinical setting, associated diagnoses, and influenza incidence.
+
+RESULTS:
+
+ From March 2013 to April 2019, there were 24,294 RVPs and 26,012 influenza tests (
+n
+ = 50,306). Odds of ordering an RVP decreased during the reflex testing period (odds ratio: 0.432, 95% confidence interval: 0.397-0.469), and decreased more dramatically during the noninterruptive CDS period (odds ratio: 0.291, 95% confidence interval: 0.259-0.327).
+
+DISCUSSION:
+
+ The odds of ordering an RVP were 71% less with the noninterruptive CDS intervention, which projected 4,773 fewer RVPs compared with baseline. Assuming a cost equal to Medicare reimbursement rates for RVPs and influenza tests, this would generate an estimated averted cost of $1,259,474 per year.
+
+CONCLUSION:
+
+ Noninterruptive CDS interventions are effective in reducing unnecessary and expensive testing, and avoid typical pitfalls such as alert fatigue.
+Georg Thieme Verlag KG Stuttgart · New York.
+
+
+
+PMID:32349143PMCID:
+PMC7190391
+[Available on 2021-04-29]DOI:
+10.1055/s-0040-1709507
+
+													

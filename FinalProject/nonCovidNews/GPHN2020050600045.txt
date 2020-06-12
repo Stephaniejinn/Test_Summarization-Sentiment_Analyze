@@ -1,0 +1,19 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006912275
+ID : GPHN2020050600045
+
+Date : 2020-05-05 14:09:00
+Title : Anti-apoptotic clone 11 derived peptides induce in vitro death of CD4+ T cells susceptible to HIV-1 infection
+Ariticle : 
+Virus-Cell Interactions
+Anti-apoptotic clone 11 derived peptides induce in vitro death of CD4+ T cells susceptible to HIV-1 infection
+Anastassia Mikhailova, José Carlos Valle-Casuso, Annie David, Valérie Monceaux, Stevenn Volant, Caroline Passaes, Amal Elfidha, Michaela Müller-Trutwin, Jean-Luc Poyet, Asier Sáez-Cirión
+Anastassia Mikhailova
+1Institut Pasteur, Unité HIV Inflammation et Persistance, Paris, France
+4Université Paris Diderot, Université de Paris, Paris, France
+1Institut Pasteur, Unité HIV Inflammation et Persistance, Paris, France
+5Université Paris Descartes, Université de Paris, Paris, France
+PDF
+ABSTRACT
+HIV-1 successfully establishes long-term infection in its target cells despite viral cytotoxic effects. We have recently shown that cell metabolism is an important factor driving CD4+ T-cell susceptibility to HIV-1 and the survival of infected cells. We show here that expression of anti-apoptotic clone 11 (AAC-11), an anti-apoptotic factor upregulated in many cancers, increased with progressive CD4+ T cell memory differentiation in association with the expression of cell cycle, activation and metabolism genes and correlated with susceptibility to HIV-1 infection. Synthetic peptides based on the LZ domain sequence of AAC-11, responsible for its interaction with molecular partners, were previously shown to be cytotoxic to cancer cells. Here we observed that these peptides also blocked HIV-1 infection by inducing cell death of HIV-1 susceptible primary CD4+ T-cells across all T-cell subsets. The peptides targeted metabolically active cells and had the greatest effect on effector and transitional CD4+ T cell memory subsets. Our results suggest that AAC-11 survival pathway is potentially involved in the survival of HIV-1 infectable cells and provide a proof of principle that some cellular characteristics can be targeted to eliminate the cells offering the best conditions to sustain HIV-1 replication.
+IMPORTANCE Although antiretroviral treatment efficiently blocks HIV multiplication, it cannot eliminate the cells already carrying integrated proviruses. In the search for a HIV cure the identification of new potential targets to selectively eliminate infected cells is of the outmost importance. We show here that peptides derived from the anti-apoptotic clone 11 (AAC-11), which expression levels correlated with susceptibility to HIV-1 infection of CD4+ T-cells, induced cytotoxicity in CD4+ T-cells showing the highest levels of activation and metabolic activity, conditions known to favor HIV-1 infection. Accordingly, CD4+ T-cells that survived the cytotoxic action of the AAC-11 peptides were resistant to HIV-1 replication. Our results identify a new potential molecular pathway to target HIV-1 infection.
+Copyright © 2020 American Society for Microbiology.

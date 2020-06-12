@@ -1,0 +1,249 @@
+URL : https://promedmail.org/promed-post/?id=7288278
+ID : PROM2020050200002
+
+Date : 2020-05-01 14:29:35
+Title : PRO/AH/EDR> Ebola update (20): Congo DR (NK,IT) WHO, cases, summaries, perspective
+Ariticle : 
+EBOLA UPDATE (20): DEMOCRATIC REPUBLIC OF CONGO (NORTH KIVU, ITURI) WHO, CASES, SUMMARIES, PERSPECTIVE
+******************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Case updates
+- WHO/AFRO Ebola dashboard 30 Apr 2020
+- 7th case
+- Escaped patient
+[2] Outbreak summary
+- WHO: Disease Outbreak News 30 Apr 2020
+[3] Perspective
+- Comparison of Ebola Virus Disease and COVID-19
+- Lessons learned
+******
+- Thu 30 Apr 2020
+[WHO dashboard [edited]
+https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c
+Summary of data as of 30 Apr 2020
+- 3462 cases
+- 0 new cases
+- 7 cases in last 21 days [Beni]
+- 3317 confirmed cases
+- 145 probable cases
+- 288 suspected cases
+- 1170 survivors
+- 2268 deaths
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+- Thu 29 Apr 2020. 7th case
+[Provinces26rdc, in French, machine trans., abridged, edited]
+https://www.provinces26rdc.net/rdc-ebola-un-nouveau-cas-confirme-a-beni/
+While health news remain dominated by the coronavirus [COVID-19] pandemic in the DRC, the Ebola epidemic in the eastern provinces continues to sow desolation as the country approached the end of this disease.
+The Beni health zone in North Kivu province has registered a new confirmed case [no. 7] of Ebola virus disease on 27 Apr 2020. It is a 39-year-old woman living in the health area from Kasanga, listed as contact for the confirmed case of 10 Apr 2020. Irregularly followed for safety reasons, this woman started to show signs of the disease on 21 Apr 2020, with an exposure period ranging from 4-17 Apr 2020. From the start of the signs until 25 Apr 2020, she stayed at home. It was on 25 Apr 2020 that she was admitted to the Ndindi cantonment site in Kanzulinzuli.
+She was taken by ambulance to the Beni Transit Center after the alert launched by the response teams surveillance of contacts because of the added signs. She was investigated, validated, and confirmed positive the same day, then transferred to the Beni treatment center.
+It should be noted that, this woman was discharged as a non-case on 20 Apr 2020 from the Ebola treatment center in Beni, where she was interned from 17-20 Apr 2020. 38 contacts, including the entire cantonment site, were pre-listed. Among these contacts are 9 family members and 33 people already vaccinated. The cantonment site was decontaminated on 27 Apr 2020 and vaccination around this case began on 28 Apr 2020.
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+[This 7th case is also referred to in the following report. There are 7 new cases to date including the 28-year-old motorbike-taxi driver who escaped. To date, all cases are part of a single chain of transmission. But the escaped case poses a threat of expanding transmission.
+- Tue 28 Apr 2020
+[Reuters, abridged, edited]
+https://www.reuters.com/article/us-health-ebola-congo/escaped-ebola-patient-hiding-in-congo-militia-held-area-officials-idUSKCN22A1TO?rpc=401&
+An Ebola patient who escaped from a treatment centre in eastern Congo earlier this month [April 2020] has been hiding in an area controlled by local militia groups, local authorities and a World Health Organization (WHO) official said on Tuesday [28 Apr 2020].
+A cluster of new Ebola infections emerged on 10 Apr 2020 in the town of Beni, 2 days before the Democratic Republic of Congo was due to declare the end of the world's 2nd-largest Ebola epidemic, which has killed more than 2200 people since it started in August 2018.
+On 17 Apr 2020, a 28-year-old motorbike taxi-driver who had tested positive for Ebola ran away from the centre where he was being treated in the town of Beni.
+Health workers had been unable to locate him. But local authorities on Tuesday [28 Apr 2020] said he was living in an area controlled by a number of armed militias.
+"His location poses a real problem at a time when the area is facing several scourges, including armed groups," said Beni's deputy mayor Muhindo Bakwanamaha.
+Boubacar Diallo, deputy incident manager for the WHO's Ebola response operation, said the hidden confirmed case was believed to be in the Beni area controlled by Mai-Mai armed groups.
+The WHO confirmed a 7th new case on Tuesday [28 Apr 2020], a 39-year-old woman who had been in confinement since her daughter died from the disease on 20 Apr 2020.
+Small outbreaks are common towards the end of an Ebola epidemic, but health workers need to ensure the virus is contained by tracking, quarantining and vaccinating the contacts of new cases.
+Two new vaccines have had a major impact in containing Ebola, but deep public mistrust and militia attacks have prevented health workers from reaching some areas hit by the epidemic.
+Three-quarters of the 971 known contacts from the latest flare-up have been vaccinated so far, according to an internal WHO report shared with Reuters.
+Congo's health system, which has suffered from decades of war, under-funding, and mismanagement, is simultaneously fighting measles and cholera epidemics, as well as the global coronavirus pandemic.
+The country has recorded 471 cases of COVID-19 and 30 deaths.
+[Byline: Erikas Mwisi Kambale, Hereward Holland]
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+******
+[2] Outbreak summary
+Date: Thu 30 Apr 2020
+Source: WHO. Disease Outbreak News [edited]
+[WHO Emergencies preparedness, response, Disease Outbreak News (DONs), abridged, edited]
+https://www.who.int/csr/don/30-April-2020-ebola-drc/en/
+Ebola virus disease - Democratic Republic of the Congo
+------------------------------------------------------
+From 22 to 28 Apr 2020, one new confirmed case of Ebola virus disease (EVD) was reported from Beni Health Zone in North Kivu Province, Democratic Republic of the Congo (Figure 1 --available at the source URL above). This person was listed as a contact of a confirmed case, a family member who was reported on 17 Apr 2020. The person was vaccinated on 20 Apr 2020 and was followed by the contact tracing team, though not on a regular basis due to insecurity.
+Since the resurgence of the outbreak on 10 Apr 2020, 7 confirmed cases have been reported, all from Beni Health Zone. Of these, one is receiving care at the Beni Ebola treatment centre (ETC), one who was receiving care at the ETC recovered and was discharged, and one remains in the community. Response teams are engaging with the community in order to try to bring that person to the ETC for access to treatment and supportive care, and to prevent further transmission in the community. Four of the people confirmed to have Ebola died, including 2 community deaths and 2 deaths in the ETC in Beni.
+Specimens from all confirmed cases were sent to the Institut Research Biomedicale (INRB) for genetic sequencing to support surveillance teams in investigating the source of infection. Laboratory sequencing of the virus showed that 6 out of 7 cases were linked to the same chain confirmed in July 2019, suggesting exposure to a persistent source of infection. Individuals in the current cluster may have been infected by direct contact with body fluids of a survivor (asymptomatic or relapse case). Investigations into the transmission chains from July 2019 in Beni and Katwa Health Zones and the confirmed cases reported in April 2020 are ongoing in order to identify the origin of the current cluster of EVD cases.
+Surveillance performances have improved compared to last week [week of 20 Apr 2020], although alert rates remain suboptimal. A total of 970 contacts of the 7 recent confirmed cases have been registered; among these contacts, 897 (92%) were followed and 726 (75%) were vaccinated. Of the 970 contacts, 382 (40%) were high risk contacts (direct contact with body fluids of confirmed cases). As of 28 Apr 2020, 57 (15%) of the 382 high risk contacts of confirmed cases have been offered accommodation in a dedicated facility where they are provided with food and other essential goods, to allow for closer monitoring and prompt isolation and provision of care to those who might become symptomatic.
+From 22 to 28 Apr 2020, an average of 2152 alerts were reported and investigated per day. Of these, an average of 230 alerts were validated as suspected cases each day, requiring specialized care and laboratory testing to rule-out EVD. Timely testing of suspected cases continues to be provided from eight laboratories. From 20 to 26 Apr 2020, 1544 samples were tested including 961 blood samples from alive, suspected cases; 285 swabs from community deaths; and 298 samples from re-tested patients. Overall, laboratory activities increased by 50% compared to the previous week.
+As of 28 Apr 2020, a total of 3462 EVD cases, including 3316 confirmed and 145 probable cases have been reported, of which 2279 cases died (overall case fatality ratio 66%). Of the total confirmed and probable cases, 57% (n=1961) were female, 29% (n=996) were children aged less than 18 years, and 5% (n=171) were health care workers. As of 28 Apr, a total of 1170 cases have recovered from EVD.
+Response teams face a number of challenges, including limited response resources because of other local and global emergencies, and the presence of armed groups which limits access to some communities. It is essential to detect, isolate, test and treat new suspected cases as early as possible in order to improve outcome of cases and break the chain of transmission. A major funding gap is also constraining the response; WHO currently requires USD 21.5 million to ensure continuity of essential response activities in the Democratic Republic of the Congo.
+[Available at the source URL above:]
+Figure 1: Confirmed and probable Ebola virus disease cases by week of illness onset by health zone. Data as of 28 Apr 2020 [excludes n=88/3461 cases for whom onset dates not reported. Data in recent weeks are subject to delays in case confirmation and reporting, as well as ongoing data cleaning. 'Non-active zones' indicate health zones that have not reported new cases in the last 42 days.]
+Table 1: Confirmed and probable Ebola virus disease cases, and number of health areas affected, by health zone, North Kivu Province, Democratic Republic of the Congo, data as of 28 Apr 2020 [Total cases and areas affected during the last 21 days are based on the initial date of case alert and may differ from date of confirmation and daily reporting by the Ministry of Health.]
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Marianne Hopp
+******
+[3] Perspective
+- Tue 28 Apr 2020
+[AllAfrica, African Arguments report, abridged, edited]
+https://allafrica.com/stories/202004280162.html
+Africa: Same but different? a comparison of Ebola virus disease and COVID-19 after the Ebola epidemic in eastern DRC (2018-20)
+--------------------------------------------------------------------------------
+Moving from one crisis to the next raises the question: what can be learned from the Ebola epidemic for the COVID-19 pandemic? Are inhabitants of the most affected regions better prepared for COVID-19? Will the lessons learnt from the Ebola epidemic help citizens in the entire country to adapt to the new pandemic too? What are the similarities and differences between these 2 epidemics or pandemic?
+We stress that such comparisons are crucial to anticipate the impact of the COVID-19 pandemic in the country and through which measures it can be averted. However, the remarkable speed of the COVID-19 pandemic, which seems to outpace its own future, makes it almost impossible to anticipate with certainty what might come next. In fact, this moment of uncertainty in the COVID-19 pandemic reminds us of the many unexpected developments in the Ebola epidemics - most notability the emergence of mistrust - for which the emergency response was not fully prepared.
+For this piece we draw on a series of interviews conducted for the radio station of the Pole Institute, 'Pole FM radio', in which we asked residents in the 2 Eastern Congolese cities Goma and Beni how they are preparing to protect themselves against COVID-19. The answers illuminate how the experience of living through the EVD epidemic shapes individuals' and communities' responses to COVID-19.
+[Byline: Nene Morisho, Josepha Kalubi, Sung-Joon Park, Martin Doevenspeck]
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+- Mon 27 Apr 2020. Lessons from Ebola
+[Slate, abridged, edited]
+https://slate.com/technology/2020/04/lessons-ebola-cholera-america.html
+Lessons from Ebola and cholera could help us get out of this sooner
+-------------------------------------------------------------------
+From 2014 to 2016, the Ebola epidemic claimed more than 11 000 lives in Sierra Leone, Guinea, and Liberia. Cholera has claimed nearly the same number of lives in Haiti since the 2010 earthquake. In devising the plans to claw back from the worst of these epidemics, governments and health care organizations have understood that hospital and clinic-based medicine would not be enough. So instead of relying only on traditional health care, they worked to implement social mobilization strategies and community-based care, efforts that directly and indirectly saved countless additional lives. Today, Rwanda is using similar practices and measures in order to combat COVID-19.
+We are both front-line emergency physicians in Boston who have worked around the globe as doctors for the nonprofit Partners in Health. We have seen in Haiti, Sierra Leone, and Liberia how community-based care and true local engagement works, and how it helps individuals and communities survive crises. And now, amid the coronavirus crisis, we have realized that the United States, and other wealthy nations, must now follow suit in implementing community-based care. Doing so will help to defeat the virus more quickly.
+First, we need to broadcast essential health messages in ways people have access to hearing. When Ebola ravaged West Africa, the most effective messaging came from community health workers (often Ebola survivors themselves) who connected with their local communities for health education, social mobilization, and case detection. Additionally, trusted local leaders -- teachers, nurses, midwives, priests, and imams -- were engaged to share messages of social distancing and sanitation.
+Secondly, we need people who are infected -- or exposed to those who are infected -- to stay isolated at home.
+Finally, people won't know they are infected or have been in contact with someone who has been infected until we expand testing and bring it directly into every neighborhood, particularly the poorest.
+[Byline: Regan Marsh, Shada Rouhani]
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+[This full report is well worth reading. It is important to analyze what went well and what was problematic in the response to the Ebola outbreak in the DRC to avoid the pitfalls when addressing COVID-19. Among the important lessons are to develop trust in the community by open and clear communication, and maintenance of a strong public health infrastructure that has the capability to do expanded testing. This requires financial support and trained staff. - Mod.LK
+Maps of Congo DR: 
+http://goo.gl/DM2AT8
+ and 
+http://healthmap.org/promed/p/194
+] 
+See Also
+Ebola update (19): Congo DR (NK,IT) WHO, cases, summaries, response  
+20200420.7244477
+Ebola update (18): Congo DR (NK, IT) WHO, cases, summaries, vaccine res, RFI  
+20200417.7234402
+Ebola update (17): Congo DR (NK, IT) WHO cases, perspective  
+20200414.7224616
+Ebola update (16): Congo DR (NK, IT) WHO, cases, summaries  
+20200411.7211186
+Ebola update (15): Congo DR (NK, IT) cases, WHO, summaries, lessons  
+20200329.7157828
+Ebola update (14): Congo DR (NK,IT) cases, WHO, summaries  
+20200322.7123461
+Ebola update (13): Congo DR (NK, IT) cases, summaries, WHO  
+20200314.7090572
+Ebola update (12): Congo DR (NK,IT) cases, WHO, funding  
+20200305.7053842
+Ebola update (11): Congo DR (NK, IT) cases, summary, vaccine  
+20200226.7028853
+Ebola update (10): Congo DR (NK, IT) cases, summaries, WHO  
+20200221.7012106
+Ebola update (09): Congo DR (NK, IT) cases, summaries, WHO, USAID  
+20200219.7005519
+Ebola update (08): Congo DR (NK, IT) cases, summaries, WHO, conference  
+20200215.6992385
+Ebola update (07): Congo DR (NK,IT) cases, summaries, WHO guidelines Archive Number:  
+20200212.6980209
+Ebola update (06): Congo DR (NK, IT) cases, summaries, WHO  
+20200201.6943351
+Ebola update (05): Congo DR (NK,IT) cases, summaries, WHO  
+20200129.6928232
+Ebola update (04): Congo DR (NK,IT) cases, opinion  
+20200125.6915714
+Ebola update (03): cases, summary, vaccination, violence  
+20200115.6891522
+Ebola update (02): cases, South Sudan, WHO, Germany, RFI  
+20200112.6885195
+Ebola update (01): Congo DR (NK,IT) cases, WHO, summary, anthropology  
+20200105.6872195
+2019
+----
+Ebola update (119): Congo DR (NK, IT) cases, summary, Malawi, risk  
+20191226.6858941
+Ebola update (118): Congo DR (NK, IT) cases, summaries, updates, perspective  
+20191220.6851293
+Ebola update (117): Congo DR (NK,IT) Uganda, perspective, exercises, attacks  
+20191217.6845534
+Ebola update (116): Congo DR (NK,IT) cases, WHO summaries, response, research  
+20191215.6842062
+Ebola update (115): Congo DR (NK,IT) cases, WHO, summaries  
+20191212.6835975
+Ebola update (114): Congo DR (NK, IT) cases, summary, violence, interview  
+20191208.6829764
+Ebola update (113): Congo DR (NK, IT) cases, summaries, response, unrest  
+20191206.6826969
+Ebola update (112): Congo DR (NK, IT) cases, response, persistence  
+20191202.6819039
+Ebola update (111): Congo DR (NK,IT) WHO, security, treatment  
+20191128.6801849
+Ebola update (110): Congo DR (NK, IT) cases, summary, Johnson & Johnson vaccine  
+20191121.6791302
+Ebola update (109): Congo DR (NK, IT) cases, WHO, summaries, response, vaccine  
+20191118.6783587
+Ebola update (108): Congo DR (NK, IT) cases, vaccine  
+20191113.6776731
+Ebola update (107): Congo DR (NK, IT) cases, WHO, summ, Uganda, resp, research  
+20191111.6772847
+Ebola update (106): Congo DR (NK,IT) cases, WHO, summary, vaccine, SK discontent  
+20191109.6769909
+Ebola update (105): Congo DR (NK,IT) cases, WHO, summaries, response  
+20191106.6764020
+Ebola update (104): Congo DR (NK,IT) WHO, S Sudan screening  
+20191103.6759214
+Ebola update (103): Congo DR (NK,IT,SK) cases, WHO  
+20191030.6752929
+Ebola update (102): Congo DR (NK,IT,SK) cases, WHO  
+20191028.6749549
+Ebola update (101): Congo DR (NK,IT) cases, WHO, summaries, vacc, misc, Uganda, res  
+20191022.6739939
+Ebola update (100): Congo DR (NK, IT) cases, WHO, summaries, various  
+20191019.6735656
+Ebola update (99): Congo DR (NK,IT) cases, WHO, summaries, response, research  
+20191017.6730797
+Ebola update (98): Congo DR (NK,IT) cases, WHO, summaries, research  
+20191012.6723915
+Ebola update (97): Congo DR (NK,IT,SK) cases, WHO, summaries, response, research  
+20191009.6716582
+Ebola update (96): Congo DR (NK, IT, SK) cases, WHO, summaries  
+20191005.6710406
+Ebola update (95): Congo DR (NK,IT,SK) cases, WHO, survivors, vaccine  
+20191003.6706383
+Ebola update (94): Congo DR (NK,IT,SK) TZ response, corr.  
+20191003.6706745
+Ebola update (94): Congo DR (NK, IT, SK) cases, summary, TZ response, JP vaccine  
+20191001.6703940
+Ebola update (93): Congo DR (NK, IT, SK) cases, summaries, response  
+20190927.6698322
+Ebola update (92): Congo DR (NK,IT,SK) cases, summaries, response  
+20190925.6692867
+Ebola update (91): Congo DR (NK,IT,SK) cases, summaries, response, Uganda  
+20190920.6684164
+Ebola update (90): Congo DR (NK,IT,SK) cases, summaries, response, Tanzania, story  
+20190918.6680252
+Ebola update (89): Congo (NK,IT) Tanzania case update, NOT Ebola  
+20190914.6674377
+Ebola update (88): Congo DR (NK,IT) cases, summaries, front line, response  
+20190914.6673644
+Ebola update (87): Congo DR (NK,IT,SK) Uganda, summaries, response, therapeutics  
+20190908.6662930
+Ebola update (86): Congo DR (NK,IT,SK) Uganda, summaries, response, reading  
+20190905.6659380
+Ebola update (85): Congo DR (NK, IT) Uganda, cases, summaries, response  
+20190901.6652681
+Ebola update (84): Congo DR (NK,IT,SK) cases, Uganda, summaries, response  
+20190830.6649635
+and other items in the archives
+.................................................sb/lk/mj/ml

@@ -1,0 +1,38 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006876603
+ID : GPHN2020043000070
+
+Date : 2020-04-29 17:39:00
+Title : To prevent antimicrobial resistance, vaccinate the world's kids
+Ariticle : 
+Follow all of ScienceDaily's latest research news and top science headlines !
+Science News
+To prevent antimicrobial resistance, vaccinate the world's kids
+Date:
+University of California - Berkeley
+Summary:
+Childhood vaccination may be a powerful tool in the fight against antimicrobial resistance in low- and middle-income countries, finds a new analysis. The study found that immunization with two common vaccines -- the pneumococcal conjugate and rotavirus vaccines -- significantly reduces the rates of acute respiratory infections and diarrhea among small children in these settings. And, with fewer children getting sick or severely sick, fewer are receiving antibiotic treatment.
+Share:
+FULL STORY
+Childhood vaccination may be a powerful tool in the fight against antimicrobial resistance in low- and middle-income countries, finds a new analysis led by researchers University of California, Berkeley.
+advertisement
+Around the world, overuse of antibiotics is driving the proliferation of bacterial "superbugs" that have evolved to survive antimicrobial exposure, making humans more vulnerable to diseases like sepsis, tuberculosis, malaria and pneumonia. Countries classified as low- and middle- income currently bear the brunt of the human and economic impacts of antimicrobial resistance.
+The new study found that immunization with two common vaccines -- the pneumococcal conjugate and rotavirus vaccines -- significantly reduces the rates of acute respiratory infections and diarrhea among small children in these settings. And, with fewer children getting sick or severely sick, fewer are receiving antibiotic treatment.
+"Right now, almost all countries have developed or are in the process of developing national action plans to address the crisis that antibiotic resistance poses to their health systems, but there is very little evidence addressing which interventions are effective," said Joseph Lewnard, an assistant professor of epidemiology at UC Berkeley, and lead author of the paper. "By providing hard numbers on the substantial impact that has been achieved with just these two vaccines alone, our work demonstrates that vaccines should be among the interventions that are strongly prioritized."
+The study, which is the first to examine the connection between vaccination and antibiotic use in low- and middle-income settings, appears online April 29 in the journal Nature.
+Pneumococcal conjugate vaccines protect against the bacterium Streptococcus pneumoniae (pneumococcus), which can cause respiratory and ear infections, sepsis and meningitis, while rotavirus vaccines protect against diarrheal infections caused by rotavirus. Though rotavirus infection itself is not treatable by antibiotics, diarrhea caused by rotavirus is hard to distinguish from diarrhea caused by bacterial infection. Many children with rotavirus diarrhea, therefore, receive antibiotic treatment, even it is not needed.
+advertisement
+Using data from health and demographic studies of 78 low- and middle-income countries, the researchers found that pneumococcal and rotavirus vaccines prevent an estimated 19.7% of antibiotic-treated acute respiratory infections and 11.4% of antibiotic-treated episodes of diarrhea in children under five years old.
+By combining data on the effectiveness of the two vaccines with current vaccination rates, the team projected that the inoculations are now preventing 23.8 million and 13.6 million episodes of antibiotic-treated acute respiratory infections and diarrhea each year, respectively, among children under the age of five in these settings around the world.
+If universal vaccination was achieved, an additional 40 million cases of antibiotic-treated illness could be prevented each year, they predicted.
+These numbers are likely underestimates, Lewnard said.
+"We're not accounting for the fact that there are indirect reductions in disease associated with declining transmission of the pathogens themselves, and that there might be additional benefits in other age groups as well," Lewnard said. "Moreover, we are looking at a narrow spectrum of all pneumococcal diseases, which, further, include ear infections and sinusitis cases that often receive antibiotic treatment."
+At this point, there isn't enough data on the effectiveness of other efforts to combat antibiotic resistance, such as improving hygiene and sanitation or reducing agricultural use of antibiotics, to know how they compare to vaccination, Lewnard said.
+While the two vaccines are commonly administered to children under 2 years old in high-income countries, children in low- and middle-income countries do not always receive them because of their relatively high cost and families' lower access to health care.
+Charities like GAVI, the Vaccine Alliance are working aggressively to expand access to vaccinations, especially in low-income settings. Lewnard said he hopes this study motivates countries that are not eligible for this type of aid, such as middle-income countries and low-income countries transitioning to middle-income status, to provide this support for their children.
+"Effects on antibiotic use and antimicrobial resistance have not been included in economic assessments of the value of these vaccine programs," Lewnard said. "As low- and middle-income countries make decisions around maintaining or introducing these vaccination programs, it's very important to have evidence that demonstrates the impact these vaccines are having domestically."
+make a difference: sponsored opportunity
+Story Source:
+Materials provided by University of California - Berkeley . Original written by Kara Manke. Note: Content may be edited for style and length.
+Journal Reference:
+Joseph A. Lewnard, Nathan C. Lo, Nimalan Arinaminpathy, Isabel Frost, Ramanan Laxminarayan. Childhood vaccines and antibiotic use in low- and middle-income countries. Nature, 2020; DOI: 10.1038/s41586-020-2238-4
+Cite This Page:
