@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100056
+
+Date : 2020-05-01 00:00:00
+Title : China reports 12 new coronavirus cases versus four a day earlier
+Ariticle : 
+Disease:Coronavirus
+Time:--
+Location:China
+Cases:12 new coronavirus cases
+Description:China reports 12 new coronavirus cases versus four a day earlier

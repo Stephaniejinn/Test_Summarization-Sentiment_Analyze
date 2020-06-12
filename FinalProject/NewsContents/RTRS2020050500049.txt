@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-philippines-cases/philippines-reports-14-deaths-199-more-coronavirus-infections-idUSKBN22H0T4
-ID : RTRS2020050500049
-
-Date : 2020-05-05 08:13:00
-Title : Philippines reports 14 deaths, 199 more coronavirus infections
-Ariticle : 
-MANILA (Reuters) - The Philippines’ health ministry on Tuesday reported 14 new coronavirus deaths and 199 additional infections. 
-In a bulletin, the health ministry said total deaths from the outbreak have reached 637, while confirmed cases have increased to 9,684. But 93 more patients have recovered, bringing total recoveries to 1,408. 

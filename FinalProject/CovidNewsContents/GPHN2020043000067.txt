@@ -1,0 +1,63 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006876628
+ID : GPHN2020043000067
+
+Date : 2020-04-27 22:21:00
+Title : What to Know About COVID-19 Testing Right Now - Healthline
+Ariticle : 
+What to Know About COVID-19 Testing Right Now
+Written by Julia Ries on April 28, 2020 - Fact checked by Dana K. Cassell New
+Researchers are hoping antibody tests will help them understand who is immune to COVID-19. Getty Images
+After an infection is cleared, antibodies continue to exist in the blood.
+If a person were to be exposed to the same virus again, those antibodies would rush to the site of viral exposure and use their memory to blunt the virus from causing harm.
+But if a person shows antibodies against the new coronavirus, it doesn’t necessarily mean they’re immune to reinfection.
+A readily available, effective vaccine is what’s going to pull us out of the pandemic, but researchers say it’ll be several months until we reach that point.
+Until then, knowing who has and has had the respiratory infection is thought to be the key to reopening the economy.
+To do that, we need an open supply of two critical tests: diagnostic tests, which tell us if a person is sick with an active infection (in this case, COVID-19), and antibody tests, which tell us if a person has contracted the virus.
+Using those insights, local health officials can conduct contact tracing to identify who may be at risk for contracting the virus and order specific groups or communities to quarantine, while other regions facing lower levels of infection open back up.
+And health officials and medical companies have been eager to expand antibody testing.
+Quest Diagnostics announced Tuesday it will be selling at-home antibody tests that people can do themselves. The company hopes the kits , which cost $119, will tell people whether they’ve had an infection, and if they may have developed antibodies against the new coronavirus.
+Big pharmacy retailers, including CVS and Walgreens , also recently announced plans to expand diagnostic and antibody testing at several store locations in hopes of identifying who has been exposed to, and potentially gained immunity against, the virus.
+Even with these new tests, there are still a few issues and hurdles that stand in the way of understanding who is immune to COVID-19, according to health experts.
+It’s unclear how long people with SARS-CoV-2, the virus that causes COVID-19, continue to shed the virus, and if someone has antibodies against the virus, they aren’t guaranteed to be immune.
+There are also inconsistencies between all the different tests out there, and there’s an urgent need for the kits to be validated and vetted.
+How do the tests work?
+When a person is exposed to a virus, their immune system mounts a response that involves several types of cells and tissues that work to clear out an infection.
+Antibodies are part of that mix. They’re pieces of protein that bind to a specific part of a virus, called an antigen. This action typically neutralizes, or deactivates, a virus.
+After an infection is cleared, antibodies continue to exist in the blood. If a person were to be exposed to the same virus again, those antibodies would rush to the site of viral exposure and use their memory to blunt the virus from causing harm.
+An antibody test involves taking a person’s blood sample and seeing if they have antibodies that attach and bind to a sample of virus. If antibodies bind to the new coronavirus, for example, this shows a person had a previous infection.
+With a diagnostic test, a physician swabs a patient’s nose or throat and looks for viral genetic material to determine whether a person actively has a particular disease, like COVID-19.
+The tests don’t tell us everything
+The diagnostic and antibody tests don’t give us the full picture.
+The diagnostic tests tell us someone has COVID-19, but they don’t tell us if and how long that person sheds the virus and is infectious others.
+The antibody tests, too, pose some problems.
+Simply because a person shows antibodies against the new coronavirus doesn’t necessarily mean they’re immune. Not all antibodies block viral infection.
+“Antibodies are only a part of the immune response to a virus. There are other viruses where antibody responses are clearly not associated with protection,” said Dr. Otto Yang , a virologist at the David Geffen School of Medicine at UCLA.
+A different test is needed to determine whether the antibodies against the new coronavirus are neutralizing, or able to bind to a virus and deactivate it.
+Neutralizing antibodies doesn’t always provide protection.
+“They often, but not always, correlate with immunity, as sometimes they work in concert with cellular immunity to provide immune protection,” said Dr. David Mushatt , an infectious disease specialist and section chief of infectious diseases at Tulane University.
+It can also take the body up to 2 weeks to produce antibodies after an infection. A test that’s conducted too soon may produce faulty results.
+Another major issue is that not all the available tests are the same.
+That’s because in early February the Food and Drug Administration (FDA)
+authorized
+the emergency use of tests that can detect and diagnose the new coronavirus and COVID-19, meaning the organization isn’t evaluating and approving the tests before they go to market.
+Because the tests haven’t been vetted or validated by the FDA, it’s unclear whether they’re all measuring the same thing.
+“We don’t know if they’re all measuring the same thing, and this is one of our big challenges ahead of us,” Thomas Denny , the chief operating officer of the Duke Human Vaccine Institute, said in a recent webinar hosted by Duke University experts.
+The tests could be looking at different types of antibodies and different types of immune responses, Denny explained.
+“In the current climate, the FDA unfortunately has rushed through substandard tests that are unreliable and not up to usual quality testing,” Yang told Healthline.
+This could lead to inaccurate testing, Yang adds, which could lead to false diagnoses and false confidence that people may be protected from reinfection.
+How widespread should testing be?
+This is the million-dollar question, and one that health officials are hesitant to answer. That’s because there’s no clear number of tests we need.
+Health experts would like to see testing ramp up but agree we first need to validate the tests available and ensure the results are accurate.
+We also need to get clearer answers regarding what the test results mean.
+“We need to be patient to ensure that the antibody tests we adopt are the most accurate and predictive of immunity. It is better to wait longer for proper study and validation of these new tests than jump in too quickly and regret our decisions,” Mushatt said.
+According to Mushatt, we need to determine whether the antibodies against SARS-CoV-2 confer immunity.
+“Then, we can provide reassurance to those who are immune, and emphasize personal protection measures to those who are not immune,” Mushatt added.
+Testing will roll out in phases 
+What will likely happen, eventually, is that testing will vary from location — from state to state and even from county to county. This will largely boil down to the level of COVID-19 activity in a given area.
+Dr. Michael Gunn , a professor in immunology at Duke University School of Medicine, likened the testing rollout to a forest fire.
+“Once you get the fire under control, it’s an issue of managing the hot spots,” Gunn said in the Duke webinar .
+We don’t need to be testing every single person in the United States on a weekly basis, Gunn noted, but rather the people who are most at risk for getting sick or have been in close contact with someone who’s been diagnosed with COVID-19.
+Antibody testing alone won’t open the economy back up.
+Diagnostic tests are just as much a piece of the puzzle, as they let us know who has COVID-19 in real time (and therefore should be staying at home as much as possible).
+So is contact tracing, or tracking down all the people a person with an infection may have come into contact with, and quarantining those who have an infection.
+“What we have to look at this as is, we have a toolbox and need a number of tools in that toolbox, and we need to use them as a team to address this,” Denny said.

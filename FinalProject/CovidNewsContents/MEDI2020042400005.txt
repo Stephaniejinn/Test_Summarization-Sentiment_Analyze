@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042400005
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus contact tracing to start in North next week
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.26-2020.05.02
+Location:UK
+Cases:--
+Description:Coronavirus contact tracing to start in North next week

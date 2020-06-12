@@ -1,0 +1,34 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888004
+ID : GPHN2020050200009
+
+Date : 2020-04-30 13:43:00
+Title : Drug trials, fewer ventilators: here's how Louisiana's coronavirus treatments have evolved
+Ariticle : 
+Louisiana physicians faced a troubling scenario in early March when coronavirus patients started appearing in the state's intensive care units: no one could say for sure how best to treat them.
+Now, nearly two months after the state confirmed its first positive case, they've re-examined drugs and protocols once considered the best bets for saving the lives of seriously ill patients. Some early drugs are out, and treatments that once seemed to have the most promise are being used less frequently. Meanwhile, one drug, remdesivir, has come out on top.
+That drug, originally developed by Gilead Sciences to treat Ebola, is awaiting Food and Drug Administration approval that is expected to be fast tracked to next week.
+Dr. Chris Thomas, the medical director of quality and patient safety at Our Lady of the Lake Regional Medical Center in Baton Rouge, said that he's been hesitant about embracing many of the experimental treatments being touted for coronavirus patients.
+But ever since the nation's top infectious disease doctor, Anthony Fauci, announced this week that remdesivir showed promise, he's been hopeful that instead of "anecdotal medicine," infectious-disease experts were now being guided by real results.
+"It was like my Super Bowl when Fauci said we studied something and there had been data," Thomas said.
+A little over a week after the first coronavirus patient was diagnosed in New Orleans, physicians from Tulane Medical Center, Ochsner Health System and LCMC Health created a treatment plan to guide doctors encountering COVID-19.
+In addition to guidance on providing supplemental oxygen and other protocols, the document suggested using hydroxychloroquine — an anti-malaria drug used to treat lupus — if remdesivir was not available for hospitalized patients.
+Hydroxychloroquine has since fallen out of favor.
+"We've learned it has little, if any, benefits," said Dr. David Mushatt, an infectious disease expert at Tulane University.
+Doctors said they are shifting to maintaining supportive care and enrolling patients in clinical trials for remdesivir after the recent large, randomized, double-blind, clinical trial — the gold standard for evaluating drugs — showed promise.
+Hospitals across Louisiana are also using it through Gilead's expanded access program, which physicians can apply for on behalf of each patient.
+Tulane Medical Center and the Southeast Louisiana Veterans Healthcare System in New Orleans are running clinical trials to measure how well patients do on the drug for five days vs. 10 days and in comparison to patients given a placebo.
+Touro Infirmary, Ochsner Health System and Slidell Memorial Hospital are among hospitals receiving the drug through the expanded access program. In Baton Rouge, Our Lady of the Lake learned this week that they've also been approved for the expanded access program.
+At a meeting with Gov. John Bel Edwards and President Donald Trump on Wednesday, Fauci said that remdesivir showed a 31% better chance for patients recovering and being released from the hospital. He warned, though, that the drug is "not a knock-out," but shows that virus replication can be blocked — an important building block for more drug development.
+Ochsner Health System Chief Medical Officer Robert Hart said Thursday that they had enrolled eight patients in their remdesivir program. Our Lady of the Lake will be able to enroll 10 patients in their initial uses of it.
+Once remdesivir is approved by the FDA, it's likely it will only be administered to patients sick enough to be hospitalized since it is received via an IV drip. Limiting the drug to those admitted to the hospital will also help prioritize who gets the drug, which will take time to manufacture and distribute.
+Still, some doctors remain skeptical, and are more focused on treating patients with what they know based on more evidence and clinical trials from treating acute respiratory distress syndrome, which is common in the sickest coronavirus patients.
+Dr. Stephen Brierre, an LSU Health Sciences pulmonologist and critical care doctor, warned against becoming overly hopeful about remdesivir based on the clinical trial that Fauci trumpeted.
+"People want us as a medical community to find a primary therapy for this disease and I understand that desire," said Brierre, who works in Baton Rouge General's coronavirus intensive care units. "I do not think, based on the available information, that remdesivir is the answer."
+Without knowing which drugs can best treat coronavirus itself, many providers have embraced long-known techniques to treat the problems that coronavirus can wreak on a patient's body, especially their lungs.
+The sickest coronavirus patients often develop acute respiratory distress syndrome, known as ARDS. Initially, clinicians thought that they needed to intubate those patients early.
+Hart said Ochsner rethought that strategy as they saw more and more patients and observed their outcomes.
+"It became clear that we want to do all we can to keep from intubating these patients," Hart said.
+Brierre said that in the earlier days of fighting coronavirus, only 20% of his patients were being treated with less invasive breathing measures, like masks. But he said that number had risen to 52% as of Thursday.
+Since taking care of the first known critically ill coronavirus patient on March 9, Dr. Josh Denson, a critical care pulmonologist who treats patients at Tulane Medical Center and University Medical Center, said ICU doctors are relying more on symptoms to treat patients and less on diagnostic testing that they once would have given without a second thought.
+Now, instead of doing a cat scan, doctors may do a more detailed physical exam. Instead of an X-ray, they listen to the lungs.
+"It's a more targeted approach, instead of the shotgun approach typically used in ICU," he said.

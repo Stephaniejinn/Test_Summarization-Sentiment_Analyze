@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400081
+
+Date : 2020-05-04 00:00:00
+Title : Australian student, meat plant workers among new COVID-19 cases as curbs ease
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Australia
+Cases:22 new cases
+Description:Australian student, meat plant workers among new COVID-19 cases as curbs ease

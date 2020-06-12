@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100006
+
+Date : 2020-04-30 00:00:00
+Title : Peruvian authorities close food market due to coronavirus cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.30
+Location:Peru
+Cases:traders
+Description:Peruvian authorities close food market due to coronavirus cases

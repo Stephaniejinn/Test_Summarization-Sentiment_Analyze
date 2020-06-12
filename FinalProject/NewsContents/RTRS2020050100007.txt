@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-singapore/singapore-reports-528-new-coronavirus-cases-death-toll-rises-to-15-idUSKBN22C10H
-ID : RTRS2020050100007
-
-Date : 2020-04-30 07:14:00
-Title : Singapore reports 528 new coronavirus cases, death toll rises to 15
-Ariticle : 
-SINGAPORE (Reuters) - Singapore confirmed 528 new coronavirus cases on Thursday, its Health Ministry said, taking the city-state’s total cases to 16,169. 
-The Southeast Asian island nation also reported one death, taking the total death toll to 15. 
-Among the new cases, six are Singaporeans or permanent residents, while 488 cases are foreign workers living in dormitories, the health ministry said.     

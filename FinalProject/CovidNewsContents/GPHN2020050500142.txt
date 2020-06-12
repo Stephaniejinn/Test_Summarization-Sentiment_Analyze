@@ -1,0 +1,16 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006909715
+ID : GPHN2020050500142
+
+Date : 2020-04-24 08:45:00
+Title : Clinical Trial Begins at Northwestern Medicine for Patients with Severe COVID-19
+Ariticle : 
+Chicago, Illinois, April 24 -- Northwestern Medicine issued the following news release:
+Northwestern Medicine is enrolling patients in a global clinical trial for hospitalized patients who are severely or critically ill with COVID-19. The drug being tested is sarilumab, which is currently used as a treatment option for adults with moderately active to severely active rheumatoid arthritis. Northwestern Memorial Hospital enrolled its first patient for the COVID-19 trial in March.
+“The drug is being given to people with very severe COVID-19 infection who have a high chance of dying or prolonged critical care requirements without specific therapy,” explains Richard Wunderink, MD, pulmonary and critical care specialist, who also serves as the medical director of the Medical Intensive Care Unit (MICU) at Northwestern Memorial Hospital.
+Sarilumab blocks an inflammatory cytokine (type of protein) the body makes, called interleukin-6 (IL-6), by binding to the IL-6 receptor. Preliminary evidence shows excessive amounts of IL-6 may play a role in causing acute respiratory distress in COVID-19 patients. The clinical trial will help determine if sarilumab helps alleviate the overactive inflammatory responses in the lungs when damaged by COVID-19. The study will compare the response of people who get the drug to a smaller control group of patients who receive a placebo.
+“Some patients with COVID-19 are thought to develop lung injury from an overly exuberant immune response to the virus,” says Dr. Wunderink. “In some patients in China, the levels of a protein in the blood called C-reactive protein (CRP) were significantly elevated. The CRP levels increased because of excessive release of IL-6.  Sarilumab blocks the IL-6 receptor in the body, theoretically making cells resistant to the ill effects of excessive IL-6. There is always a concern that this will limit the immune response, so it is important to monitor patients for evidence of infection and treat it.”
+Northwestern Medicine is using special diagnostic tests, developed in-house, to look for infection in patients receiving sarilumab.
+“Very often with new diseases, people try multiple things at once, making it difficult to tell what, if anything, worked,” says Dr. Wunderink. “Researchers in China gave a similar drug to a small number of people and observed what they thought were good effects. It is important to confirm (or not) these findings before we use this medication routinely. We also need to look to see if there are unexpected side effects of the drug in these patients.”
+Patients of Northwestern Medicine are also eligible to participate in an international clinical trial for remdesivir, an anti-viral drug developed to treat Ebola. The academic health system is also studying other experimental antibiotics for select patients.
+“The best strategy right now is prevention,” adds Dr. Wunderink. “We want to thank those who are making important sacrifices by social distancing, so we can provide the best care to those in our community who become the most ill.”
+Source: Northwestern Medicine

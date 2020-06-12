@@ -1,0 +1,19 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006912597
+ID : GPHN2020050600048
+
+Date : 2020-05-05 19:44:00
+Title : The coronavirus has mutated and appears to be more contagious now, new study finds
+Ariticle : 
+UPDATED MOMENTS AGO
+The coronavirus that emerged in Wuhan, China, over four months ago has since mutated and the new, dominant strain spreading across the U.S. appears to be even more contagious, according to a new study.
+The new strain began spreading in Europe in early February before migrating to other parts of the world, including the United States and Canada, becoming the dominant form of the virus across the globe by the end of March, researchers at the Los Alamos National Laboratory wrote in a 33-page report published Thursday on BioRxiv. 
+If the coronavirus doesn’t subside in the summer like the seasonal flu, it could mutate further and potentially limit the effectiveness of the coronavirus vaccines being developed by scientists around the world, the researchers warned. Some vaccine researchers have been using the virus’s genetic sequences isolated by health authorities early in the outbreak.
+“This is hard news,” Bette Korber, a computational biologist at Los Alamos and lead author of the study, the Los Angeles Times said she wrote on her Facebook page.
+“But please don’t only be disheartened by it,” she continued. “Our team at LANL was able to document this mutation and its impact on transmission only because of a massive global effort of clinical people and experimental groups, who make new sequences of the virus (SARS-CoV-2) in their local communities available as quickly as they possibly can.”
+The study has yet to be peer-reviewed, but the researchers noted that news of the mutation was of “urgent concern” considering the more than 100 vaccines in the process of being developed to prevent Covid-19.
+In early March, researchers in China said they found that two different types of the coronavirus could be causing infections worldwide.
+In a study published on March 3, scientists at Peking University’s School of Life Sciences and the Institut Pasteur of Shanghai found that a more aggressive type of the new coronavirus had accounted for roughly 70% of analyzed strains, while 30% had been linked to a less aggressive type. The more aggressive and deadly strain was found to be prevalent in the early stages of the outbreak in Wuhan — the Chinese city where the virus first emerged.
+The Los Alamos researchers, with the help of scientists at Duke University and the University of Sheffield in England, were able to analyze thousands of coronavirus sequences collected by the Global Initiative for Sharing All Influenza, an organization that promotes the rapid sharing of data from all influenza viruses and the coronavirus.
+To date, the researchers have identified 14 mutations. 
+The mutation impacts the spike protein, a multifunctional mechanism that allows the virus to enter the host.
+The research was supported by funding from the Medical Research Council, the National Institute of Health Research and Genome Research Limited.

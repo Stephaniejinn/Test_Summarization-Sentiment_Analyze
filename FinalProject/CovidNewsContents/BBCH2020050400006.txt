@@ -1,0 +1,74 @@
+URL : https://www.bbc.com/news/world-asia-52523048
+ID : BBCH2020050400006
+
+Date : 2020-05-03 00:00:00
+Title : Afghanistan investigates reports Iran guards forced migrants into river
+Ariticle : 
+        
+            
+                                
+                                                                 
+Image copyright
+                 
+Reuters
+                            
+                        
+                
+Image caption
+                
+                    Many Afghan migrants in search of work cross the border to Iran from Herat province                
+            
+                    
+Afghanistan is investigating reports Afghan migrants drowned after being tortured and pushed into a river by Iranian border guards. 
+The migrants were caught trying to enter Iran illegally from the western Herat province on Friday, according to local media. 
+The migrants were beaten and forced to jump into a river by Iranian border guards, the reports said. Some of them are said to have died.
+Iran has dismissed the allegation. 
+A foreign ministry spokesman said the incident took place on Afghan territory, not Iranian, and security guards denied any involvement. 
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+The number involved in the incident is unconfirmed but officials said dozens of migrants crossed the border, and at least seven people died with more still missing. 
+A search party has been sent to retrieve the bodies of migrants from the river.
+
+Seven million Afghan children risk hunger
+
+'Staff infected' in Afghan presidential palace
+
+The Afghan Human Rights Commission (AHRC) said local officials told it "Iranian security forces arrested a number of Afghan migrants seeking work who wanted to enter Iran".
+"They were made to cross the Harirud river [at the Afghan-Iranian border], as a result a number of them drowned and some survived," it added.
+/* sc-component-id: SimpleMapGraphic__GraphicContainer-s1ketwac-0 */.dXwefP.dXwefP{width:100%;height:100px;background-color:#fff;box-sizing:border-box;}
+        
+          html, body{            margin: 0;            padding: 0;          }            @font-face {    font-family: 'ReithSans';    font-display: swap;    src: url(/static/media/BBCReithSans_W_Rg.woff2) format("woff2"), url(/static/media/BBCReithSans_W_Rg.woff) format("woff");  }  @font-face {    font-family: 'ReithSans';    font-display: swap;    src: url(/static/media/BBCReithSans_W_Md.woff2) format("woff2"), url(/static/media/BBCReithSans_W_Md.woff) format("woff");    font-weight: bold;  }  @font-face {    font-family: 'BBCNassim';    font-display: swap;    src: url(/static/media/BBCNassimRegularFADesktop.ttf) format("truetype");  }  @font-face {    font-family: 'BBCNassim';    font-display: swap;    src: url(/static/media/BBCNassimBoldFADesktop.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Iskoola_pota_bbc';    font-display: swap;    src: url(/static/media/iskpotaRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Iskoola_pota_bbc';    font-display: swap;    src: url(/static/media/iskpotaBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Latha';    font-display: swap;    src: url(/static/media/lathaRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Latha';    font-display: swap;    src: url(/static/media/lathaBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Mangal';    font-display: swap;    src: url(/static/media/mangalRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Mangal';    font-display: swap;    src: url(/static/media/mangalBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Noto Sans CJK KR';    font-display: swap;    src: url(/static/media/NotoSansCJKkr-Regular.otf) format("opentype");  }  @font-face {    font-family: 'Noto Sans CJK KR';    font-display: swap;    src: url(/static/media/NotoSansCJKkr-Bold.otf) format("opentype");    font-weight: bold;  }  @font-face {    font-family: 'Noto Sans Gurmukhi';    font-display: swap;    src: url(/static/media/NotoSansGurmukhi-Regular.ttf) format("truetype");  }  @font-face {    font-family: 'Noto Sans Gurmukhi';    font-display: swap;    src: url(/static/media/NotoSansGurmukhi-Bold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Padauk';    font-display: swap;    src: url(/static/media/PadaukRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Padauk';    font-display: swap;    src: url(/static/media/PadaukBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'Shonar_bangala';    font-display: swap;    src: url(/static/media/ShonarRegular.ttf) format("truetype");  }  @font-face {    font-family: 'Shonar_bangala';    font-display: swap;    src: url(/static/media/ShonarBold.ttf) format("truetype");    font-weight: bold;  }  @font-face {    font-family: 'NotoSansEthiopic';    font-display: swap;    src: url(/static/media/NotoSansEthiopic-Regular.ttf) format("truetype");  }  @font-face {    font-family: 'NotoSansEthiopic';    font-display: swap;    src: url(/static/media/NotoSansEthiopic-Bold.ttf) format("truetype");    font-weight: bold;  }        
+      
+          IDT.init({"graphicUUID":"9d348d37-5d09-4b73-b0c1-8af17a61daa4","graphicData":{"type":"MapGraphic","altText":"","service":"news","centerPosition":{"latitude":31.481262062993437,"longitude":60.54197141121684},"zoomLevel":5,"areas":[{"id":"9b79868b-fee8-483d-a40a-656e17bd42e4","providerId":"Iran_207025_country","longName":"Iran","originalTitle":"Iran","title":"IRAN","entityType":"country","location":{"latitude":32.5439618016482,"longitude":54.323542027451815},"boundingBox":[44.04218013900004,25.056078554000067,63.441501704000075,39.74718805100008],"fillColour":"#FFEBC1","lineColour":"#BABABA","labelLocation":{"latitude":32.67961442107167,"longitude":55.72768918465436},"labelDisplayOptions":{"bold":false,"large":false}},{"id":"9a708b86-176c-4cd1-a70b-58a751508fe8","providerId":"Afghanistan_206923_country","longName":"Afghanistan","originalTitle":"Afghanistan","title":"AFGHANISTAN","entityType":"country","location":{"latitude":33.831482921896225,"longitude":66.02445930520153},"boundingBox":[60.47223874300005,29.37754364600005,74.8883,38.492903127000034],"fillColour":"#E6D2AA","lineColour":"#FFEBC1","labelLocation":{"latitude":33.00509259065494,"longitude":65.55173703621684},"labelDisplayOptions":{"bold":false,"large":false}},{"id":"411ffe75-8765-4559-be25-114b74d9e603","providerId":"Herat_206923830150_admin1","longName":"Herat, Afghanistan","originalTitle":"Herat","title":"HERAT","entityType":"admin1","location":{"latitude":34.189376464333485,"longitude":62.13687954633969},"boundingBox":[60.47223874300005,32.850464027000044,64.48154,35.640151167000056],"fillColour":"#E6D2AA","lineColour":"#FFEBC1","labelDisplayOptions":{"bold":false,"large":false}}],"points":[],"locator":{"zoomLevel":20,"centerPosition":{"latitude":0,"longitude":0}},"locatorPosition":"Bottom left"},"externalAssetHostname":"https://news.files.bbci.co.uk/include/idt2"});        
+Shir Agha, a migrant who witnessed the incident, told Reuters the Iranian guards "warned us that if we do not throw ourselves into the water, we will be shot".
+Another Afghan migrant, Shah Wali, alleged that the Iranian guards "beat us, then made us do hard work". 
+"They then took us by minibus near to the river, and when we got there, they threw us into the river," he added.
+About three million Afghans live in Iran, including refugees and wage labourers. Hundreds of Afghans cross into Iran every day to find work. 
+There was a mass exodus of migrants returning to Afghanistan after the coronavirus outbreak in Iran, which has recorded almost 100,000 cases of the disease to date. Many are suspected to have brought coronavirus back across the border with them.
+The porous borders where the virus cannot be controlled
+But as Iran seeks to ease restrictions, Afghan migrants in search of work are crossing the country's border in greater numbers again.
+Afghan officials have expressed concern over the incident in Herat province, risking a diplomatic row at a time of already strained relations over the coronavirus pandemic. 
+In a tweet to Iranian officials, Herat's governor Sayed Wahid Qatali wrote: "Our people are not just some names you threw into the river. One day we will settle accounts."
+            
+                                                
+                                            
+                    
+You may also be interested in: 
+    
+            
+            
+Media playback is unsupported on your device
+      
+        
+          
+        
+      
+    
+    
+Media caption
+The BBC's Secunder Kermani and Anne Soy compare how prepared Asian and African countries are
+
+            

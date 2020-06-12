@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7289702&trto=en&trfr=en&pid106
-ID : HMAP2020050200184
-
-Date : 2020-04-30 00:00:00
-Title : A new way to accurately estimate COVID-19 death toll: Mathematical model can predict cumulative deaths in US - Science Daily -
-Ariticle : 
-A new way to accurately estimate COVID-19 death toll: Mathematical model can predict cumulative deaths in US ; ; 
-United States | COVID-19 | Humans

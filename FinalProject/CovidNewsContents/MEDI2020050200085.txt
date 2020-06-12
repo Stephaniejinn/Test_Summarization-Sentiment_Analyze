@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200085
+
+Date : 2020-04-29 00:00:00
+Title : Nearly 100 residents dead at NYC nursing home suffering COVID-19 outbreak
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/New York
+Cases:46 residents
+Description:Nearly 100 residents dead at NYC nursing home suffering COVID-19 outbreak

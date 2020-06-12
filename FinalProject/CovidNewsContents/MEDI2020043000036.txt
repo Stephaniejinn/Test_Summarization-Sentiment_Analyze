@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000036
+
+Date : 2020-04-28 00:00:00
+Title : Coronavirus: 32 deaths in 1 day a record for Maharashtra; Delhi gets 125 new cases
+Ariticle : 
+Disease:virus
+Time:2020.04.28
+Location:India
+Cases:cases
+Description:Coronavirus: 32 deaths in 1 day a record for Maharashtra; Delhi gets 125 new cases

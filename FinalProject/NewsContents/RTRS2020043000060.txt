@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-philippines-cases/philippines-reports-276-new-coronavirus-cases-10-more-deaths-idUSKBN22C184
-ID : RTRS2020043000060
-
-Date : 2020-04-30 08:24:00
-Title : Philippines reports 276 new coronavirus cases, 10 more deaths
-Ariticle : 
-MANILA (Reuters) - The Philippines reported 276 new coronavirus infections and 10 more deaths, bringing its total number of cases to 8,488 and fatalities to 568.  
-It also said 20 more individuals have recovered, bringing total recoveries to 1,043. 

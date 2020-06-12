@@ -1,0 +1,47 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/treatments/856205-med-drug-discov-perspectives-for-the-use-of-therapeutic-botulinum-toxin-as-a-multifaceted-candidate-drug-to-attenuate-covid-19
+ID : FLUT2020050200013
+
+Date : 2020-05-01 15:53:47
+Title : Med Drug Discov. Perspectives for the use of therapeutic Botulinum toxin as a multifaceted candidate drug to attenuate COVID-19
+Ariticle : 
+																							
+
+Med Drug Discov.
+ 2020 Apr 29:100042. doi: 10.1016/j.medidd.2020.100042. [Epub ahead of print]
+
+Perspectives for the use of therapeutic Botulinum toxin as a multifaceted candidate drug to attenuate COVID-19.
+
+
+
+Kandasamy M
+1,
+2,
+3
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+The recent outbreak of coronavirus disease (COVID-19) resulting from a distinctive severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) continues to evolve in many countries and pose life-threatening clinical issues to global public health. While the lungs are the primary target for the SARS-CoV-2-mediated pathological consequence, SARS-CoV-2 appear to invade the brain and cause neurological deficits. In the later stage, COVID-19 can progress to pneumonia, acute respiratory failure, neurological deficits and multi-organ dysfunctions leading to death. Though a significant portion of SARS-CoV-2 infected individuals has been recovering from pathological symptoms, the impact of the COVID-19 on the structural and functional properties of the lungs, heart, brain and other organs at the post-recovery state remains unknown. Presently, there is an urgent need for a remedial measure to combat this devastating COVID-19. Botulinum toxins (BoNTs) are potent neurotoxins that can induce paralysis of muscle and acute respiratory arrest in human. However, a mild dose of the purified form of BoNT has been known to attenuate chronic cough, dyspnoea, pneumonia, acute respiratory failure, abnormal circulation, cardiac defects and various neurological deficits that have been recognised as the prominent clinical symptoms of COVID-19. Considering the fact, this review article provides 1) an overview on the SARS-CoV-2 mediated pathological impact on the lungs, heart and brain, 2) signifies the therapeutic uses of BoNTs against pulmonary failure, cardiac arrest and neurological deficits, and 3) emphasize the rationality for the possible use of BoNT to prevent SARS-CoV-2 infection and manage COVID-19.
+© 2020 The Author(s). Published by Elsevier B.V.
+
+
+
+
+KEYWORDS:
+
+ACE2; Botox; Botulinum toxin; COVID-19; Coronavirus; SARS-CoV-2
+
+
+PMID:32352081PMCID:
+PMC7189194
+DOI:
+10.1016/j.medidd.2020.100042
+
+													

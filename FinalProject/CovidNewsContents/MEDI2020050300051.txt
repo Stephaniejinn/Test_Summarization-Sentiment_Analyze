@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300051
+
+Date : 2020-04-30 00:00:00
+Title : Coronavirus locks down Italian cruise ship
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.30
+Location:Italy
+Cases:over two suspected cases
+Description:Coronavirus locks down Italian cruise ship

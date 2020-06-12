@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300060
+
+Date : 2020-05-03 00:00:00
+Title : Lagos records four fresh COVID-19 deaths
+Ariticle : 
+Disease:COVID-19 infection
+Time:2020.05
+Location:Nigeria
+Cases:4 COVID-19 deaths
+Description:Lagos records four fresh COVID-19 deaths

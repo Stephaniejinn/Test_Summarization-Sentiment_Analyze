@@ -1,0 +1,48 @@
+URL : https://promedmail.org/promed-post/?id=7294846
+ID : PROM2020050400004
+
+Date : 2020-05-03 21:56:32
+Title : PRO/AH/EDR> COVID-19 update (154): Netherlands (NB) animal, farmed mink, research
+Ariticle : 
+COVID-19 UPDATE (154): NETHERLANDS (NORTH BRABANT) ANIMAL, FARMED MINK, RESEARCH
+********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Sun 26 Apr 2020 [accessed Sat 2 May 2020]
+Source: OIE - Letter from the Dutch CVO [abridged, edited]
+https://www.oie.int/fileadmin/Home/eng/Our_scientific_expertise/docs/pdf/COV-19/OIE_SARS_CoV%202_infection_of_mink_in_the_Netherlands_26April2020.pdf
+OIE - A letter from the Dutch CVO re. "SARS-CoV-2 infection of minks in the Netherlands."
+------------------------------------------------------------------------------------------------
+Although zoonotic transmission cannot be excluded, the impact on human health is estimated to be negligible in this phase of the epidemic, since effective human-to-human transmission is the driving force of the epidemic.
+The National Institute for Public Health and the Environment in Bilthoven (RIVM) concluded that the infected mink farms do not pose an additional risk to public health. However, together with the Municipal Health Services (GGD) and the RIVM, advice for personal protection for employees and mink farmers has been provided.
+We also take measures with respect to these infected farms. Based on the Dutch Health and Welfare Act, it is not allowed to move the animals or any manure from this farm until further notice in order to prevent any spread of the virus to other farms. In addition, we have an obligation for mink farmers, veterinarians, and employees of research institutes to notify any clinical signs on mink farms resembling COVID-19. This obligation also makes it possible to do more research on mink farms to gain more epidemiological knowledge of COVID-19 in mink. 
+This research will be carried out as soon as possible. In that respect, we will carry out further examinations on these farms and in the environment to get more insight into the epidemiology and further spread of the infection. This includes clinical, pathological, and virological examination of diseased or dead mink, sequencing of virus isolates obtained from mink from these farms, and serological examination of mink carried out 3 times within a period of 6 weeks. Although the virus is expected only to spread over short distances as it does between humans, we will also collect and examine dust samples in the surroundings as a precautionary measure.
+Finally, in consultation with RIVM, it was decided to close the public roads around the farm for pedestrians and cyclists until the results of the tests are known, which are expected to be known within a few weeks.
+[Dr. Christianne Bruschke - Chief Veterinary Officer of the Netherlands]
+--
+Communicated by:
+ProMED-mail 
+<promed@promedmail.org>
+[The above letter complements the information included in  
+20200427.7272289
+ and  
+20200501.7286113
+.
+The Dutch veterinary authorities may have arrived at the decision to keep the affected minks alive following a risk assessment. Application of euthanasia at the peak of the animals' COVID-19 outbreak may have put the personnel (and environment?) at higher risk of exposure to SARS-CoV-2 than maintaining the minks under strict control while in search for highly needed scientific information. Results of the research efforts are anticipated with interest.
+Mink farming has been banned in the Netherlands, similar to many other European countries. The Dutch ban is said to become effective 2024.
+The world's largest fur production is located in China, its biggest concentration, reportedly, in the northeast (our thanks go to Dan Silver). Minks have been mentioned in China among the animal species addressed as potential intermediate hosts of COVID-19; see 
+https://www.biorxiv.org/content/10.1101/2020.01.21.914044v2.full
+. - Mod.AS
+HealthMap/ProMED map available at:
+North Brabant, Netherlands: 
+http://healthmap.org/promed/p/1250
+] 
+See Also
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology  
+20200501.7286113
+COVID-19 update (135): Netherlands (NB) animal, farmed mink  
+20200427.7272289
+.................................................arn/msp/ml

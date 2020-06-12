@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000056
+
+Date : 2020-04-29 00:00:00
+Title : Mexico coronavirus infections rise to 17,799 cases and 1,732 deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:Mexico
+Cases:1,732 deaths
+Description:Mexico coronavirus infections rise to 17,799 cases and 1,732 deaths

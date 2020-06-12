@@ -1,0 +1,7 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006890456
+ID : GPHN2020050200100
+
+Date : 2020-05-01 14:32:00
+Title : CDC launches national viral genomics consortium to better map SARS-CoV-2 transmission
+Ariticle : 
+CDC has kicked off the SARS-CoV-2 Sequencing for Public Health Emergency Response, Epidemiology and Surveillance (SPHERES) consortium, which will greatly expand the use of whole genome sequencing (WGS) of the COVID-19 virus.

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900049
+
+Date : 2020-04-27 00:00:00
+Title : Coronavirus news in Tennessee: Cases reach 10,052 statewide
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.27
+Location:USA/Tennessee
+Cases:134 cases
+Description:Coronavirus news in Tennessee: Cases reach 10,052 statewide

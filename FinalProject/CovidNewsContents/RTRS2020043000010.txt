@@ -1,0 +1,9 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-remdesivir/china-trial-shows-gileads-drug-does-not-show-benefits-in-covid-19-patients-lancet-idUSKBN22B2FV
+ID : RTRS2020043000010
+
+Date : 2020-04-29 15:46:00
+Title : China trial shows Gilead's drug does not show benefits in COVID-19 patients: Lancet
+Ariticle : 
+(Reuters) - Gilead Sciences Inc’s experimental drug remdesivir does not speed up recovery from COVID-19 compared with placebo in critically-ill, hospitalised patients, according to data from a trial in China published in the Lancet.  
+The authors of the study warned that interpreting the trial finding is limited as it was stopped early after they were unable to recruit enough patients due to the steep decline in cases in China.   
+The authors conclude that more evidence from ongoing clinical trials is needed to better understand if remdesivir can provide meaningful clinical benefit. 

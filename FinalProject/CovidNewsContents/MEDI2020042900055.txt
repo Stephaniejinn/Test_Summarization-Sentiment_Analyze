@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900055
+
+Date : 2020-04-28 00:00:00
+Title : Nigeria records 195 new coronavirus cases, 4 deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:Nigeria
+Cases:four new deaths
+Description:Nigeria records 195 new coronavirus cases, 4 deaths

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200066
+
+Date : 2020-05-01 00:00:00
+Title : Algeria president warns to tighten measures after resurgence of COVID-19 cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Algeria
+Cases:453 fatalities
+Description:Algeria president warns to tighten measures after resurgence of COVID-19 cases

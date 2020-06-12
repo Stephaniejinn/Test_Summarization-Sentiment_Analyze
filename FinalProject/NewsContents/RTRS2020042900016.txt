@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-britain-masks/uk-scientists-say-face-masks-have-only-small-effect-on-coronavirus-spread-idUSKCN22A2UT
-ID : RTRS2020042900016
-
-Date : 2020-04-28 17:10:00
-Title : UK scientists say face masks have only small effect on coronavirus spread
-Ariticle : 
-LONDON (Reuters) - British scientists advising the government have concluded that wearing a face mask has a small effect on stopping a coronavirus carrier from infecting someone else, and the evidence is weak, Deputy Chief Scientific Adviser Angela McLean said on Tuesday. 
-“There is weak evidence of a small effect in which a face mask can prevent a source of infection going from somebody who is infected to the people around them,” she said.  

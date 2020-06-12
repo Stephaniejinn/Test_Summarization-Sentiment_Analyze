@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100048
+
+Date : 2020-04-29 00:00:00
+Title : Aden in 3-day lockdown as Yemen reports new coronavirus cases, deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:Yemen
+Cases:five confirmed cases
+Description:Aden in 3-day lockdown as Yemen reports new coronavirus cases, deaths

@@ -1,47 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/laboratory-and-imaging-features/856324-int-j-mol-sci-2020-rt-qpcr-testing-of-sars-cov-2-a-primer
-ID : FLUT2020050200063
-
-Date : 2020-05-01 18:41:23
-Title : Int J Mol Sci. 2020  RT-qPCR Testing of SARS-CoV-2: A Primer
-Ariticle : 
-																							
-
-Int J Mol Sci.
- 2020 Apr 24;21(8). pii: E3004. doi: 10.3390/ijms21083004.
-
-RT-qPCR Testing of SARS-CoV-2: A Primer.
-
-
-
-Bustin SA
-1
-, 
-Nolan T
-2,
-3
-.
-
-
-Author information
-
-
-
-
-
-Abstract
-
-Testing for the presence of coronavirus is an essential diagnostic tool for monitoring and managing the current COVID-19 pandemic. The only reliable test in current use for testing acute infection targets the genome of SARS-CoV-2, and the most widely used method is quantitative fluorescence-based reverse transcription polymerase chain reaction (RT-qPCR). Despite its ubiquity, there is a significant amount of uncertainty about how this test works, potential throughput and reliability. This has resulted in widespread misrepresentation of the problems faced using this test during the current COVID-19 epidemic. This primer provides simple, straightforward and impartial information about RT-qPCR.
-
-
-
-
-KEYWORDS:
-
-COVID-19; SARS; pandemic; real-time fluorescence PCR; reverse transcription
-
-
-PMID:32344568DOI:
-10.3390/ijms21083004
-Free full text
-
-													

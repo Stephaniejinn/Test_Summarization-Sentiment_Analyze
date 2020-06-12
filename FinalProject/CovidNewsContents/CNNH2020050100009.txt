@@ -1,0 +1,81 @@
+URL : https://edition.cnn.com/2020/04/30/health/us-coronavirus-thursday/index.html
+ID : CNNH2020050100009
+
+Date : 2020-04-30 07:35:52
+Title : Most US states are reopening within days but some need time 'to remain vigilant'
+Ariticle : 
+ (CNN)
+More than half of US states will partially reopen by the end of the week, but some are opting to extend their stay-at-home orders in an abundance of caution.
+"We need to use time to remain vigilant," said Louisiana Gov. John Bel Edwards on Thursday after extending the state's order through May 15. 
+Over the next few days, at least 31 states will reopen and Americans will see a patchwork of approaches as the country attempts to move past the crisis phase of the pandemic.
+This is where each state stands on reopening
+Florida will start to reopen May 4, but for now Miami-Dade and two other counties won't be included
+Among the different approaches: 
+Read More
+Georgia Gov. Brian Kemp, who allowed some businesses to open last week, said he won't extend a statewide stay-at-home order and will require businesses to operate with strict social distancing measures until May 13.
+California Gov. Gavin Newsom is ordering 
+beaches and parks closed
+ and said reopening of schools and businesses is still "weeks away.
+Arizona Gov. Doug Ducey extended the stay-at-home order until May 15.
+Florida
+ has two different approaches within its borders: Restaurants and retail shops can let customers inside, at reduced capacity, starting Monday -- but not in South Florida's populous Palm Beach, Broward and Miami-Dade counties, home to 6 million people.
+West Virginia's dentists can go back to work Thursday; its restaurants, churches and services like salons must wait until Monday.  
+Federal stay-at-home restrictions are set to expire at midnight after new coronavirus cases and deaths appear to be plateauing nationwide.  
+But some states are still seeing not seeing a steady decrease in cases. In North Carolina, health officials reported a new single-day high Thursday and Gov. Roy Cooper said he remains "hopeful" the state will move to relax some restrictions soon.
+FOLLOW LATEST US UPDATES
+At least 1,056,402 Americans have tested positive for Covid-19; at least 61,867 have died, 
+according to Johns Hopkins University.
+CDC draft document details reopening guidelines
+A 
+draft document
+ from the US Centers for Disease Control and Prevention details guidelines on how businesses, schools, and other organizations should handle reopening to the public.
+A person familiar with the deliberations provided the draft document to CNN. Separately, a federal health official stressed that the draft guidance, which was sent to Washington this week, is still under review by the Trump administration and could change.  
+CDC's draft guidance for reopening amid coronavirus includes spaced-out seating in schools, disposable menus in restaurants
+Among the draft recommendations for the initial phases of reopening:
+Schools should space desks at least 6 feet apart, avoid "non-essential" assemblies and field trips, and have students eat lunch in classrooms rather than cafeterias.
+Faith-based organizations should limit large gatherings, rely on virtual or outdoor services where possible, use a stationary collection box, and ask that attendees  follow CDC guidelines on wearing face coverings.
+Restaurants should move toward disposable menus, plates and utensils, switch to single-use condiments, install sneeze guards at cash registers, and avoid salad bars, buffets and self-serve drink stations.
+CNN has reached out to the White House coronavirus task force to ask about the status of the review of these draft recommendations.
+Report: FDA to make drug announcement
+In this March 2020 photo provided by Gilead Sciences, a vial of the investigational drug remdesivir is visually inspected at a Gilead manufacturing site.
+{"@context": "http://schema.org","@type": "ImageObject","name": "In this March 2020 photo provided by Gilead Sciences, a vial of the investigational drug remdesivir is visually inspected at a Gilead manufacturing site.","description": "In this March 2020 photo provided by Gilead Sciences, a vial of the investigational drug remdesivir is visually inspected at a Gilead manufacturing site.","url": "//cdn.cnn.com/cnnnext/dam/assets/200417084309-gilead-remdesivir-0311-large-169.jpg"}
+The US Food and Drug Administration 
+plans to announce an emergency-use
+ authorization for the investigational coronavirus treatment, remdesivir, the New York Times reported, citing a senior administration official. 
+Tampa Bay Times: Florida officials asked medical examiners to withhold coronavirus death figures
+The FDA said in a statement to CNN on Wednesday it is in discussions with Gilead Sciences, the maker of remdesivir, about making the drug available to patients. Gilead's current supply of the drug could cover at least 140,000 treatment courses for coronavirus patients, CEO Daniel O'Day said Wednesday.
+Dr. Anthony Fauci, 
+the nation's top infectious disease doctor,
+ announced positive results 
+from a remdesivir trial that began February 21.
+"The data shows that remdesivir has a clear-cut, significant, positive effect in diminishing the time to recovery," he said in the Oval Office during a meeting with President Donald Trump and Louisiana Gov. John Bel Edwards. 
+But the researcher behind that trial told CNN that remdesivir is "not the end of the story" when it comes to treating the virus.
+"We have work to do. We are looking for other therapies, this trial is going to continue," said Dr. Andre Kalil, the principal investigator for the clinical trial, which was sponsored by the National Institutes of Health. "In medicine, it's never ending. We can always do better. And we want to do better."
+A man is asked to cough into his arm as part of testing for coronavirus by a member of the Los Angeles Fire Department.
+{"@context": "http://schema.org","@type": "ImageObject","name": "A man is asked to cough into his arm as part of testing for coronavirus by a member of the Los Angeles Fire Department.","description": "A man is asked to cough into his arm as part of testing for coronavirus by a member of the Los Angeles Fire Department.","url": "//cdn.cnn.com/cnnnext/dam/assets/200429230621-los-angeles-free-coronavirus-test-large-169.jpg"}
+NYC subways will be disinfected nightly
+Utah Gov. Gary Herbert on Thursday issued an executive order putting the state under a lower, "moderate risk" protocol May 1, his website says. It allows restaurants and bars to open for dine-in services but with tables limited to 10 people, enforced social distancing, and face masks for staff, a Department of Health document outlining the protocol says.
+In Texas, Dallas will reopen its golf courses and other outdoor facilities Friday, according to a release from a city spokesperson, Andrea Hawkins.
+New York Gov. Andrew Cuomo outlined a plan to suspend New York City subway service for four hours every night to disinfect the trains.
+Free testing in Los Angeles
+Los Angeles began offering 
+free coronavirus
+ tests Wednesday night to all residents, Mayor Eric Garcetti said in a news conference, making it the first major US city to do so.
+There is no limit to the number of times someone can request a test. People with symptoms are a top priority, but people without symptoms can also be tested.  
+Garcetti initially said testing would be open to city residents only, but according to a news release and the city's website, all Los Angeles County residents can sign up for a free test.
+"We have the capacity so don't wait, don't wonder and don't risk infecting others," Garcetti said. "If you feel you need a test, get one. If you want to be safe, get one."
+Public, private health labs may never be able to meet demand for coronavirus testing 
+The county has 34 testing sites, with a capacity to test 18,000 people per day. More than 140,000 people have been tested throughout those testing sites, according to Garcetti.
+Health experts have said states should ramp up testing for coronavirus in order to safely reopen.
+Washington Gov. Jay Inslee referenced testing Wednesday when announcing that the state's stay-at-home order would remain in effect past May 4. Inslee said the state cannot reach its full potential of 22,000 tests per day.
+"Unfortunately, because we don't have additional swabs in the viral transfer media ... we can only do about 4,600," he said. 
+The state's outbreak is disproportionately affecting the Hispanic community, which makes up 13% of the population, but represents 30% of coronavirus cases, Inslee said. 
+A "prone team," wearing personal protective equipment (PPE), prepares to turn a coronavirus patient onto his stomach.
+{"@context": "http://schema.org","@type": "ImageObject","name": "A &quot;prone team,&quot; wearing personal protective equipment (PPE), prepares to turn a coronavirus patient onto his stomach.","description": "A &quot;prone team,&quot; wearing personal protective equipment (PPE), prepares to turn a coronavirus patient onto his stomach.","url": "//cdn.cnn.com/cnnnext/dam/assets/200429084538-03-fauci-second-wave-coronavirus-large-169.jpg"}
+A second round is 'inevitable'
+How the nation responds to this wave of coronavirus will determine how bad the "inevitable" second one will be, Fauci said.
+US could see 'a bad fall and a bad winter' if it's unprepared for a second wave of coronavirus, Fauci warns
+If states begin lifting restrictions too early, Fauci said, he predicts the country could see a rebound of the virus that would "get us right back in the same boat that we were a few weeks ago," adding that the country could see many more deaths than are currently predicted.
+CNN Medical Analyst Dr. Celine Gounder said Tuesday that before it is safe to list social distancing restrictions states should see a 14-day decline in cases and deaths, a hospital capacity for expected patients and the ability to do testing and contact tracing.
+A University of Iowa study recommended maintaining mitigation efforts another two weeks to prevent another wave of infections.
+CNN's Jamiel Lynch, Kevin Liptak, Nick Valencia, Steve Almasy, Christina Maxouris, Arman Azad, Elizabeth Cohen, Betsy Klein and Sarah Moon contributed to this report.

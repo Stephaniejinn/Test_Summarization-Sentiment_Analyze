@@ -1,0 +1,79 @@
+URL : https://www.bbc.com/news/uk-politics-52553229
+ID : BBCH2020050600009
+
+Date : 2020-05-05 00:00:00
+Title : Coronavirus: Prof Neil Ferguson quits government role after 'undermining' lockdown
+Ariticle : 
+        
+            
+                                
+                                                            
+                        
+                
+Image caption
+                
+                    Prof Neil Ferguson appeared before the Science and Technology Committee in March                
+            
+                    
+Prof Neil Ferguson has quit as a government adviser on coronavirus after admitting an "error of judgement".
+Prof Ferguson, whose advice to the prime minister led to the UK lockdown, said he regretted "undermining" the messages on social distancing.
+It follows a Daily Telegraph story that a woman, said to be his "married lover", visited his home in lockdown.
+His modelling of the virus's transmission suggested 250,000 people could die without drastic action.
+What are social distancing and self-isolation rules?
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+This led Prime Minister Boris Johnson to announce on 23 March that he was imposing widespread curbs on daily life aimed at stopping the spread of coronavirus.
+In a statement, Prof Ferguson said: "I accept I made an error of judgement and took the wrong course of action.
+"I have therefore stepped back from my involvement in Sage (Scientific Advisory Group for Emergencies).
+"I acted in the belief that I was immune, having tested positive for coronavirus and completely isolated myself for almost two weeks after developing symptoms.
+"I deeply regret any undermining of the clear messages around the continued need for social distancing."
+He called the government advice on social distancing "unequivocal", adding that it was there "to protect all of us".
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+Prof Neil Ferguson is one of the world's most influential disease modellers.
+He is director of the MRC Centre for Global Infectious Disease Analysis.
+The centre's mathematical predictions advise governments and the World Health Organization on outbreaks from Ebola in West Africa to the current pandemic.
+It was that group's work, in early January, that alerted the world to the threat of coronavirus. 
+It showed hundreds if not thousands of people were 
+likely to have been infected in Wuhan
+, at a time when Chinese officials said there were only a few dozen cases.
+But he shot to public attention as "Professor Lockdown".
+In mid-March, 
+the maths showed the UK needed to change course
+ or a quarter of a million people would die in a "catastrophic epidemic".
+Those calculations helped transform government policy and all lives.  
+            
+                                                
+                                            
+                    
+
+A SIMPLE GUIDE:  
+How do I protect myself?
+
+
+AVOIDING CONTACT: 
+The rules on self-isolation and exercise
+
+
+HOPE AND LOSS: 
+Your coronavirus stories
+
+
+LOOK-UP TOOL: 
+Check cases in your area
+
+
+TESTING: 
+Can I get tested for coronavirus?
+
+
+            

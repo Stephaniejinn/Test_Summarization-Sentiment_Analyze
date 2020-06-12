@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-denmark/denmark-says-coronavirus-spread-has-not-accelerated-since-reopening-began-idUSKBN22C2EU
-ID : RTRS2020043000079
-
-Date : 2020-04-30 13:25:00
-Title : Denmark says coronavirus spread has not accelerated since reopening began
-Ariticle : 
-COPENHAGEN (Reuters) - The spread of Covid-19 in Denmark has not accelerated since the country began a gradual looswening of restrictions in mid-April, the State Serum Institute, which is responsible for preparedness against infectious diseases, said on Thursday. 
-The so-called R rate, which shows the average number of infections one person with the virus causes, has increased slightly in the past two weeks but remains below 1.0, the institute said.  
-“However, there are no signs that the COVID-19 epidemic is accelerating,” it said. 

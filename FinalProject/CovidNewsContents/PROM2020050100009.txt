@@ -1,0 +1,91 @@
+URL : https://promedmail.org/promed-post/?id=7282301
+ID : PROM2020050100009
+
+Date : 2020-04-30 23:06:55
+Title : PRO/EDR> Methanol poisoning - Iran (02): inappropriate rumor-based COVID-19 treatment
+Ariticle : 
+METHANOL POISONING - IRAN (02): INAPPROPRIATE RUMOR-BASED CORONAVIRUS DISEASE 2019 TREATMENT
+********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Mon 27 Apr 2020
+Source: Al Jazeera [edited]
+https://www.aljazeera.com/news/2020/04/iran-700-dead-drinking-alcohol-cure-coronavirus-200427163529629.html
+More than 700 people have died in Iran after ingesting toxic methanol, erroneously thinking it can cure the new coronavirus. The national coroner's authority said alcohol poisoning killed 728 Iranians between 20 Feb and 7 Apr 2020. Last year [2019] there were only 66 deaths from alcohol poisoning, according to the report.
+Alcohol poisoning has seen a 10-fold increase in Iran in the past year, according to a government report released earlier in April [2020], amid the coronavirus pandemic.
+Iranian health ministry spokesman, Kianoush Jahanpour, said 5011 people had been poisoned from methanol alcohol, adding that some 90 people have lost their eyesight or are suffering eye damage from the alcohol poisoning. Hossein Hassanian, a health ministry adviser, said the final tally of people who lost their eyesight could be much higher.
+Iran is facing the worst coronavirus outbreak in the Middle East with 5806 deaths and more than 91 000 confirmed cases.
+Methanol cannot be smelled or tasted in drinks. It causes delayed organ and brain damage. Symptoms include chest pain, nausea, hyperventilation, blindness, and even coma.
+In Iran, the government mandates manufacturers of toxic methanol add an artificial colour to their products so the public can tell it apart from ethanol, the kind of alcohol which can be used in cleaning wounds.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[Methanol toxicity initially lacks severe toxic manifestations. Its pathophysiology represents a classic example of lethal synthesis in which toxic metabolites cause fatality after a characteristic latent period. In other words, these people may not realize they are sick or ill until sometime after consumption.
+Methanol is sometimes used as an ethanol substitute for alcohol. Foods such as fresh fruits and vegetables, fruit juices, fermented beverages, and diet soft drinks containing aspartame are the primary sources of methanol in the human body, but [they contain] minute quantities.
+Wood alcohol is also known as methanol. It is a commonly used toxic organic solvent causing metabolic acidosis, neurologic issues, and death when ingested. It is a part of many commercial industrial solvents and of adulterated alcoholic beverages or is mistaken as being the same as alcohol for ingestion. Methanol toxicity remains a common problem in many parts of the developing world, especially among members of lower socioeconomic classes.
+Neurological complications are recognized more frequently due to advanced technologies and because of early recognition of the toxicity and advances in supportive care. Hemodialysis and better management of acid-base disturbances remain the most important therapeutic improvements.
+Serum methanol levels of greater than 20 mg/dL correlate with ocular injury. Funduscopic changes are notable within only a few hours after methanol ingestion. The mechanism by which the methanol causes toxicity to the visual system is not well understood. Formic acid, the toxic metabolite of methanol, is regarded as being responsible for ocular toxicity, and blindness can occur in humans.
+The prognosis in methanol poisoning correlates with the amount of methanol consumed and the subsequent degree of metabolic acidosis; more severe acidosis confers a poorer prognosis. Methanol has a relatively low toxicity. The adverse effects are thought to be from the accumulation of formic acid, a metabolite of methanol metabolism. The prognosis is further dependent on the amount of formic acid that has accumulated in the blood, with a direct correlation existing between the formic acid concentration and morbidity and mortality. Little long-term improvement can be expected in patients with neurologic complications.
+The minimal lethal dose of methanol in adults is believed to be 1 mg/kg of body weight. The exact rates of morbidity and mortality from methanol intoxication are not available.
+Rapid, early treatment is necessary for survival, but sequelae such as blindness may be permanent.
+Metabolic acidosis in methanol poisoning may necessitate the administration of bicarbonate and assisted ventilation. Bicarbonate potentially may reverse visual deficits. In addition, bicarbonate may help to decrease the amount of active formic acid.
+Antidote therapy, often using ethanol or fomepizole, is directed towards delaying methanol metabolism until the methanol is eliminated from the patient's system either naturally or via dialysis. Like methanol, ethanol is metabolized by ADH [alcohol dehydrogenase], but the enzyme's affinity for ethanol is 10-20 times higher than it is for methanol. Fomepizole is also metabolized by ADH; however, its use is limited because of high cost and lack of availability.
+Hemodialysis can easily remove methanol and formic acid. Indications for this procedure include (1) greater than 30 mL [1 oz] of methanol ingested, (2) serum methanol level greater than 20 mg/dL, (3) observation of visual complications, and (4) no improvement in acidosis despite repeated sodium bicarbonate infusions.
+Intravenous administration of ethanol in a 10% dextrose solution may be helpful. As ethanol prolongs the elimination half-life of methanol, the treatment may take several days, and the patient should be hospitalized. Dialysis may be necessary to prevent kidney failure as well. Hemodialysis remains an effective treatment.
+Anecdotal reports of other potentially harmful "home remedies" for COVID-19 being sold or touted as cure on the internet or by someone wishing to make a quick profit reminds us that education of the general public and responsible messaging are more important now than ever.
+Portions of this comment were extracted from
+- 
+http://emedicine.medscape.com/article/1174890-overview
+,
+- 
+http://emedicine.medscape.com/article/1174890-treatment
+,
+- 
+https://www.nap.edu/read/4795/chapter/35
+, and
+- 
+https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750029.html
+. - Mod.TG
+HealthMap/ProMED-mail map:
+Iran: 
+http://healthmap.org/promed/p/128
+] 
+See Also
+Methanol poisoning - Iran: counterfeit treatment for COVID-19  
+20200328.7155084
+2019
+----
+Foodborne illness - Philippines: (LG, QZ) fatal, methanol poisoning susp., RFI  
+20191222.6853828
+Methanol poisoning - Costa Rica: counterfeit alcohol, fatal, alert  
+20190725.6586399
+Methanol poisoning - Malaysia: counterfeit alcohol  
+20190624.6536165
+2018
+----
+Alcohol poisoning - Malaysia: methanol  
+20180922.6045822
+Undiagnosed illness, fatal - Zimbabwe: (MN) methanol susp.  
+20180703.5886474
+Alcohol poisoning - Canada: (NT) methanol susp.  
+20180331.5720594
+2016
+----
+Alcohol, pesticide poisoning - India: (HR) fatal  
+20160302.4064444
+Alcohol poisoning - USA, Sweden: hand sanitizer, consumption  
+20160229.4058927
+2015
+----
+Alcohol poisoning, children - USA: hand sanitizer  
+20150921.3660960
+Alcohol poisoning - India  
+20150621.3454789
+Methanol poisoning, fatal - India: (UP)  
+20150113.3088258
+and other items in the archives
+.................................................sb/tg/tw/ml

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200036
+
+Date : 2020-05-01 00:00:00
+Title : Brazil: Manaus Collapses as COVID-19 Hits Indigenous People
+Ariticle : 
+Disease:infection
+Time:2020.05.01
+Location:Brazil
+Cases:15 Indigenous persons
+Description:Brazil: Manaus Collapses as COVID-19 Hits Indigenous People

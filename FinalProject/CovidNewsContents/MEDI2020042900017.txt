@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900017
+
+Date : 2020-04-29 00:00:00
+Title : Brown County exceeds 900 COVID-19 cases, reports third death in pandemic
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04
+Location:USA/Wisconsin
+Cases:Seven members
+Description:Brown County exceeds 900 COVID-19 cases, reports third death in pandemic

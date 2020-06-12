@@ -1,0 +1,34 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006896100
+ID : GPHN2020050300062
+
+Date : 2020-05-03 04:01:00
+Title : 'How coronavirus infects intestine cells decoded'
+Ariticle : 
+London, May 3 (PTI) Researchers have shown that the novel coronavirus can infect and multiply in cells of the human intestine, a finding that could explain why many COVID-19 patients experience gastrointestinal symptoms such as diarrhea.
+The scientists, including those from Hubrecht Institute in the Netherlands, successfully propagated the novel coronavirus, SARS-CoV-2, in cell culture models of the human intestine, and monitored the response of the cells to the virus.
+They said the findings, published in the journal Science, could explain the observation that nearly one third of COVID-19 patients experience symptoms such as diarrhea, and the fact that the virus often can be detected in stool samples.
+Patients with COVID-19 show a variety of symptoms associated with respiratory organs such as coughing, sneezing, shortness of breath, and fever, and the disease is transmitted via tiny droplets that are spread mainly through coughing and sneezing.
+One third of the patients, however, also experience gastrointestinal symptoms, such as nausea and diarrhea, the researchers said.
+Long after the respiratory symptoms have been resolved, the virus can be detected in human stool, they added, suggesting that SARS-CoV-2 can also spread via so-called "fecal-oral transmission".
+Though the respiratory and gastrointestinal organs seem very different, the study noted some key similarities.
+One observation, it said, is the presence of the ACE2 receptor through which the SARS-CoV-2 virus can enter cells.
+The researchers said the inside of the intestine is loaded with these receptors.
+Until now, they said it was unknown whether intestinal cells could actually get infected and produce virus particles.
+So the scientists attempted to culture the viruses in human intestinal organoids, which are tiny versions of the human intestine that can be grown in the lab.
+"These organoids contain the cells of the human intestinal lining, making them a compelling model to investigate infection by SARS-CoV-2," said study co-author Hans Clevers froom Hubrecht Institute.
+When the virus was added to the organoids, the cells were rapidly infected, the study noted.
+According to the scientists, the virus entered a subset of the cells in the intestinal organoids, and the number of cells that were infected increased over time.
+Using electron microscopy -- an advanced way to visualize different components of the cell in great detail -- the researchers found virus particles inside and outside the cells of the organoids.
+"Due to the lockdown, we all studied virtual slides of the infected organoids remotely from home," said Peter Peters, co-author of the study from Maastricht University in the Netherlands.
+Assessing the response of the organoid to the virus, the researchers found that genes stimulated by the chemical messenger of the immune system, interferons, were activated in these cells.
+They said these genes are known to combat viral infection.
+The researchers believe that future work focussing on these genes more carefully, can help understand how they could be used to develop new treatments.
+When the scientists then cultured the organoids in different conditions, resulting in cells with higher and lower levels of the ACE2 receptor, they found that the virus infected cells with both high and low levels of the ACE2 receptor.
+The study, the scientists said, may lead to new ways to block the entry of the virus into our cells.
+They also believe that the findings may provide a new cell culture model for the study of COVID-19.
+"The observations made in this study provide definite proof that SARS-CoV-2 can multiply in cells of the gastrointestinal tract. However, we don't yet know whether SARS-CoV-2, present in the intestines of COVID-19 patients, plays a significant role in transmission," said Bart Haagmans, another co-author of the study.
+"Our findings indicate that we should look into this possibility more closely," Haagmans added.
+According to the study, special attention may be needed for patients with gastrointestinal symptoms.
+The researchers said that more extensive testing using not only nose and throat swabs, but also rectal swabs or stool samples may be needed.
+In further studies, the scientists said they hope to understand the differences between infections in the lung and the intestine by comparing lung and intestinal organoids infected with SARS-CoV-2. PTI VIS VIS
+VIS

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300053
+
+Date : 2020-05-02 00:00:00
+Title : Four additional COVID-19 cases reported in Aiken County by DHEC
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:USA/Kentucky
+Cases:One middle-aged individual
+Description:Four additional COVID-19 cases reported in Aiken County by DHEC

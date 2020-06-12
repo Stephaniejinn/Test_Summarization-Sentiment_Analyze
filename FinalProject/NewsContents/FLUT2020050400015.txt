@@ -1,47 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/treatments/857081-faseb-j-a-hypothesized-role-for-dysregulated-bradykinin-signaling-in-covid-19-respiratory-complications
-ID : FLUT2020050400015
-
-Date : 2020-05-04 07:09:44
-Title : FASEB J.  A hypothesized role for dysregulated bradykinin signaling in COVID-19 respiratory complications
-Ariticle : 
-																							
-
-FASEB J.
- 2020 May 2. doi: 10.1096/fj.202000967. [Epub ahead of print]
-
-A hypothesized role for dysregulated bradykinin signaling in COVID-19 respiratory complications.
-
-
-
-Roche JA
-1
-, 
-Roche R
-2
-.
-
-
-Author information
-
-
-
-
-
-Abstract
-
-As of April 20, 2020, over time, the COVID-19 pandemic has resulted in 157 970 deaths out of 2 319 066 confirmed cases, at a Case Fatality Rate of ~6.8%. With the pandemic rapidly spreading, and health delivery systems being overwhelmed, it is imperative that safe and effective pharmacotherapeutic strategies are rapidly explored to improve survival. In this paper, we use established and emerging evidence to propose a testable hypothesis that, a vicious positive feedback loop of des-Arg(9)-bradykinin- and bradykinin-mediated inflammation → injury → inflammation, likely precipitates life threatening respiratory complications in COVID-19. Through our hypothesis, we make the prediction that the FDA-approved molecule, icatibant, might be able to interrupt this feedback loop and, thereby, improve the clinical outcomes. This hypothesis could lead to basic, translational, and clinical studies aimed at reducing COVID-19 morbidity and mortality.
-© 2020 Federation of American Societies for Experimental Biology.
-
-
-
-
-KEYWORDS:
-
-bradykinin; bradykinin receptor; coronavirus; icatibant; inflammation; injury
-
-
-PMID:32359101DOI:
-10.1096/fj.202000967
-
-
-													

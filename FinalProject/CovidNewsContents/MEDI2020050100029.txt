@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100029
+
+Date : 2020-04-15 00:00:00
+Title : Muskegon County coronavirus cases have nearly doubled every week over past month, data shows
+Ariticle : 
+Disease:contagious respiratory disease
+Time:2020.04.15
+Location:USA/Michigan
+Cases:five deaths
+Description:Muskegon County coronavirus cases have nearly doubled every week over past month, data shows

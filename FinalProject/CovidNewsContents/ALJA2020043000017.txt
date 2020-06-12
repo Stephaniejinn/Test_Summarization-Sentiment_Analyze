@@ -1,0 +1,33 @@
+URL : https://www.aljazeera.com/news/2020/04/drug-block-coronavirus-gilead-remdesivir-raises-hopes-200429180419493.html
+ID : ALJA2020043000017
+
+Date : 2020-04-29 19:37:00
+Title : 'A drug can block coronavirus': Gilead's remdesivir raises hopes
+Ariticle : 
+Top US scientist Anthony Fauci says the drug reduced the time it took for some patients to recover by 31 percent. 
+An experimental drug has proved effective against the new coronavirus in a major study, shortening the time it takes for patients to recover by four days on average, United States government and company officials announced Wednesday.
+Gilead Sciences' remdesivir is the first treatment to pass such a strict test against the virus, which has killed more than 224,000 people since it emerged late last year in China. Having a treatment could have a profound effect on the global pandemic, especially because health officials say any vaccine is likely a year or more away.
+The study, run by the US National Institutes of Health (NIH), tested remdesivir versus usual care in 1,063 hospitalised coronavirus patients around the world. At the White House, Dr Anthony Fauci, the director of 
+the NIH's National Institute of Allergy and Infectious Diseases, 
+said the drug reduced the time it takes patients to recover by 31 percent - 11 days on average versus 15 days for those just given usual care.
+He also said there was a trend towards fewer deaths among those on remdesivir, and that full results would soon be published in a medical journal.
+"What it has proven is that a drug can block this virus," Fauci said.
+"This will be the standard of care," he added. 
+"The data shows that remdesivir has a clear-cut, significant, positive effect in diminishing the time to recovery."  
+A statement from the US Food and Drug Administration (FDA) says that the agency has been talking with California-based Gilead "regarding making remdesivir available to patients as quickly as possible, as appropriate."
+The FDA plans to announce an emergency-use authorisation for remdesivir, according to The New York Times. 
+The authorisation for the investigational coronavirus treatment could come as soon as Wednesday, the Times reported, citing a senior administration official.
+Remdesivir is among many treatments being tested against the coronavirus, but was the farthest along in study.
+The drug is given intravenously and is designed to interfere with the virus's ability to copy its genetic material. In animal tests against severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), diseases caused by similar coronaviruses, the drug helped prevent infection and reduced the severity of symptoms when given early enough in the course of illness. But it is not yet approved anywhere in the world for any use.
+The NIH study quickly enrolled its original goal of 440 patients and then was expanded to give more answers to questions such as which subgroups may or may not benefit, and to explore other factors that may affect success, such as how early in the course of illness the drug was given.
+The study's main goal was also altered. Originally, it was aimed at determining the percentage of patients having various outcomes such as needing a breathing machine, fully recovered or dying 15 days after starting treatment. The new main goal is determining the time to recovery, such as no longer needing oxygen or hospitalisation.
+"We are excited and optimistic," said one expert, Vanderbilt University's Dr Mark Denison. His lab first tested remdesivir's efficacy against other coronaviruses in 2013 and has done much research on the drug since, but was not involved in the NIH study.
+"It's active against every coronavirus that we've ever tested," he said. "It was very hard for the virus to develop resistance to remdesivir. That means the drug would likely be effective over longer-term use."
+A less encouraging picture came from partial results from a separate study published on Wednesday in the British medical journal The Lancet. The study tested remdesivir in severely ill patients in China. Treatment did not speed recovery in that study, which was stopped after only 237 of a planned 453 patients were enrolled. Researchers gave 158 people the drug and 79 others got usual care.
+Separately on Wednesday, Gilead announced partial results from its own ongoing study of the drug in severely ill, hospitalised COVID-19 patients. The company said patients treated for five days "achieved similar improvement" in health as others treated for 10 days. However, that result is hard to interpret because there is no comparison group of people getting usual care, so it's impossible to know how much patients would have improved on their own.
+The company also said no new safety problems emerged in that study, and that it would publish results in a medical journal soon.
+Gilead is also testing remdesivir in a separate study of moderately ill coronavirus patients. No results have yet been announced from that study, which does have a comparison group getting usual care.
+Aside from these studies, Gilead also has given remdesivir to more than 1,700 patients on a case-by-case emergency basis.
+In other treatment-related news this week, two studies gave updates on anti-inflammatory drugs that aim to tamp down the severe inflammation that often develops in later stages of severe COVID-19 and often proves fatal.
+A French hospital consortium reported success with using Acetemra, a Roche drug sold for rheumatoid arthritis and some other conditions, in a study of 129 coronavirus patients where 65 got the drug and the rest, usual care. No details were released; doctors said they were preparing to publish results.
+A similar drug, Kevzara, did not work as well at low doses in a study of severely ill coronavirus patients, its makers Sanofi and Regeneron said. They are, however, continuing to test it at higher doses in critically ill patients.

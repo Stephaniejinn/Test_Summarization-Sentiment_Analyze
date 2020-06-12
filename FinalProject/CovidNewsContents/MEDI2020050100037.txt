@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100037
+
+Date : 2020-05-01 00:00:00
+Title : Four COVID-19 infected Defence personnel taken to RDH
+Ariticle : 
+Disease:virus
+Time:2020.05.01
+Location:Middle East
+Cases:personnel
+Description:Four COVID-19 infected Defence personnel taken to RDH

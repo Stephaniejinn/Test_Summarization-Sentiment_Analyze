@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400035
+
+Date : 2020-05-03 00:00:00
+Title : Massachusetts reports coronavirus death toll reaches more than 4,000 with 158 new deaths reported Sunday
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:USA/Massachusetts
+Cases:1,824 new cases
+Description:Massachusetts reports coronavirus death toll reaches more than 4,000 with 158 new deaths reported Sunday

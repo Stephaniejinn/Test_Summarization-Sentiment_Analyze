@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200087
+
+Date : 2020-05-01 00:00:00
+Title : China reports one new coronavirus case versus 12 a day earlier
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:China
+Cases:one new coronavirus case
+Description:China reports one new coronavirus case versus 12 a day earlier

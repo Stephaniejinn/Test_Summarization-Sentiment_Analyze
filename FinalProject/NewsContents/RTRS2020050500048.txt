@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-germany-reproducti/coronavirus-reproduction-rate-in-germany-at-0-71-rki-idUSKBN22H0U2
-ID : RTRS2020050500048
-
-Date : 2020-05-05 08:24:00
-Title : Coronavirus reproduction rate in Germany at 0.71: RKI
-Ariticle : 
-BERLIN (Reuters) - The reproduction rate for the coronavirus pandemic in Germany is currently estimated at 0.71, the head of public health authority RKI said on Tuesday. 
-That number indicates that 100 infected people infect on average 71 others, meaning the number of new infections would fall over time. 

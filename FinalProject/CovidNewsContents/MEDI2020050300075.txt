@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300075
+
+Date : 2020-05-02 00:00:00
+Title : One more COVID-19 case for Queensland
+Ariticle : 
+Disease:virus
+Time:2020.05.02
+Location:Australia
+Cases:passenger
+Description:One more COVID-19 case for Queensland

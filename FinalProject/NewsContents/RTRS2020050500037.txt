@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-mexico/mexico-registers-1434-new-coronavirus-cases-117-deaths-idUSKBN22H00M
-ID : RTRS2020050500037
-
-Date : 2020-05-05 00:15:00
-Title : Mexico registers 1,434 new coronavirus cases, 117 deaths
-Ariticle : 
-MEXICO CITY (Reuters) - Mexico registered 1,434 new cases of the novel coronavirus on Monday and 117 new deaths, a health official said, bringing the total in the country to 24,905 confirmed cases and 2,271 deaths. 
-However, health officials have previously said that the real number of cases is much higher. 

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300061
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus: Alberta confirms 97 new cases, 2 more deaths Saturday
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:Canada
+Cases:97 new cases
+Description:Coronavirus: Alberta confirms 97 new cases, 2 more deaths Saturday

@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-canada/canadas-total-coronavirus-death-toll-rises-6-in-a-day-official-data-idUSKBN22C2RW
-ID : RTRS2020050100008
-
-Date : 2020-04-30 15:21:00
-Title : Canada's total coronavirus death toll rises 6% in a day: official data
-Ariticle : 
-OTTAWA (Reuters) - The total number of people killed by the coronavirus in Canada rose by 6% to 3,082 in a day, official data posted by the public health agency showed on Thursday. 
-The figure for those diagnosed with the coronavirus had climbed to 52,056, according to a statement. On Wednesday there were 2,904 deaths and 50,373 positive diagnoses. 

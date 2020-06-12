@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400005
+
+Date : 2020-05-03 00:00:00
+Title : Muskegon County reports 3 more coronavirus cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:USA/Michigan
+Cases:coronavirus cases
+Description:Muskegon County reports 3 more coronavirus cases

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000002
+
+Date : 2020-04-30 00:00:00
+Title : Here are the very latest Massachusetts town-by-town coronavirus numbers
+Ariticle : 
+Disease:Coronavirus
+Time:2020
+Location:USA/Massachusetts
+Cases:5 cases
+Description:Here are the very latest Massachusetts town-by-town coronavirus numbers

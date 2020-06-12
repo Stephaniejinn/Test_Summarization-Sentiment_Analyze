@@ -1,0 +1,23 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868677
+ID : GPHN2020042900183
+
+Date : 2020-04-28 15:42:00
+Title : Western study finds evidence COVID-19 had origins in bats - CTV News London
+Ariticle : 
+Western University study finds evidence COVID-19 had origins in bats
+Published Tuesday, April 28, 2020 9:12AM EDT Last Updated Tuesday, April 28, 2020 5:51PM EDT
+SHARE
+LONDON, ONT. --   A team of computer scientists and biologists at Western University says their data concurs with the belief bats are the origin of COVID-19.
+The conclusion comes after high-powered computers at the university analyzed the 29 COVID-19 DNA sequences against 5,300 known viruses in animals.
+The study was led by Western Biology Professor Kathleen Hill, with the support of students at Western and the University of Waterloo.
+Hill says, within a short period of time, the computer answered the main question researchers had.
+"We just asked [the computer], ‘What’s the closest neighbour?’ So, given a DNA sequence, and a big ancestry of DNA sequences from 5,300 viruses, we asked, ‘These 29 viral sequences, who is their closest relatives?’ And the closest relatives given were viruses in bats."
+The Western-led research team is not the first in the world to link bats to the deadly virus.
+But, Hill says they are the fastest, and that could be important as work on treatments and a vaccine for COVID-19 continue.
+"What we’ve done with the DNA is turned into a language the computer can understand. It’s numbers. And that allows the computers to read a DNA sequence far faster than I can."
+Hill says the speed of the computer could help researchers - around the globe - as they try to get one step ahead of COVID-19.
+She says the virus has thousands of letters in its DNA. 
+To combat it, Hill says the program her team developed will be shared online, permitting worldwide researchers to use the technology to get answers - quickly.
+Sharing between scientists, Hill believes, is the key to beating the virus.
+"The world could know that those scientists are working together. They are moving forward. They are sharing stories and looking for a creative ways to do things, in a fast way, thinking outside the box."
+RELATED IMAGES

@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-usa-projections/new-projection-of-usa-covid-19-deaths-nearly-135000-by-august-university-of-washington-idUSKBN22G2VG
-ID : RTRS2020050500031
-
-Date : 2020-05-04 21:45:00
-Title : New projection of USA COVID-19 deaths nearly 135,000 by August: University of Washington
-Ariticle : 
-(Reuters) - New U.S. COVID-19 forecasts project nearly 135,000 deaths in the United States through the beginning of August, the Institute for Health Metrics and Evaluation (IHME) at the University of Washington said on Monday. 
-The revised projections almost double the number of deaths foreseen in the United States since the last estimate in mid-April.  
-The new projections reflect rising mobility and the easing of social distancing measures expected in 31 states by May 11, said the IHME, whose models are used by the White House. The increasing contacts among people will promote transmission of the coronavirus, it said.  

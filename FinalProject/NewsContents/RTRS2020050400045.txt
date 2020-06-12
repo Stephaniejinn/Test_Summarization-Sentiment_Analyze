@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-germany-antibodies/german-health-minister-coronavirus-reproduction-rate-at-0-74-idUSKBN22G13I
-ID : RTRS2020050400045
-
-Date : 2020-05-04 10:10:00
-Title : German health minister: Coronavirus reproduction rate at 0.74
-Ariticle : 
-BERLIN (Reuters) - The novel coronavirus reproduction rate in Germany is currently estimated at 0.74 on average, Health Minister Jens Spahn said on Monday. 
-Authorities are watching this rate closely to see whether to loosen coronavirus restrictions further. Public health experts say that a rate of 1 or above would make it harder to loosen restrictions imposed to slow the spread of coronavirus. 

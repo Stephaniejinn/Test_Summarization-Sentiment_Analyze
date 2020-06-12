@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-britain-death-toll/uk-covid-19-death-toll-rises-to-28131-shadowing-italy-idUSKBN22E0LD
-ID : RTRS2020050300005
-
-Date : 2020-05-02 15:23:00
-Title : UK COVID-19 death toll rises to 28,131, shadowing Italy
-Ariticle : 
-LONDON (Reuters) - The United Kingdom’s COVID-19 death toll rose 621 to 28,131 as of May 1, just short of Italy which has had the deadliest novel coronavirus outbreak among European countries. 
-“Sadly of those tested positive for coronavirus... 28,131 have now died,” housing minister Robert Jenrick told reporters at a Downing Street briefing. “That’s an increase of 621 fatalities since yesterday.” 
-Italy reported a death toll of 28,236 on May 1. The United Kingdom’s previous death toll was 27,510 as of April 30 at 1600.  

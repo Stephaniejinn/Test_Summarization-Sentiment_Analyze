@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-china/china-reports-4-new-coronavirus-cases-vs-22-a-day-earlier-idUSKBN22C036
-ID : RTRS2020043000038
-
-Date : 2020-04-30 00:46:00
-Title : China reports 4 new coronavirus cases vs 22 a day earlier
-Ariticle : 
-SHANGHAI (Reuters) - China reported four new coronavirus cases for April 29, down from 22 a day earlier, data from the country’s health authority showed. 
-All of the cases were imported, the National Health Commission said. It also reported 33 new asymptomatic cases over the day, up from 26 a day earlier. 
-The total number of confirmed cases has now reached 82,862. With no new deaths on Wednesday, the toll remained at 4,633.  

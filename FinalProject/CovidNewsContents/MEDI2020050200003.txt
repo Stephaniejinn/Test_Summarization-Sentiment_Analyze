@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200003
+
+Date : 2020-05-01 00:00:00
+Title : FDA Allows Emergency Use of Drug for Coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:USA
+Cases:coronavirus patients
+Description:FDA Allows Emergency Use of Drug for Coronavirus

@@ -1,0 +1,46 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/immunity-aa/855582-tests-in-recovered-patients-in-s-korea-found-false-positives-not-reinfections-experts-say
+ID : FLUT2020043000010
+
+Date : 2020-04-29 20:41:41
+Title : Tests in recovered patients in S. Korea found false positives, not reinfections, experts say
+Ariticle : 
+																							
+Tests in recovered patients in S. Korea found false positives, not reinfections, experts say
+
+
+The Korea Herald/Asia News Network
+ / 05:09 PM April 29, 2020
+
+	SEOUL — South Korea’s infectious disease experts said Thursday that dead virus fragments were the likely cause of over 260 people here testing positive again for the novel coronavirus days and even weeks after marking full recoveries.
+
+	Oh Myoung-don, who leads the central clinical committee for emerging disease control, said the committee members found little reason to believe that those cases could be COVID-19 reinfections or reactivations, which would have made global efforts to contain the virus much more daunting.
+
+
+“The tests detected the ribonucleic acid of the dead virus,” said Oh, a Seoul National University hospital doctor, at a press conference Thursday held at the National Medical Center.
+
+	He went on to explain that in PCR tests, or polymerase chain reaction tests, used for COVID-19 diagnosis, genetic materials of the virus amplify during testing, whether it is from a live virus or just from fragments of dead virus cells that can take months to clear from recovered patients.
+
+
+
+	The PCR tests cannot distinguish whether the virus is alive or dead, he added, and this can lead to false positives.
+
+	“PCR testing that amplifies genetics of the virus is used in Korea to test COVID-19, and relapse cases are due to technical limits of the PCR testing.”
+
+
+
+	As of Sunday, 263 people in Korea tested positive for the disease again after being declared virus-free, of which 17 were minors or teens, the National Medical Center said.
+
+	“The respiratory epithelial cell has a half-life of up to three months, and RNA virus in the cell can be detected with PCR testing one to two months after the elimination of the cell,” Oh said.
+
+
+The committee’s findings confirmed an earlier assessment from the Korea Centers for Disease Control and Prevention that repeat patients appear to have little or no contagiousness. The KCDC cited results of virus culture tests that all failed to find live virus in recovered patients.
+
+	....
+
+
+The committee ruled out reactivation of COVID-19 as a reason for relapses and said there was little to no possibility that reinfections would occur due to antibodies that patients develop.
+
+	“The process in which COVID-19 produces a new virus takes place only in host cells and does not infiltrate the nucleus. This means it does not cause chronic infection or recurrence,” Oh said.....
+https://newsinfo.inquirer.net/126675...ns-experts-say
+
+													

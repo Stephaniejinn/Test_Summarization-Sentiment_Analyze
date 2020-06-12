@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-netherlands/dutch-coronavirus-cases-pass-40000-idUSKBN22E0G7
-ID : RTRS2020050200050
-
-Date : 2020-05-02 12:09:00
-Title : Dutch coronavirus cases pass 40,000
-Ariticle : 
-AMSTERDAM (Reuters) - The number of confirmed coronavirus infections in the Netherlands has increased by 445 to 40,236, Dutch health authorities said on Saturday. 
-The National Institute for Public Health reported 94 new deaths, taking total COVID-19 fatalities to 4,987. 

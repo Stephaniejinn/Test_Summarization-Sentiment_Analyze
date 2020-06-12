@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500056
+
+Date : 2020-05-05 00:00:00
+Title : Iran: Coronavirus fatalities exceeds 39,000 in 312 cities
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.05
+Location:Iran
+Cases:patients
+Description:Iran: Coronavirus fatalities exceeds 39,000 in 312 cities

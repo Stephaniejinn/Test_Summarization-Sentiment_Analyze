@@ -1,0 +1,34 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006900125
+ID : GPHN2020050400085
+
+Date : 2020-05-01 22:43:00
+Title : Timing of immune response to COVID-19 may contribute to disease severity
+Ariticle : 
+Credit: © eMirage / Adobe Stock
+Close
+A new USC study suggests that temporarily suppressing the body's immune system during the early stages of COVID-19 could help a patient avoid severe symptoms.
+advertisement
+That's because the research, just published online in the Journal of Medical Virology, shows that an interaction between the body's two main lines of defense may be causing the immune system to go into overdrive in some patients.
+The body's first line of defense, the innate immune response, starts right after an infection, like an infantry going after a foreign invader, killing the virus and any cells damaged by it. The second line of defense, the adaptive immune response, kicks in days later if any virus remains, employing what it has learned about the virus to mobilize a variety of special forces such as T cells and B cells.
+Using the "target cell-limited model," a common mathematical model developed to understand the dynamics of viral infections, the researchers examined how the two immune responses work in COVID-19 patients compared to patients who have the flu.
+The flu is a fast-moving infection that attacks certain target cells on the surface of the upper respiratory system and kills almost all of the target cells within two to three days. The death of these cells deprives the virus of more targets to infect and allows the innate immune response time to clear the body of almost all of the virus before the adaptive system comes into play.
+Adaptive immune response kicking in too soon
+But COVID-19, which targets surface cells throughout the respiratory system including in the lungs, has an average incubation of six days and a much slower disease progression. Mathematical modeling suggests that the adaptive immune response may kick in before the target cells are depleted, slowing down the infection and interfering with the innate immune response's ability to kill off most of the virus quickly.
+advertisement
+"The danger is, as the infection keeps going on, it will mobilize the whole of the adaptive immune response with its multiple layers," said Weiming Yuan, associate professor in the Department of Molecular Microbiology and Immunology at the Keck School of Medicine of USC, and co-corresponding author of the study. "This longer duration of viral activity may lead to an overreaction of the immune system, called a cytokine storm, which kills healthy cells, causing tissue damage."
+The interaction of the innate and the adaptive immune responses might also explain why some COVID-19 patients experience two waves of the disease, appearing to get better before eventually getting much worse.
+"Some COVID-19 patients may experience a resurgence of the disease after an apparent easing of symptoms," said Sean Du, adjunct researcher and lead author of the study. "It's possible that the combined effect of the adaptive and the innate immune responses may reduce the virus to a low level temporarily. However, if the virus is not completely cleared, and the target cells regenerate, the virus can take hold again and reach another peak."
+Counterintuitive treatment
+The most provocative result of the research is the kind of treatment it suggests to prevent this interaction between the two immune responses.
+advertisement
+"Based on the results of the mathematical modeling, we proposed a counterintuitive idea that a short regimen of a proper immunosuppressant drug applied early in the disease process may improve a patient's outcome," said Du. "With the right suppressive agent, we may be able to delay the adaptive immune response and prevent it from interfering with the innate immune response, which enables faster elimination of the virus and the infected cells."
+Small studies out of China, including a recent one of COVID-19 patients and one of SARS patients in 2003 show patients who received immunosuppressants such as corticosteroids had better results than those who did not.
+The researchers said a possible next step could be to take daily measurements of viral loads and other biomarkers in COVID-19 patients, to see if the data validates the mathematical modeling. More preclinical studies including experiments in animal models will also be needed to prove the efficacy of an early immune suppressing treatment.
+About this study
+This study was supported by the National Institute of Allergy and Infectious Diseases (R21AI149365) and partially supported by a National Institutes of Health (P30CA014089) grant to the University of Southern California Norris Comprehensive Cancer Center .
+make a difference: sponsored opportunity
+Story Source:
+Materials provided by Keck School of Medicine of USC . Original written by Laura LeBlanc. Note: Content may be edited for style and length.
+Journal Reference:
+Sean Quan Du, Weiming Yuan. Mathematical Modeling of Interaction between Innate and Adaptive Immune Responses in COVID‐19 and Implications for Viral Pathogenesis. Journal of Medical Virology, 2020; DOI: 10.1002/jmv.25866
+Cite This Page:

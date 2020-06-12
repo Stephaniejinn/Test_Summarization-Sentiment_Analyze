@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100012
+
+Date : 2020-04-29 00:00:00
+Title : Rise in number of positive coronavirus cases in Cheshire East
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:UK
+Cases:47 cases
+Description:Rise in number of positive coronavirus cases in Cheshire East

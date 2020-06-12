@@ -1,0 +1,17 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006898235
+ID : GPHN2020050400017
+
+Date : 2020-05-02 14:57:00
+Title : Alberta releases COVID-19 contact tracing app 'ABTraceTogether' - MobileSyrup
+Ariticle : 
+0 comments
+Alberta has become the first province to launch a contact tracing app.
+Available now for both iOS and Android users, the ‘ABTraceTogether’ app will help Alberta Health Services trace the contacts of people infected with COVID-19. The process should help health authorities manage the spread of the virus as the province slowly restarts its economy.
+Currently, contact tracing is done manually. It involves asking infected people about who they have interacted with. Doing so allows health authorities to track and hopefully contain the virus’ spread. However, for contact tracing to be effective, it must be paired with aggressive testing.
+Because of COVID-19’s ability to spread quickly between people, smartphone apps have emerged as a way to aid in the contact tracing process. There are two main ways these apps work. One method uses GPS and location data to track people’s movement and who they came in contact with. While location-based methods have proven effective in other countries like South Korea, using location data brings several privacy concerns.
+ABTraceTogether uses Bluetooth to help Alberta Health Service identify potential contacts
+The other method — and the one that Alberta uses with ABTraceTogether — is Bluetooth. Instead of tracking users’ physical location, smartphones trade encrypted codes over Bluetooth. Then when someone tests positive for the virus, those codes can be shared. Any smartphone with a matching code indicates a person potentially infected by the COVID-positive person.
+Crucially, this method of contact tracing doesn’t use location at all and instead relies on proximity data. It doesn’t matter where you came into contact with someone else, only that you were close enough to potentially infect them.
+In the case of Alberta’s app, it specifically uses Bluetooth to identify other smartphones with the app installed within a two-metre radius. It encrypts that data and stores it on the phone. Once a person becomes infected with COVID-19, Alberta Health Services will ask the person to upload that data, which will allow tracing workers to reach others who were in close contact with the infected individual.
+Alberta’s app appears to work similarly to a contact tracing solution being developed by Apple and Google . The two companies designed an exposure notification API that will be available in mid-May. It allows public health authorities to build apps that can use Bluetooth to trade codes with other nearby phones and use that information to notify people of potential infection.
+If you live in Alberta and want to participate in the contact tracing, you can download the ABTraceTogether app from either the App Store for iPhone or the Play Store for Android . Ultimately, the more people use these apps, the more effective they will be at helping health authorities track the spread of COVID-19.

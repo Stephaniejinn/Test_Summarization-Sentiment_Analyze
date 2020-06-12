@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300030
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus strikes nearly 80 Missouri nursing homes
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.26-2020.05.02
+Location:USA/Massachusetts
+Cases:About three dozen workers
+Description:Coronavirus strikes nearly 80 Missouri nursing homes

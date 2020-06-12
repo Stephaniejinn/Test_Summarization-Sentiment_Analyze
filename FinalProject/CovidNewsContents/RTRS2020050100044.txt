@@ -1,0 +1,16 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-china-detection-gl/chinese-startup-rokid-sees-opportunity-with-covid-fighting-smart-glasses-idUSKBN22D4TQ
+ID : RTRS2020050100044
+
+Date : 2020-05-01 08:18:00
+Title : Chinese startup Rokid sees opportunity with COVID-fighting smart glasses
+Ariticle : 
+HANGZHOU, China (Reuters) - A Chinese startup that develops augmented-reality products for use in manufacturing and gaming has found a promising growth area in the midst of a global pandemic - wearable glasses that measure temperatures on the move. 
+In response to the COVID-19 outbreak in late 2019, Hangzhou-based startup Rokid developed a pair of glasses to help screen for symptoms. Rokid Vice President Xiang Wenjie says demand has risen for the company’s T1 glasses, developed in only two weeks, after it sold roughly 1,000 pairs to governments, industrial parks and schools. 
+“Apart from fixed temperature measurement, T1 can provide portable, distant and prompt temperature checking, which would be a great help,” Xiang said. 
+Equipped with an infrared sensor and a camera, the glasses allow the wearer to “see” peoples’ temperatures. 
+Rokid says on its website that it completed a round of “billion-dollar” financing in 2018, led by Singapore state investor Temasek [TEM.UL], Swiss bank Credit Suisse and others.   
+The company said it is now is upgrading the T1 to take multiple temperature readings simultaneously for use in places like malls and airports. 
+One office park in Hangzhou is replacing fixed thermometer stands with glasses after a flood of employees returning to work made temperature checks a headache for property management. 
+“With more new products coming out, especially these glasses, we think we can use them to conduct contactless temperature measurement, they are very efficient when faced with a big crowd of people,” said Jin Keli, president of Greentown Property Management. 
+Rokid is not the only Chinese tech startup involved in the fight against COVID-19. Thermal imaging systems made by face recognition giant SenseTime have been installed in railway stations across China. 
+The new coronavirus, first detected in Wuhan, the capital city of China’s central Hubei province, has so far killed more than 4,600 people and infected nearly 83,000 in mainland China. 

@@ -1,0 +1,26 @@
+URL : http://www.xinhuanet.com/english/2020-05/01/c_139022025.htm
+ID : XINH2020050100016
+
+Date : 2020-05-01 00:27:19
+Title : Feature: Huawei auxiliary systems help detect COVID-19 in Ecuador
+Ariticle : 
+A doctor is conducting medical tests using the technology of the Chinese company Huawei, in Quito, the capital of Ecuador, on April 20, 2020. (Xinhua/Hospital IESS) 
+Quito Sur Hospital was the first in the region to receive the auxiliary system, which uses Huawei Cloud combined with artificial intelligence to map lung tomography, and the results are available in approximately one minute.
+QUITO, April 29 (Xinhua) -- Two hospitals in Ecuador have improved the efficiency in the detection of COVID-19 thanks to an auxiliary diagnostic system from Chinese telecom company Huawei.
+"The tool was a contribution that improved diagnosis efficiency. It helped us a lot in making the right decisions at the right time ... it helped us to avoid wasting resources unnecessarily and helped our hospital avoid collapse," Danilo Calderon, general manager of Quito Sur Hospital, told Xinhua.
+On March 18, Quito Sur Hospital, part of the Ecuadorian Social Security Institute (IESS) health network, was the first in the region to receive the auxiliary system, which uses Huawei Cloud combined with artificial intelligence to map lung tomography, and the results are available in approximately one minute.
+"The technological tool has helped the hospital to segment patients in such a way that, of the more than 1,000 scans that have been performed, nearly 600 cases have been uploaded to the Huawei platform. It has established the people that had to be in the hospital and those for whom it was not necessary," said Calderon.
+He added that when the COVID-19 outbreak began in Ecuador on Feb. 29, there were very few tools to detect the virus at the National Institute for Public Health Research (INSPI), the organization that carries out examinations in the country.
+"Without the tool, we would have unnecessarily filled the hospital in such a way that we would already have collapsed, having people who perhaps only had influenza or some type of respiratory problem, but not related to COVID-19, together with people who did have COVID-19 and had no symptoms," he said.
+The tool, he said, has saved lives, prevented cross contamination and also allowed for monitoring those who have been discharged from the hospital through georeference.
+A group of 30 imaging doctors are responsible for performing the tomography and another group of specialists process the diagnoses.
+"The system is not very complex ... for our doctors. It is something very novel because through artificial intelligence and the comparison of similarity patterns with the thousands of positive CT (computed tomography) scans from China, they could diagnose COVID-19," he added.
+Huawei's auxiliary system is also used in Ceibos Hospital in the city of Guayaquil, the epicenter of the COVID-19 outbreak in the country.
+"The technological tool began to be replicated in Guayaquil after seeing what worked and the results have been favorable," said Calderon.
+According to the IESS, patients who show any suspicious symptoms will be subjected to this test, avoiding overtaxing the health system and helping prioritize resources.
+"The contribution of Huawei is essential to facing the health emergency" in Ecuador, said Paul Granda, president of the Board of Directors of the IESS.
+The product manager of Huawei Cloud in Ecuador, Xu Xitao, told Xinhua that it is part of the company's social responsibility to aid the South American country.
+"Each hospital can analyze 3,000 cases a month," he said, adding this system had already been used in China to fight the disease and that "in the Chinese experience, patients with COVID-19 have CT images as an auxiliary means of diagnosis."
+Huawei has trained Chinese doctors on how to use its auxiliary system so that they can communicate with their Ecuadorian colleagues. "We also have a WhatsApp group to help doctors solve problems," said Xu.
+The executive added that fighting COVID-19 is a common challenge for all countries, and "Huawei hopes to do everything possible to help the government control the development of the epidemic."  
+■

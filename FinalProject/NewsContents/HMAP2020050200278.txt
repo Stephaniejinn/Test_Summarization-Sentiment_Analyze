@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7290472&trto=en&trfr=en&pid106
-ID : HMAP2020050200278
-
-Date : 2020-05-01 00:00:00
-Title : U.S. Stocks End the Week Lower After Tech Earnings - The New York Times -
-Ariticle : 
-U.S. Stocks End the Week Lower After Tech Earnings ; ; 
-United States | COVID-19 | Humans

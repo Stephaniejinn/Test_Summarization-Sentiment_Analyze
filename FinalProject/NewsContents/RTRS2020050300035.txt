@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-netherlands/dutch-coronavirus-cases-rise-335-to-40571-with-69-new-deaths-health-authorities-idUSKBN22F0IE
-ID : RTRS2020050300035
-
-Date : 2020-05-03 12:24:00
-Title : Dutch coronavirus cases rise 335 to 40,571 with 69 new deaths: health authorities
-Ariticle : 
-THE HAGUE (Reuters) - The number of confirmed coronavirus infections in the Netherlands has increased by 335 to 40,471, Dutch health authorities said on Sunday. 
-The National Institute for Public Health reported 69 new deaths, taking total COVID-19 fatalities to 5,056. The authorities stress that the actual number of infections is likely higher because not all suspected COVID-19 patients are being tested.  

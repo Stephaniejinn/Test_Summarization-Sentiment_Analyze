@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7284107&trto=en&trfr=en&pid238
-ID : HMAP2020043000491
-
-Date : 2020-04-29 00:00:00
-Title : Apple and Google release first seed of COVID-19 exposure notification API for contact tracing app developers - TechCrunch -
-Ariticle : 
-Apple and Google release first seed of COVID-19 exposure notification API for contact tracing app developers ; ; 
-Oklahoma, United States | COVID-19 | Humans

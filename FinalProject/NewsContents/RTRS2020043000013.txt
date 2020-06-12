@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-france-casualties/france-coronavirus-death-toll-climbs-above-24000-idUSKBN22B2R8
-ID : RTRS2020043000013
-
-Date : 2020-04-29 17:10:00
-Title : France coronavirus death toll climbs above 24,000
-Ariticle : 
-PARIS (Reuters) - The number of people who have died from coronavirus infection in France rose by 427 to 24,087 on Wednesday, while hospitalizations for the disease and people in ICU units continued to decline, the health ministry said in a statement. 
-The death toll has increased 1.8% compared with Tuesday, a slightly higher rate of increase than over the previous 24 hours. 
-The number of people in hospital with the COVID-19 infection fell further to 26,834 from 27,484 on Tuesday, and the number of people in intensive care fell to 4,207 from 4,387. Both numbers have been on a downward trend for more than two weeks. 

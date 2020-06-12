@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300029
+
+Date : 2020-05-02 00:00:00
+Title : Daily coronavirus cases below 2,000 in Turkey
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:Turkey
+Cases:78 more deaths
+Description:Daily coronavirus cases below 2,000 in Turkey

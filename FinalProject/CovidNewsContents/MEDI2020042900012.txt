@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900012
+
+Date : 2020-04-28 00:00:00
+Title : Coronavirus outbreak: Toronto records 305 total COVID-19-related deaths
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:Canada
+Cases:5,182 COVID-19 cases
+Description:Coronavirus outbreak: Toronto records 305 total COVID-19-related deaths

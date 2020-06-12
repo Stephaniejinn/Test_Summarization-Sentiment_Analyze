@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900046
+
+Date : 2020-04-28 00:00:00
+Title : More than 300 coronavirus cases registered in Russian prisons
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:Russia
+Cases:40 inmates
+Description:More than 300 coronavirus cases registered in Russian prisons

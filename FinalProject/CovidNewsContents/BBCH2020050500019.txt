@@ -1,0 +1,261 @@
+URL : https://www.bbc.com/news/uk-52540068
+ID : BBCH2020050500019
+
+Date : 2020-05-05 00:00:00
+Title : Coronavirus: First workers to trial NHS tracing app
+Ariticle : 
+        
+            
+                                
+                                                                 
+Image copyright
+                 
+Reuters
+                            
+                        
+                
+Image caption
+                
+                    Social distancing rules will still be in place during the trial, Health Secretary Matt Hancock said                
+            
+                    
+An NHS app which aims to track the spread of coronavirus will be rolled out for the first time today, as part of a trial on the Isle of Wight.
+Council and healthcare workers will be the first to try the contact-tracing app, with the rest of the island able to download it from Thursday.
+If the trial is successful, it could be available nationwide within weeks.
+Concerns have been raised over privacy, though ministers say the app has been designed with this "front of mind".
+The app aims to quickly trace recent contacts of anyone who tests positive for the virus.
+    
+        
+            /**/            (function() {                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);                }            })();            /**/        
+    
+
+It is part of the government's strategy for coming out of lockdown, which aims to have widespread testing and contact tracing in place to monitor and reduce any future outbreaks.
+If the trial is successful, the app will be rolled out across the whole of the UK by the middle of May, Health Secretary Matt Hancock said.
+
+What is the UK's test, track and trace strategy? 
+
+What is the UK's new contact tracing app?
+
+            
+                                                
+                                            
+                    
+How does the app work?
+            
+                                                
+                                                 
+Image copyright
+                 
+NHS
+                            
+                    
+The new app - published on Apple and Google's app stores - works by using a Bluetooth connection. 
+It records when two people who have the app are within a certain distance of each other for longer than a specified amount of time.
+If one of those people later reports having symptoms, all the other app users they came into contact with over the last seven days will be alerted and told to self-isolate.
+            
+                                                
+                                            
+                    
+Mr Hancock urged everyone on the Isle of Wight to download the app when it was available to them. Social distancing rules would still be in place during the trial, he said.
+"By downloading the app, you are protecting your own health, you are protecting the health of your loved ones and the health of your community," he said.
+"Where the Isle of Wight goes, Britain follows."
+The island was chosen for the trial because it has a lower number of new infections, is covered by a single NHS trust and because travel to and from the island is quite restricted.
+    
+            
+            
+Media playback is unsupported on your device
+      
+        
+          
+        
+      
+    
+    
+Media caption
+Matt Hancock said Isle of Wight residents using the app "will be saving lives"
+
+It comes as the the number of coronavirus-related deaths in the UK reached 28,734, an increase of 288.
+The daily increase in deaths is lower than at any point since the end of March, but the figures reported at the weekend tend to be lower and are expected to rise, Mr Hancock said. 
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+
+A SIMPLE GUIDE:  
+How do I protect myself?
+
+
+AVOIDING CONTACT: 
+The rules on self-isolation and exercise
+
+
+WILL I GET PAID IF I CAN'T WORK? 
+Rules on sick pay, wages and time off
+
+
+PUBLIC TRANSPORT: 
+Is it safe to travel? 
+
+
+TESTING: 
+Can I get tested for coronavirus?
+
+
+            
+                                                
+                                            
+                    
+Privacy debate
+The type of approach used to design the app has raised some privacy concerns. 
+The app has been designed with a "centralised" approach, meaning there is a central computer which works out which phones have matched and should receive an alert.
+This is different to the "decentralised" model used by Apple and Google, where the matches take place on users' handsets.
+Some have argued a "centralised" approach gives the app advantages, for example by being able to spot hotspots where the disease is spreading. But others say a central system increases the risk from potential hackers.
+The UK's data privacy watchdog, the Information Commissioner's Office, said "as a general rule, a decentralised approach" would be more in keeping with its principle that organisations should minimise the amount of personal data they collect.
+"But that does not in any way mean that a centralised system can't have the same kind of privacy and security protections," said Information Commissioner Elizabeth Denham on Monday.
+
+How many confirmed cases are there in your area?
+
+Wristbands, colour-coding - inventive ways out of lockdown
+
+At a virtual meeting on Monday, Parliament's Human Rights Committee also discussed privacy fears. Law professor Orla Lynskey said the option on the app for users to opt in and share their location data "poses a big risk".
+But NHSX - the part of the health service that developed the app - said the app will be voluntary, and the only personal data stored by the app at the start would be the first part of the user's postcode.
+Additional location data will only be recorded if users agree to a further opt-in request, NHSX added.
+            
+                                                
+                                            
+                    
+            
+                                                
+                                            
+                    
+NHSX chief executive Matthew Gould said: "The app is designed so you don't have to give it your personal details to use it - it does ask for the first half of your postcode but only that.
+"You can use it without giving any other personal details at all - it doesn't know who you are, it doesn't know who you've been near, it doesn't know where you've been."
+Mr Hancock said the software was "designed with privacy and security front of mind". He said the data was stored on the phone and only sent to the NHS when someone needs a test.
+            
+                                                
+                                                 
+Image copyright
+                 
+NHS
+                            
+                        
+                
+Image caption
+                
+                    Users will be asked to enter the first part of their postcode but not their name or other personal details                
+            
+                    
+The UK's "test, track and trace" strategy has seen testing be scaled up over the last month, following Mr Hancock's pledge to reach 100,000 tests by the end of April. The UK passed the target, 
+providing more than 122,000 tests
+ on the last day of April. 
+Latest figures show
+ there were 85,186 tests on Sunday.
+To track the virus and study how the virus spreads through the population, 20,000 households will be recruited at random and routinely tested over 12 months.
+It comes after 
+draft government plans for getting people back to work
+ during the coronavirus pandemic were leaked. It urges employers to stagger shift times and maximise home-working.
+Trade unions warned the guidance could compromise workers' safety and asked for stricter rules for businesses.
+In other developments: 
+
+A group of Tory MPs 
+are calling for restrictions around funerals to be eased,
+ to allow small-scale ceremonies in churches rather than just at the graveside or crematorium
+
+The government 
+is now paying the wages for nearly a quarter of UK jobs,
+ under the furlough scheme that helps people put on leave due to the pandemic
+
+Labour leader Sir Keir Starmer 
+has called for a "national consensus"
+ to be formed on the next stage of the response to the outbreak
+
+Nearly half of people in Britain experienced high levels of anxiety as the lockdown began, 
+a survey suggests
+
+
+Doctors working for Premier League football clubs 
+have raised concerns over plans
+ to resume the football season
+
+Thousands of nurseries and childminders could shut permanently due to the pandemic, 
+research suggests.
+
+
+How have you been affected by coronavirus?  Share your experiences by emailing 
+haveyoursay@bbc.co.uk
+.
+Please include a contact number if you are willing to speak to a BBC journalist. 
+
+WhatsApp: 
++44 7756 165803
+
+
+Tweet: 
+@BBC_HaveYourSay
+
+
+Send pictures/video to 
+yourpics@bbc.co.uk
+
+
+Upload your pictures / video here
+
+Please read our 
+terms & conditions
+ and 
+privacy policy
+
+
+            
+        
+Or use the form below:
+            
+                
+                        
+                            
+Your contact details
+                                
+                                    Name                                        
+(optional)
+                                                                    
+                                                                
+                                
+                                    Your E-mail address                                        
+(required)
+                                                                    
+                                                                
+                                
+                                    Town & Country                                        
+(optional)
+                                                                    
+                                                                
+                                
+                                    Your telephone number                                        
+(optional)
+                                                                    
+                                                                
+                                
+                                    Comments                                        
+(required)
+                                                                    
+                                
+                        
+                        
+If you are happy to be contacted by a BBC journalist please leave a telephone number that we can                        contact you on. In some cases a selection of your comments will be published, displaying your name as                        you provide it and location, unless you state otherwise. Your contact details will never be published.                        When sending us pictures, video or eyewitness accounts at no time should you endanger yourself or others,                        take any unnecessary risks or infringe any laws. Please ensure you have read the terms and conditions.
+                        
+Terms and conditions
+                                                
+The BBC's Privacy Policy
+                        
+                                
+                                
+                                
+                                
+                        
+                
+            
+    

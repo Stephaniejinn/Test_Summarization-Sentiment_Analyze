@@ -1,0 +1,9 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-britain/uk-covid-19-death-toll-rises-above-30000-highest-in-europe-data-idUSKBN22H0WH
+ID : RTRS2020050500046
+
+Date : 2020-05-05 08:50:00
+Title : UK COVID-19 death toll rises above 30,000, highest in Europe: data
+Ariticle : 
+LONDON (Reuters) - More than 30,000 people in the United Kingdom have died with suspected COVID-19, the highest official toll yet reported in Europe, according to data published on Tuesday. 
+The Office for National Statistics said 29,648 deaths had taken place as of April 24 in England and Wales with COVID-19 mentioned in death certificates.  
+Including deaths for Scotland and Northern Ireland, the toll on this measure now exceeds 30,000. That is more than Italy, though the recording of deaths there has differed. 

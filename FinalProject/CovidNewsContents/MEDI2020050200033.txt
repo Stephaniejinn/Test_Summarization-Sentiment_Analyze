@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200033
+
+Date : 2020-05-01 00:00:00
+Title : 90 cases of COVID-19 among medical teams in Egypt: General Syndicate
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Egypt
+Cases:14 deaths
+Description:90 cases of COVID-19 among medical teams in Egypt: General Syndicate

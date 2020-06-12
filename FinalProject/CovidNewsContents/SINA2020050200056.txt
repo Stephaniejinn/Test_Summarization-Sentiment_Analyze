@@ -1,0 +1,34 @@
+URL : https://news.sina.com.cn/w/2020-05-02/doc-iirczymi9526615.shtml
+ID : SINA2020050200056
+
+Date : 2020-05-02 14:24:00
+Title : &quot;Nature&quot;: To prevent the next pandemic, you can&#39;t just stare at the bat
+Ariticle : 
+Original title: &quot;Nature&quot;: To prevent the next pandemic, you can&#39;t just stare at the bat
+Statistical analysis shows that close monitoring of the next pandemic cannot just stare at bats.
+Nature&#39;s WeChat public account on May 2 news that bats and rodents have always been considered to be a high-risk virus library, a source of human-borne diseases, and in some cases, a pandemic. Some scientists even believe that the specific traits of bats will increase the possibility of viruses spilling from animals to humans, so they should be closely monitored. However, a new study has shown that bats and rodents are not &quot;special&quot; in the ease of carrying viruses that can infect humans.
+Researchers from Scotland consulted the largest data set that recorded various viruses and various mammalian and avian hosts, and found that the number of bat and rodent viruses that had infected humans was proportional to the number of species included in the subhead .
+&quot;It seems that there is a very reasonable mathematical explanation behind the amazing trend.&quot; Said Daniel Streicker, a disease ecologist at the University of Glasgow in the UK. A study he participated in and led was published on April 13 in the Proceedings of the American Academy of Sciences (PNAS). He says,
+In identifying future animal-borne disease threats, future monitoring activities should not only focus on specific animal groups, but also focus on areas with high biodiversity.
+However, due to limited resources, not everyone is optimistic about the operability of this proposal. Because many viruses housed in bats can cause serious human diseases, including rabies virus, Ebola virus and SARS-associated coronavirus (SARS-CoV), this also makes bats and other rodents the majority of virus detection and monitoring The focus of action. For the culprit of the current epidemic, SARS-CoV-2, bats are also one of the most suspicious sources.
+number games
+After studying a single species, it was found that bats carry a higher proportion of viruses than other mammals, but Streiker and his colleague Nardus Mollentze of the University of Glasgow decided to see if this pattern also exists in different mammal and bird groups .
+Streiker said that when identifying which species is the host of the new virus, analyzing the animal&#39;s purpose can eliminate some of the uncertainty. But by genetically comparing viruses infected by humans with viruses spread in animal hosts, researchers can be fairly certain to infer which animal population is inseparable.
+The two compared 11 human infections with viruses, including pterodactyla (bats), rodents (rodents) and passerines (songbirds). Based on their own databases and other databases, the authors compiled 415 types of DNA and RNA virus data that have been passed from animals to humans.
+According to their statistical analysis, the animal population with the larger number of species seems to carry more viruses, so more viruses can be transmitted to humans.
+For example, rodents are the most abundant mammalian species in this study; the number of viruses that have ran from them to humans is also the largest, Streicker said.
+Viral factors
+In another statistical analysis, the two authors also weighed the importance of host biology over viral factors. The model shows,
+Compared with the physiological or ecological traits of animal virus banks, how to replicate the virus or whether the virus can spread through insects is a biological problem that is more influential to the overflow event.
+For example, although bats are thought to carry many different viruses because of their special immune systems, Streicker said these very unique characteristics do not increase the risk of these viruses spilling. &quot;No animal host will continue to increase the risk of viruses to humans,&quot; he said.
+&quot;If you want to predict in advance which viruses are most likely to infect humans, the traits of the virus may provide more information than the traits of the host,&quot; he said.
+Streicker suggested that the next step should focus on traits that may enhance the ability of the virus to infect humans. In addition, other factors should be considered, such as wildlife trading and environmental changes, how animals are exposed to more humans, and the emergence of the virus is affected.
+From host to human
+The discovery of the correspondence between species diversity and virus abundance provides a strong reason to require us to extend the scope of surveillance to groups other than specific mammals, said ecologist Kevin Olival. Olival is the vice chairman of EcoHealth Alliance, a non-profit environmental protection agency in New York.
+But Olival doesn&#39;t think this research can quell the controversy about whether there is a special virus bank. In this study, the researchers examined the animal hosts of each subdivision, not the animal hosts of different species-this shows that species-specific information about the host is missing, such as population size, density, species abundance, and The frequency of human exposure. All these factors will affect the diversity and spread of the virus, he said.
+He also said that, considering the past history of bats and rodents, it seems logical to continue to carry out some targeted monitoring operations on them.
+Virologist Jemma Geoghegan of the University of Otago, New Zealand, said that before researchers can use virus traits to predict the next overflow event, more viruses need to be sampled and characterized to reveal the true diversity of viruses in nature. Until then, she believed that monitoring measures should be tilted towards genome monitoring,
+The monitoring location should be the &quot;red line&quot; where humans and animals interact, such as the live animal trading market.
+&quot;In this case, we can quickly identify the overflowing virus.&quot; She said.
+Source: Nature WeChat account
+Responsible Editor: Van Stern

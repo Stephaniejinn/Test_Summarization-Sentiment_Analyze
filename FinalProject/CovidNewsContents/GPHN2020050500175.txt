@@ -1,0 +1,16 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006910425
+ID : GPHN2020050500175
+
+Date : 2020-05-04 12:34:00
+Title : France Will Start Testing COVID-19 Tracing App Next Week - PCMag
+Ariticle : 
+Mobile Apps
+France Will Start Testing COVID-19 Tracing App Next Week
+The StopCOVID program uses Bluetooth signals to perform a 'digital handshake,' notifying users when they've come in close contact with a viral patient.
+Comments
+France is expected to begin testing its "StopCOVID" contact-tracing application next week as part of the country's deconfinement strategy, according to Minister for Digital Affairs Cedric O. The app, which "still requires significant technical work," should be ready for use the week of May 11.
+Like similar programs rolling out elsewhere in the world , StopCOVID uses Bluetooth signals to perform a "digital handshake" when smartphone owners come within a certain distance of each other. It then alerts people if they've been in close contact with someone who tested positive for novel coronavirus. Unlike other countries, though, France has refused to use geolocation data, so there is no way of knowing the location or movements of users.
+"The StopCOVID project is not a monitoring application," O wrote in a translated blog post , confirming that once installed, "nothing happens most of the time." Instead, it allows folks to declare that they tested positive, and notifies those users who they've met in the previous days.
+"You are the only one to have this information and it is you who [decides] to contact [health officials] or not," according to O, who confirmed that the app "absolutely does not" request any personal data (including names, addresses, or mobile numbers). No one—"not even the State"—has access to the list of infected people or graphs of social interactions, he said.
+The program is entirely voluntary, and any collected data is erased "after a few days." StopCOVID itself is not intended for use beyond the pandemic, or as "a blank check given to the government," as O put it.
+Related

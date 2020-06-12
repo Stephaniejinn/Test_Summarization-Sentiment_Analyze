@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7289947&trto=en&trfr=en&pid106
-ID : HMAP2020050200195
-
-Date : 2020-05-01 00:00:00
-Title : FDA grants remdesivir emergency use authorization for COVID-19 - NBC News -
-Ariticle : 
-FDA grants remdesivir emergency use authorization for COVID-19 ; ; 
-United States | COVID-19 | Humans

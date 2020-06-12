@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400084
+
+Date : 2020-05-04 00:00:00
+Title : 2.58pm WA records fifth consecutive day of no new COVID-19 cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Australia
+Cases:case
+Description:2.58pm WA records fifth consecutive day of no new COVID-19 cases

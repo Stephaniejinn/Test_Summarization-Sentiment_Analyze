@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-brazil/brazil-has-record-number-of-new-cases-of-coronavirus-deaths-total-5466-idUSKBN22B35Z
-ID : RTRS2020043000027
-
-Date : 2020-04-29 20:36:00
-Title : Brazil has record number of new cases of coronavirus, deaths total 5,466
-Ariticle : 
-RIO DE JANEIRO (Reuters) - The number of confirmed cases of new coronavirus in Brazil soared by a record number on Wednesday to 78,162 from 71,886 the day before, with 449 deaths in the last 24 hours, the Health Ministry said. 
-The death toll now stands at 5,466 deaths in the country, which on Tuesday joined eight other nations with more dead from the pandemic that China. 

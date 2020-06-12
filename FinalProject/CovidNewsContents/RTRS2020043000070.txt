@@ -1,0 +1,17 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-sewage/swiss-researchers-see-sewage-as-early-warning-sign-for-covid-flares-idUSKBN22C1QD
+ID : RTRS2020043000070
+
+Date : 2020-04-30 10:32:00
+Title : Swiss researchers see sewage as early warning sign for COVID flares
+Ariticle : 
+ZURICH (Reuters) - Researchers in Switzerland have been able to detect the new corovarirus at even low concentrations in wastewater, offering a potential early warning system for flareups in infections as countries emerge from emergency lockdowns. 
+Should the system work, sewage samples could let public health officials see a resurgence of COVID-19 infections earlier than with diagnostic tests, perhaps by around a week, the scientists said 
+here
+ on Thursday. 
+COVID-19 is the respiratory disease caused by the new coronavirus, which has infected more than 3.19 million people and killed 226,880, according to a Reuters tally. 
+“Wastewater doesn’t lie, and it reflects what is excreted by the public within a few hours,” team leader Christoph Ort from the Swiss Federal Institute of Aquatic Science and Technology said in a statement. 
+Scientists from the Federal Institutes of Technology in Zurich (ETH) and Lausanne (EPFL) said the surveillance method still needed improvements before it would be able to draw robust conclusions about viral concentrations in the original samples. 
+Initial results from the teams at the two Swiss universities have been encouraging, though. They analysed wastewater samples from Lausanne, Zurich and Lugano including -– for the latter two Swiss cities – a sample from the end of February, when the first cases of infection were recorded in Switzerland.  
+The researchers managed to detect the novel coronavirus in all the samples. Concentrations in more recent samples were so high that analysis appeared relatively easy. But that was not  apparent with the samples from February. 
+“We didn’t expect that we’d already be able to measure a signal in wastewater from Lugano, with only one, and from Zurich, with only six known cases,” said researcher Tamar Kohn from EPFL. 
+Australian researchers said this month they expect to roll out wide testing of raw sewage for the presence of coronavirus within weeks to help pinpoint communities at risk, after a successful regional pilot. 

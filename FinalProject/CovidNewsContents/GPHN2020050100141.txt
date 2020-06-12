@@ -1,0 +1,39 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006883783
+ID : GPHN2020050100141
+
+Date : 2020-04-30 22:57:00
+Title : China’s race for a Covid-19 vaccine hits a hurdle – no outbreak at home
+Ariticle : 
+As the coronavirus pandemic quickly swept across the continents, medical researchers around the world set off at an unprecedented pace to try to find drugs and vaccines to fight the new disease.
+A process that usually takes years or even decades of laboratory work and tests has been fast-tracked to months in a rush to stop a virus that has infected more than 3 million people.
+Nine vaccine candidates have entered human trials and more than 70 others are under preclinical studies. China was quickly into this global effort, with five of those nine vaccines developed by domestic companies.
+On the pharmaceutical front, a trial in the United States of experimental antiviral drug remdesivir made by US-based Gilead Sciences showed results on Wednesday that might lead to the treatment receiving emergency authorisation by the Food and Drug Administration. But in China, two trials of the medication that started in February ran into difficulties due to a lack of patients as the outbreak waned in the country.
+Antiviral drug remdesivir shows mixed results in treating Covid-19 patients
+Vaccine development in China is facing a similar obstacle – without an outbreak it was almost impossible to proceed with the third and final phase of human trials, industry insiders said. The third phase usually involves more than 1,000 volunteers receiving the treatment and then compared with a placebo group in an area the disease is prevalent. It is the most important data to prove the vaccine is safe, effective and highly protective.
+“It will be very difficult for all the 32 vaccines [developed by the Chinese vaccine producers] and more than 100 being developed around the world to go through all the phases,” Zhu Fengcai, deputy director of the Jiangsu Centre for Disease Control and Prevention, said at a vaccine development technology seminar on Sunday.
+“It will not cost much to develop a nucleic acid or vector vaccine candidate [for the coronavirus], but clinical trials, especially the third phase, have the highest risks.”
+Zhu, a veteran vaccine trial expert, has conducted dozens of human trials for vaccines. His team is advising Tianjin-based CanSino Biologics and the Academy of Military Medical Sciences on clinical trials for their potential Covid-19 vaccine, which entered second phase trials two weeks ago.
+Zhu said his team anticipated moving vaccine trials to countries where Covid-19 was still prevalent to run random, double-blind and placebo-controlled trials. This should quickly produce the efficacy data under real conditions, he said.
+Sinovac Biotech, which is also testing a Covid-19 vaccine, said that having the pandemic under control in China presented a challenge for phase three clinical trials, Shanghai-based news site Thepaper.cn reported last month.
+China’s strict lockdown and closed schools ‘saved rush on hospitals’
+Yang Xiaoming, chairman of China National Biotec Group, which has two inactivated vaccines in clinical trials at subsidiaries, told state broadcaster China Central Television that China was no longer suitable for phase three trials. He said other countries “which had very serious coronavirus outbreaks” were willing to conduct the trials with the group.
+But this approach does have challenges.
+“It requires [countries with] staff experienced in clinical trials, Covid-19 outbreak response resources, and health supervision, and that are willing to work with China on clinical trials,” Zhu said.
+Such trials also need approval from local drug regulators and ethics committees. On top of those factors, there is a language barrier to overcome, which Zhu’s team encountered when conducting clinical trials for an Ebola vaccine in Sierra Leone, also developed by CanSino, the Tianjin-based pharma firm.
+Trump aims to rush coronavirus vaccine with ‘Operation Warp Speed’
+Richard Hatchett, chief executive of the Coalition for Epidemic Preparedness Innovations (CEPI), an organisation that has funded development of nine separate coronavirus vaccine projects in various countries, said China would need international cooperation to help evaluate vaccine candidates.
+“If China is successful, these vaccine candidates will need to be tested in other regions of the world where the virus is circulating,” Hatchett said. “I think it will be very important for those companies to work with international partners like CEPI, like the Gavi vaccine alliance, like the World Health Organisation to see that their candidates are effectively evaluated.”
+The WHO has launched the Solidarity Trial programme to pool resources and data to speed up the development phase of safe and effective vaccines, including human trials.
+A vaccine expert who declined to be named said companies and governments should take the initiative to find suitable sites for trials, rather than relying on the WHO to take the lead on such tasks.
+Apart from the technical hurdles, there is also regulatory risk.
+Who is winning the China-US race to run the world amid the pandemic?
+Overseas clinical trials on non-Chinese are typically not recognised by China’s drug regulator, which means the vaccine cannot be guaranteed to be properly registered.
+“Without coordination and recognition of phase three clinical trial data by the regulator, it would be very difficult for companies to spend a fortune and take such a big risk for a phase three trial,” the expert said.
+“There are so many [global] competitors and they can have sites for trials because there are still outbreaks. Without phase three trials the most Chinese vaccines can achieve is conditional approval. Whatever advances Chinese vaccines have achieved will be lost.”
+Controversy follows researchers’ Covid-19 antibody discoveries
+One of those competing vaccines could be one developed by the Jenner Institute at the University of Oxford. Clinical trials of the vaccine involving thousands of volunteers have been announced and the Serum Institute of India, the world’s biggest vaccine maker, said on Tuesday that it planned to produce up to 60 million doses of that vaccine candidate this year.
+Two Chinese companies are also partnering up with foreign companies to pursue vaccines. Australian research and clinical facility Linear Clinical Research is set to start human trials for a Covid-19 vaccine developed by biotechnology company Clover Biopharmaceuticals in Chengdu, in the southwestern province of Sichuan. German company BioNTech has also started human trials of a vaccine for the new coronavirus and pharmaceutical giant Shanghai Fosun Pharmaceutical has bought the rights to commercialise it in China.
+Meanwhile Zhu at the Jiangsu CDC is looking for new ways to find people for human trials in China, including enlisting people returning from overseas.
+Zhu said the advantage of this was that close contacts could be vaccinated beforehand to make sure the exposure happened after antibodies were developed and to get the efficacy data quickly. The downside was that the efficacy on severe cases would not be observed because they would be treated.
+But even that approach will not work at the moment because China still imposes 14 days of quarantine upon entering China.
+“We believe this is achievable but it cannot be done without relaxation of national policies,” Zhu said.

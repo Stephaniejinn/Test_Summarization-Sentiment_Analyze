@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100002
+
+Date : 2020-04-30 00:00:00
+Title : 1 more death, 2 new coronavirus cases in Livingston County
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.30
+Location:USA
+Cases:Only two more cases
+Description:1 more death, 2 new coronavirus cases in Livingston County

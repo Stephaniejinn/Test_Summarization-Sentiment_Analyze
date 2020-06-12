@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-turkey-toll/turkeys-coronavirus-death-toll-rises-to-3397-ministry-idUSKBN22F0Q1
-ID : RTRS2020050400006
-
-Date : 2020-05-03 16:47:00
-Title : Turkey's coronavirus death toll rises to 3,397: ministry
-Ariticle : 
-ISTANBUL (Reuters) - The number of people who have died from COVID-19 in Turkey has risen by 61 in the last 24 hours to 3,397, Health Ministry data showed on Sunday.  
-The overall number of cases rose by 1,670 to 126,045, the data showed, the highest total outside Western Europe, the United States and Russia. A total of 63,151 people have so far recovered from the new coronavirus, which causes the respiratory disease COVID-19.  
-The number of tests conducted in Turkey in the past 24 hours stood at 24,001, raising the total number of tests during the outbreak to more than 1.135 million. 

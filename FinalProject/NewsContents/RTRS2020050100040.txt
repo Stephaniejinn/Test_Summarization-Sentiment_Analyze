@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-russia-cases/russia-reports-record-daily-increase-in-coronavirus-cases-idUSKBN22D4S1
-ID : RTRS2020050100040
-
-Date : 2020-05-01 07:47:00
-Title : Russia reports record daily increase in coronavirus cases
-Ariticle : 
-MOSCOW (Reuters) - Russia on Friday reported 7,933 new cases of the coronavirus, a record daily rise, bringing its nationwide tally to 114,431. 
-The official nationwide death toll rose to 1,169 after 96 people with the virus died in the last 24 hours, Russia’s coronavirus crisis response centre said. 

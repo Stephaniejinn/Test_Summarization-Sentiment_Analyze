@@ -1,9 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7300246&trto=en&trfr=en&pid520
-ID : HMAP2020050500435
-
-Date : 2020-05-04 00:00:00
-Title : PolitiFact: Employees at big retailers have contracted COVID-19, and some have died - Tampa Bay Times -
-Ariticle : 
-PolitiFact: Employees at big retailers have contracted COVID-19, and some have died ; ; 
-Chicago, Illinois, United States | COVID-19 | Humans
-California, United States | COVID-19 | Humans

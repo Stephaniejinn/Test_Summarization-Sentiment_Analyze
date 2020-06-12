@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400037
+
+Date : 2020-05-04 00:00:00
+Title : Saskatchewan reports 12 new coronavirus cases, total rises to 433
+Ariticle : 
+Disease:Coronavirus
+Time:--
+Location:Canada
+Cases:12 new coronavirus cases
+Description:Saskatchewan reports 12 new coronavirus cases, total rises to 433

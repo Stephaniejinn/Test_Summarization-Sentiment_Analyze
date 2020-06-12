@@ -1,0 +1,45 @@
+URL : https://flutrackers.com/forum/forum/central-america/costa-rica-covid-19/856002-costa-rica-identifies-14-mutations-in-sars-cov-2-causing-covid-19
+ID : FLUT2020050100021
+
+Date : 2020-05-01 02:03:08
+Title : Costa Rica identifies 14 mutations in SARS-CoV-2, causing COVID-19
+Ariticle : 
+																							Source: 
+https://delfino.cr/2020/04/costa-ric...de-la-covid-19
+
+Costa Rica identifies 14 mutations in SARS-CoV-2, causing COVID-19
+APR 30, 2020
+1:09 PM
+
+The Government of Costa Rica announced this Thursday that the Costa Rican Institute for Research and Teaching in Nutrition and Health (Incense) managed to identify six genetic sequences of the SARS-CoV-2 coronavirus, the cause of the COVID-19 disease that is currently in the pandemic stage .
+
+This process, known as "complete genome sequencing", consists of analyzing the samples of COVID-19 taken in the country to identify the genetic code of the virus and to be able to compare it with the other sequences that have been discovered in the world and thus, when there is a vaccine, to be able to choose the one that can best react against the coronavirus that circulates in the country.
+
+Sequencing also makes it possible to identify transmission routes in the country, strengthen analysis capabilities for the national network of laboratories, provide relevant information for the Ministry of Health and the World Health Organization, confirm the quality of laboratory diagnoses carried out , contributes to carry out genomic surveillance in Costa Rica without depending on the sending of samples to other countries and establishes a platform for future collaborations with other national scientific centers and other countries in the world.
+
+The sequencing of the SARS-CoV-2 genome in the country was carried out by the National Reference Center for Microbiological Food Safety (CNRIMA), in collaboration with the National Reference Center for Virology (CNRV) of Incense.
+
+The results have already been sent to the Global Initiative on Sharing All Influenza Data (GISAD) platform, which is used globally to share this type of information, thereby making data from Costa Rica available to the world scientific community.
+
+To date, the GISAD platform has information on 4147 SARS-CoV-2 genetic sequences, whose genetic code is made up of more than 30,000 nucleotides.
+
+D + Fact: Nucleotides are the units and chemicals that bind to form nucleic acids, primarily RNA and DNA. SARS-CoV-2 is an RNA type virus.
+
+Two of the genomes obtained by Incense are close to those obtained from samples analyzed in the United States, while the other four are located within clusters made up of variations of the virus found in different parts of the world such as Argentina, United Kingdom, Germany , Italy and other countries in Europe.
+
+In total, according to the information sent by Costa Rica to GISAD, 14 mutations were identified in the coronavirus genetic code.
+
+Incense stated that previously it had already succeeded in sequencing the genome of various bacteria, however, this is the first time that it has succeeded in doing so with a virus. The work team was led by doctors Francisco Duarte Martínez and Hebleen Brenes.
+The samples
+
+The first genetic sequence identified by Costa Rica was identified thanks to the COVID-19 test carried out on a man in San Rafael de Alajuela on March 16, 2020. With it, Costa Rica was able to identify two mutations: one in nucleotide A2161T7 and one in the T19S amino acid of the coronavirus.
+
+A second sample taken that same day from an 18-year-old resident of Alajuela did not show any mutations, however, the sequence was found to be the same as one already identified in North America.
+
+The third sample taken from a 39-year-old man at the Hospital San Vicente de Paul on March 17, 2020, identified nine mutations in the genetic code of SARS-CoV-2: five in nucleotides A12792T, G12794T, A12796T, G12798A and T22355A; and four in amino acids K4176M, G4177C, G4178D and in Y265N.
+
+Another one taken a day later from a 40-year-old man at the EBAIS Concepción Norte in Cartago identified two mutations in nucleotides T29816A and T29817A of the coronavirus.
+
+With another sample taken from a 62-year-old man on March 20, 2020 at the COOPESAIN in Tibás, no mutations were found, however, it was found to be the same as another coronavirus sequence discovered in South America.
+
+Finally, thanks to a sample taken from a 25-year-old woman on March 25 in the Alajuela Orotina, a mutation was found in nucleotide A18196C of the coronavirus.													

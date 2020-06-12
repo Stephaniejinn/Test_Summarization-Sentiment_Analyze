@@ -1,9 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7294350&trto=en&trfr=de&pid113
-ID : HMAP2020050400043
-
-Date : 2020-05-03 00:00:00
-Title : Corona-Ticker: 49 Fälle unter Schlachthof-Mitarbeitern - NDR.de -
-Ariticle : 
-Corona-Ticker: 49 Fälle unter Schlachthof-Mitarbeitern  NDR.de 
-Poland | COVID-19 | Humans
-Germany | COVID-19 | Humans

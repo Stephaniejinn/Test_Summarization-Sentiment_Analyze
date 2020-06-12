@@ -1,0 +1,51 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006883017
+ID : GPHN2020050100060
+
+Date : 2020-04-30 18:11:00
+Title : Recent Oregonian death rate above average; tie to COVID-19 unclear
+Ariticle : 
+More Oregonians died the past month than is typical in mid-March and early April, according to data released by state health officials, but fewer than half the excess deaths were officially connected to coronavirus.
+In all, 245 more Oregonians died during the five weeks between March 16 and April 19 than during those same five weeks in 2017, 2018 and 2019, on average. During those five weeks, 78 Oregonians died from COVID-19, according to the state health authority's official count.
+It is unclear if other fallout from the pandemic, including a fear of seeking health care, played a rule in the other 167 deaths, and officials said the data are preliminary. What is clear: Nearly all the above-average deaths occurred at home, among Oregonians both receiving and not receiving hospice care.
+In the home
+In the first full week of April, 47% of deaths in Oregon occurred at home, 7 percentage points more than the three-year historical average. As deaths at home rose, the share of residents dying in hospitals declined.
+The data leave unanswered questions about what is killing so many Oregonians. They come as a Yale University School of Public Health analysis of federal death figures for The Washington Post determined there were at least 15,400 deaths above historic averages during the early days of the pandemic nationwide.
+But the data are yet another indication that Oregonians' effort to stay home is paying dividends. While some states have seen dramatic upticks in deaths and devastating levels of COVID-19 fatalities, Oregon has one of the nation's lowest per capita COVID-19 death rates, according to Dr. David Bangsberg, dean of the OHSU-PSU School of Public Health. And excess deaths in the state, while sizable, are not eye-popping in their scope.
+Between March 30 and April 5, an estimated 803 Oregonians died, up from the three-year average of 736 deaths during that week. Twenty of those 67 above-average deaths were officially connected to COVID-19. The following week, overall deaths declined to 748, mirroring the annual declines typical during the end of flu season, but the overall death figures were still higher than the average of 705.
+State health officials have taken notice.
+“The percentages of deaths that are occurring at home are higher," said Jennifer Woodward, the section manager of the Center for Health Statistics within the state health authority. But, she said, her agency hasn't looked into how those people died.
+Dr. Jennifer Vines, the lead public health officer for the three-county Portland area, said health officials are keeping close tabs on the situation, but they don't expect the increase in people dying at home were among people infected with COVID-19.
+Finding the cause
+“Hospitals know to test someone who arrives and dies either without a clear diagnosis or with reason to believe they had a viral illness that preceded their death," she said in an email. “The same advice goes for our county medical examiners who have test kits to use under the same circumstances for the deaths they investigate."
+Vines said that while no system is foolproof, she has “no reason to think we are missing large numbers of deaths due to COVID-19."
+Those outside the state and county health circles aren't as certain. The share of above-average deaths not attributed to the virus was at its highest in March, when testing was less available and the symptoms of the novel disease less well-known, The Oregonian/OregonLive analysis shows.
+Bangsberg, the public health dean, credited state officials and residents for helping keep the epidemic here under control.
+But many fewer patients are being treated in hospitals, with nearly all hospitals running significantly below typical capacity, including a 40% decline at OHSU, he noted. Bangsberg said that knowledge, combined with the overall lack of testing, points to more known cases than expected.
+“There probably is a real bump in excess mortality, related to COVID-19," he said.
+It's also possible the deaths could be “a random variation," Bangsberg said.
+Influenza vs. coronavirus
+Infectious disease experts don't believe Oregon's uptick in deaths at home are attributable to another virulent disease: influenza.
+Dr. John Townes, who leads OHSU's Infection Prevention and Control office, said this winter's flu season wasn't a particularly bad one, though he added it all feels like “ancient history" at this point.
+An early wave of the Influenza B strain hit late last year, then the A strain experienced a late bump in transmissions in early March just as the state went into the coronavirus epidemic, Townes said.
+But social-distancing measures appear to have wiped out the flu in Oregon once the calendar turned to April.
+According to state public health data from the week of April 12, there were zero influenza-associated hospitalizations, zero deaths and virtually no activity to speak of transmission-wise. The last full week of March, for comparison, saw three flu-related hospitalizations in the metro area.
+“I don't think it's influenza," said Townes, the infectious disease expert, when examining the state death data pointing to a bump in deaths at home. “Probably it's an underestimation of the number of COVID-19 cases."
+Good question
+Townes added that it was a “good question" to inquire about what people are dying from. “To what extent are people suffering from lack of ability to access the healthcare system?" he asked. He said he's not sure of the reason, and he'd want to see more death data broken down by age and other demographic factors.
+State health officials said it's also unlikely that the state is seeing an increase in suicides. “There's nothing to suggest the data will show an increase in suicides in recent weeks," said Jonathan Modie, Oregon Health Authority spokesman. “It's a little early to tell for certain, but preliminary manner of death data appears in line with last year."
+Kimberly Repp, a public health official in Washington County, who supervises health statistics and the medical examiner's office there, said unofficial suicide counts indicate a decline in February, March and April. Those results are preliminary, however, and she's not certain how many cases are still waiting on toxicology results, which can take months.
+More information
+In response to requests from The Oregonian/OregonLive and other sources, The Oregon Health Authority started publishing more information — and sooner — about how many residents are dying each week across the state, where they are dying and how those deaths compare with the three- and five-year averages.
+Woodward said her department, unless directed to do otherwise, would wait until it had final figures next year to then look at underlying causes of deaths.
+But other state agencies have preliminary figures on other known causes of death. Traffic fatalities are down 37% so far this year, for example, a clear connection to the decline in economic activity and the statewide stay-home order. Through April 14, approximately 50 fewer people had died in traffic crashes so far this year compared to 2019.
+A deeper look at the numbers released to The Oregonian/OregonLive indicates that the past three weeks in particular saw a significant increase in people dying at home including under the guidance of hospice care services.
+Hospice
+The share of deaths at home under hospice supervision typically hovers around 24% in the early spring, but that rose to 28% in early April, an increase of 44 deaths from the three-year average. Similarly, the percent of deaths at home while not under hospice rose slightly, adding 29 deaths beyond the three-year average in a single week.
+Brad Christensen, director of business development for Connected Home Health and Hospice, said he's not surprised more people are dying at home. Christensen said referrals for patients seeking in-home medical care — be it for significant respiratory issues, wound care or cardiac conditions — plunged since early March.
+The company typically has 250 to 300 people receiving active in-home care.
+He estimated referrals are down 25%. And he said that is the norm in the industry. “There's still fear, there's still unknowns for everybody," he said. “That's OK, that's a given. We need to keep ourselves safe."
+Let people in
+But Christensen said the data tell him that in-home health options are more important than ever. “Let people in," he said to Oregonians in need of more intensive health monitoring. “We're taking precautions."
+Bangsberg said the pandemic, despite its fearsomeness, has been a showcase for the importance of public health to civic life.
+But that doesn't mean the efforts are over. “One of the ironic things, because we've done so well, we're at greater risk of a bigger second wave," Bangsberg said of COVID-19 cases.
+Despite uncertainty due to limited testing levels, he said, Oregonians almost certainly have a lower infection rate than many states due to stay-home measures, which means they could be at higher risk of exposure in the future.

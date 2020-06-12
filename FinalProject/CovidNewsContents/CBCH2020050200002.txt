@@ -1,0 +1,36 @@
+URL : https://www.cbc.ca/news/canada/edmonton/remdesivir-coronavirus-canadian-researchers-await-data-1.5552254
+ID : CBCH2020050200002
+
+Date : 2020-05-01 19:24:29.923000
+Title : Still many unanswered questions about remdesivir's potential as a COVID-19 treatment
+Ariticle : 
+The preliminary highlights from a major U.S. study suggesting an experimental drug can speed up the recovery of COVID-19 patients is exciting news that needs to be tempered with a healthy dose of caution until full details are released in a published study, say Canadian infectious disease experts.
+On Wednesday, the U.S. National Institutes of Health revealed that a study on the antiviral medication remdesivir, which involved 1,063 COVID-19 patients sick enough to be hospitalized, shortened recovery time by 31 per cent — 11 days on average compared to 15 days for those who received the placebo.
+But Matthias Götte, chair of the medical microbiology and immunology department at the University of Alberta, who has published studies on the effect of remdesivir on coronavirus, says the encouraging news needs to be bolstered by study details, including how exactly it was conducted and what happened. 
+"We still don't really know when the drug was administered," Götte told CBC Radio's 
+Edmonton AM
+. "Was it when the patients were really severely sick? Was it when they were moderately sick? Was it right at the beginning of the infection or a little bit later? Was it administered to young people, to older people?
+"All that — the details, if you wish — that needs to be analyzed very carefully."
+The news about the study was delivered by Dr. Anthony Fauci, the well-respected director of the U.S. National Institute of Allergy and Infectious Diseases.
+"When he is saying that the time of recovery is significantly reduced from 15 to 11 days ... that means a lot," Götte said.
+The drug was developed by the California-based company Gilead Sciences. Results were based on the first 460 patients.
+Götte joins some other researchers and medical professionals across Canada in taking the results with a grain of salt until the U.S. study is peer-reviewed and published in a medical journal.
+"We are in unprecedented times and I appreciate that information has to be shared rapidly," Dr. Isaac Bogoch, an infectious disease specialist at the University of Toronto, said in an interview with CBC News Network.
+"But all we have is some shreds of information, and we haven't really had time as a medical and scientific community to really look at the data."
+Several things about the announcement stood out for Bogoch: the statistically significant information about speedier recovery rates; the anecdotal suggestion — not statistically proven, he emphasized — that it could decrease death rates; and the fact the study was cut short by the independent Data Safety Monitoring Board, which "felt there was an ethical obligation to people in the placebo group, because the drug was showing statistically significant benefits."
+Remdesivir was originally created to treat Ebola, which, like the SARS-CoV-2 virus that causes COVID-19, is an RNA virus.
+The drug works by blocking the ability of the coronavirus to replicate and spread, said Götte, whose team's research on remdesivir was published earlier this month in the Journal of Biological Chemistry.
+Viruses have an "engine" that they need to replicate, he explained. "The engine needs gas in order to work, in order to replicate — and the drug remdesivir provides diesel."
+Blocking replication could prevent damage and inflammation being caused in the body, thus helping people to recover sooner, Bogoch said.
+Götte stressed that the National Institutes of Health study has endorsed remdesivir as "the first potential treatment," but it is not a cure. There are currently no drugs approved for treating the novel coronavirus, which has killed about 226,000 people worldwide since it emerged late last year in China.
+"From now on," he said, "anything that is tested, any new treatment or treatment combinations, will be compared with remdesivir because it is assumed, based on the results that we heard [Wednesday], that remdesivir is better than placebo."
+Bogoch said he believes it will be used only for people who are hospitalized with the disease.
+According to Dr. Gerald Evans, chair of Queen's University's infectious diseases division, before remdesivir could be made available to patients in Canada, it would need to be approved by the national drug-governing body and Canada would need to secure a supply, which could be difficult.
+"What we see the Americans doing, unfortunately, is tending to hold onto everything themselves," Evans said. "I would suspect that Gilead would have to work on an industrial level of production of the drug, and how much they produce will also tell us how much we could get up here in Canada."
+Gilead said it was ramping up production and aims to have more than 140,000 treatment courses by the end of May, more than 500,000 by October and more than one million by December.
+Dr. Ameeta Singh, an infectious disease expert at the University of Alberta, expects the validation process to move more swiftly than usual, given the pandemic circumstances, but she said approval for a Canada-wide clinical trial could still be weeks away.
+She and Evans are both keen to see the published data from the NIH study, noting there's currently a gap in information about the drug's side-effects.
+"Eventually, we'll need to have a lot more data from clinical trials like this, and those trials are ongoing," Singh said.
+She points out that a recent smaller study in China showed no benefit from treating COVID-19 with remdesivir.
+Evans agrees there's still much to learn about the drug's potential.
+"I would say we don't know if it's a game-changer, and we're not going to know more until we see the data in print," he said. "Until that time, I think it's reasonable to be optimistic, but people have to recognize this is not a cure-all."

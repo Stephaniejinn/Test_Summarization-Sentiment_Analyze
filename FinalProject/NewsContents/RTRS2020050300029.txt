@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-malaysia/malaysia-reports-122-new-coronavirus-cases-two-new-deaths-idUSKBN22F0AW
-ID : RTRS2020050300029
-
-Date : 2020-05-03 09:02:00
-Title : Malaysia reports 122 new coronavirus cases, two new deaths
-Ariticle : 
-KUALA LUMPUR (Reuters) - Malaysia reported 122 new confirmed cases of the novel coronavirus on Sunday, taking the cumulative total to 6,298 infections. 
-The health ministry also reported two new deaths, raising the total number of fatalities from the outbreak to 105. 

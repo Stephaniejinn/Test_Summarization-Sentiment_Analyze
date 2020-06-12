@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900037
+
+Date : 2020-04-26 00:00:00
+Title : B.C. health officials provide daily COVID-19 update at 3 p.m.
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.26
+Location:Canada
+Cases:At least 2,817 people
+Description:B.C. health officials provide daily COVID-19 update at 3 p.m.

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500051
+
+Date : 2020-05-04 00:00:00
+Title : Full Article: Global coronavirus deaths exceed quarter of a million: Reuters tally
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Global
+Cases:Global coronavirus deaths
+Description:Full Article: Global coronavirus deaths exceed quarter of a million: Reuters tally

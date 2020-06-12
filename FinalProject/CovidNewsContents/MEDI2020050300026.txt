@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300026
+
+Date : 2020-05-01 00:00:00
+Title : Overcrowded DR Congo prisons at high risk from coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Democratic Republic of Congo
+Cases:43 prisoners
+Description:Overcrowded DR Congo prisons at high risk from coronavirus

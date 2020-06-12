@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7289219&trto=en&trfr=en&pid75
-ID : HMAP2020050200106
-
-Date : 2020-05-01 00:00:00
-Title : Children with Covid-19 in Pediatric Emergency Departments in Italy - nejm.org -
-Ariticle : 
-Children with Covid-19 in Pediatric Emergency Departments in Italy ; ; 
-Italy | COVID-19 | Humans

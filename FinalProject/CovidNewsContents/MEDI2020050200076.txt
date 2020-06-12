@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200076
+
+Date : 2020-05-01 00:00:00
+Title : Covid 19 coronavirus: US allows emergency use of drug shown to help virus recovery
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:GLOBAL
+Cases:patients
+Description:Covid 19 coronavirus: US allows emergency use of drug shown to help virus recovery

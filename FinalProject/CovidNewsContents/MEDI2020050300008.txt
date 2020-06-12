@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300008
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus: New deaths in Santa Clara and SF, more than 100 new Bay Area cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.26-2020.05.02
+Location:USA/California
+Cases:two deaths
+Description:Coronavirus: New deaths in Santa Clara and SF, more than 100 new Bay Area cases

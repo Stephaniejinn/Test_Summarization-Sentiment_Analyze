@@ -1,0 +1,19 @@
+URL : https://www.aljazeera.com/news/2020/04/wfp-warns-food-insecurity-double-east-africa-200428150049637.html
+ID : ALJA2020042900004
+
+Date : 2020-04-28 16:06:00
+Title : WFP warns food insecurity could more than double in East Africa
+Ariticle : 
+UN agency says effect could be seen in just three months as spread of coronavirus risks devastating countries.
+Food insecurity could more than double in just three months as the spread of coronavirus risks devastating countries across East Africa.
+Tuesday's warning came from the United Nations World Food Programme (WFP) which estimates that some 20 million people currently do not have secure provisions of food across nine countries in the region: Burundi, Djibouti, Ethiopia, Eritrea, Kenya, Rwanda, Somalia and Uganda.
+The novel virus’s outbreak in these countries has been so far relatively contained compared to other parts of the world. However, due to their often weak economies and poor health infrastructure, they are considered highly vulnerable to the impacts of the mounting crisis that has seen more than 212,000 people die.
+
+// <![CDATA[!        function(e, i, n, s) {            var t = "InfogramEmbeds",                d = e.getElementsByTagName("script")[0];            if (window[t] && window[t].initialized) window[t].process && window[t].process();            else if (!e.getElementById(n)) {                var o = e.createElement("script");                o.async = 1, o.id = n, o.src = "https://e.infogram.com/js/dist/embed-loader-min.js", d.parentNode.insertBefore(o, d)            }        }(document, 0, "infogram-async");// ]]]] >
+"WFP projections are currently that the number of food-insecure people in the region is likely to increase to 34 or up to 43 million during the next three months due to the socioeconomic impact of COVID-19," spokeswoman Elisabeth Byrs told journalists in a virtual briefing.
+In the worst-case scenario, "food insecurity will have more than doubled", she stressed, adding that nearly half of the projected 43 million people affected were expected to be acutely food insecure.
+WFP’s chief David Beasley rang leaders of some of the world’s richest nations with a critical message: The coronavirus pandemic is not only affecting their economies but also the economies of vulnerable and conflict-torn countries where millions of people will face starvation if you cut the UN agency’s funding for food, he said in an interview on Monday with the Associated Press.
+"If we have money and access we can avert famine and we can truly avert catastrophic humanitarian death from starvation," Beasley said.
+"But if we lose our funding, or we lose supply chain, there’s going to be disaster."
+Last week, the director of the food agency warned the UN Security Council that the world is "on the brink of a hunger pandemic" that could lead to "multiple famines of biblical proportions" within a few months if immediate action was not taken.
+"What you see in Africa right now is nothing compared to what you’re going to see, just like what you were looking at in the United States or the UK just six weeks ago," he said.

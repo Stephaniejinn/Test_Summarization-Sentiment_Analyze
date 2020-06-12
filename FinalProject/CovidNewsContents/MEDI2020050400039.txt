@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400039
+
+Date : 2020-05-04 00:00:00
+Title : Alberta reports 96 new COVID-19 cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:Canada
+Cases:67 residents
+Description:Alberta reports 96 new COVID-19 cases

@@ -1,0 +1,9 @@
+URL : https://www.reuters.com/article/us-roche-antibodytest/roche-aims-to-make-more-than-100-million-coronavirus-antibody-tests-per-month-by-end-of-year-idUSKBN22F0G6
+ID : RTRS2020050300033
+
+Date : 2020-05-03 11:12:00
+Title : Roche aims to make more than 100 million coronavirus antibody tests per month by end of year
+Ariticle : 
+ZURICH (Reuters) - Roche aims to more than double production of its new coronavirus antibody test to “significantly more than” 100 million tests a month by the end of the year, the company’s diagnostics unit head said on Sunday. 
+The Swiss company won U.S. emergency use approval for the test that relies on taking intravenous blood draws. Roche said its test has a specificity rate of more than 99.8% and sensitivity rate of 100%, figures indicating very few false-positive tests and no false negatives. 
+“If you take blood from a finger prick, you will never be able to achieve the same level of specificity that you will achieve...when you take blood from the vein,” Roche diagnostics head Thomas Schinecker told Reuters on Sunday. “You have to have very, very high specificity. Even 0.1 or 0.2 percent makes a difference.” 

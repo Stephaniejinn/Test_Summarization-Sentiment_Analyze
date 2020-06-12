@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-britain-toll/uk-coronavirus-hospital-death-toll-rises-by-586-to-21678-idUSKCN22A2OE
-ID : RTRS2020042900006
-
-Date : 2020-04-28 16:20:00
-Title : UK coronavirus hospital death toll rises by 586 to 21,678
-Ariticle : 
-LONDON (Reuters) - The death toll from COVID-19 in British hospitals rose by 586 to 21,678 as of 1600 GMT on Monday, health secretary Matt Hancock said. 
-He added that Britain would publish data on deaths in care homes and in the community every day from Wednesday. Previously these figures were published by the Office for National Statistics with a lag of more than a week. 

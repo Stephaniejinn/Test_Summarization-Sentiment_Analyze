@@ -1,0 +1,21 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006886760
+ID : GPHN2020050100225
+
+Date : 2020-05-01 08:40:00
+Title : Severe inflammation in some children probed for Covid-19 link
+Ariticle : 
+Geneva (dpa) - Doctors in several European countries have reported a small number cases of children who are suffering from severe inflammation, raising the question whether the symptoms could be linked to the novel coronavirus.
+According to the World Health Organization (WHO) in Geneva, the reported symptoms are similar to the Kawasaki disease, a very rare childhood condition that involves fever and inflamed blood vessels.
+At least two cases have appeared in Germany, according to Reinhard Berner, who heads the Dresden University Hospital.
+It is still unclear whether they are connected with coronavirus infections, he told dpa.
+"It is certainly conceivable," he said.
+In Switzerland, three children have been treated at the Geneva University Hospital for severe inflammation symptoms since the start of the Covid-19 coronavirus disease outbreak.
+One of them is in intensive care, a hospital spokeswoman told dpa.
+Swiss medics believe that the symptoms might be triggered by coronavirus infections.
+"The virus causes a storm of inflammation, an overreaction of the immune system," said Jacques-Andre Romand, the chief medical officer of the canton of Geneva.
+Additional cases have been reported in Italy and Spain. British health authorities have informed about around 24 cases, some of which tested positive for Covid-19, while others did not.
+Maria Van Kerkhove, the WHO's top Covid-19 expert, said this week that doctors around the world have been asked to be on alert and to collect information about such patients systematically.
+WHO emergency operations chief Mike Ryan reassured parents that "the vast, vast majority of children who get Covid-19 will have a mild infection and recover completely."
+# Notebook
+## Internet links - [WHO briefing transcript](http://dpaq.de/9k8lW)
+## Locations - [WHO](Avenue Appia 20, 1202 Geneva, Switzerland)

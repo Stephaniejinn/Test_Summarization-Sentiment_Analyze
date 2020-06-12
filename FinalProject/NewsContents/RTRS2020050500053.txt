@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-spain/spain-reports-coronavirus-daily-death-toll-of-185-idUSKBN22H0ZQ
-ID : RTRS2020050500053
-
-Date : 2020-05-05 09:22:00
-Title : Spain reports coronavirus daily death toll of 185
-Ariticle : 
-MADRID (Reuters) - The daily number of coronavirus deaths registered in Spain remained below 200 on Tuesday for a third consecutive day, the country’s health ministry said, as it reported 185 deaths in 24 hours. 
-The overall coronavirus death toll in the country rose to 25,613 on Tuesday up from 25,428, the ministry said, while the overall number of diagnosed cases rose to 219,329 up from 218,011 the day before.    

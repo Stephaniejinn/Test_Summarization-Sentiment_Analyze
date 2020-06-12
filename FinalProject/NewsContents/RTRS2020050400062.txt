@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-netherlands-tally/dutch-confirmed-coronavirus-cases-rise-by-199-to-40770-health-authorities-idUSKBN22G1GR
-ID : RTRS2020050400062
-
-Date : 2020-05-04 12:20:00
-Title : Dutch confirmed coronavirus cases rise by 199 to 40,770: health authorities
-Ariticle : 
-AMSTERDAM (Reuters) - The number of confirmed coronavirus cases in the Netherlands rose by 199 on Monday to 40,770, with 26 new deaths, health authorities said. 
-Total deaths in the country rose to 5,082, the Netherlands Institute for Health (RIVM) said in its daily update. The RIVM cautioned that it only reports confirmed cases and deaths, and actual numbers are higher. 

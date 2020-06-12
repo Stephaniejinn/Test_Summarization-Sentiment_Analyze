@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-china-toll/mainland-china-reports-22-new-coronavirus-cases-vs-6-a-day-earlier-idUSKCN22B01C
-ID : RTRS2020042900031
-
-Date : 2020-04-29 00:35:00
-Title : Mainland China reports 22 new coronavirus cases vs 6 a day earlier
-Ariticle : 
-SHANGHAI (Reuters) - Mainland China reported 22 new coronavirus cases for April 28, up from 6 reported a day earlier, putting its total number of COVID-19 infections to date at 82,858.  
-The National Health Commission said in a statement on Wednesday that the number of imported cases involving travellers from overseas rose to 21 on Tuesday from 3 a day earlier. New asymptomatic cases, involving patients infected with the virus but not showing symptoms, fell to 26 from 40 the previous day.  
-The total number of deaths in the mainland from COVID-19 remained unchanged at 4,633.  

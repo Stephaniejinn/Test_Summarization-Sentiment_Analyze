@@ -1,0 +1,33 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-testing-roche-hldg/roche-gets-fda-emergency-use-nod-for-covid-19-antibody-test-idUSKBN22F02Q
+ID : RTRS2020050300021
+
+Date : 2020-05-03 02:50:00
+Title : Roche gets FDA emergency use nod for COVID-19 antibody test
+Ariticle : 
+(Reuters) - Roche Holding AG (
+ROG.S
+) received emergency use approval from the U.S. Food and Drug Administration (FDA) for an antibody test to help determine if people have ever been infected with the coronavirus, the Swiss drugmaker said 
+here
+ on Sunday. 
+Governments, businesses and individuals are seeking such blood tests, to help them learn more about who may have had the disease, who may have some immunity and to potentially craft strategies to end lockdowns that have battered global economies. 
+Roche had previously pledged to make its antibody test available by early May and to boost production by June to “high double-digit millions” per month. 
+The Basel-based company, which also makes separate molecular tests to identify people with active COVID-19 infections, said its antibody test, Elecsys Anti-SARS-CoV-2, has a specificity rate of about 99.8% and sensitivity rate of 100%. 
+These rates help determine if a patient has been exposed to COVID-19, the respiratory disease caused by the coronavirus, and if the patient has developed antibodies against it. 
+Other companies including U.S.-based Abbott Laboratories (
+ABT.N
+), Becton Dickinson and Co (
+BDX.N
+), Italy’s DiaSorin (
+DIAS.MI
+) have also developed tests to identify antibodies that develop after somebody has come into contact with the virus. 
+Diasorin and Abbott recently got U.S. emergency authorization for their tests. 
+Countries have various plans to use such tests to better understand COVID-19, while also identifying those who were infected but showed only mild symptoms, or none at all. 
+An erroneous false-positive result could lead to the mistaken conclusion that someone has immunity.  
+In developing its test, Roche scrutinized some existing products for reliability before rejecting them, its chief executive, Severin Schwan, had earlier said. 
+Schwan said there were about 100 such tests on offer, including finger-prick assays that offer a quick result.  
+It declined to specify which rival tests it had studied, but said it was not referring to tests from established testing companies. 
+Roche has said its antibody test requires an intravenous blood draw to determine the presence of antibodies including immunoglobulin G (IgG), which remains longer in the human body, suggesting possible immunity. 
+As demand escalates for blood antibody tests, an array of distributors with no background or established competency in medical testing have joined experienced companies in an all-but-unregulated marketplace in the United States, according to a Reuters investigation. 
+The rush to obtain, advertise and find buyers for test kits follows the FDA’s decision to allow any company to sell antibody tests in the country without prior review by the agency.  
+This comes after the agency faced criticism that it did not act quickly enough with diagnostic tests.  
+FDA has said the aim of its policy is to provide laboratories and healthcare providers early access to the tests, but that it will adjust the approach as needed. 

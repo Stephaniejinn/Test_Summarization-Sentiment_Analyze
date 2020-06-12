@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200069
+
+Date : 2020-05-01 00:00:00
+Title : Russia reports record daily rise in coronavirus cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Russia
+Cases:member
+Description:Russia reports record daily rise in coronavirus cases

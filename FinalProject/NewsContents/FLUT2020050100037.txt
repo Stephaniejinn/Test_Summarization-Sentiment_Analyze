@@ -1,44 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/immunity-aa/856058-j-exp-med-the-many-faces-of-the-anti-covid-immune-response
-ID : FLUT2020050100037
-
-Date : 2020-05-01 10:23:32
-Title : J Exp Med.  The many faces of the anti-COVID immune response
-Ariticle : 
-																							
-
-J Exp Med.
- 2020 Jun 1;217(6). pii: e20200678. doi: 10.1084/jem.20200678.
-
-The many faces of the anti-COVID immune response.
-
-
-
-Vardhana SA
-1,
-2,
-3
-, 
-Wolchok JD
-3,
-4,
-5
-.
-
-
-Author information
-
-
-
-
-
-Abstract
-
-The novel 2019 strain of coronavirus is a source of profound morbidity and mortality worldwide. Compared with recent viral outbreaks, COVID-19 infection has a relatively high mortality rate, the reasons for which are not entirely clear. Furthermore, treatment options for COVID-19 infection are currently limited. In this Perspective, we explore the contributions of the innate and adaptive immune systems to both viral control as well as toxicity during COVID-19 infections and offer suggestions to both understand and therapeutically modulate anti-COVID immunity.
-© 2020 Vardhana and Wolchok.
-
-
-
-PMID:32353870DOI:
-10.1084/jem.20200678
-
-													

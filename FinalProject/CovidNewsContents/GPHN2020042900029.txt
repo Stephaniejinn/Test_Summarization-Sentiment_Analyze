@@ -1,0 +1,50 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006866825
+ID : GPHN2020042900029
+
+Date : 2020-04-28 17:00:00
+Title : COVID-19 Crisis Focuses Attention on Oft-Overlooked Vaccine Industry
+Ariticle : 
+Healthcare publisher, Kalorama Information, shares details of its new report on vaccine development and production trends. 
+ 
+ARLINGTON, Va., April 28, 2020 /PRNewswire-PRWeb/ -- As the COVID-19 outbreak advances worldwide, companies are scrambling to provide a potential vaccine. Companies from all over the world have stepped up to the challenge. There are 78 confirmed COVID-19 vaccine candidates, 5 of which have already entered clinical trials. This is documented in Kalorama Information's recent report: Vaccine Development and Production Trends - COVID-19 and Other Vaccines Pipeline. The report presents a list of companies that have stepped up to develop a vaccine for COVID-19. The list is certain to multiply in the coming weeks as efforts are stepped up to combat COVID-19.
+The report notes that although COVID is getting most of the attention, there are vaccine efforts underway for a host of diseases - including HIV, breast cancer therapeutic vaccines, malaria and Zika. Kalorama documents vaccine candidates with significant progress and those on the World Health Organization tracker.
+Vaccines are often not paid much attention to compared to their pharmaceutical therapeutic brethren certainly. A few companies make them, with the help of large volume production suppliers -- including egg farms and cell media vendors. Vaccines are probably the most disparate of all biologicals, and are large-volume products. Vaccine types range from relatively simple peptides to entire cells, and a limited number of manufacturing methods are available for each vaccine. Vaccines are administered in fewer and smaller doses to a much larger patient population than other biologicals. Per dosage prices are a miniscule fraction of non-vaccine biologicals and there is little manufacturer financial incentive to modify production technologies.
+Prior to regulatory approval, a vaccine candidate usually undergoes three phases of development in humans, which, for the most part, progress sequentially: Phase I, Phase II, and Phase III. After successful completion of Phase III trials and following licensure of the product, Phase IV studies, doses are received by healthy individuals, thus the safety margin should be very high.
+All this being said, there is remarkable progress with COVID-19 vaccines. Four companies already have vaccines in Phase 1 development, which is a remarkable accomplishment given the complexity and time needed to develop a vaccine: 
+   -- CanSino Biologics is developing a vaccine for the prevention of COVID-19, 
+      Ad5-nCoV, a recombinant vaccine incorporating the adenovirus type 5 
+      vector. On March 8, 2020, CanSino received approval from the Chinese 
+      authorities to being human trials. This is the first coronavirus vaccine 
+      to advance to Phase 2 trials. 
+ 
+   -- Moderna offers its MRNA-1273, a novel lipid nanoparticle-encapsulated 
+      mRNA vaccine encoding for a perfusion stabilized form of the Spike (S) 
+      protein. On March 16, 2020, the company began its Phase 1 open-label, 
+      dose-ranging trial, occurring at Kaiser Permanente Washington Health 
+      Research Institute in Seattle. 
+ 
+   -- Inovio Pharmaceuticals announced that CEPI provided a grant to develop a 
+      vaccine against COVID-19 called INO-4800. The company is collaborating 
+      with Beijing Advacine Biotechnology to advance the product. Preclinical 
+      testing has begun with human clinical trials to commence in April 2020 in 
+      US, China and South Korea. It is anticipated that with positive results 
+      that 1 million doses of INO-4800 DNA vaccine can be produced by the end 
+      of 2020. On April 6, 2020, the company received approval to begin Phase 1 
+      trials. The Bill and Melinda Gates Foundation, along with other 
+      nonprofits, are putting money into Inovio's COVID-19 vaccine project. 
+ 
+   -- Shenzhen Geno-Immune Medical Institute offers LV-SMENP-DC vaccine. The 
+      LV-SMENP-DC vaccine is made by modifying DC with lentivirus vectors 
+      expressing Covid-19 minigene SMENP and immune modulatory genes. CTLs will 
+      be activated by LV-DC presenting Covid-19 specific antigens. The project 
+      is in Phase 1. 
+ 
+   -- The company has a second product, Covid-19/aAPC vaccine. The 
+      Covid-19/aAPC vaccine is prepared by applying lentivirus modification 
+      including immune modulatory genes and the viral minigenes, to the 
+      artificial antigen presenting cells (aAPCs). It is also in Phase 1. 
+Kalorama's report details all of these projects. It can be found at: https://kaloramainformation.com/product/vaccine-development-and-production-trends-covid-19-and-other-vaccines-pipeline/
+About Kalorama Information
+For more than 30 years, Kalorama Information has been a leading publisher of market research in healthcare areas, including in vitro diagnostics (IVD), imaging, biotechnology, healthcare, medical devices, and pharmaceuticals.
+SOURCE Kalorama Information
+(END)

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300022
+
+Date : 2020-05-02 00:00:00
+Title : Coronavirus | Three new cases in Yemen brings total confirmed to 10
+Ariticle : 
+Disease:infections
+Time:2020.05.02
+Location:Yemen
+Cases:two deaths
+Description:Coronavirus | Three new cases in Yemen brings total confirmed to 10

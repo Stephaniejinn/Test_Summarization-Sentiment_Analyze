@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400062
+
+Date : 2020-05-03 00:00:00
+Title : Egypt reports 272 new coronavirus cases, 14 deaths, 40 recoveries
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:Egypt
+Cases:14 patients
+Description:Egypt reports 272 new coronavirus cases, 14 deaths, 40 recoveries

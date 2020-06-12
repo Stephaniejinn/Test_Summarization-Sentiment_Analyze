@@ -1,0 +1,29 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006898188
+ID : GPHN2020050400020
+
+Date : 2020-05-01 15:19:00
+Title : Coronavirus linked to rare inflammatory disease in children – here’s what we know - The Conversation UK
+Ariticle : 
+Coronavirus linked to rare inflammatory disease in children – here’s what we know
+May 1, 2020 11.19am EDT
+Honorary Senior Lecturer in Virology and President of Research-Aid Networks, University of Kent
+Disclosure statement
+Jeremy Rossman has received research funding from the Medical Research Council and the European Commission. He is the President of the non-profit organisation Research-Aid Networks.
+Partners
+Messenger
+The UK Paediatric Intensive Care Society sent out an alert on April 27 about an increase in cases of severe COVID-19-related illness in children . Since then, 19 cases have been identified in children in the UK and 100 cases have been identified in five other countries (US, France, Italy, Spain and Switzerland). This is a new situation and only minimal information is available at present, though there are very few cases and the vast majority of COVID-19 infections in children are still very mild.
+The new reports are of children showing inflammation of multiple organs and particularly the blood vessels and heart. Symptoms appear to include severe abdominal pain and gastrointestinal illness, though some also have fever and skin rashes. This is a very severe illness that requires treatment in intensive care, though there have not been any reported fatalities.
+The syndrome appears to be similar to Kawasaki disease , which involves inflammation of blood vessels. Typically, the disease occurs in children under the age of five years and can lead to coronary artery aneurysms and permanent heart damage, if not treated.
+The syndrome is treated with intravenous immunoglobulin (an antibody), aspirin and steroids, in severe cases. We don’t know what causes Kawasaki disease , but it is thought to be a combination of genetics and the immune response to an infection.
+It is not clear at present if this new syndrome is caused by COVID-19 and what the relation to Kawasaki disease is – if any.
+Immunoglobulin is the Y-shaped antibody. ustas7777777/Shutterstock
+Is it caused by COVID-19?
+In the UK, some of the critically ill children showed active COVID-19 infections , though a few did not appear to be infected . It is thought this may be simply because these children has already cleared their infection, a theory that is supported by finding COVID-19 antibodies in some of the children that tested negative for the virus. This suggests that the new syndrome may be an inflammatory reaction that occurs during the recovery period after the COVID-19 infection has mostly resolved.
+A similar phenomenon is thought to occur in Kawasaki disease, where respiratory infections may trigger the disease. Infection with some variants of another, typically mild type of coronavirus, HCoV-229E , is seen more often in patients with Kawasaki disease, though no infection has ever been proven to cause Kawasaki disease.
+There has been one published report of a six-month-old girl who was diagnosed with Kawasaki disease and COVID-19, though it was not known if the infection caused the disease. She was treated with immunoglobulin and high-dose aspirin. She made a complete recovery.
+The existing data – scant that it is – suggests a link between COVID-19 and the inflammatory syndrome in children. However, at present, there is not enough evidence to say that this syndrome is caused by COVID-19.
+We do know that in adults, COVID-19 causes significant inflammation in many organs of the body. This inflammation plays a role in some of the most severe COVID-19 disease. It has also been shown that the virus can infect endothelial cells that line blood vessels, causing blood vessel inflammation. In many ways, this inflammation resembles the severe multi-system inflammation seen in children, though it is not known if these are caused by similar processes.
+What are the risks and what should I do?
+Current data shows that COVID-19 can infect children, but that children under 19 typically show very mild disease. Those under ten have the lowest fatality rate of any age group. The report of this new inflammatory syndrome in children is worrying, but the risk of COVID-19 to young children remains very low.
+Parents are advised to continue being alert for any signs of severe illness in their children, especially shortness of breath or difficulty breathing. It is now also recommended to be alert for abdominal pain and gastrointestinal distress, especially when combined with fever or a rash.
+If you have any concerns about your child’s health, please call your doctor or the emergency services.
