@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7289724&trto=en&trfr=en&pid106
-ID : HMAP2020050200156
-
-Date : 2020-05-01 00:00:00
-Title : FDA authorizes experimental drug remdesivir for emergency use in COVID-19 patients - The Verge -
-Ariticle : 
-FDA authorizes experimental drug remdesivir for emergency use in COVID-19 patients ; ; 
-United States | COVID-19 | Humans

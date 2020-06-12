@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300086
+
+Date : 2020-05-02 00:00:00
+Title : WA records ninth coronavirus fatality with death of 83yo woman
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.26-2020.05.02
+Location:Australia
+Cases:19 active cases
+Description:WA records ninth coronavirus fatality with death of 83yo woman

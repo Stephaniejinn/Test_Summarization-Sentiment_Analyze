@@ -1,7 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-britain-england/death-toll-in-english-hospitals-rises-352-to-20483-idUSKBN22D5MA
-ID : RTRS2020050200001
-
-Date : 2020-05-01 14:09:00
-Title : Death toll in English hospitals rises 352 to 20,483
-Ariticle : 
-LONDON (Reuters) - The COVID-19 death toll in English hospitals has risen by 352 from the day before to 20,483, including 18 people who did not have any known underlying health conditions, health officials said on Friday. 

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400008
+
+Date : 2020-05-03 00:00:00
+Title : Dominican Republic coronavirus deaths rise to 333; cases total 7,954
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:Dominican Republic
+Cases:Coronavirus deaths
+Description:Dominican Republic coronavirus deaths rise to 333; cases total 7,954

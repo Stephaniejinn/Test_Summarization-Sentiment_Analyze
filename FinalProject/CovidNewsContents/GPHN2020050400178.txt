@@ -1,0 +1,59 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006902626
+ID : GPHN2020050400178
+
+Date : 2020-05-03 07:16:00
+Title : Three new cases of COVID-19 reported by DHSS Sunday
+Ariticle : 
+ANCHORAGE, Alaska (KTUU) — Three new confirmed cases of COVID-19 in two communities were reported by the Alaska Department of Health and Social Services Tuesday, bringing Alaska's case count to 368.
+* Anchorage: 2
+* Homer: 1
+Of Sunday's newly reported cases, two are male — one aged 40-49 in Anchorage, one aged 60-69 in Homer — and one is female, aged 10-19 in Anchorage.
+The source of acquisition of one case has been identified as local/community spread. The source of acquisition for the other two cases is unknown and under investigation.
+One case was reported as having recovered in the previous 24-hour reporting period, bringing the total number of recovered cases to 262.
+Cases reported as recovered are not subtracted from the total case count which is cumulative.
+There are currently 97 active cases in Alaska as of the latest 24-hour reporting period. 12 confirmed cases or Persons Under Investigation are currently hospitalized.
+* Active cases: 97
+* Recovered: 262
+* Deaths: 9
+* Cumulative confirmed cases hospitalized: 36
+* Current confirmed cases or Persons Under Investigation hospitalized: 12
+Alaska COVID-19 active cases, recovered cases, and deaths as of Sunday, May 3, 2020 (From Alaska Department of Health and Social Services)
+No new hospitalizations or deaths were reported Sunday.
+21,578 tests have been completed statewide since March 2 according to DHSS data.
+Municipality of Anchorage: 187
+* Anchorage: 166*
+* Chugiak: 6
+* Eagle River: 12
+* Girdwood: 3
+Kenai Peninsula Borough: 22
+* Anchor Point: 2
+* Homer: 4*
+* Kenai: 4
+* Seward: 3
+* Soldotna: 6
+* Sterling: 3
+Kodiak Island Borough: 1
+* Kodiak: 1
+Fairbanks North Star Borough: 83
+* Fairbanks: 64
+* North Pole: 18
+* Other: 1
+Southeast Fairbanks Census Area: 1
+* Delta Juncton: 1
+Yukon-Koyukuk Census Area: 1
+* Other: 1
+Matanuska-Susitna Borough: 21
+* Palmer: 9
+* Wasilla: 12
+Northern Census Area: 1
+* Nome: 1
+Southeast Alaska: 50
+* Juneau: 27
+* Ketchikan: 16
+* Petersburg: 4
+* Craig: 2
+* Sitka: 1
+Bethel Census Area: 1
+* Bethel: 1
+Alaska COVID-19 epidemic curve progression and key interventions (From Alaska Department of Health and Social Services)
+Copyright 2020 KTUU. All rights reserved.

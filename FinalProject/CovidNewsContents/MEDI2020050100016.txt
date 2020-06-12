@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100016
+
+Date : 2020-04-29 00:00:00
+Title : Minnesota nursing home reports 47 deaths from coronavirus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Minnesota
+Cases:130 residents
+Description:Minnesota nursing home reports 47 deaths from coronavirus

@@ -1,49 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/856171-j-med-virol-covid-19-in-pregnancy-risk-of-adverse-neonatal-outcomes
-ID : FLUT2020050200002
-
-Date : 2020-05-01 14:40:14
-Title : J Med Virol.  COVID-19 in pregnancy: risk of adverse neonatal outcomes
-Ariticle : 
-																							
-
-J Med Virol.
- 2020 Apr 30. doi: 10.1002/jmv.25959. [Epub ahead of print]
-
-COVID-19 in pregnancy: risk of adverse neonatal outcomes.
-
-
-
-Mehan A
-1
-, 
-Venkatesh A
-1
-, 
-Girish M
-1
-.
-
-
-Author information
-
-
-
-
-
-Abstract
-
-We read with great interest the study by Siyu Chen and colleagues. The authors evaluated the clinical features and outcomes of five pregnant patients with COVID-19 at term, whose delivery was uneventful and led to favorable perinatal outcomes for both mother and neonate. We would like to draw attention to a growing body of evidence that now points towards an under-addressed association between preterm maternal SARS-CoV-2 infection, preterm delivery and adverse neonatal outcomes, which is not reflected in Chen et al.'s small cohort. We also stress that vertical transmission, which was not tested for by Chen et al., should not be excluded as a potential mechanism for viral spread. Centers should therefore be meticulous in their approach to a SARS-CoV-2+ pregnancy to optimize clinical outcomes for both mother and child. This article is protected by copyright. All rights reserved.
-This article is protected by copyright. All rights reserved.
-
-
-
-
-KEYWORDS:
-
-Coronavirus < Virus classification; Pandemics < Epidemiology; Respiratory tract < Pathogenesis; Vertical transmission < Epidemiology
-
-
-PMID:32352576DOI:
-10.1002/jmv.25959
-
-													

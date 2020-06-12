@@ -1,0 +1,43 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006882674
+ID : GPHN2020050100120
+
+Date : 2020-04-29 18:10:00
+Title : Coronavirus contact-tracing apps a good idea — if ‘done correctly’: Canadian cybersecurity expert - Global News
+Ariticle : 
+Coronavirus contact-tracing apps a good idea — if ‘done correctly’: Canadian cybersecurity expert
+Scroll back to top of the page
+Back
+By Sam Thompson CJOB
+Posted April 29, 2020 2:00 pm
+The Australian government's coronavirus tracing app would track and use data from people's phones to inform health authorities of close contact with confirmed COVID-19 cases.
+EPA/DARREN ENGLAND AUSTRALIA AND NEW ZEALAND OUT
+Smaller font Descrease article font size
+-A
+Larger font Increase article font size
+A+
+Copy link
+They say there’s an app for everything, but does that include contact tracing for the coronavirus ?
+According to digital security expert Ritesh Kotak, it’s a good idea, as long as it’s implemented properly.
+“As these restrictions start to get looser and people start to travel from province to province again, we’re going to need better data to be aggregated and talk to each other,” Kotak — a tech industry consultant who has helped develop cybercrime prevention strategies for police forces across Canada and internationally — told 680 CJOB.
+“Overall, the idea makes sense… but again, it needs to be done correctly because there are very serious privacy concerns if not done correctly.”
+Kotak said a potential app could use location-based information on your smartphone or device — think GPS or ‘Bluetooth beacons’ — and use that technology to see if you’re in contact with other Bluetooth-enabled devices that are also using the app.
+Story continues below advertisement
+“What these apps are going to do is talk to each other and they’re going to start to compile data,” he said.
+“This data is going to be used and aggregated to deliver insights to governments and individuals.
+Trending Stories
+READ MORE: How an Alberta contact-tracing app would work to help in fight against COVID-19
+As an example of how this would work, he said, suppose you tested positive for the coronavirus. The app on your phone will know that you’ve tested positive — whether through self-disclosure or some other means.
+The app will analyze the location data, and other people who have the same app that you’ve been near — whether it’s at the office or the grocery store or anywhere else — will receive a notification.
+5:02
+Coronavirus outbreak: What are the privacy risks behind ‘contact tracing’ apps?
+Coronavirus outbreak: What are the privacy risks behind ‘contact tracing’ apps?
+“The app will start going through all that digital data that’s anonymized and logged, and say, ‘You may have come into contact with someone that’s tested positive,'” said Kotak.
+“It won’t identify individuals, but what it will do is alert that you may have come into contact — keyword ‘may’ have come into contact — with someone who has tested positive for COVID-19 .”
+Story continues below advertisement
+It would then be incumbent upon the individual app users to get themselves tested as a precaution.
+A pleasure being invited back to @680CJOB with @JulieCJOB and @CloutierCJOB to discuss how #ContactTracing apps may work and the concerns around it.
+— Ritesh Kotak (@RiteshKotak) April 28, 2020
+Manitoba’s chief medical officer of health Dr. Brent Roussin said Tuesday that the province has considered a contact-tracing app as a way to help loosen restrictions meant to curb the spread of the virus.
+“We’ve looked nationally as well at the various apps, and as we look to want to loosen our public health restrictions, then we have to adapt to do that,” he said.
+“I think certain technologies might help us with our goals on loosening these restrictions further, so we’re looking at various different apps like this and if we can find one that fits the Manitoba picture well, then we would certainly consider that.”
+Story continues below advertisement

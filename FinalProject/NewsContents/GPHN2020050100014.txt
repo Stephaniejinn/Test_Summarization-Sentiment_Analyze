@@ -1,9 +1,0 @@
-URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006882013
-ID : GPHN2020050100014
-
-Date : 2020-04-30 15:42:00
-Title : Swiss scientists: COVID-19 detection in wastewater prevents future outbreaks
-Ariticle : 
-30/04/2020 
-GENEVA, April 30 (KUNA) -- Swiss scientists, on Thursday, said that the novel coronavirus (COVID-19) has been successfully detected in wastewater, affirming this discovery will improve measures to prevent future outbreaks. Researchers at Swiss Federal Institute of Technology Lausanne (EPFL) and Swiss Federal Institute of Aquatic Science and Technology (EAWAG) are now working to optimize the method. The aim is to develop a system, which could warn of a resurgence of cases earlier than clinical
-diagnostic tests. The successful detection of low viral concentrations at an early stage of the outbreak means that it should be possible, retrospectively, to trace the rise of the COVID-19 curve. While genetic material from the novel coronavirus could be detected in wastewater, there is no evidence at present to suggest that the pathogen spreads via water or wastewater. (end) ta.gta

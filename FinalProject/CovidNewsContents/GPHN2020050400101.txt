@@ -1,0 +1,27 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006900597
+ID : GPHN2020050400101
+
+Date : 2020-05-03 07:58:00
+Title : App Panacea: Do Contact Tracing Apps Work in Low-Income Countries? - Al-Bawaba
+Ariticle : 
+App Panacea: Do Contact Tracing Apps Work in Low-Income Countries?
+App Panacea: Do Contact Tracing Apps Work in Low-Income Countries?
+Published May 3rd, 2020 - 07:35 GMT
+Covid-19 'Contract Tracing' apps are a partial solution /AFP
+A recent report by ALNAP, a global network of humanitarian organisations and academics, points out that monitoring the spread of COVID-19 is much harder in humanitarian settings than in other nations. Digital applications, like those found in South Korea, are less effective than manual tracing methods.
+ 
+This points us to one of the major issues facing the use of mobile apps to trace the coronavirus. Ownership of smartphones is not equally distributed around the world. South Korea leads with the highest percentage of adults who own a smartphone, at 95%. In the US approximately 81% of adults own a smartphone whilst Russia has a 59% ownership.
+However, lower-income countries like India, Kenya, and Mexico have a much lower proportion of adults owning smartphones. In Nigeria, for example, only 39% of adults are thought to own smartphones. The figure goes down to 24% in India.
+Contact-tracing apps for COVID-19 need a high proportion of smartphone users to be effective. Generally, they work by allowing two phones to ‘speak’ to each other when they come in close contact, via Bluetooth. Apps also work as symptom trackers in order to ascertain whether the smartphone owner is likely to have contracted the virus.
+Contact-tracing apps for COVID-19 need a high proportion of smartphone users to be effective. Generally, they work by allowing two phones to ‘speak’ to each other when they come in close contact, via Bluetooth.
+If somebody has encountered another person known to have contracted the virus a message is sent. This allows the person self-isolate, monitor symptoms, and seek medical help should they be in a high-risk demographic. Advice, of course, depends on the country in which one is living and the resources and medical strategy adopted by that nation.
+This sounds pretty failproof. If we are looking to limit the spread of COVID-19 then limiting contact with those who are likely to have contracted the virus is surely to be effective. But even in countries with high rates of smartphone ownership, the effectiveness can be limited.
+In Singapore, for example, the TraceTogether app now has over 1 million users or 20% of Singapore’s population. But, as the science journal Nature pointed out this week, in any chance meeting between two individuals the likelihood that both will have downloaded the app only stands at 4%.
+Beyond this, such digital tracking methods will always miss out anyone who doesn’t own a smartphone. The poorest in societies are less likely, of course, to own expensive equipment and so there is a real risk that complete reliance on digital surveillance will mean pockets of the coronavirus only exist in the poorest and most exploited members of our societies.
+In Singapore, for example, the TraceTogether app now has over 1 million users or 20% of Singapore’s population.
+To compound the issue, these are also the people who will be less likely to have access to healthcare and enough hygiene products. They are also more likely to be labourers at places which cannot transition to a work-from-home set-up.
+Sean McDonald, Senior Fellow at the Centre for International Governance Innovation and CEO of FrontlineSMS, points out that “while a number of these technologies purport to ‘contact trace’ COVID-19 – they are, as often as not, used to measure and enforce public lockdowns and quarantines. And while containment is an important goal, the countries often held up as model examples – China, South Korea, and Singapore – have a number of characteristics that suggest... well, that success in containment wasn’t just down to the app.”
+the countries often held up as model examples – China, South Korea, and Singapore – have a number of characteristics that suggest... well, that success in containment wasn’t just down to the app
+In low-income countries, these methods will be manual. This means traditional surveillance via health facilities or possibly Community-Based Surveillance (CBS) which involves volunteers sending alerts and data through a series of networks so that an appropriate response can be evaluated. Manual methods of surveillance, however, are labour intensive and expensive. The nature of COVID-19 means that labour, particularly in the health sector, is stretch along with funds.
+So, what is the solution? The world needs to fund organisations that can help to stop the virus. Diversifying methods of surveillance are also paramount. Most simply, though, we need to bear in mind that the solution to COVID-19 is not a ‘one-size-fits-all’ equation. 
+© 2000 - 2020 Al Bawaba (www.albawaba.com)

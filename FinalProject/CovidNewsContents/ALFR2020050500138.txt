@@ -1,0 +1,64 @@
+URL : https://allafrica.com/stories/202005050296.html
+ID : ALFR2020050500138
+
+Date : 2020-05-04 00:00:00
+Title : Uganda: How Ministry Will Track COVID-19 Cases
+Ariticle : 
+When Uganda eases the lockdown conditions, a small team of scientists and frontline health workers in the Ministry of Health will test a pilot project to manage a large number of Covid-19 patients.
+About 240 people who have completed their mandatory quarantine and are being followed up by the Ministry of Health for a month have begun receiving automated voice calls.
+These calls are part of a system known as IVR for Interactive Voice Response, a computer assisted patient management system with a successful history in keeping track of tuberculosis and HIV/Aids patients.
+The pilot is part of the national response made possible through a partnership between Ministry of Health and Makerere University.
+According to Dr Andrew Kambugu of the Infectious Diseases Institute (IDI) at Makerere, a small team is working to support the ministry to rapidly adapt the tool to manage potentially large number of Covid-19 patients - should the need arise.
+The pilot project dubbed "Call for Life" (C4Life) uses basic dumb phones (non-smart phone) and is expected to be widely applicable.
+In the current phase, it is used to track Covid-19 positive patients remotely after they have left quarantine or recovered or others who may be in contact with them.
+However, a more aggressive version could enrol large vulnerable populations, such as frontline health workers, security officials and anyone who gets exposed to Covid-19 to help Uganda deal with a nation-wide surveillance of the virus.
+It is the kind of intelligent use of medical technology that can assist health authorities plan their interventions more precisely, especially where ordinary citizens can get on the programme, when they suspect they have Covid-19 symptoms.
+"It is a more efficient tool to measure community spread when it happens," said Dr Martin Balaba, the medical lead officer on new and emerging technologies at the Uganda Academy of Health Innovations, that is hosted at IDI.
+Dr Balaba, who is a liaison working on the tool with the Ministry of Health, says public interaction with the tool has potential to map the behaviour of Covid-19 and respond to it in a timely and accurate fashion.
+"The tool leaves room to develop a quick two to three step self-evaluation by anyone who has symptoms. They can then report this to health authorities through a toll-free line (or other form), then teams can then categorise the symptoms for those that need assistance. This is how community surveillance could work," Dr Balaba said.
+It is early days for the pilot being tested at the Ministry.
+It is currently in English, Luganda and Swahili but is being prepared in multiple local languages according to Dr Rosalind Parks-Ratanshi, who is the Director of the Academy.
+"We started working on a Covid-19 version of the tool around March 6," she says.
+The team wanted to get ahead of the virus and recognised immediately that the system could be useful to the Ministry of Health to manage Covid-19 patients.
+The pilot project generates daily reports for the ministry. They include the number of calls made and their responses as well as the total number of patients presenting symptoms and their contacts for follow-up.
+Its potential is shared by several frontline health workers and other experts in the field, who say such technologies will help Uganda navigate the unpredictable terrain of human interactions when business resumes normally.
+For example, if more persons need to be in quarantine, the tool can help reduce contact between health workers and patients while keeping abreast with how a large number of persons with symptoms are coping.
+It also means that clinical resources can be used sparingly for those whose symptoms require hospitalisation.
+This might come in handy when international travel opens up again, to track, travellers who may present symptoms within the wide window of the coronavirus and assist Uganda in providing active data to its regional partners on conditions inside the country.
+Experts also point out that this tool and several other innovations by local scientists and innovators are an indicator of how Uganda is turning its experience with pandemics and other diseases into ideas and products for local use, a positive outcome from a global tragedy of epic proportions.
+With few cases, comparatively, and even fewer fatalities - East Africa is one of the outliers in the global story of the disruptive impact of SARS-Cov-2 or the coronavirus.
+This fact has been built up a giant puzzle for disease experts, who are looking for evidence about if the low fatality in Uganda, for example, is a result of the emerging natural history of the disease and how it interacts with some African populations, or the consequence of the rapid measures taken against it - or both.
+Scientists cannot yet tell, for example, even whether the low incidence of cases is because Covid-19 had been present in the general population and therefore immunities have been developed against it or if the low death rate in Africa is the because of fewer percentages of non-communicable diseases in the population.
+One popular theory is that majority youth population is acting as a shield for the rest of the community or widespread use of the BCG vaccine has enabled some immunities in communities such as Uganda's.
+Initial assessments, given the low capacity of Ugandan medical facilities and the impact of Covid-19 elsewhere, gave the impression that health authorities were like surgeons performing an emergency surgery on a train track with a forgone conclusion of thousands dead eventually.
+Local innovation with international collaboration
+However, at East Africa's oldest medical training facilities on Mulago Hill - the coronavirus now joins the multiple infectious diseases that have made Makerere College of Health Sciences one of the centres of knowledge on the subject around the world.
+This year, had it not been for the coronavirus, the college, which was known as Makerere Medical School when it was founded in 1924, would have hosted the global scientific community at the World Health Conference.
+At IDI, a smaller meeting now in its third year was also cancelled. It is the annual Health Innovations Conference that hosts medical and scientific entrepreneurs that translate scientific breakthroughs and ideas into so-called "last mile" solutions that reach ordinary citizens.
+Here ambitious and often younger Ugandan researchers and scientists are pushing the limits of innovation with ideas such as using drones to deliver HIV/Aids drugs or creating mass use of mobile phone-enabled ultra-scans for pregnant mothers in remote locations.
+"Our people operate on being responsive to needs," said Dr Kambugu, who heads IDI.
+When the coronavirus touched down, his team and various projects re-directed their attention to responding to the potential crisis that was wreaking health systems around the world. In the last innovations conference, the front runner prototyped a glove that could help detect breast cancer.
+"Hubs like the innovations academy help give direction to innovators, inventors and scientists," said Dr Prosper Ahimbisibwe, who would have been one of the speakers at this year's, now cancelled conference.
+Dr Ahimbisibwe is one of the inventors of M-scan, a mobile ultra-sound, that relies on a smart phone, which pregnant mothers can have access to in remote locations.
+"Cheap, affordable solutions, like ours which we have tested in Buikwe and Karamoja, show that when guided, innovations can respond to local needs," he said from Jinja, where he is deployed as a frontline health worker against Covid-19.
+Dr Ahimbisibwe said tools such as the IVR can go further.
+"Even if we have a low patient ratio for Covid-19, we are just learning about the virus. For example, we need to know from those who have recovered how they contracted the disease. If it happens in the community, what are the chances of re-infection? How are other persons who are infected being affected? A remote reporting tool like this helps health workers rapidly assess what needs to be done in a fast-changing situation," he said.
+One of IDI's main successes is the creation of biograms, which are a separate reporting programme for understanding drug resistance to anti-biotics by bacteria currently operational in referral hospitals.
+Doctors participating in this programme collect samples from patients and test how these samples respond to existing anti-biotics.
+This information is then collated by the Ministry of Health and allows officials to advise the National Drug Authority on which drugs to stock.
+"It helps doctors to prescribe the right anti-biotics with confidence, helps patients and reduces costs," he added.
+Inside call for life
+The IVR tool being tested as a last mile solution for Covid-19 has humble beginnings.
+"We started working with this tool in 2014. It originated with Janssen, the pharmaceutical company of Johnson &Johnson. They developed this open source tool with Motec and Gramin Foundation. Theyreason they produced the tool was that they had a tuberculosis drug that was coming out but had some bad side effects, but it was really good with multidrug resistant TB," explains Parks-Ratanshi,
+She says the tool was designed to follow-up people with chronic conditions and check if they were taking their medication.
+"The original bare bones open source tool was then re-configured to Ugandan settings and deployed for HIV/Aids patient management. It would automatically call these patients daily or weekly," Dr Parks-Ratanshi said.
+"It calls them and asks them if they are well. If they are taking their medication. So, it works as an adherence monitoring tool. Then it asks them if they want any health information and asks them about any symptoms they may have if they are unwell. It can also send them an appointment reminder," she explains.
+Each patient is set up with his/her own confidentialpin number to ensure privacy.
+Before the team started focusing on the use of the IVR tool for Covid-19 in March, it was already known that the tool could be a very versatile tool in patient management and collection of data on patientbehaviour as well as disease conditions.
+For the HIV/Aids patients enrolled on the earlier version, approximately 3,500 patients received nearly a million phone calls.
+A study conducted about the efficacy of the tool, according to Mr Parks-Ratanshi, found it was fairly successful.
+"It was popular with patients," she said, and adherence was high (more than 60 per cent), appointments improved and so did quality of life of patients.
+The Covid-19 version of the tool is likewise a voice-assisted intervention that automates calls to registered clients.
+It has been named Call for Life. "Anyone registered receives daily calls requesting them if they have Covid-19 related symptoms, alerts can be sent to Ministry of Health who can follow these up," she said.
+Pre-recorded health information is included for users, which has the added benefit of ensuring that exposed persons and those around them work with factual and latest information on the virus.
+In the ever-challenging healthcare environment, patient-monitoring and IT solutions can be useful in offering easy-to-use solutions and allows focusing more on patients. The IVR, therefore, could be the magic tool in the fights against the deadly pandemic even as the world awaits a vaccine.

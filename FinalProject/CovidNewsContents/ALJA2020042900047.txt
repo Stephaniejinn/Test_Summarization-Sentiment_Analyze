@@ -1,0 +1,52 @@
+URL : https://www.aljazeera.com/news/2020/04/top-innovations-fight-coronavirus-200429031152356.html
+ID : ALJA2020042900047
+
+Date : 2020-04-29 11:23:00
+Title : Top innovations in the fight against coronavirus
+Ariticle : 
+Called into action by a shortage of medical equipment, scientists and citizens have devised new ways to help.
+The coronavirus pandemic has taken a severe toll on industries, health systems and lives since the outbreak began with doctors, scientists and ordinary people racing to find ways to tackle the contagion. 
+From robots to a 
+virus-killing snood
+ and a portable isolation capsule, these new prototypes demonstrate what humans are capable of in the face of adversity. 
+Here are some of the innovations developed to combat the current outbreak 
+that has killed more than 217
+,000
+ people and infected 3.1 million.
+ 
+COVID-19 attacks people's lungs making it hard for them to deliver oxygen to the blood. Ventilators, which feed oxygen into the lungs, are a crucial tool to keep people with the virus alive.  
+Hospitals have struggled with a shortage since the beginning of the outbreak. In response, engineers, physicians and other creative minds are joining efforts to rework ventilators at a lower cost. 
+In the United Kingdom, Dr Rhys Thomas, along with engineering company CR Clark & Co of Ammanford, in just three days developed a simple and robust basic ventilator, which as well as helping patients breathe also clears the room of viral particles. 
+"Although it won't replace an ICU ventilator, the majority of patients won't need intensive care if they are treated with this ventilator first," Thomas told local media.
+Additionally, several innovative teams have started using 3D printing technology to supply hospitals with much-needed ventilators. 
+Another innovation from the UK was from Manchester biochemists - a mask with "germ trap" technology. The result of a 10-year project with the biotech firm Virustatic, it was hurried into production because of the pandemic. 
+The product acts as a barrier that attracts, traps, and kills viruses in droplets invisible to the human eye. The masks are safe to wear and, according to the developers,
+ the virus becomes inactive after touching the fabric.
+Inspired by neonatal chambers that protect newborns from external bacteria and viruses, the Mexican company XE Medical Engineering reversed the product and developed an isolation capsule to keep pathogens from escaping, lowering the chance of it spreading to health workers.
+The chamber is a sealed, flexible plastic
+ capsule 
+that has a filter system to keep it inflated.
+ 
+According to the company, the device can be used in ambulances, emergency rooms and hospital wards.
+"We want to protect our personnel and also people who have to live with infected people," 
+Fernando Alves, 
+ XE Medical's engineering director, told media. 
+ 
+In China, Kuang-Chi Technologies developed a smart helmet that can scan the temperature of hundreds of people every minute from a distance of up to five metres away.
+The headset features an infrared thermometer and can connect to the nearest hospital. It also has an augmented reality visor with facial recognition technology, which allows users to see the person's name and medical history.
+The company said it sold more than 1,000 temperature-scanning helmets and received orders from the Middle East, Europe and Asia.
+ 
+A South Korean hospital built coronavirus testing facilities that are similar to phone booths and 
+allow medical staff to examine patients from behind a plastic screen.
+Each patient steps into the box and consults with medical staff through an intercom, and should it be necessary, is sampled for an infection. The process takes about seven minutes, after which the booth gets sanitised and ventilated for the next patient. 
+The "phone booths" have enabled the hospital to go from about eight samples a day to 80. 
+A Danish company created a sterilising robot that looks like a group of lightsabers on wheels. 
+Using concentrated UV-C ultraviolet light emitted by eight bulbs on its top, each robot can destroy viruses, bacteria and other harmful microbes and sanitise hospital wards without the need for chemicals. 
+This reduces the need to leave these areas empty for several hours during cleaning, allowing hospitals to care for patients. 
+The device was launched in early 2019 but the coronavirus outbreak led to an acceleration in production, and it now takes less than a day to make one robot.
+China also developed a similar model but added a thermal camera. 
+In a bid to reduce exposure to one of the most contagious places in a building, a Belgian 3D company, Materialise, designed a hands-free door handle attachment.
+The design consists of two simple parts that can be screwed on either side of a handle, allowing a person to use their arm or elbow to turn it. 
+The company made the design available to download for free. The CEO of the company, Fried Vancraen, "call[ed] upon everyone who has access to a 3D printer to print the part and make it available to their local community".
+CLeanTech, a full-body disinfection booth that uses sanitising spray, antimicrobial coatings and temperature checks, could represent the future of airport screening. 
+The brief but thorough process requires all those going through to undertake a temperature check before a 40-second disinfection and sanitisation in a small booth that kills any viruses and bacteria found on clothing as well as the body.

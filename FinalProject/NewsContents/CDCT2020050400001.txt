@@ -1,33 +1,0 @@
-URL : https://www.cdc.gov.tw/Bulletin/Detail/Ko48tvqjiVCxBp1-ZgtmUA?typeid=9
-ID : CDCT2020050400001
-
-Date : 2020-05-04 00:00:00
-Title : Anti-fraud! The command center has never sent a &quot;final notice&quot;, do not open it if you receive an unknown email-Department of Health and Welfare Disease Control Department
-Ariticle : 
-                            
-Release Date: 2020-05-04
-The Central Epidemic Epidemic Command Center said today (4) that it has recently received reports from the public that it has been sent under the name of the Department of Disease Control (notices@cdc.gov.tw) with the main purpose of &quot;Final Notice of the Taiwan Center for Disease Control and Prevention&quot; e-mail. I would like to appeal to the public to be more vigilant. The CDC will not notify COVID-19 (Wuhan Pneumonia) related testing by email. Please do not open such letters, click on links or attachments in the letters to ensure the safety of personal information.
-
-The command center further stated that the email was a malicious social engineering letter (commonly known as a phishing letter or a scam letter) and presented in simplified Chinese characters &quot;There are 3 confirmed cases of COVID-19 in your area, and one of the patients listed you in the past 14 days As one of her physical contacts ... &quot;and other content, and there are attached files.
-
-The command center emphasized that during the establishment of the center, relevant information such as epidemic outbreaks or prevention measures will be announced through the government ’s official website or official community. When the public receives epidemic information of unknown or unproven origin, they should first check whether the content is true. Do not arbitrarily spread or relay information to avoid violating Article 14 of the &quot;Special Regulations for the Prevention and Relief of Severe Special Infectious Pneumonia&quot;. The maximum penalty is a fine of up to 3 years in prison, detention, or a fine of NT $ 3 million.
-
-The command center said that if the public wants to verify information related to infectious diseases, they can call the toll-free epidemic prevention line 1922 (or 0800-001922) for consultation, or refer to the CDC Global Information Network (https://www.cdc.gov.tw/ ).
-                            
-image
-                            
-                                
-                                        
-                                            
-                                        
-                                
-                            
-                        
-                            
-annex
-                                
-                                    
-                                    
-Anti-fraud email.png
-                                
-                        

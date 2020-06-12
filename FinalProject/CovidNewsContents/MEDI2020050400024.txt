@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400024
+
+Date : 2020-05-04 00:00:00
+Title : Coronavirus: Togo registers 123 cases of infection
+Ariticle : 
+Disease:Coronavirus
+Time:--
+Location:Togo
+Cases:123 cases
+Description:Coronavirus: Togo registers 123 cases of infection

@@ -1,0 +1,61 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006879317
+ID : GPHN2020043000130
+
+Date : 2020-04-29 05:24:00
+Title : Coronavirus has killed more Americans in the past three months than the Vietnam War as the death toll hits 59,000 with more than a million confirmed cases
+Ariticle : 
+* Coronavirus deaths in the United States reached 59,061 on Tuesday
+* There were 58,220 American deaths over almost two decades during the Vietnam War
+* There have been 17.6 coronavirus deaths per 100,000 inhabitants in the U.S.
+* Even at its most deadly point, the Vietnam War's death rate was only half this
+* In 1968, there were 8.5 American deaths per 100,000 inhabitants
+* It comes as one million cases are confirmed in the United States
+* Disease researchers have estimated that the true number of infections may be about ten times this known number
+The coronavirus pandemic has been more deadly for Americans than the Vietnam War with deaths from the virus in the past three months now higher than the U.S. death toll in the two-decade-long combat.
+Coronavirus deaths in the United States reached to 59,061 on Tuesday night, according to Reuters, meaning more Americans have died of coronavirus since the start of the year than casualties suffered by the U.S. in Vietnam between 1955 and 1975.
+There were 58,220 American deaths in Vietnam, according to NPR.
+There have been 17.6 American deaths per 100,000 inhabitants because of the outbreak while even in the deadliest year of the Vietnam War there was only half this, with 8.5 American deaths per 100,000 inhabitants in 1968.
+The grim new milestone comes as Johns Hopkins University confirms that the United States has reached over one million infections.
+The high number of U.S. casualties during the Vietnam War caused massive protests across the country calling for an end to American involvement.
+The coronavirus pandemic in the United States has also sparked protests to open the country back up and for social distancing guidelines to be lifted.
+In April, the national daily death toll reached over 2,000 on ten days.
+In contrast, the most deadly day in Vietnam was on January 31, 1968, when 246 U.S. personnel were killed during the Tet offensive.
+1968 proved to be the most deadly year for the U.S. in Vietnam with 16,899 deaths, yet there have been more American coronavirus deaths than this in the past ten days.
+Deaths in the U.S. are reaching closer to the 2017-2018 flu season, the deadliest in a decade, when 61,000 influenza-related deaths were reported by the Center for Disease Controls and Prevention over the course of about eight months.
+Even if coronavirus deaths in the United States weren’t to reach this figure – which at the current rate of daily deaths seems unlikely - the time frame would still make it more deadly than that flu season.
+During both the Vietnam War and the coronavirus pandemic, U.S. presidents have grappled with an increase in media attention in covering a national crisis.
+For the first time, TV news reports brought the horrors of the Vietnam War into the living rooms of everyday Americans, sparking anger and calls for an end to the war.
+The coronavirus pandemic has also resulted in televised updates but now on a daily basis as President Donald Trump makes lengthy televised press briefings.
+As critics of President Lyndon Johnson appeared in 1966 to call out a ‘credibility gap' with the U.S. government, Trump has also faced harsh criticism for his approach to the crisis, especially for a suggestion that disinfectant could be injected into a person as a cure last week.
+On Monday, Trump was asked if a president, when losing as many Americans as died during the Vietnam war, deserves to be reelected.
+'We're probably heading to 60,000, 70,000 [dead],' Trump said. 'It's far too many. One person is too many for this.'
+Then he touted his coronavirus response.
+'I think we've made a lot of really good decisions,' he said.
+'I will say this - one person is too many,' Trump concluded, ending his press conference.
+Vietnam has yet to report a single COVID-19 death and as of Tuesday, it had 270 confirmed cases.
+The United States on the other hand equates to almost a third of coronavirus cases across the world as Johns Hopkins confirmed Tuesday that the country has reached over one million infections.
+This number includes only known cases.
+Official figures may be much higher as a result of undiscovered or untested cases in people who show few or no symptoms at all.
+The lack of wide-scale national testing has also prevented even those showing symptoms to receive a test to confirm their case, keeping numbers lower than they could potentially be.
+Some disease researchers have estimated that the true number of infections may be about ten times the known number, according to the New York Times.
+Preliminary antibody testing – a blood test which identifies whether a person had the virus but has now recovered – has supported this view.
+Even as it stands roughly one in every 330 people in the United States has now tested positive for the virus.
+On Tuesday, President Trump was questioned about his remarks in February that the number of coronavirus cases in the U.S. would be ‘close to zero' to which he responded: 'It will go down to zero, ultimately'.
+While some early coronavirus hotspots are now showing signs that the outbreak has been contained, rural America is showing alarming growth in rates of cases, as is Los Angeles County and Chicago.
+There were more than 1,300 new cases in Cook County, Illinois, on Monday along with nearly 1,000 in Los Angeles County.
+The US death toll reached more than 58,000 Tuesday while the number of infections increased to more than 1,026,000.
+However, the death toll from the coronavirus outbreak could reach 74,000 by August, according to a leading predictive model - as health experts warn fatalities will increase if states reopen too early.
+The University of Washington's Institute for Health Metrics and Evaluation model, often cited by White House officials, raised its COVID-19 death toll projections on Monday.
+The model now projects 74,073 Americans will die from the coronavirus by August 4, which is up from nearly 67,000 a week ago and 60,000 predicted two weeks ago.
+The latest figure is down from about a month ago when the model projected around 90,000 deaths related to coronavirus in the US.
+This model, along with several others cited by the Centers for Disease Control and Prevention, predict that reopening states too soon and relaxing social distancing measures will result in even more deaths.
+The model's increased projection is, in part, due to many states experiencing flatter and longer peaks. Daily deaths are not falling very quickly after the peak, which leads to longer tails for epidemic curves in many states, researchers say.
+Less abrupt peaks and slower declines in daily deaths after the peak could result in many states having a higher death toll, according to the model.
+The model indicates that seven states – Hawaii, Mississippi, Texas, Wyoming, Utah, Nebraska, and North Dakota – may be experiencing their peaks now or could be in the coming weeks.
+Other models, including the IHME, that are developed independently but cited by the Centers for Disease Control and Prevention also offer similar predictions for soaring death tolls depending on how much social distancing and contact reduction is practiced.
+All national-level forecasts indicate that deaths are likely to continue rising over the next four weeks, according to the CDC.
+The forecasts cited by the CDC track the number of COVID-19 deaths since February and show the estimated deaths across the US in the next month.
+All of the models assume that existing social distancing measures will continue, while the Columbia University models makes various assumptions on the effectiveness of current social distancing interventions.
+The CDC says that the models - like IHME - that incorporate strong social distancing measures suggest that new deaths will continue to occur but will slow substantially over the next four weeks, while models that don't incorporate such strong contact reductions - like the Columbia University ones - will see deaths rise more quickly.
+A MOBS model by Northwestern's Laboratory for the Modeling of Biological + Socio-technical Systems predicts that there could be nearly 34,000 unmitigated deaths by May 18. If mitigation measures are in place, the deaths could reach just over 600 by that same date.
+Meanwhile, a COVID-19 simulator tool developed by Massachusetts General Hospital and Georgia Tech University predicts that current restrictions being implemented in various states could see the US death toll reach about 86,000 fatalities by August 30.

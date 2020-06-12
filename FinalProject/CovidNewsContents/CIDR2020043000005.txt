@@ -1,0 +1,66 @@
+URL : https://www.cidrap.umn.edu/news-perspective/2020/04/studies-find-men-more-prone-covid-19-death
+ID : CIDR2020043000005
+
+Date : 2020-04-29 00:00:00
+Title : Studies find men more prone to COVID-19 death
+Ariticle : 
+Men are more than twice as likely to die of COVID-19 than women, regardless of age, according to a 
+study
+ today in 
+Frontiers in Public Health
+.
+Also, older men with underlying diseases are more vulnerable than their female counterparts to COVID-19 infection and poor outcomes, a small retrospective 
+study
+ published yesterday in 
+PLOS Pathogens 
+has found.
+Researchers in the 
+Frontiers
+ study extracted data from a case series of 43 COVID-19 patients hospitalized in Wuhan, China; a public data set from the first 37 patients who died of the virus and 1,019 survivors in China; and information from 524 SARS (severe acute respiratory syndrome) patients, including 139 who died, in 29 Beijing hospitals in early 2003 to compare the two diseases.
+Advanced age and a high number of underlying diseases were linked to more severe disease and death in patients who had either COVID-19 or SARS. In the case series, men tended to have more serious disease than women (
+P
+ = 0.035), while the public data set revealed that men were 2.4 times more likely than women to die of COVID-19 (70.3% versus 29.7%; 
+P
+ = 0.016).
+In the case series, 37.2% of patients had one or more underlying conditions, such as high blood pressure, diabetes, cardiovascular diseases, and chronic lung disorders. Male COVID-19 patients had elevated levels of serum creatinine (indicating kidney damage), white blood cells (indicating immune response), and neutrophils (indicating inflammation).
+Of the 43 patients in the case series, 13 (30.2%) had mild or moderate pneumonia, while 14 (32.6%) had severe pneumonia, and 16 (37.2%) had critical pneumonia. Chi-square (χ
+2
+) test for trend showed that men tended to have more serious illnesses than women (
+P
+ = 0.035).
+Of the 37 nonsurvivors in the public data set, 70.3% were men, 29.7% were women, and 64.9% had one or more underlying conditions. These patients were significantly older, at 65 to 81 years, with 83.8% of them age 65 and older, versus survivors, who were 35 to 57 years old, with 13.2% 65 and older. Median time from symptom onset to death was 13 days. No age-groups were spared, with 30 survivors (2.9%) younger than 14 years.
+In patients with SARS, the proportion of males in the group who died was higher than that of the surviving group (
+P
+ = 0.015). In this group, 57.0% of patients had one or more underlying conditions. Median age of nonsurvivors was much higher than that of survivors (57 versus 32; 
+P
+ < 0.001), and nonsurvivors were also more likely than survivors to have underlying disease (57.0% versus 17.9%; 
+P
+ < 0.001).
+The percentage of men was higher in the nonsurviving group (53.2%) than in the surviving group (42.3%) (χ
+2
+ test; 
+P
+ = 0.027). Men were also significantly more likely to die than women (31.2% vs 22.6%; hazard ratio, 1.47; 95% confidence interval [CI], 1.05 to 2.06; 
+P
+ = 0.026).
+"While men and women have the same prevalence, men with COVID-19 are more at risk for worse outcomes and death, independent of age," the authors wrote.
+In the 
+PLOS Pathogens
+ 
+case series,
+ researchers studied the data of 168 patients with the novel coronavirus admitted consecutively to Tongji Hospital in Wuhan, China, from Jan 16 to Feb 4. Forty-eight (28.6%) of patients were critically ill. Median follow-up was 27 days.
+Overall, 17 patients (8.9%) died, while 136 (81%) were released from the hospital. Eleven (12.8%) of the 86 male patients died, while 65 (75.6%) were released from the hospital. Six (7.3%) of the 82 female patients died, while 71 (86.6%) were released. Fifty-seven patients had underlying conditions (33.7%). Median time from illness onset to hospital admission was 9 days for males and 7 days for females.
+At hospitalization, 156 patients (92.9%) had fever, and 121 (72.0%) had cough. Other common symptoms included coughing up respiratory secretions (41.7%), fatigue (38.7%), shortness of breath (35.1%), muscle pain (28.6%), diarrhea (26.2%), headache (13.1%), and nausea (10.7%). Only headache was significantly different between the sexes (
+P =
+ .016).
+Similar to findings from other studies, lymphopenia, a reduction in levels of lymphocyte cells important in immunity, was found in 112 of 168 patients with severe illness (66.7%). Binary logistic regression analysis showed that patients 80 years and older were more likely to advance to critical illness than those younger than 59 (odds ratio [OR], 10.97; 95% CI, 3.01 to 40.04).
+Of male patients, 36.0% had a chronic underlying illness, especially diabetes and cardiovascular and cerebrovascular diseases. After adjusted logistic regression analysis, males with underlying illnesses were more vulnerable to critical illness than those without comorbidities (OR, 3.82; 95% CI, 1.28 to 11.44).
+However, this was not the case for females (OR, 2.99; 95% CI, 0.94 to 9.56). After adjustment for confounding factors, males 80 years and older were more likely to become critically ill than those younger than 59 (OR, 9.33; 95% CI, 1.62 to 53.85). But this wasn't true for females (OR, 10.16; 95% CI, 0.91 to 113.35). 
+Eleven laboratory parameters were significantly higher in males, and six non–sex-specific parameters progressively increased throughout illness in patients who died (
+P
+ < .05).
+These included neutrophil-lymphocyte ratio and C-reactive protein (both indicating inflammation), aspartate aminotransferase (indicating liver damage), lactate dehydrogenase (indicating tissue damage), and blood urea nitrogen and serum creatinine (both indicating kidney damage).
+Other studies have noted abnormal liver and kidney function in COVID-19 patients, but whether it is due to drug injury or the disease is unknown, the authors said. "Considering the significant differences in the functional indexes of the liver and kidney, more attention should be paid to the monitoring and evaluation of liver and kidney function during the treatment of critically ill patients," they wrote.
+They also noted that their findings are consistent with those of other COVID-19 studies, which have identified sex differences in intensive care unit admission and death. But the authors said that future studies are needed to identify the different pathways and cellular responses between the two sexes.
+Men and women differ in both innate and adaptive immune responses, they said. These disparities may be attributed to steroids and X-linked gene activity, which both regulate the immune response to viruses. Sex-specific inflammatory responses, including relatively higher levels of angiotensin converting enzyme 2 (ACE2) in men, or the protective effect of estrogen in women, may also factor into the disparities.
+"Sex is an important biological variable that should be considered in the prevention and treatment of COVID-19," they wrote. "The key challenge is how best to use this disparity for providing adequate protection in both males and females."

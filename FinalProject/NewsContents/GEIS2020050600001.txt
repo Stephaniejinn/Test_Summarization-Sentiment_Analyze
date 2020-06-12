@@ -1,24 +1,0 @@
-URL : https://health.mil/News/Articles/2020/05/05/Be-Cyber-Vigilant-and-Avoid-COVID-19-Scammers
-ID : GEIS2020050600001
-
-Date : 2020-05-05 12:00:00
-Title : Be Cyber Vigilant and Avoid COVID-19 Scammers
-Ariticle : 
-		Recommended Content:	
-The COVID-19 pandemic has opened the door for a new cycle of cybersecurity scams. While nearly everyone concentrates on protecting their health, it’s also important for us to protect our personal identity and financial information.
-“Not too long ago, cybersecurity was considered someone else’s problem that could be solved with more technology. But it’s not a technological problem;­ it’s a knowledge problem and people need to take personal responsibility for closing that knowledge gap to make healthy choices,” Servio Medina, chief, Cybersecurity Oversight, Governance & Strategy Branch at Defense Health Agency, said.
-We have certainly become even more dependent on the internet since we’ve been social distancing and teleworking. Now more than ever, it’s essential for everyone to practice healthy cyber hygiene, and be more aware of online fraudulent activities, explained Medina.
-According to U.S. Cyber Command, scammers have increased the frequency and sophistication of tactics to take your money and steal your identity. Being aware of their techniques can help you not to fall victim.
-“People can unwittingly compromise their own well-being, for example through an improper diet or even sitting at a desk all day. The same is true for your cyber well-being when you are online,” Medina added. “An innocent click of a hyperlink and you could compromise your own personal information without realizing it.” Part of the Military Health System’s role in taking care of families is helping them understand how to protect their online presence, he said.
-Specifically, a number of malicious COVID-19 related cyber activities have been detected that people need to be aware of so they can guard against becoming a victim.
-For example, cyber criminals are posing as legitimate health organizations promoting COVID-19 test kits and requesting donations for charitable organizations. Some are establishing websites and email addresses to sell phony products and useless treatments to cure COVID-19. They’re also claiming they have supplies of high-demand products, such as face masks and disinfectants in stock and for sale. Protection Tip: If you’re tempted by these offers, check online reviews of companies offering COVID-19 products or supplies and confirm they are legitimate before you give them any personal or financial information. Stay away from companies with negative reviews and complaints about not receiving products ordered.
-Beneficiaries should also be wary of scam emails from email addresses purporting to be affiliated with TRICARE or a government authority. TRICARE will never request personal information via email. In addition, beneficiaries should trust information only from a .mil or .gov domain, with some exceptions, such as websites for our managed care support contractors, Health Net Federal Services and Humana Military.
-Scammers are also creating and manipulating mobile apps designed to track the spread of COVID-19. These apps insert malware that will compromise users’ devices and personal information. Be careful to research any app, to include reviews and author, before you download it.
-“Cyber hackers and scammers are always looking for a vulnerability to exploit; a health crisis like the COVID-19 pandemic gives more opportunities to prey on our vulnerabilities. We need to protect ourselves online through healthy cyber practices just as you maintain healthy personal hygiene all the time,” Medina added. “Remember: it only takes one click.”
-For more information, visit the 
-MHS Cybersecurity Awareness webpage
-. To learn more about military health benefits fraud, visit the 
-Program Integrity Office webpage
-. To file a claim involving a cyber scam related to COVID-19, visit the 
-Federal Trade Commission website
-.

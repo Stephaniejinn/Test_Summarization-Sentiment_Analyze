@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900066
+
+Date : 2020-04-28 00:00:00
+Title : Cleveland records 32nd COVID-19 coronavirus death, 31 new cases of the virus
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:USA/Ohio
+Cases:One more death
+Description:Cleveland records 32nd COVID-19 coronavirus death, 31 new cases of the virus

@@ -1,0 +1,94 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006882805
+ID : GPHN2020050100107
+
+Date : 2020-04-30 14:41:00
+Title : A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
+Ariticle : 
+30 April 2020
+This is an unedited manuscript that has been accepted for publication. Nature Research are providing this early                             version of the manuscript as a service to our authors and readers. The manuscript will undergo copyediting,                             typesetting and a proof review before it is published in its final form. Please note that during                             the production process errors may be discovered which could affect the content, and all legal                             disclaimers apply.
+A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
+Target identification
+Abstract
+The novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 2.3 million people, killed over 160,000, and caused worldwide social and economic disruption1,2. There are currently no antiviral drugs with proven clinical efficacy, nor are there vaccines for its prevention, and these efforts are hampered by limited knowledge of the molecular details of SARS-CoV-2 infection. To address this, we cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins physically associated with each using affinity-purification mass spectrometry (AP-MS), identifying 332 high-confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 66 druggable human proteins or host factors targeted by 69 compounds (29 FDA-approved drugs, 12 drugs in clinical trials, and 28 preclinical compounds). Screening a subset of these in multiple viral assays identified two sets of pharmacological agents that displayed antiviral activity: inhibitors of mRNA translation and predicted regulators of the Sigma1 and Sigma2 receptors. Further studies of these host factor targeting agents, including their combination with drugs that directly target viral enzymes, could lead to a therapeutic regimen to treat COVID-19.
+Author information
+Author notes
+These authors contributed equally: David E. Gordon, Gwendolyn M. Jang, Mehdi Bouhaddou, Jiewei Xu, Kirsten Obernier, Kris M. White, Matthew J. O’Meara, Veronica V. Rezelj
+Affiliations
+QBI COVID-19 Research Group (QCRG), San Francisco, CA, 94158, USA
+David E. Gordon
+Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, CA, 94158, USA
+David E. Gordon
+J. David Gladstone Institutes, San Francisco, CA, 94158, USA
+David E. Gordon
+, Melanie Ott
+ & Nevan J. Krogan
+Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA, 94158, USA
+David E. Gordon
+Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA
+Kris M. White
+, Adolfo García-Sastre
+ & Nevan J. Krogan
+Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA
+Kris M. White
+Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, 48109, USA
+Matthew J. O’Meara
+Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724, Paris, cedex 15, France
+Veronica V. Rezelj
+Department of Pharmaceutical Chemistry, University of California, San Francisco, CA, 94158, USA
+Tia A. Tummino
+Virus and Immunity Unit, Institut Pasteur, 75724, Paris, cedex 15, France
+Mathieu Hubert
+Howard Hughes Medical Institute, San Francisco, CA, USA
+Ying Shi
+European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK
+Inigo Barrio-Hernandez
+Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, 94158, USA
+Christopher J. P. Mathy
+, Andrej Sali
+ & Tanja Kortemme
+The UC Berkeley-UCSF Graduate Program in Bioengineering, University of California San Francisco, San Francisco, CA, USA
+Christopher J. P. Mathy
+ & Tanja Kortemme
+Center for Computational Biology and Bioinformatics, Department of Medicine, University of California San Diego, San Diego, CA, 92093, USA
+Sara B. Rosenthal
+Department of Cell and Tissue Biology, University of California, San Francisco, CA, 94143, USA
+Lorenzo Calviello
+, Yizhu Lin
+ & Stephen N. Floor
+Department of Pharmacology, University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, North Carolina, 27599-7365, USA
+Xi-Ping Huang
+Biophysics Graduate Program, University of California, San Francisco, CA, USA
+Stephanie A. Wankowicz
+Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA, 94158, USA
+Maliheh Safari
+Zoic Labs, Culver City, CA, 90232, USA
+Michael C. O’Neal
+Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, 94158, USA
+Duygu Kuzuoglu
+Department of Urology, University of California, San Francisco, San Francisco, CA, 94143, USA
+Duygu Kuzuoglu
+Cardiovascular Research Institute, University of California San Francisco, San Francisco, CA, 94158, USA
+Raphael Trenker
+Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA, 98109, USA
+Janet M. Young
+Medical Scientist Training Program, University of California, San Francisco, CA, 94143, USA
+Joseph Hiatt
+ & Theodore L. Roth
+George William Hooper Foundation, Department of Microbiology and Immunology, University of California San Francisco, San Francisco, CA, 94143, USA
+Devin A. Cavero
+Department of Medicine, University of California San Francisco, San Francisco, CA, USA
+Oren S. Rosenberg
+Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA, 98103, USA
+Michael Emerman
+Department of Psychiatry, University of California San Francisco, San Francisco, CA, 94158, USA
+Mark von Zastrow
+Buck Institute for Research on Aging, Novato, CA, 94945, USA
+Eric Verdin
+Direction Scientifique, Institut Pasteur, 75724, Paris, cedex 15, France
+Christophe d’Enfert
+Division of Genetics, Department of Medicine, University of California San Diego, San Diego, CA, 92093, USA
+Trey Ideker
+Department of Medicine, Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA
+Adolfo García-Sastre
+The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA
+Adolfo García-Sastre

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000022
+
+Date : 2020-04-29 00:00:00
+Title : Live coronavirus updates for Wednesday, April 29: Utah reports 152 new cases and no new deaths; Salt Lake City police officer tests positive.
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Utah
+Cases:152 new cases
+Description:Live coronavirus updates for Wednesday, April 29: Utah reports 152 new cases and no new deaths; Salt Lake City police officer tests positive.

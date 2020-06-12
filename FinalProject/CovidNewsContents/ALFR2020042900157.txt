@@ -1,0 +1,99 @@
+URL : https://allafrica.com/stories/202004290317.html
+ID : ALFR2020042900157
+
+Date : 2020-04-29 00:00:00
+Title : Kenya: Are Women Three Times As Likely to Live to Over 100 Than Men in Kenya? Not Exactly
+Ariticle : 
+Claim
+In Kenya, chances of women living to more than 100 years are almost three times that of men.
+Source: The Standard newspaper, February 2020
+Verdict
+Explainer: The probability of a woman in Kenya living to 100 would, at best, be twice that of a man.
+A Kenyan newspaper claimed that according to data from the 2019 census, women were three times more likely than men to live to 100 and beyond.
+While the data shows that about three times as many women as men over the age of 100 were counted in the census, this does not translate to the probability of living to that age as reported by the newspaper.
+Experts cautioned that while data on centenarians was "notoriously unreliable", the odds of a Kenyan woman living to 100 were closer to twice those of a Kenyan man.
+Researched by Alphonce Shiundu and Lee Mwiti
+The staggered release of Kenya's population data following the
+ 2019 census
+ continues to provide new insights into the country's demographics.
+The data found that there were 
+14,040 centenarians
+, or people 100 years old or older, in the country.
+Reporting on the centenarians, Kenyan daily the Standard 
+said
+ the census results "reinforced previous data that showed women are likely to outlive men". It did not say which previous data it was referring to.
+"In Kenya, chances of women living to more than 100 years are almost three times that of men," the newspaper 
+claimed
+.
+The country is worried about protecting its elderly, with President Uhuru Kenyatta 
+warned
+ of their vulnerability to the 
+new coronavirus
+. But is it accurate that a woman is almost three times more likely to live to 100 than a man? We checked.
+Three times as many female centenarians as male
+The Standard confirmed to Africa Check that they it relied on a census report from the
+ Kenya National Bureau of Statistics
+ to make the claim.
+The 
+specific report
+ focused on the distribution of Kenya's population by age and sex. It showed that the centenarians were made up of 10,164 women and 3,786 men. This roughly translated to a 3:1 ratio, informed the newspaper's claim.
+We asked a number of experts if this was the same as saying the "chances" of women in Kenya living to 100 and more were three times those of men.
+Data does not show 'likelihood'
+The data "only tell us how many men and women have lived to be 100 [but] it does not tell us the likelihood of that happening for either", Prof 
+Charles Wheelan
+ told Africa Check.
+He is a senior lecturer at 
+Dartmouth College
+ in the US and author of the book 
+Naked Statistics
+, among others.
+Wheelan said that while more women than men generally live to 100, the census data "does not tell us the chances that someone born today, or someone who is 50 right now, will live to be 100".
+For data on this, 
+University of Cape Town
+ demography professor 
+Tom Moultrie
+ directed us to the most recent population data from the United Nations.
+Female babies born today twice as likely to reach 100 as male
+78-year old Lilian Njoki laughs heartily in her home in Ngendo in the outskirts of Nairobi in a 2010 photo by AFP. Voted as the chairperson of an elderly support group by her peers, Lilian said it is important to be happy despite one's struggles.
+Prepared by the UN's 
+department of economic and social affairs
+, the 
+World Population Prospects
+ was most recently updated in 2019.
+Patrick Gerland
+ is the chief of the population estimates and projection section at the department. He told Africa Check that to measure the probability of surviving up to a given age, a calculation called a "
+life table
+" is used.
+Gerland said that to calculate the number of survivors by age in Kenya, a hypothetical cohort, or group, of 100,000 newborns was considered. This group would be subject to the mortality rates of a specified period.
+The UN found that for a cohort born between 2015 and 2020 the probability of a male newborn surviving to age 100 was 27 per 100,000. For a female, the chance was 61 per 100,000, or about twice that of a male.
+'Higher mortality in the past,' says expert
+But there is a caveat, Gerland said: "Such estimates are based on contemporary mortality, and the generations born a century ago experienced higher mortality in the past, and their probability of surviving up to age 100 was even smaller."
+The UN estimates data as far back as those born between 1950 and 1955. For that group, it estimated that the probability of male newborns living to 100 was five per 100,000. For females it was eight per 100,000, or less than twice that for males.
+For a group born in 1919 in Kenya, who would now have been 100 years and older, the UN estimated chances of a woman outliving a man lay between these two calculations - at most twice. For comparison, the odds of a woman living to 100 in Sweden were almost five times those of men.
+Data on centenarians is notoriously unreliable
+To make 
+its estimates
+ on Kenyan centenarians, the UN's 
+department of economic and social affairs
+ relied on census data up to 2009, as the most recent census data from 2019 was not available when the projections were prepared.
+This was complemented with nationally representative surveys on fertility and mortality up to the 
+2014 Kenya Demographic and Health Survey
+. But its estimates show that in 2019, there were likely to be less than 100 people aged 100 and more in Kenya, in stark contrast to the 
+14,040 centenarians
+ recorded by the national statistics office in its 2019 census.
+There is a reason for the discrepancy, Patrick Gerland, the chief of the population estimates and projection at the department, told Africa Check. Population data at older ages is known to be highly uncertain, he said. Its quality is affected by reasons like a lack of historical birth records and inaccurate reporting of ages. Because of this, the data often refers to younger people.
+Tom Moultrie
+, professor of demography at the 
+University of Cape Town
+, South Africaagreed. The data used to estimate mortality in these age groups is often very sparse and subject to exaggeration.
+"It usually has to be fitted by means of a model, restricting estimates at the oldest ages to be consistent with those from slightly less advanced ages," Moultrie told Africa Check.
+The quality of data for older people is a problem for both developing and developed countries. But some countries buck the trend. Sweden has reliable mortality data going back to 1850.
+"The population census data is unfortunately too often too biased at these older ages to be taken at face value in terms of exact age reporting, and must be interpreted with more caution," Gerland said.
+We have contacted the 
+Kenya National Bureau of Statistics
+ for comment on the accuracy of their latest census data on older populations.
+Conclusion: Women in Kenya outlive men, but available data doesn't show it is by three times
+Reporting on new census data, a national Kenyan newspaper claimed that the chances of women living longer than 100 years "are almost three times" those of men.
+Experts we spoke to said the census data the newspaper relied on only shows how many men and women were 100 years or older when the 2019 census was conducted, but it does not tell the likelihood of people younger than that today living past 100.
+The United Nations told Africa Check that data on older people is notoriously unreliable, but its estimates show that for a cohort born in 1919 in Kenya, the probability of a woman living to 100 would, at best, be twice that of a man.
+We therefore rate this claim incorrect.

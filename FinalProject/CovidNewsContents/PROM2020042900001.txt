@@ -1,0 +1,369 @@
+URL : https://promedmail.org/promed-post/?id=7274497
+ID : PROM2020042900001
+
+Date : 2020-04-28 10:45:20
+Title : PRO/AH/EDR> COVID-19 update (137): China, South Korea, countries w/ high local transmission
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (137): CHINA, SOUTH KOREA, COUNTRIES WITH HIGH LOCAL TRANSMISSION
+*************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+[This is the 2nd part of the daily update following the impact of the COVID-19 pandemic, with a focus on selected countries of interest. - Mod.MPP]
+In this update:
+[1] China: National Health Commission 27 Apr 2020; 82 836 total cases, 4633 deaths
+[2] South Korea: 10 752 confirmed cases, 244 deaths
+[3] Italy: 199 414 total cases, 26 977 deaths
+[4] Iran: 91 472 total cases, 5806 deaths
+[5] USA: 1 010 356 cases, 56 797 deaths
+[6] Spain: 209 465 [229 422] total cases, 23 521 deaths
+******
+[1] China: National Health Commission 27 Apr 2020; 82 836 total cases, 4633 deaths
+Date: Mon 27 Apr 2020
+Source: China National Health Commission [in Chinese, machine trans., edited]
+http://www.nhc.gov.cn/xcs/yqtb/202004/90ee8bf3f47e40d28daef56fdd6da158.shtml
+From 0 to 24:00 on [27 Apr 2020], 31 provinces (autonomous regions and municipalities directly under the Central Government) and Xinjiang Production and Construction Corps reported 6 newly confirmed cases, of which 3 were imported and 3 were local cases (3 cases in Heilongjiang); no new deaths were reported; 1 new suspected case (in Shanghai), imported from abroad.
+On the same day [27 Apr 2020], 81 newly recovered cases were discharged, 915 close contacts were released from medical observation, and the condition of 2 severe cases was downgraded from serious.
+There are 552 confirmed cases imported overseas (including 21 severe cases) and 6 suspected cases. A total of 1639 cases were confirmed, 1087 cases recovered and were discharged, and no deaths [among this group] were reported.
+As of 24:00 on [27 Apr 2020], according to reports from 31 provinces (autonomous regions and municipalities) and the Xinjiang Production and Construction Corps, there are currently 648 confirmed cases (including 50 severe cases), 77 555 cases were discharged, and 4633 deaths were recorded. A total of 82 836 confirmed cases were reported and 9 suspected cases are currently [being monitored]. A total of 731 015 close contacts have been traced, and 8014 close contacts were still under medical observation.
+There are no newly confirmed cases in Hubei, no new recovered cases, no new deaths, no existing confirmed cases, and no serious cases. A total of 63 616 cases recovered and were discharged (46 464 in Wuhan), 4512 deaths were reported (3869 in Wuhan), and 68 128 cases were confirmed (50 333 in Wuhan). There are no new suspected cases and no existing suspected cases.
+31 provinces (autonomous regions, municipalities directly under the Central Government) and Xinjiang Production and Construction Corps reported 40 new cases of asymptomatic infection, including 3 cases of asymptomatic infection imported from abroad; no conversion to confirmed cases; 17 cases under observation were discharged (4 cases imported from abroad). 997 cases of asymptomatic infection (130 cases imported from abroad) are still under medical observation.
+A total of 1511 confirmed cases were reported from Hong Kong, Macao, and Taiwan. Among them, there were 1037 cases in the Hong Kong Special Administrative Region (787 cases discharged and 4 deaths), 45 cases in the Macau Special Administrative Region (32 cases discharged), and 429 cases in Taiwan (290 cases discharged and 6 deaths).
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+[It has now been 24 days since the last report of a locally transmitted case in Wuhan, 10 days more than one incubation period (an outbreak is usually declared over/transmission declared interrupted after 2 incubation periods without newly confirmed cases). In today's (27 Apr 2020) report, there were 3 new locally transmitted infections in Heilongjiang reported. With an additional 3 imported cases, the total number of newly confirmed cases in the past 24 hours is 6. There is 1 suspected case in an importation. It has now been 34 days since restrictions were lifted in Guangdong and Heilongjiang, and it appears as though local transmission has been established in both Heilongjiang and Guangdong over the past 21 days or so, albeit the number of reported cases from both Guangdong and Heilongjiang are decreasing, with no newly confirmed cases reported from Guangdong for 2 days now (26 and 27 Apr 2020).
+According to the report above, a total of 82 836 cases of confirmed COVID-19 have now been reported from mainland China, including 4633 deaths, representing an increase of 6 cases mentioned above, in the 24 hours since yesterday's (26 Apr 2020) report. In Hong Kong, where numbers of newly confirmed cases had been reported daily, there were no newly confirmed cases reported in the past 48 hours. And Macau has reported no newly confirmed cases.
+As best as I can decipher from the machine-translated report above, there were 40 newly confirmed infections in asymptomatic people in the past 24 hours, 3 were in imported cases. There were no conversions from asymptomatic to symptomatic in the past 24 hours. The total number of asymptomatic individuals currently under observation (and isolation) is 997, and 130 of these are importations from abroad. It would be helpful to know what proportion of asymptomatic infected individuals went on to be symptomatic to start developing projections of actual infection rates and adjust reported case fatality ratios accordingly. It is apparent that there is most likely thorough contact tracing and testing to explain the daily reports of asymptomatic infections in addition to the screening of individuals arriving from overseas.
+As reported on 24 Mar 2020, China ended the lockdown in Hubei and elsewhere, and ended it in Wuhan on 7 Apr 2020. There is much caution and skepticism in the media over the reality of the zero case reports. The world is watching carefully to see whether this is safe timing. There do appear to be chains of transmission ongoing in Guangdong (perhaps approaching interruption) and Heilongjiang that are of concern, but clearly the most concerning are the imported cases returning to China.
+A map of China showing provinces can be seen at 
+https://sacu.org/wp-content/uploads/2019/01/provmap.png
+ and a HealthMap/ProMED-mail map is available at 
+http://healthmap.org/promed/p/155
+. - Mod.MPP]
+******
+[2] South Korea: 10 752 confirmed cases, 244 deaths
+Official report from KCDC
+Date: Tue 28 Apr 2020
+Source: Ministry of Health and Welfare, Korean CDC [edited]
+http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=354248
+Data taken from a table on the website of the Korean Ministry of Health and Welfare (MOHW). Data source: Korean CDC [in Korean]
+Date and time:
+27 Apr 2020 0:00 AM KT 10 738 confirmed cases, 243 deaths
+28 Apr 2020 0:00 AM KT 10 752 confirmed cases, 244 deaths
+Change: 14 newly confirmed infections; 1 new death.
+Distribution of cases by metropolitan city/province: total case / change from 0:00 AM 25 Apr 2020 to 0:00 AM 26 Apr 2020 / imported / local
+Seoul: 633 / 4 / 4 / 0
+Busan: 137 / 0 / 0 / 0
+Daegu: 6849 / 2 / 2 / 0
+Incheon: 93 / 1 / 0 / 1
+Gwangju: 30 / 0 / 0 / 0
+Daejeon: 40 / 0 / 0 / 0
+Ulsan: 43 / 0 / 0 / 0
+Sejong: 46 / 0 / 0 / 0
+Gyeonggi: 674 / 3 / 3 / 0
+Gangwon: 53 / 0 / 0 / 0
+Chungbuk: 45 / 0 / 0 / 0
+Chungnam: 142 / 0 / 0 / 0
+Jeonbuk: 18 / 0 / 0 / 0
+Jeonnam: 15 / 0 / 0 / 0
+Gyeongbuk: 1365 / 1 / 0 / 1
+Gyeongnam: 117 / 0 / 0 / 0
+Jeju: 13 / 0 / 0 / 0
+Quarantine: 439 / 3 / 3 / 0
+Total: 10 752 / 14 / 12 / 2
+From the English language summary for 27 Apr 2020 
+https://www.cdc.go.kr/board/board.es?mid=&bid=0030
+.
+- Epidemiological links have been found for 80.7% of the total cases; 9.6% are either under investigation or sporadic cases. More details on the epidemiological links within each province or city are shown in Table 3.
+- From contact tracing in relation to the Daegu case (confirmed on [23 Apr 2020]), 1 additional case was confirmed. In Busan, investigation and testing of contacts for the restaurants, accommodations, bars, clubs, and other places visited are underway. The 143 contacts are under home quarantine. The clubs/bars have been ordered to suspend operation.
+- From Yecheon-gun, Gyeongbuk Province, 1 additional case was confirmed from testing conducted for release from quarantine. In total, 40 cases (including 3 in Andong and 1 in Mungyeong) have been confirmed since [9 Apr 2020].
+- From Myongji Hospital in Goyang City, Gyeonggi Province where 2 healthcare workers had tested positive, all workers in the isolation ward were tested. 44 workers tested negative. Disinfection measures have been completed for the area where confirmed patient stayed. 14 healthcare-worker contacts have been placed under quarantine.
+(The figures in Table 3 are based on cases reported to KCDC before 0:00 of [27 Apr 2020] and may differ from above.)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[In the past 24 hours, the tally of confirmed cases of COVID-19 in South Korea has increased by 14 cases and 1 death compared with yesterday's 24-hour period (26-27 Apr 2020) when there were 10 newly confirmed cases and no deaths. A total of 10 752 confirmed cases and 1 new death was reported today (27 Apr 2020), up from 10 738 cases and 243 deaths yesterday (26 Apr 2020). The daily newly confirmed case count has been at or below 100 for 26 consecutive days and below 50 for 19 consecutive days. 12 regions did not report any newly confirmed cases, and one region, Gyeonggi, reported 3 new cases -- all imported, and Daegu reported 2 new cases -- all imported. Incheon and Gyeongbuk reported one new case each in the past 24 hours, both locally transmitted. There are 3 newly confirmed cases in quarantine. 12 of the 14 newly confirmed cases were imported cases, and 2 were locally transmitted.
+A map of South Korea showing provinces can be seen at 
+https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm
+ and a HealthMap/ProMED-mail map at 
+http://healthmap.org/promed/p/195
+. - Mod.MPP]
+******
+[3] Italy: 199 414 total cases, 26 977 deaths
+Date: Mon 27 Apr 2020
+Source: Italian Government Health Ministry [edited]
+http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4623
+Cases in Italy as of 6:00 pm 27 Apr 2020 CET
+----------------------------------------
+Regarding health monitoring related to the spread of the new coronavirus [SARS-CoV-2] on the national territory:
+- 199 414 cumulative cases
+- 105 813 people are currently positive for the virus;
+- 66 624 people have recovered;
+- 20 353 patients are hospitalized with symptoms, 1956 in intensive care, and 83 504 are in home isolation;
+- 26 977 deaths have been reported; however, this number can only be confirmed after the Istituto Superiore di Sanita has established the actual cause of death.
+Case distribution by province: number of cases (number of new cases in past 24 hours):
+Lombardy: 73 479 (590)
+Piedmont: 25 098 (278)
+Emilia-Romagna: 24 662 (212)
+Veneto: 17 579 (108)
+Tuscany: 9179 (32)
+Liguria: 7642 (154)
+Lazio: 6392 (83)
+Marche: 6127 (16)
+Campania: 4349 (18)
+Trento: 3995 (101)
+Apulia: 3958 (10)
+Sicily: 3085 (30)
+Friuli Venezia Giulia: 2977 (60)
+Abruzzo: 2874 (15)
+Bolzano: 2496 (15)
+Umbria: 1370 (2)
+Sardinia: 1283 (3)
+Aosta Valley: 1111 (5)
+Calabria: 1096 (7)
+Basilicata: 366 (0)
+Molise: 296 (0)
+Total cases: 199 414 (1739)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[The tally of confirmed cases of COVID-19 in Italy is now 199 414 cases, including 26 977 deaths, up from 197 675 cases and 26 664 deaths reported on 26 Apr 2020. The 24-hour change between 26 and 27 Apr 2020 was 1739 newly confirmed cases, compared with 2324 newly confirmed cases between 25 Apr 2020 and 26 Apr 2020, a slow, vacillating, but steady decline. Numbers of hospitalized cases and numbers of cases in the ICU are also experiencing a decline. Cases continue to be concentrated in the northern part of the country, in Lombardy, the epicenter of the outbreak, Emilia-Romagna, Veneto, and Piedmont. These 4 provinces combined account for 68.3% of newly confirmed cases in the past 24 hours. Lombardy is the main contributor, representing 33.9% of newly confirmed cases in the past 24 hours. In addition to Lombardy, Emilia-Romagna, and Piedmont, 2 other provinces (Liguria and Trento) have reported more than 100 newly confirmed cases in the past 24 hours. 6 provinces reported less than 10 newly confirmed cases, and another 7 provinces reported less than 50 newly confirmed cases, all signs of decreasing local transmission.
+There is an excellent interactive map at 
+http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+ to visualize the caseloads per region in near real time.
+On 9 Mar 2020, Italy announced a lockdown for the northern provinces, where the outbreak was concentrated. On 10 Mar 2020, this was expanded to be countrywide. On 11 Mar 2020, Italy announced the closure of non-essential businesses. It is now 38 days since the start of the lockdown in the north and 36 days since the countrywide lockdown. The lockdown is being extended until 3 May 2020 (see ProMED-mail post  
+20200411.7211958
+ for details).
+A map of Italy showing regions can be seen at 
+https://www.mapsofworld.com/italy/regions.html
+ and a HealthMap/ProMED-mail map at 
+http://healthmap.org/promed/p/75
+. - Mod.MPP]
+******
+[4] Iran: 91 472 total cases, 5806 deaths
+Date: Mon 27 Apr 2020 11:54 AM
+Source: The Algemeiner, Reuters report [edited]
+https://www.algemeiner.com/2020/04/27/iran-death-toll-from-coronavirus-outbreak-rises-to-5806/
+The death toll from the outbreak of new coronavirus in Iran rose by 96 in the past 24 hours to 5806, Health Ministry spokesman Kianush Jahanpur said in a statement on state TV on Monday [27 Apr 2020].
+The total number of diagnosed cases of new coronavirus [SARS-CoV-2] in Iran, one of the countries hardest hit by the outbreak in the Middle East, has reached 91 472, he said.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[In the 24 hours from 26 to 27 Apr 2020, the total number of cases of COVID-19 confirmed in Iran grew from 90 481 to 91 472, an increase of 991 newly confirmed cases. The number of deaths has also increased from 5710 to 5806, an increase of 96 deaths in the 24-hour period (as of 27 Apr 2020). In terms of total numbers of confirmed cases, Iran ranks 8th globally, behind the USA, Spain, Italy, France, Germany, UK, and Turkey, having surpassed China. As with other countries that are lifting business closures, all eyes are on Iran now that "low risk" businesses are opening.
+A map of Iran showing provinces can be seen at 
+https://www.mapsofworld.com/iran/iran-political-map.html
+ and a HealthMap/ProMED-mail map at 
+http://healthmap.org/promed/p/128
+. - Mod.MPP]
+******
+[5] USA: 1 010 356 cases, 56 797 deaths
+Date: Mon 27 Apr 2020
+Source: Worldometer [accessed 22:03 PM EDT]
+https://www.worldometers.info/coronavirus/country/us/
+USA cases by state
+State: Total cases / New cases
+New York: 298 004 / 4013
+New Jersey: 111 188 / 2150
+Massachusetts: 56 462 / 1524
+Illinois: 45 883 / 1980
+California: 45 006 / 1465
+Pennsylvania: 43 155 / 447
+Michigan: 38 210 / 432
+Florida: 32 138 / 610
+Louisiana: 27 068 / 295
+Connecticut: 25 997 / 728
+Texas: 25 516 / 535
+Georgia: 24 225 / 744
+Maryland: 19 487 / 906
+Ohio: 16 325 / 362
+Indiana: 15 961 / 949
+Colorado: 13 879 / 438
+Washington: 13 686 / 165
+Virginia: 13 535 / 565
+Tennessee: 9918 / 251
+North Carolina: 9415 / 421
+Rhode Island: 7708 / 269
+Missouri: 7239 / 210
+Arizona: 6716 / 190
+Alabama: 6539 / 121
+Mississippi: 6094 / 183
+Wisconsin: 6081 / 170
+Iowa: 5868 / 392
+South Carolina: 5613 / 123
+Nevada: 4690 / 88
+Utah: 4233 / 110
+Delaware: 4162 / 128
+Kentucky: 4146 / 72
+District of Columbia: 3892 / 51
+Minnesota: 3816 / 214
+Nebraska: 3358 / 330
+Kansas: 3296 / 122
+Oklahoma: 3280 / 27
+Arkansas: 3069 / 68
+New Mexico: 2823 / 97
+Oregon: 2354 / 43
+South Dakota: 2245 / 33
+New Hampshire: 1938 / 74
+Idaho: 1917 / 20
+Puerto Rico: 1389 / 18
+West Virginia: 1063 / 19
+Maine: 1023 / 8
+North Dakota: 942 / 75
+Vermont: 855 / 4
+Hawaii: 607 / 1
+Wyoming: 520 / 18
+Montana: 449 / 1
+Alaska: 345 / 4
+Guam: 142 / 1
+US Virgin Islands: 59 / 2
+Northern Mariana Islands: 14 / 0
+Veteran Affairs: 7001 / 141
+US military: 6568 / 355
+Navajo Nation: 1716 / 176
+Federal prisons: 1376 / 258
+Grand Princess Ship: 103 / 0
+Diamond Princess Cruise: 46 / 0
+Wuhan repatriated: 3 / 0
+Total: 1 010 356 / 23 196
+Total deaths: 56 797
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[The above are the latest breakdowns of confirmed cases of SARS-CoV-2 infection in the USA, as per Worldometer data. The total number of confirmed cases in the USA and territories is now 1 010 356, including 56 797 deaths, an increase from 987160 cases and 55 413 deaths in the past 24 hours. New York state, with 298 004 (29.5%) cumulative case reports and 4013 (17.3%) newly confirmed cases over the past 24 hours, is clearly the epicenter of the outbreak in the USA, although case reporting elsewhere is increasing. New York City had a cumulative total of 156 100 as of 1:00 PM on 27 Apr 2020, including 11 708 confirmed deaths and an additional 5228 probable deaths (
+https://www1.nyc.gov/site/doh/covid/covid-19-data.page
+).
+Daily reported case counts are high in New Jersey (2150 -- 9.3%), Illinois (1980 -- 8.5%), Massachusetts (1524 -- 6.6% of total), California (1465 -- 6.3%) and Indiana (949 -- 4.1%). In terms of cumulative case reports, New York is number one, followed by New Jersey, Massachusetts, Illinois, California, Pennsylvania, Michigan, Florida, Louisiana, and Connecticut.
+More sobering, if you treat each state like a country and insert them in descending cumulative case counts, New York state would be number 1 followed by Spain, Italy, France, Germany, the UK, Turkey, New Jersey, Iran, and Russia as number 10 (idea given by Mod.LXL).
+The US military has confirmed 6568 cumulative cases, with 355 newly confirmed cases in the past 24 hours. The Veteran Affairs reported 7001 cumulative cases and 141 new cases today (27 Apr 2020). There have been 1376 cases reported from federal prisons (258 new cases in the past 24 hours) and 1716 cases reported from the Navajo Nation (176 newly reported cases in the past 24 hours). Puerto Rico has reported 1389 cases (18 new cases in the past 24 hours).
+The Centers for Disease Control and Prevention website (
+https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
+) has a growth curve and a table giving demographics (age and ethnicity) where known.
+A map of the United States can be seen at 
+http://www.mapsofworld.com/usa/
+ and a HealthMap/ProMED-mail map at 
+http://healthmap.org/promed/p/106
+. - Mod.MPP]
+******
+[6] Spain: 209 465 [229 422] total cases, 23 521 deaths
+Date: Mon 27 Apr 2020
+Source: Spanish government COVID-19 update 88 [in Spanish, trans. Mod.MPP, edited]
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_88_COVID-19.pdf
+COVID-19 update 88 [data as of 26 Apr 2020 21:00 CET]
+-------------------------------
+Situation in Spain
+------------------
+In Spain to date, a total of 209 465 PCR confirmed cases [207 634 on 26 Apr 2020] of COVID-19 with 23 521 deaths [23 190 on 26 Apr 2020] and 100 875 [98 732 on 26 Apr 2020] cured (Table 1, Table 2, Figure 1 and Figure 2).
+The distribution by age groups of hospitalized, ICU, and deceased cases are shown in Tables 2 and 3.
+Autonomous Community: Total / last 24 hours / Incidence per 100 000 population in past 14 days
+Madrid: 59 421 / 295 / 184.22
+Catalonia: 47 755 / 944 / 169.75
+Castile and Leon: 16 404 / 182 / 157.36
+Castile-La Mancha: 15 664 / 55 / 79.2
+Basque Country: 12 513 / 58 / 67.72
+Andalusia: 11 852 / 78 / 20.88
+Valencia: 10 180 / 20 / 22.38
+Galicia: 9238 / 62 / 64.6
+Aragon: 4985 / 30 / 60.49
+Navarre: 4733 / 21 / 97.98
+La Rioja: 3892 / 31 / 168.56
+Extremadura: 2749 / 13 / 8.52
+Asturias: 2254 / 5 / 28.94
+Canary Islands: 2178 / 11 / 10.87
+Cantabria: 2104 / 21 / 56.27
+Balearic Islands: 1859 / 5 / 26.88
+Murcia: 1474 / 0 / 0.74
+Melilla: 110 / 0 / 10.41
+Ceuta: 100 / 0 / 5.9
+Total: 209 465 / 1831 / 85.19
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[It is clear Spain wishes to report only PCR positive confirmations and not antibody based, effective 25 Apr 2020. The amount of antibody confirmed cases are shown in the graph accompanying Table 1, but tabular form showing data by province is not available. While the website for 26 Apr 2020 showed 209 465 cases, the Johns Hopkins CSSE data show 229 422 cases reported for today accessed at 4:22 PM EDT on 27 Apr 2020 (
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+That being said, Spain is 2nd globally in terms of the number of confirmed cases of COVID-19. There were 1831 newly confirmed cases by PCR (2793 new cases counting PCR and antibody testing) in the past 24 hours bringing the PCR confirmed cumulative total to 209 465 as compared with 207 634 PCR confirmed cases yesterday (26 Apr 2020).
+As of today (27 Apr 2020) and as per the Spanish health webpage, 209 465 total cases and 23 521 deaths have been reported, up from 207 634 cases and 23 190 deaths in the preceding 24 hours (25 Apr 2020) (from Johns Hopkins CSSE 229 422 on 27 Apr 2020 vs 226 629 on 26 Apr 2020). The countrywide 2-week incidence per 100 000 population is now 85.19, a continual slow decrease over the past 14 days from a high of 214.43 on 7 Apr 2020 to 85.19 today (27 Apr 2020). Spain has the highest case count in Europe and is 2nd globally behind the USA in terms of absolute numbers of cases. Figure 1 at the source URL above shows the daily confirmations juxtaposed with dates of onset of disease, and one clearly sees the trend for decreasing confirmations in recent times. There is also a clear growth curve showing the trajectory of the epidemic at 
+https://covid19.isciii.es/
+; it is updated daily.
+Of the 209 465 cases, approximately 114 081 (54.5% have been hospitalized (a major increase from 80 150 in the past 24 hours) and 10 372 (5.0%) admitted to the ICU (there is a note mentioning that some of the communities are providing daily prevalence data, hence my use of "approximately" for hospitalization and ICU data). Caution should be taken in interpreting this rise due to the decreased denominator.
+A map of Spain showing provinces (autonomous communities) can be seen at 
+https://www.nationsonline.org/oneworld/map/spain-administrative-map.htm
+ and a HealthMap/ProMED-mail map at 
+http://healthmap.org/promed/p/43
+. Madrid, Catalonia, and La Rioja are now the most affected communities by population-based rates. La Rioja and Catalonia are located in the northern part of the country. Madrid is located in central Spain, with Catalonia and La Rioja to its northeast. Barcelona is located in Catalonia. - Mod.MPP] 
+See Also
+COVID-19 update (136): UK NHS increased testing, Brazil, WHO  
+20200428.7274496
+Undiagnosed pediatric inflammatory syndrome - UK: COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (135): Netherlands (NB) farmed mink  
+20200427.7272289
+COVID-19 update (134): China, South Korea, countries w/ high local transmission  
+20200427.7271470
+COVID-19 update (133): global, ships, tracking app, WHO  
+20200427.7271469
+COVID-19 update (132): China, South Korea, countries w/ high local transmission  
+20200426.7269387
+COVID-19 update (131): global, Australia, USA outbreaks, WHO  
+20200425.7267692
+COVID-19 update (130): USA (NY) zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................lxl/mpp/mj/ml

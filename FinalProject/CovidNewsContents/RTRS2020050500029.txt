@@ -1,0 +1,21 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-antibody-tests/u-s-targets-fraud-in-coronavirus-antibody-test-market-with-tighter-rules-idUSKBN22G1ZO
+ID : RTRS2020050500029
+
+Date : 2020-05-04 15:33:00
+Title : U.S. targets fraud in coronavirus antibody test market with tighter rules
+Ariticle : 
+(Reuters) - The United States on Monday began requiring antibody tests for the new coronavirus to undergo a regulatory agency review, acknowledging that its earlier policy had opened the door to fraud. 
+The U.S. Food and Drug Administration had previously required only that companies attest their product was valid and labeled as unapproved, attracting 170 companies to the antibody test market including unscrupulous vendors making false claims, Reuters reported last week.. 
+When the FDA put the policy in place on March 16th, it had been under pressure to move fast following a slow ramp up of COVID-19 diagnostic tests that hindered public health efforts. 
+“Flexibility never meant we would allow fraud. We unfortunately see unscrupulous actors marketing fraudulent test kits and using the pandemic as an opportunity to take advantage of Americans’ anxiety,” the FDA said in a statement.  
+Blood tests for antibodies are used to determine who has been previously been infected with the virus. As the new coronavirus can be easily spread by people with no symptoms, widespread antibody testing is seen as a critical piece in the effort to get Americans back to work safely, as the presence of antibodies to the virus many indicate possible immunity to future infection. 
+The FDA said that it had taken action against firms for unlawfully marketing tests by detaining and refusing illegitimate test kits at the border. It declined to provide specific examples. 
+Reuters reported that an electronics salesman was hawking an unauthorized home test kit and a former physician convicted in a fraudulent gold-peddling scheme had also begun selling test kits. 
+Under the new policy, test makers must submit requests for emergency use authorization of their tests within 10 days from when the test is validated. Companies with tests currently on the market under the previous policy must submit an application for emergency use authorization (EUA). 
+There are about a dozen tests on the market that have already received EUAs. 
+The FDA said it would share information on its website and with potential buyers of these tests, such as states and hospitals, if they were no longer in compliance with its notification requirements and de-listed from its website. 
+The agency also set specific performance threshold recommendations for specificity and sensitivity for all serology test developers to ensure a high level of accuracy. 
+As part of a new emergency use authorization process announced late last week, the FDA set a minimum level of correct positive results at 90% of the samples tested - known as sensitivity, and a minimum for tests showing negative results correctly at 95% - called specificity. 
+Former FDA head Scott Gottlieb, who has criticized antibody testing before, said Monday on CNBC that these tests are not accurate enough to be relied upon by individuals to make decisions that affect their health. Critics also question if having the antibodies translates into immunity, and how long the immunity from the new coronavirus could last. 
+In the past two weeks, pressure over the lax policy intensified among lawmakers who called for its reversal. Democratic Congressmen Raja Krishnamoorthi headed a subcommittee investigation that looked into the release of tests that failed to provide the promised results. 
+Democratic Congressman Lloyd Doggett of Texas said in a statement on Monday that the FDA’s policy change had not gone far enough to assure consumer protection and that fraudulent tests must be removed from the market. 

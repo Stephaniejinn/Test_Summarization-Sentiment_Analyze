@@ -1,0 +1,52 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006898133
+ID : GPHN2020050400025
+
+Date : 2020-05-02 10:24:00
+Title : BREAKING NEWS: FDA has APPROVED experimental drug Remdesivir for emergency use for coronavirus patients, Donald Trump reveals, days after study showed it may help the worst-hit
+Ariticle : 
+* Doctors in the US can now give the promising Ebola drug to critically ill patients
+* Came after US' top infectious disease expert said drug's effect was 'clear cut'
+* Unpublished results from study of 1,000 people showed drug could block virus
+The US Food and Drug Administration has approved the Ebola drug remdesivir for emergency use on hospitalized coronavirus patients.
+President Donald Trump announced Friday that doctors would be able to give the antiviral to the most seriously ill patients struggling to beat the virus.
+It came after Dr Anthony Fauci, the US' top infectious disease expert, said the evidence on remdesivir as a COVID-19 therapy was 'clear-cut'.
+Preliminary results from a government-sponsored study showed that remdesivir shortened the time to recovery by 31 per cent, or about four days on average, for hospitalized patients.
+The drug - which is administered via a daily infusion for 10 days - is believed to work by blocking a particular enzyme the virus relies on to multiply and spread.
+Remdesivir was thrust into the limelight in January when the WHO listed it as 'the most promising candidate' for a COVID-19 therapy.
+Gilead's chief executive officer Daniel O'Day, whose company produces remdesivir, pledged to donate 1.5 million doses of the drug to help patients in need.
+The company currently has enough remdesivir on hand for more than 50,000 patients.
+O'Day joined President Trump, Vice President Pence, Dr. Deborah Birx, Health and Human Services Secretary Alex Azar and FDA Commission Stephen Hahn for the announcement on Friday.
+'What I would like to say on behalf of Gilead and the president's point, we feel a tremendous responsibility,' O'Day told the press conference.
+[related]
+'We are humbled with this first step for hospitalized patients. We want to make sure nothing gets in the way of these patients getting the medicine.
+'So we made a decision to donate 1.5 million vials of remdesivir. We will be working with the government to determine how best to distribute that within the United States.'
+He added: 'We will be working very closely to get that to patients, working with FEMA and other parts of the government to make sure that we get that to the patients in need as quickly as possible.
+'There are patients out there that can benefit from this medicine today that are hospitalized. We don't want any time to waste for that.'
+The company has been pushing for FDA approval of the drug. It was given after preliminary results from a government-sponsored study showed that remdesivir shortened the time to recovery by 31 per cent, or about four days on average, for hospitalized coronavirus patients.
+A list price for remdesivir is not available but a recent study published in the Journal of Virus Eradication found that manufacturing a 10-day treatment course would cost about $9.
+On Thursday, Gilead said in an earnings report that it could make 140,000 treatment courses by the end of May (although O'Day slightly revised this estimation in conversation with Stat) and 'several million' courses over the course of next year.
+'This is a global pandemic,' O'Day said to Stat. 'There should be no question about our ability to get medicine in the hands of patients, and that’s how we’re going to approach the period of time after the donation.'
+His company has already begun ramping up production of remdesivir. O'Day said that the company currently has enough remdesivir on hand for more than 50,000 10-day treatment courses.
+'Look, I think we understand the responsibility that we have as a company,' O'Day said. That’s exactly why, as we thought through the best approach to making this drug available in the early days, we thought it was very important to move with a donation of our entire existing supply.
+'First of all, it’s just the right thing to do. And secondly, it was going to facilitate access in recognition of the public health emergency and the fact that data was still developing on the medicine and regulatory processes were still underway.
+'We didn’t want access to be encumbered at all in the beginning, which is why we just went for a donation right up front of 1.5 million doses.'
+Gilead has not always had a reputation as a philanthropic company. In 2019, the US government filed a complaint against Gilead over its pricing for Truvada, an HIV treatment and prevention medication.
+While the drug's generic costs just $6 a month, Gilead's sets buyers back an average of $2,184 per monthly prescription.
+In terms of sheer manufacturing costs, remdesivir was the third most expensive of the eight drugs assessed by the Journal of Virus Eradication, at just under a dollar a day:
+* $1.45/day for favipiravir
+* $1.09/day for pirfenidone
+* $0.93/day for remdesivir
+* $0.39/day for sofosbuvir/daclatasvir
+* $0.28/day for lopinavir/ritonavir
+* $0.10/day for azithromycin
+* $0.08/day for hydroxychloroquine
+* $0.02/day for chloroquine
+Overall, the study found a single treatment course for any of those drugs would cost between 30 cents and $31, although the authors noted that all of them are priced significantly above those costs, especially in the US.
+O'Day stressed that his company is not looking to profiteer based on the promising effects of remdesivir for treating coronavirus.
+'Let me just say that I’m fully committed and the company is fully committed and the board’s really committed to our responsibility, again, with this pandemic medicine,' O'Day said when pressed on the matter by Stat.
+'It’s walking the talk, right?...Let’s make sure that if this medicine is effective, that there are no obstacles, particularly given the urgency and the plight of this pandemic around the world.
+'I can assure...the general public, that Gilead will continue to take its responsibility very seriously here and make sure that whatever model we come up with will ensure access around the globe, and that patients are put first, and that we work with governments around the globe to make sure we have a sustainable way of supplying this medicine. But we understand our responsibility in this kind of pandemic.'
+Remdesivir was fast-tracked by the FDA after it was shown to slash recovery times in a global trial of more than 1,000 patients, including Britons.
+Half of the 397 patients, who were sick enough to need additional oxygen but not to be placed on ventilators, improved within 10 days of a five-day treatment course and those who were on a 10-day regimen were better by the eleventh day.
+More than half of the patients were discharged from the hospital within two weeks, Gilead announced in a press release.
+Remdesivir has been among the top contenders of existing drugs being trialed for treating coronavirus, although World Health Organization documents leaked last week suggested it had failed to help patients in a more than 200-person trial recover.

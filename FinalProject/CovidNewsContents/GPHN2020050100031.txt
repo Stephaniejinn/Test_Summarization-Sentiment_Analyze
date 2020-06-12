@@ -1,0 +1,24 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006882706
+ID : GPHN2020050100031
+
+Date : 2020-04-29 14:50:00
+Title : Scientists Find Airborne Coronavirus Floating in Wuhan Hospital - Futurism
+Ariticle : 
+Scientists Find Airborne Coronavirus Floating in Wuhan Hospital
+"It strongly suggests that there is potential for airborne transmission."
+by Victor Tangermann / April 29 2020
+Chinese scientists have found new evidence that the coronavirus could spread through the air in airborne droplets, The New York Times reports .
+As detailed in a paper  published in the journal Nature on Monday, scientists from Wuhan University and Hong Kong found viral RNA of the virus floating in two different areas of two Wuhan hospitals during the outbreak dating back to February and March.
+They found that levels of concentration of the virus’ RNA in aerosols was very low in isolation wards and ventilated patient rooms — but elevated in “patients’ toilet areas,” according to the paper. No evidence of the virus was found in a supermarket and residential building the researchers also examined.
+Finding genetic evidence of the virus in aerosol particles doesn’t definitively mean that infectious coronavirus can linger in the air — but it also doesn’t mean there’s no cause for concern.
+“Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols,” reads the paper.
+The good news is that the research supports the idea that we already have effective ways to keep levels of concentration low inside hospitals.
+“Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols,” the scientists wrote.
+The paper highlights an ongoing debate over how the virus spreads. The World Health Organization so far has claimed that the virus mainly spreads through larger droplets that fall to the ground relatively quickly and through contaminated surfaces.
+But others have argued that the virus can spread through aerosol particles that can go airborne as well.
+“Those are going to stay in the air floating around for at least two hours,” Linsey Marr, professor of environmental engineering at Virginia Tech who was not involved in the research, told the Times. “It strongly suggests that there is potential for airborne transmission.”
+The main takeaway of the study is that while the scientists couldn’t find substantial traces of the virus in well-ventilated and open spaces, confined spaces such as bathrooms could be where the virus spreads.
+“I think it adds good evidence to avoid crowding,” Marr added.
+Keep up. Subscribe to our daily newsletter.
+I understand and agree that registration on or use of this site constitutes agreement to its User Agreement and Privacy Policy
+Subscribe

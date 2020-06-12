@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400017
+
+Date : 2020-05-03 00:00:00
+Title : No coronavirus deaths reported in Genesee or Saginaw counties Sunday
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:USA
+Cases:29 new COVID-19 deaths
+Description:No coronavirus deaths reported in Genesee or Saginaw counties Sunday

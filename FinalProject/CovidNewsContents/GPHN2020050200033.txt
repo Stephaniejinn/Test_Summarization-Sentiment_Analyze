@@ -1,0 +1,34 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888908
+ID : GPHN2020050200033
+
+Date : 2020-05-01 05:31:00
+Title : COVID-19 Deaths Are Being Linked to Vitamin D Deficiency. Here's What That Means - ScienceAlert
+Ariticle : 
+COVID-19 Deaths Are Being Linked to Vitamin D Deficiency. Here's What That Means
+MIKE MCRAE
+1 MAY 2020
+A vitamin commonly produced by sun-exposed skin cells might play a role in preventing death by the coronavirus SARS-CoV-2, according to new research.
+Preliminary results from a yet-to-be-peer-reviewed study carried out by scientists from the Queen Elizabeth Hospital Foundation Trust and the University of East Anglia have linked low levels of the hormone vitamin D with COVID-19 mortality rates across Europe.
+ 
+It's a study that certainly deserves some attention as a potential piece of the coronavirus puzzle, reminding us that health and disease can be a complex affair involving a variety of lifestyle factors.
+But it's also important to interpret evidence like this as part of a bigger scientific conversation, meaning it would be premature to make any recommendations and certainly way too premature to hit the supplement aisle before further evidence arrives.
+The researchers dug through existing health literature to catalogue the average levels of vitamin D among the citizens of 20 European countries, and then compared the figures with the relative numbers of COVID-19 deaths in each country.
+A simple statistical test showed there was a pretty convincing correlation between the figures, where populations with lower than average concentrations of the vitamin also featured more deaths from SARS-CoV-2.
+"The most vulnerable group of population for COVID-19 is also the one that has the most deficit in vitamin D," the researchers conclude in their preliminary report .
+Cross-sectional reports like these aren't without their problems, doing little more than suggesting some kind of relationship might exist. People who tend to have higher vitamin D levels in their body might be doing something else that helps limit destruction caused by the virus, for example.
+ 
+But the results aren't surprising either, falling in line with previous , more robust studies that also suggest healthy vitamin D levels can reduce the risk of respiratory infections such as influenza and tuberculosis , as well as childhood asthma.
+Vitamin D is a fat-soluble compound we can either get as a nutrient from foods like mushrooms or fish, or produced in our skin when a form of cholesterol reacts to UV light.
+Commonly known for its role in maintaining calcium levels in our bones, deficiency in this vitamin is responsible for skeletal deformities such as rickets as well as an increased risk of bone degeneration behind conditions such as osteoporosis .
+Researchers are gradually piecing together the vitamin's functions in the immune system as well, noting its relationship with autoimmune conditions and the discovery of receptors for the chemical on various immune cells .
+Just how it might combat coronavirus infections – if at all – is sure to be a popular subject in future studies.
+Meanwhile, as uncontroversial as the results might be, a single study ahead of peer review shouldn't be the basis for medical advice. Science just doesn't support making the leap between reading about healthy amounts of vitamin D in the blood and popping a supplement.
+ 
+In 2017, medical researchers Mark J Bolland from the University of Auckland in New Zealand and Alison Avenell from the University of Aberdeen in the UK argued the need for caution over how we interpret studies not unlike this one.
+"Vitamin D supplementation is a hot topic, provoking passionate arguments for and against widespread supplementation," they write in an editorial on the diverse array of studies on the subject in the past decade.
+Results might look positive, but there's just no way to turn a jumble of statistics into precise recommendations that can be tailored for individual needs. Even the World Health Organisation is tentative about using past research as the basis of specific recommendations.
+"We think that they should be viewed as hypothesis generating only, requiring confirmation in well-designed, adequately powered randomised controlled trials," Bolland and Avenell write .
+Research that speculates a single, commonly available vitamin might make the difference between life and death can seem like a potential life raft in choppy waters, but we need more research to tell us just how and why these patterns exist for us to balance the risks that come with vitamin supplements .
+In the midst of a pandemic that has the potential to claim thousands of lives around the world every week, science feels painstakingly slow. But it's always worth the wait.
+The paper is available as a pre-print on Research Square .
+ 

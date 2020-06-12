@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900072
+
+Date : 2020-04-28 00:00:00
+Title : Mainland China reports 22 new COVID-19 cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:China
+Cases:patients
+Description:Mainland China reports 22 new COVID-19 cases

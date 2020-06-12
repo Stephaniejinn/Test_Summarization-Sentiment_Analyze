@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200016
+
+Date : 2020-05-01 00:00:00
+Title : Health Ministry: recovery of 6 coronavirus cases and detecting a new infection
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Syria
+Cases:6 coronavirus cases
+Description:Health Ministry: recovery of 6 coronavirus cases and detecting a new infection

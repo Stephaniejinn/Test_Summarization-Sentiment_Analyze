@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000053
+
+Date : 2020-04-28 00:00:00
+Title : Coronavirus: 14 inmates test positive in Belgium...
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.28
+Location:Belgium
+Cases:One inmate
+Description:Coronavirus: 14 inmates test positive in Belgium...

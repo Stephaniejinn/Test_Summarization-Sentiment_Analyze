@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-britain-casualties/uk-coronavirus-death-toll-rises-by-739-to-27510-idUSKBN22D5XV
-ID : RTRS2020050200008
-
-Date : 2020-05-01 16:45:00
-Title : UK coronavirus death toll rises by 739 to 27,510
-Ariticle : 
-LONDON (Reuters) - The United Kingdom’s death toll from COVID-19 rose on Friday to 27,510, an increase of 739, according to figures that include deaths in hospital and in other settings like nursing homes. 
-The figure, which covers the period up to 1600 GMT on Thursday, leaves the United Kingdom as the second-worst hit country in Europe behind Italy. 

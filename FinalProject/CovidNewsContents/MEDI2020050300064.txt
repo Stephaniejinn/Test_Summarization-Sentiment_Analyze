@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300064
+
+Date : 2020-05-02 00:00:00
+Title : 19 coronavirus deaths in Mobile linked to one nursing home
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:USA/Alabama
+Cases:61 deaths
+Description:19 coronavirus deaths in Mobile linked to one nursing home

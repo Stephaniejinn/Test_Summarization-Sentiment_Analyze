@@ -1,0 +1,49 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888451
+ID : GPHN2020050200012
+
+Date : 2020-04-30 14:53:00
+Title : COVID-19 pneumonia is more insidious than regular pneumonia
+Ariticle : 
+COVID-19 is not "just like the flu" as some people say.
+That difference especially shows up in the lungs.
+Dr. John Walsh, pulmonologist and medical director of AMITA Saint Joseph Medical Center in Joliet, explained what happens if a person gets bacterial pneumonia, such as from complication of a flu.
+"The lungs fill with bacteria and white blood cells and debris that really make the lung very stiff," Walsh said. "The patient is able to feel difficulty taking the breaths early on."
+Contrast that with pneumonia associated with the COVID-19 infection,
+Walsh said that when the virus affects the lungs, the lungs lose some blood supply. Blood continues to travel into the lung to pick up fresh oxygen, but it does not get fresh oxygen. It then goes back to the left side of the heart and is sent out to the rest of the body.
+But because the lungs are compliant and able to stretch open and expand to take in air, the person can still breathe well and not feel short of breath. So people aren't aware that their oxygen levels are falling, he said.
+In fact, doctors have sometimes taken X-rays of patients asymptomatic for COVID-19 and seen the pneumonia on the X-rays. They later test positive for the virus.
+Or, if patients do come to the emergency department not feeling well, their breathing often isn't hampered much.
+"They might have fatigue and diarrhea but not necessarily have fever or shortness of breath," Walsh said. "Their oxygen might be quite low, in the 80s, perhaps. We refer to them as the 'happy hypoxics' because they don't feel that bad."
+According to the Mayo Clinic website, normal pulse oximeter readings (the measure of oxygen saturation in red blood cells) ranges from 95 to 100%. Less than 90% is considered low.
+Walsh said patients with COVID-19 often are diagnosed with acute respiratory distress syndrome because they meet the criteria for ARDS: pneumonia on both sides of the lungs, low oxygen levels and a diagnosis that is not congestive heart failure.
+"A doctor must have to say this is not from congestive heart failure," Walsh said.
+But it's the lung's pliability, at least for a while, that make the COVID-19 pneumonia different from ARDS. Walsh said.
+Why do the lungs in COVID-19 stay so pliable for so long?
+It's because the immune system "really doesn't go crazy" in trying to get rid of the virus for some time, Walsh said.
+"Early on, the body does not respond well to the virus," Walsh said.
+Because the immune system delays in responding, the virus is able to replicate, Walsh said.
+And in the case of setting up shop in the lungs, "it replicates tremendously," he said.
+When a person goes to the pneumonia stage, the immune system often kicks in at extraordinarily high levels, Walsh said.
+That overreaction of the immune system is called cytokine storm. And that contributes to the severity of the respiratory symptoms.
+"We don't have a good treatment for COVID pneumonia at this time," Walsh said.
+And that includes hydroxychloroquine, chloroquine and azithromycin.
+On April 24, the FDA said that "hydroxychloroquine and chloroquine, either alone or combined with azithromycin, when used for COVID-19 should be limited to clinical trial settings or for treating certain hospitalized patients under the EUA," which is Emergency Use Authorization.
+But that doesn't mean doctors can't do anything to help patients hospitalized with COVID-19.
+"We give supportive care, which is oxygen," Walsh said.
+Treating COVID-19 pneumonia
+Noninvasive means of delivering oxygen include giving a very high level of oxygen through a nose cannula.
+Or doctors can seal the mouth and nose with a mask to push high amounts of oxygen in and out of the respiratory system with high pressures, Walsh said. Some people know that as BiPAP, he said.
+"And if that fails, we intubate and [the patient] goes on mechanical ventilation," Walsh said.
+For patients with COVID-19 who are staying home, or patients who are hospitalized and not in the intensive care unit, they receive a handout about "proning," or the necessity of changing their positions every hour, from front to back and from side to side.
+Critically ill patients in the ICU might even lie on their stomachs for 16 hours of every 24 to take the pressure off their lungs, Walsh said.
+Also, doctors now have more information on the best way to ventilate patients with COVID-19 pneumonia, Walsh said.
+For instance, patients whose lungs are still pliant will need a different level of pressure than patients whose lungs have lost that pliability.
+"Each patient needs to be looked at before they go on the ventilator to see if their lungs are stiff," Walsh said.
+For people who shrug off COVID-19 as just another "flu," they should know the incubation period typically is shorter for the flu and symptoms come on fairly quickly.
+"Most people can figure out when they have the flu," Walsh said. "Sometimes people get surprised at how fast it seems to affect them."
+But with COVID-19, patients can still transmit the virus for two weeks before they show symptoms, Walsh said. Symptoms, when they do occur, often come on gradually.
+Walsh said anyone with symptoms of COVID-19 should contact a doctor right away. People who have symptoms of the virus, are older than 60 and who have lung or heart disease or diabetes, may benefit from having their oxygen levels tested, even if they are not short of breath.
+Unfortunately, early detection of hypoxemia from COVID-19 will not prevent the virus from running its course or lessen the severity of any pneumonia it brings, Walsh said.
+It "varies from person to person when things go bad," he said.
+"In the last month, I've seen over 15 people die from it here," Walsh said. "Up to 5% of the people who come to the hospital die despite everything we have to offer them, including people who are younger.
+"Today, I'm treating somebody who is 36 on a ventilator and somebody who is 23 and on a ventilator. So this is not a disease that's only for the old and the infirm. Maybe it's more serious in the old and the infirm. But it can strike the young and healthy and can be fatal in them."

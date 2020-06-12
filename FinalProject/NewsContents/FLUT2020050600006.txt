@@ -1,46 +1,0 @@
-URL : https://flutrackers.com/forum/forum/-2019-ncov-new-coronavirus/-2019-ncov-studies-research-academia/epidemiology/857565-wiley-covid-19-vitamin-d-and-latitude
-ID : FLUT2020050600006
-
-Date : 2020-05-05 20:14:32
-Title : Wiley - COVID-19, vitamin D, and latitude
-Ariticle : 
-																							
-
-University of Liverpool News | April 21, 2020
-
-
-There are marked variations in mortality from COVID-19 between different countries. It is becoming clear that countries in the Southern Hemisphere are seeing a relatively low mortality. It could be argued that the virus spread later to the Southern Hemisphere and that countries there are simply behind those in the Northern Hemisphere but as time goes by this argument looks increasingly weak.
-
-
-In Australia 100 cases were reported by March 10, 1,000 by March 21; in the UK the first 100 had been reported by March 5 and the first 1,000 by March 14, just one week earlier. If one compares the mortality (68 per million) in the UK by April 3 with the mortality (2 per million) in Australia by April 10, there is still a huge discrepancy.
-
-When mortality per million is plotted against latitude it can be seen that all countries that lie below 35 degrees North have relatively low mortality. Thirty-five degrees North also happens to be the latitude above which people do not receive sufficient sunlight to retain adequate vitamin D levels during winter. This suggests a possible role for vitamin D in determining outcomes from COVID-19.
-
-There are outliers of course—mortality is relatively low in Nordic countries—but there vitamin D deficiency is relatively uncommon, probably due to widespread use of supplements. Italy and Spain, perhaps surprisingly, have relatively high prevalence of vitamin D deficiency. Vitamin D deficiency has also been shown to correlate with hypertension, diabetes, obesity, and ethnicity—all features associated with increased risk of severe COVID-19.
-
-There are considerable experimental data showing that vitamin D is important in regulating and suppressing the inflammatory cytokine response of respiratory epithelial cells and macrophages to various pathogens including respiratory viruses. Evidence that vitamin D might protect against infection is modest but 
-it is important to note that the hypothesis is not that vitamin D would protect against SARS-CoV-2 infection but that it could be very important in preventing the cytokine storm and subsequent Acute Respiratory Distress Syndrome that is commonly the cause of mortality.
-
-Research is urgently needed to assess whether there may be a correlation between vitamin D status and severity of COVID-19 disease. 
-Meanwhile the evidence supporting a protective effect of vitamin D against severe COVID-19 disease is very suggestive,
- a substantial proportion of the population in the Northern Hemisphere will currently be vitamin D deficient, and supplements e.g. 1,000 international units per day are very safe. It is time for governments to strengthen recommendations for vitamin D intake and supplementation, particularly when under lock-down.”
-
-
-—Emeritus Professor of Medicine Jonathan M Rhodes
-, 
-University of Liverpool’s Department of Cellular and Molecular Physiology; 
-Dr. Sreedhar Subramanian, 
-University of Liverpool’s Department of Cellular and Molecular Physiology; 
-Eamon Laird, The Irish Longitudinal Study on Ageing, School of Medicine, Trinity College Dublin; Professor Rose Anne Kenny, Department of Medical Gerontology, Mercers Institute for Ageing, St James Hospital
-
-The original editorial was published in The journal
- Alimentary Pharmacology and Therapeutics
-.
-													
-																							
-Original article:
-
-
-Editorial: low population mortality from COVID‐19 in countries south of latitude 35 degrees North supports vitamin D as a factor determining severity
-
-													

@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-spain/spains-coronavirus-death-toll-climbs-to-24824-health-ministry-idUSKBN22D50B
-ID : RTRS2020050100054
-
-Date : 2020-05-01 09:25:00
-Title : Spain's coronavirus death toll climbs to 24,824: health ministry
-Ariticle : 
-(Reuters) - Spain’s coronavirus death toll rose to 24,824 on Friday as 281 more people died from causes related to the disease overnight, the health ministry said. 
-The number of new coronavirus cases diagnosed in the country rose to a total 215,216 on Friday from 213,435 the day before, the ministry said on its website. 
-The previous day’s death toll was 268.  

@@ -1,9 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7280114&trto=en&trfr=en&pid98
-ID : HMAP2020042900585
-
-Date : 2020-04-29 00:00:00
-Title : Russia nears grim milestone of 100,000 cases; Spain sees daily death rate rise again - CNBC -
-Ariticle : 
-Russia nears grim milestone of 100,000 cases; Spain sees daily death rate rise again ; ; 
-Russia | COVID-19 | Humans
-Spain | COVID-19 | Humans

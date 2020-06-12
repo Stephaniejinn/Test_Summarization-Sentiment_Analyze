@@ -1,0 +1,22 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006873046
+ID : GPHN2020042900244
+
+Date : 2020-04-29 12:16:00
+Title : Japan gov't to release coronavirus contact-tracing app in May
+Ariticle : 
+The Japanese government plans to offer a smartphone application from early May that will warn users if they have been in contact with someone diagnosed with the new coronavirus, raising concerns about user privacy.
+The system, based on a contact-tracing app developed by the Singaporean government, will detect and record nearby phones that have the app installed. When one of the users is diagnosed as infected with the coronavirus, an alert message will be sent to those who have been in close contact.
+"It is an extremely effective way" to prevent the spread of the disease," information technology policy minister Naokazu Takemoto told a recent press conference, adding steps are needed to ensure that user privacy is protected and public health centers are involved.
+"It will only be meaningful if everyone uses the app, so we will make efforts to promote it," Takemoto said. The government has worked with nonprofit organization Code for Japan to develop the app.
+The software will maintain an encrypted record of the time, date, distance and duration of any close contact with other app users but will not keep track their geolocation data due to privacy concerns.
+Users who have been in close contact with a person diagnosed with COVID-19, the respiratory illness caused by the coronavirus, will be alerted but will not be notified of when and where they were in close proximity or the identity of the infected person.
+To prevent misuse, only public officials will be allowed to release the information that a user has been diagnosed with the coronavirus.
+Code for Japan said the app will provide prompt warnings as current tracing surveys based on interviews with infected people, which are conducted by public health center officials, are time consuming and some individuals do not wish to divulge or are unable to remember locations visited.
+The NPO said the app would help a person notified of the possibility of infection to take steps to prevent infecting others.
+Singapore launched its app in late March and Australia introduced similar software on Sunday. Britain and Germany are also considering following suit.
+In a rare tie-up between the rival technology giants, Apple Inc. and Google LLC said April 10 they will cooperate in developing decentralized tracing using Bluetooth technology to alert smartphone users who have been in proximity to infected people.
+According to U.S. media, the total number of users of Apple's iPhones and smartphones operating on Google's Android system is about 3 billion, more than a third of the world's population.
+George Shishido, a University of Tokyo professor well-versed in privacy protection, said a third-party organization is needed to check the operation of tracing apps to make sure personal data is protected.
+"The trust of users is a requisite to create a society that utilizes data effectively. This case will be a litmus test," Shishido said.
+Australia launches contact tracing app in bid to slow coronavirus
+FOCUS: Pandemic problems creating novel labor fixes for farm, hotel sectors

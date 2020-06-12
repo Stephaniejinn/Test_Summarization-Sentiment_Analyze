@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100009
+
+Date : 2020-04-30 00:00:00
+Title : South Korea reports no new domestic coronavirus cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.30
+Location:South Korea
+Cases:four more cases
+Description:South Korea reports no new domestic coronavirus cases

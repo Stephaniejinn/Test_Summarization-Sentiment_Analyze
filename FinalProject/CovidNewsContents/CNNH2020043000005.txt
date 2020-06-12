@@ -1,0 +1,80 @@
+URL : https://edition.cnn.com/2020/04/29/health/coronavirus-social-bubbles-intl/index.html
+ID : CNNH2020043000005
+
+Date : 2020-04-29 11:57:14
+Title : Want to join my bubble? This is what your future social life could look like
+Ariticle : 
+ (CNN)
+Never before have so many people in the world lived in such tiny bubbles. With billions across the globe now under 
+coronavirus
+-related restrictions, it has been weeks — or even months for some — since we socialized with anyone outside our homes.
+That's a lot of family time. Or time alone.
+But these small bubbles could soon get a little bigger. Governments around the world are beginning to gradually lift their lockdowns, and as they do, they are mulling just how much and how widely they should advise people they can socialize.
+The Belgian government has reportedly been considering allowing people to form "social bubbles" of 10 people, 
+according to Belgium's Le Soir
+ citing a leaked memo. The memo proposed that a bubble of people could spend time together on weekends, as long as all 10 people agreed to socialize exclusively with each other. Overlapping bubbles would not be allowed. The Belgian government did not respond to CNN's request for comment.
+Forming our own bubbles would no doubt be socially awkward -- not unlike leaving that friend or relative off your wedding guest list -- and it would also be difficult to enforce. Some experts see the idea as too risky and too premature, given the lack of adequate testing capacity in many countries around the world.
+Read More
+But some sociologists see it as a logical way to emerge from isolation. If you limit the people you spend time with, you naturally limit the chances of spreading the coronavirus widely.
+Scotland recommends face coverings as cracks emerge in UK-wide approach to coronavirus 
+Scottish First Minister Nicola Sturgeon said last week that her government was looking at the social bubble as an option.
+"Every country is going through these decisions, none of us are through this pandemic yet, but some countries are starting to look at slightly expanding what people would define as their household -- encouraging people who live alone to maybe match up with somebody else who is on their own or a couple of other people to have almost kind of bubbles of people," she told 
+BBC Radio Scotland
+.
+Keeping the current social distancing measures would be more effective in containing the virus, but some experts argue that such restrictive measure have time limits, as people will inevitably become fatigued by them, as well as the economic impacts they bring.
+So, how could you form a bubble?
+In 
+a new study led by Oxford University
+ sociologists say that changing the way our social networks are structured -- rather than simply reducing the amount we socialize -- could be effective in flattening the curve. (Flattening the curve is a term used to describe slowing the virus' spread so heath systems can cope with the number of people needing treatment.) 
+One of the study's authors, Per Block, said that forcing people to stay at home for such long periods of time wasn't sustainable and brought about problems of its own, including mental health issues.
+"There must be a middle ground between all of us staying at home and all of us meeting the people we want in the ways we want to," he told CNN.
+"Our main aim here is to give people guidance on how they can structure their social surroundings so that hopefully in a year's time we are there, and not that people at some point just give up completely on social distancing, and that we are back in a second wave by the end of the year and have to start this whole staying at home business all over again."
+Customers at Puckett's Grocery & Restaurant on Monday in Franklin, Tennessee, one of the first US states to reopen restaurants.
+{"@context": "http://schema.org","@type": "ImageObject","name": "Customers at Puckett&#39;s Grocery &amp; Restaurant on Monday in Franklin, Tennessee, one of the first US states to reopen restaurants.","description": "Customers at Puckett&#39;s Grocery &amp; Restaurant on Monday in Franklin, Tennessee, one of the first US states to reopen restaurants.","url": "//cdn.cnn.com/cnnnext/dam/assets/200428210408-01-social-bubble-tennessee-large-169.jpg"}
+At the heart of the study, which is yet to be peer reviewed, is the idea that societies should make the paths along which the virus might travel longer than they currently are. One way to think of it is by considering the well-known concept that there are six degrees of separation between everyone in the world (
+yes, including Kevin Bacon
+). As people start socializing again, they should increase those degrees of separation, the study proposes.
+Creating a bubble with a small number of people to interact with, rather than allowing unfettered socializing, is one way of doing that.
+The study proposes a "birds of a feather" strategy, in which people of a particular group or demography socialize exclusively. Block says it isn't practical to expect segregation by age or gender, but starting by geography could help. People could begin by creating bubbles, or clusters, with others in their neighborhoods. The strategy relies on people already interacting with others from the same area, or on people forming new networks with neighbors.
+In the longer term, other parts of society could be structured to protect these bubbles, the study proposes. Workplaces and schools, for example, may be able to keep workers or students who live in one particular area in the same room, and separate them from people who live in other areas, essentially getting rid of this "shortcut" for the virus to spread between clusters.
+In creating a bubble, something to consider is how much contact people in it might have with each other, in what's known as "triadic closure." This refers to the idea that contact partners of an individual are often connected themselves, which is what you often see with families.
+So if you include your parents, and your sibling and their partner in your group of 10, for example, that's a good thing, because they likely already have contact with each other. This lowers the risk level for infection in the community as a whole, the study finds.
+Another factor is the care vulnerable people receive. It's best if just one person provides all the care for that person, whether it's a professional or relative. So it's better if someone receiving healthcare is seen by the same doctor or nurse each time they visit a practice or get seen at home, as this can also reduce infection risk.
+Sweden says its coronavirus approach has worked. The numbers suggest a different story
+But the idea of social bubbles is not without risk, some experts say, and a major problem with it is that it depends largely on trust.
+"I think this is a situation where you have to look at your individual situation and weigh how well you know the person you are potentially forming that 'bubble' with. How sure are you that the person isn't interacting or socializing with someone that you do not know or that could be at risk for having Covid-19? Because that is the real risk and you could be putting yourself or your loved ones at risk for getting the disease," said Dr. Krutika Kuppalli, an infectious diseases physician and biosecurity fellow at the Johns Hopkins Center for Health Security.
+"I think we need to look at the data and let science guide us before we start making recommendations about socialization. Most importantly, we need to have adequate testing in place and make sure that people who need testing are getting it. When that happens, we need to make sure the numbers of cases are actually going down.
+"Finally, we need to have the ability to contact trace, test, and quarantine people who may be contacts of positive cases because that will be the only way to prevent large outbreaks from taking off again. When we have those things in place we can start talking about letting people socializing in a modest way."
+William Hanage, an associate professor of epidemiology at the Harvard School of Public Health, also warned that social bubbles could still be significant sources of infection.
+"I think that approaches like this to refine distancing are an important part of how we move past the initial surge and get into the space beyond it that will define the rest of the pandemic. I also think that there are multiple reasons to be cautious, from the obvious fact that some people will be more at risk, for example, the elderly, and should not participate, to the fact that some people may be more at risk of already being infected themselves, people working in health care for instance," he told CNN.
+Employees on a lunch break at an auto plant of Dongfeng Honda in Wuhan, China on March 23.
+{"@context": "http://schema.org","@type": "ImageObject","name": "Employees on a lunch break at an auto plant of Dongfeng Honda in Wuhan, China on March 23.","description": "Employees on a lunch break at an auto plant of Dongfeng Honda in Wuhan, China on March 23.","url": "//cdn.cnn.com/cnnnext/dam/assets/200428210416-03-social-bubble-china-large-169.jpg"}
+Could children play in bubbles?
+Social bubbles is something that New Zealand is already trying. The country, 
+which announced it had eliminated the virus
+, moved Tuesday into a less restrictive phase in its response, with 400,000 more New Zealanders heading back to work and 75% of the country's economy operating. 
+In the very comfortable position of recording just one new infection on Monday, the government there announced that people could begin expanding their bubbles, without even needing to specify by how many people.
+"People must stay within their household bubble but can expand this to reconnect with close family ...  or bring in caregivers, or support isolated people,"
+ the government wrote in its guidance.
+"It's important to protect your bubble if you extend it. Keep your bubble exclusive and only include people where it will keep you and them safe and well. If anyone within your bubble feels unwell, they should self-isolate from everyone else within your bubble." 
+How New Zealand 'eliminated' Covid-19 after weeks of lockdown
+This approach could also be valuable for young children, according to Stefan Flasche from the London School of Hygiene and Tropical Medicine. In an article, he argues that while we all need to reduce our contacts, 
+small and exclusive playgroups would help children's social development
+.
+"The agreement of exclusivity in this is central to success, as it limits the risk for transmission chains. As a result, such social contact clustering for children would allow them to mingle with their friends while only adding a rather marginal risk for coronavirus infection from, or transmission to, those outside of the play group and their respective households," he wrote. 
+He added that it would be sensible to use the same approach for people without children, particularly single people who may be feeling lonely or people who want to visit family, as long as their bubbles remain exclusive.
+But many countries are still quite far away from making these changes and, as Dr. Kuppalli pointed out, haven't tested at the level to have a good grasp of how prevalent the virus is.
+A park in Aylesbury, England, on March 24 after the government announced playgrounds were to close to enforce social distancing.
+{"@context": "http://schema.org","@type": "ImageObject","name": "A park in Aylesbury, England, on March 24 after the government announced playgrounds were to close to enforce social distancing.","description": "A park in Aylesbury, England, on March 24 after the government announced playgrounds were to close to enforce social distancing.","url": "//cdn.cnn.com/cnnnext/dam/assets/200428211456-04-social-bubbles-uk-large-169.jpg"}
+Many experts argue that the reproduction rate -- how many people one person is infecting, on average -- needs to be below 1.0 before any lockdown restrictions are eased, 
+as was the case in Germany
+.
+A recent 
+model by Imperial College London
+ showed the reproduction rate in the UK and US to be an estimated 2.4.
+In the UK, which has 
+now reported more than 21,000 deaths in hospitals
+ the government has said it will announce its plan to ease out of lockdown on May 7. It would not confirm to CNN whether the idea of social bubbles was being discussed as an option.
+Most European nations and US states that have eased lockdowns have retained social distancing rules, which oblige people to only socialize with others in their homes and keep distances of between one and two meters from other people in public spaces.
+It doesn't look like football matches, concerts in stadiums and visiting friends in other countries are on the cards just yet. But Block is hopeful that we can in the future at least start visit friends' and relatives' homes, Block said.
+"I guess this will take quite a long time, but the better we all are at adhering to this, at reorganizing our social lives in such a way that it's doable in the long run, the better the chances are that in a year's time, maybe we can go to a music concert together."

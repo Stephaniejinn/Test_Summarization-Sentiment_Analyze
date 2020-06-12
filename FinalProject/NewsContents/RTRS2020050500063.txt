@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-netherlands-tally/dutch-coronavirus-cases-rise-by-317-to-41087-86-new-deaths-authorities-idUSKBN22H1IP
-ID : RTRS2020050500063
-
-Date : 2020-05-05 12:23:00
-Title : Dutch coronavirus cases rise by 317 to 41,087, 86 new deaths: authorities
-Ariticle : 
-AMSTERDAM (Reuters) - The number of confirmed coronavirus cases in the Netherlands rose by 317 to 41,087 on Tuesday, with 86 new deaths, health authorities said. 
-The country’s death toll stands at 5,168, the National Institute for Health (RIVM) said in its daily update. The RIVM cautioned that it only reports confirmed cases, and actual numbers are higher. 

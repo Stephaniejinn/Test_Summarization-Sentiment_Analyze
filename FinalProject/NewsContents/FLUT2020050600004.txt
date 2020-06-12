@@ -1,36 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/immunity-aa/857548-research-square-the-role-of-vitamin-d-in-the-prevention-of-coronavirus-disease-2019-infection-and-mortality
-ID : FLUT2020050600004
-
-Date : 2020-05-05 19:37:08
-Title : Research Square - The role of Vitamin D in the prevention of Coronavirus Disease 2019 infection and mortality
-Ariticle : 
-																							
-Petre Cristian Ilie, Simina Stefanescu, Lee Smith
-
-Posted 08 Apr, 2020
-
-
-Abstract
-
-
-Background/Aims
-: WHO declared SARS-Cov-2 a global pandemic. The aims of this paper are to assess if there is any association between mean levels of vitamin D in various countries and cases respectively mortality caused by COVID-19.
-
-
-Methods
-: We have identified the mean levels of vitamin D for 20 European Countries for which we have also got the data regarding the morbidity and mortality caused by COVID-19.
-
-
-Results
-: The mean level of vitamin D (average 56mmol/L, STDEV 10.61) in each country was strongly associated with the number of cases/1M (mean 295.95, STDEV 298.73 p=0.004, respectively with the mortality/1M (mean 5.96, STDEV 15.13, p < 0.00001).
-
-
-Discussion
-: Vitamin D levels are severely low in the aging population especially in Spain, Italy and Switzerland. This is also the most vulnerable group of population for COVID-19.
-
-
-Conclusions
-: We believe, that we can advise Vitamin D supplementation to protect against SARS-CoV2 infection.
-
-
-													

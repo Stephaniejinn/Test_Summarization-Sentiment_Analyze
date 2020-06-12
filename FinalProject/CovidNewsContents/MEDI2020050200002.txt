@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200002
+
+Date : 2020-05-01 00:00:00
+Title : Uttar Pradesh reports 116 new coronavirus cases, state's total now 2,328
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:India
+Cases:42 Covid-19 deaths
+Description:Uttar Pradesh reports 116 new coronavirus cases, state's total now 2,328

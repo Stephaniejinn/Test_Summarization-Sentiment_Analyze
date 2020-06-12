@@ -1,0 +1,50 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/treatments/856389-arch-med-res-inappropriate-antibiotic-consumption-as-a-possible-cause-of-inflammatory-storm-and-septic-shock-in-patients-diagnosed-with-coronavirus-disease-2019-covid-19
+ID : FLUT2020050200090
+
+Date : 2020-05-01 20:10:57
+Title : Arch Med Res.  Inappropriate Antibiotic Consumption as a Possible Cause of Inflammatory Storm and Septic Shock in Patients Diagnosed with Coronavirus Disease 2019 (COVID-19)
+Ariticle : 
+																							
+
+Arch Med Res.
+ 2020 Apr 4. pii: S0188-4409(20)30409-4. doi: 10.1016/j.arcmed.2020.03.015. [Epub ahead of print]
+
+Inappropriate Antibiotic Consumption as a Possible Cause of Inflammatory Storm and Septic Shock in Patients Diagnosed with Coronavirus Disease 2019 (COVID-19).
+
+
+
+Hantoushzadeh S
+1
+, 
+Norooznezhad AH
+2
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+The novel coronavirus (SARS-CoV-2) infection which has been known as Coronavirus diseases 2019 (COVID-19) has become an endemic emergent situation by the World Health Organization. So far, no successful specific treatment has been found for this disease. As has been reported, most of non-survivor patients with COVID-19 (70%) had septic shock which was significantly higher than survived ones. Although the exact pathophysiology of septic shock in these patients is still unclear, it seems to be possible that part of it would be due to the administration of empiric antibiotics with inflammatory properties especially in the absence of bacterial infection. Herein, we have reviewed possible molecular pathways of septic shock in the patients who have received antibiotics with inflammatory properties which mainly is release of interleukin 1β (IL-1β), IL-6, and tumor necrosis factor α (TNF- α) through different routes. Altogether, we highly recommend clinicians to look after those antibiotics with anti-inflammatory activity for both empiric antibiotic therapy and reducing the inflammation to prevent septic shock in patients with diagnosed COVID-19.
+Copyright © 2020 IMSS. Published by Elsevier Inc. All rights reserved.
+
+
+
+
+KEYWORDS:
+
+Antibiotics; Coronavirus diseases 2019; Inflammation; SARS-CoV-2; Septic shock
+
+
+PMID:32340759PMCID:
+PMC7129207
+DOI:
+10.1016/j.arcmed.2020.03.015
+
+Free PMC Article
+
+													

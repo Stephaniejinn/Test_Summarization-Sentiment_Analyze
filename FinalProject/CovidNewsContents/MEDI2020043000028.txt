@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000028
+
+Date : 2020-04-29 00:00:00
+Title : COVID-19 deaths hit single-day high in Massachusetts
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Massachusetts
+Cases:on cumulative cases
+Description:COVID-19 deaths hit single-day high in Massachusetts

@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7294903&trto=en&trfr=en&pid106
-ID : HMAP2020050400102
-
-Date : 2020-05-03 00:00:00
-Title : Coronavirus in the U.S.: Latest News and Updates - The New York Times -
-Ariticle : 
-Coronavirus in the U.S.: Latest News and Updates ; ; 
-United States | COVID-19 | Humans

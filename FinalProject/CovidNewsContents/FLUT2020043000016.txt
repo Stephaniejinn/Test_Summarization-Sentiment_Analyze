@@ -1,0 +1,75 @@
+URL : https://flutrackers.com/forum/forum/local-regional-communities-and-organizations/cidrap/855624-cidrap-gilead-fauci-say-niaid-data-show-remdesivir-can-aid-covid-19-recovery
+ID : FLUT2020043000016
+
+Date : 2020-04-29 22:19:22
+Title : CIDRAP - Gilead, Fauci say NIAID data show remdesivir can aid COVID-19 recovery
+Ariticle : 
+																							Source: 
+https://www.cidrap.umn.edu/news-pers...id-19-recovery
+
+
+
+Gilead, Fauci say NIAID data show remdesivir can aid COVID-19 recovery
+Filed Under:
+COVID-19
+Chris Dall | News Reporter | CIDRAP News
+| Apr 29, 2020
+
+
+Gilead Sciences and National Institute of Allergy and Infectious Diseases (NIAID) Director Anthony Fauci, MD, said today that a NIAID study of the antiviral remdesivir has produced positive data on use of the drug for treating COVID-19.
+"We understand that the trial has met its primary endpoint and that NIAID will provide detailed information at an upcoming briefing," the company said in a 
+press release
+. Gilead, of Foster City, California, did not release any further information.
+The 
+NIAID study
+ is a phase 3 randomized, double-blinded clinical trial comparing use of remdesivir with a placebo in 800 COVID-19 patients. The primary outcome is time to recovery.
+At the White House, Fauci 
+told reporters
+ that the data presented by an independent data and safety monitoring board showed patients on remdesivir recovered in 11 days, compared with 15 days for patients receiving a placebo. Fauci said the data show that the antiviral, which is not yet licensed or approved, "has a clear-cut and significant positive effect in diminishing the time to recovery."
+"Although a 31% improvement doesn't seem like a knockout 100%, it is a very important proof of concept," Fauci said. "Because what it has proven is that a drug can block this virus."
+Fauci also said the mortality rate among patients receiving remdesivir trended toward being better than in placebo patients (8% vs 11%), but that the difference is not yet statistically significant and that the data need to be further analyzed.
+But the results of a different clinical trial published today found that remdesivir was not associated with statistically significant clinical benefits in Chinese patients with severe COVID-19 when compared with placebo.
+
+
+Chinese study finds no benefit
+
+These results are the latest in what has been an up-and-down month for the investigational antiviral, which was originally developed as a potential treatment for Ebola but has shown efficacy against SARS-CoV-2—the virus that causes COVID-19—in laboratory testing. With the world searching for COVID-19 treatments, the Food and Drug Administration (FDA) has allowed for compassionate use in COVID-19 patients, and several clinical trials are under way.
+Earlier this month, 
+Stat News reported
+ that a Chicago hospital treating severe COVID-19 patients enrolled in two phase 3 trials was seeing rapid recovery in fever and respiratory symptoms among those treated with remdesivir. Then, last week, the World Health Organization inadvertently posted preliminary results from a phase 3 trial in China that showed no benefit from the drug in severe COVID-19 patients in China. The results were then removed from the WHO website, and Gilead released 
+a statement
+ saying the posting was premature and included "inappropriate characterizations" of the study.
+That 
+study
+, published today in 
+The Lancet Infectious Diseases,
+ investigated outcomes in 237 severe COVID-19 patients treated at 10 hospitals in Hubei, China, from Feb 6 through Mar 12. The patients were randomly assigned on a 2:1 basis to receive intravenous remdesivir (158 patients) or placebo infusions for 10 days. The primary end point was time to clinical improvement.
+The results showed that the time to clinical improvement was similar in patients receiving remdesivir (median 21 days vs 23 days) as those receiving placebo (hazard ratio [HR], 1.23; 95% confidence interval [CI], 0.87 to 1.75). Among patients who were treated within 10 days of symptom onset, those who were treated with remdesivir did show faster clinical improvement (median 18 days vs 23 days) than those who received placebo (HR, 1.52; 95% CI, 0.95 to 2.43), but those results were not considered statistically significant.
+Fourteen percent of remdesivir patients (22) died, compared with 13% of placebo patients (10). Remdesivir did not result in significant reductions in SARS-CoV-2 viral loads or detectability on upper respiratory tract or sputum specimens compared with placebo. The rate of adverse events was similar in both groups (66% vs 64%).
+"Our trial found that intravenous remdesivir did not significantly improve the time to clinical improvement, mortality, or time to clearance of virus in patients with serious COVID-19 compared with placebo," the authors wrote.
+The study was terminated on Mar 29 because at that point China had gotten its COVID-19 outbreak under control, and no more patients were eligible for enrollment. The trial had aimed at enrolling 453 patients. The authors say ongoing studies with larger sample sizes are needed to further investigate the effect of remdesivir on COVID-19.
+At a WHO media briefing today, Mike Ryan, MD, said he hadn't seen the NIAID study yet, and noted that it can take a number of published studies to determine the impact of a drug.
+"Hopefully, one or more treatments will result in altering clinical outcomes to reduce deaths and severe illnesses," he said.
+
+
+Shorter treatment may be effective
+
+Gilead also announced preliminary results from another phase 3 clinical trial investigating outcomes in severe COVID-19 patients receiving either 5 days or 10 days of the drug. The company said in a 
+press release
+ that the results showed patients receiving 10 days of remdesivir achieved similar improvement in clinical status compared with those taking the 5-day treatment course.
+Among the 397 patients with data (out of an estimated enrollment of 6,000), the median time to clinical improvement was 10 days in the 5-day treatment group (200 patients) and 11 days in the 10-day treatment group. More than half of the patients in both groups were discharged from the hospital by day 14. At day 14, 64.5% of the patients in the 5-day treatment group had achieved clinical recovery, compared with 58.3% of the patients in the 10-day treatment group.
+"The study demonstrates the potential for some patients to be treated with a 5-day regimen, which could significantly expand the number of patients who could be treated with our current supply of remdesivir," Gilead chief medical officer Merdad Parsey, MD, PhD, said. "This is particularly important in the setting of a pandemic, to help hospitals and healthcare workers treat more patients in urgent need of care."
+But since both groups were treated with remdesivir, and there was no control group treated with placebo, the trial doesn't indicate whether the drug is effective against SARS-CoV-2.
+Gilead says it plans to submit the full data for publication in a peer-reviewed journal.
+
+
+
+
+
+
+
+
+
+
+
+													

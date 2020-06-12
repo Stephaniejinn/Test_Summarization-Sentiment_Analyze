@@ -1,0 +1,16 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006907384
+ID : GPHN2020050500112
+
+Date : 2020-05-01 03:59:00
+Title : COVID-19/SARS-CoV-2 News from Preprints; A case of SARS-CoV-2 carrier for 32 days with several times false negative nucleic acid tests (Published April 6, 2020)
+Ariticle : 
+2020 MAY 1 (NewsRx) -- By a News Reporter-Staff News Editor at Drug Week -- By a News Reporter-Staff News Editor at Drug Week - According to news reporting based on a preprint abstract, our journalists obtained the following quote sourced from medrxiv.org:
+“In 2019, a novel coronavirus (SARS-CoV-2) was first discovered in Wuhan, Hubei, China, causing severe respiratory disease in humans, and has been identified as a public health emergency of international concern. With the spread of the virus, there are more and more false negative cases of RT-PCR nucleic acid detection in the early stage of potential infection.
+“In this paper, we collected the epidemiological history, clinical manifestations, outcomes, laboratory results and images of a SARS-CoV-2 carrier with no significant past medical history. The patient was quarantined because of her colleague had been diagnosed. After the onset of clinical symptoms, chest CT results showed patchy ground-glass opacity (GGO) in her lungs, but it took a total of nine nucleic acid tests to confirm the diagnosis, among which the first eight RT-PCR results were negative or single-target positive.
+“In addition to coughing up phlegm during her stay in the hospital, she did not develop chills, fever, abdominal pain, diarrhea and other clinical symptoms. Since initial antiviral treatment, the lung lesions were absorbed.
+“But the sputum nucleic acid test was still positive.
+“In combination with antiviral and immune therapy, the patient tested negative for the virus. Notably, SARS-CoV-2 was detected only in the lower respiratory tract samples (sputum) throughout the diagnosis and treatment period. This is a confirmed case of SARS-CoV-2 infection with common symptoms, and her diagnosis has undergone multiple false negatives ,suggesting that it is difficult to identify certain carriers of the virus and that such patients may also increase the spread of the SARS-CoV-2.”
+This preprint may not have been peer-reviewed. For more information on this research see: medrxiv.org/content/10.1101/2020.03.31.20045401v1
+Keywords for this news article include: COVID-19, Coronavirus, Diagnostics and Screening, Drugs and Therapies, Epidemiology, Genetics, Health and Medicine, Immunology, RNA Viruses, Risk and Prevention, SARS-CoV-2, Severe Acute Respiratory Syndrome Coronavirus 2, Viral, Virology.
+Keywords for this news article include: Viral, Genetics, Virology, Immunology, RNA Viruses, Epidemiology, Drugs and Therapies, Health and Medicine, Risk and Prevention, Diagnostics and Screening, COVID-19/SARS-CoV-2 News from Preprints, Severe Acute Respiratory Syndrome Coronavirus 2.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

@@ -1,0 +1,320 @@
+URL : https://promedmail.org/promed-post/?id=7292363
+ID : PROM2020050300003
+
+Date : 2020-05-02 22:23:06
+Title : PRO/AH/EDR> COVID-19 update (152): global, updates, WHO
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (152): GLOBAL, UPDATES, WHO
+***********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Global update: Worldometer accessed 2 May 2020 18:18 GMT
+[2] New countries/territories confirming cases (none)
+[3] Al Jazeera updates
+[4] WHO situation report 103 (as of 2 May 2020)
+******
+[1] Global update: Worldometer
+Date: Sat 2 May 2020 accessed 18:18 GMT
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 26 Apr 2020 / 27 Apr 2020 / 28 Apr 2020 / 29 Apr 2020 / 30 Apr 2020 / 1 May 2020 / 2 May 2020 Country
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 830 / 82 836 / 82 858 / 82 862 / 82 874 / 82 875 / 82 875 Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 738 / 10 752 / 10 761 / 10 765 / 10 774 / 10 780 / 10 780 South Korea
+Countries with major activity (more than 5000 cases with community spread)
+--------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 987 160 / 1 010 356 / 1 035 765 / 1 045 717 / 1 095 023 / 1 131 280 / 1 147 358 USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 226 629 / 229 422 / 232 128 / 236 899 / 239 639 / 242 988 / 245 567 Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 197 675 / 199 414 / 201 505 / 203 591 / 205 463 / 207 428 / 209 328 Italy
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 152 840 / 157 149 / 161 145 / 165 221 / 171 253 / 177 454 / 182 260 UK
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 162 100 / 165 842 / 165 911 / 166 420 / 167 178 / 167 346 / 167 346 France
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 157 770 / 158 758 / 159 912 / 160 479 / 163 009 / 164 077 / Germany
+11 Mar 2020: 1 / ... / N/A /... / 15 679 / ... / 110 130 / 112 261 / 114 653 / 117 589 / 120 204 / 122 392 / 124 375 Turkey
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 80 949 / 87 147 / 93 558 / 99 399 / 106 498 / 114 431 / 124 054 Russia
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 90 481 / 91 472 / 92 584 / 93 657 / 94 640 / 95 646 / 96 448 Iran
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 63 100 / 66 501 / 73 235 / 73 235 / 87 187 / 92 109 / 92 630 Brazil
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 46 895 / 48 500 / 50 026 / 50 373 / 53 236 / 55 061 / 56 580 Canada
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 46 134 / 46 687 / 47 334 / 47 859 / 48 519 / 49 032 / 49 517 Belgium
+6 Mar 2020: 1 / ... / N/A / ... / 1323 /... / 27 517 / 28 699 / 33 931 / 31 190 / 36 976 / 40 459 / 40 459 Peru
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 37 845 / 38 245 / 38 416 / 38 802 / 39 316 / 39 791 / 40 236 Netherlands
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 27 890 / 29 451 / 31 324 / 31 787 / 34 863 / 37 257 / 37 776 India
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 061 / 29 164 / 29 264 / 29 407 / 29 586 / 29 705 / 29 817 Switzerland
+29 Feb 2020: 1 / 6 / ... / 2758 / ... / 22 719 / 23 240 / 24 258 / 24 675 / 24 934 / 26 336 / 27 464 Ecuador
+2 Mar 2020: 1 / ... / N/A / ... / 1720 / ... / 17 522 / 18 811 / 20 077 / 21 402 / 22 753 / 24 097 / 25 459 Saudi Arabia
+2 Mar 2020: 2 / ... / N/A / ... / 8251 / ... / 23 864 / 24 027 / 24 322 / 24 505 / 25 045 / 25 351 / 25 190 Portugal
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 18 640 / 18 926 / 19 621 / 20 302 / 21 092 / 21 520 / 22 082 Sweden
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 19 262 / 19 648 / 19 877 / 20 253 / 20 612 / 20 833 / 21 176 Ireland
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 14 677 / 15 529 / 16 752 / 17 799 / 19 224 / 20 739 / 20 739 Mexico
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 13 328 / 13 915 / 14 612 / 15 289 / 16 817 / 18 114 / 18 770 Pakistan
+3 Mar 2020: 1 / ... / N/A / ... / 3031 / ... / 13 331 / 13 813 / 14 365 / 14 885 / 16 023 / 17 008 / 18 435 Chile
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 13 624 /14 423 / 14 951 / 15 641 / 16 169 / 17 101 / 17 548 Singapore
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 15 443 / 15 555 / 15 728 / 15 782 / 15 946 / 16 101 / 16 152 Israel
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 10 463 / 11 289 / 12 208 / 13 181 / 14 027 / 14 917 / 15 828 Belarus
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 225 / 15 274 / 15 357 / 15 402 / 15 452 / 15 531 / 15 558 Austria
+29 Feb 2020: 1 / 3 / ... / 835 / ... / 10 287 / 11 244 / 11 921 / 12 564 / 13 409 / 14 096 / 14 872 Qatar
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 13 441 / 14 153 / 13 736 / 13 895 / 14 088 / 14 305 / 14 305 Japan
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 10 349 / 10 839 / 11 380 / 11 929 / 12 481 / 13 038 / 13 599 United Arab Emirates
+3 Mar 2020: 1 / ... / N/A / ... / 2554 / ... / 11 617 / 11 902 / 12 218 / 12 640 / 12 877 / 13 105 / 13 375 Poland
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 11 036 / 11 339 / 11 616 / 11 978 / 12 240 / 12 567 / 12 732 Romania
+3 Mar 2020: 1 / ... / N/A / ... / 794 / ... / 8617 / 9009 / 9410 / 9866 / 10 406 / 10 861 / 11 411 Ukraine
+2 Mar 2020: 2 / ... / N/A / ... / 1677 / ... / 8882 / 9096 / 9511 / 9771 / 10 118 / 10 551 / 10 843 Indonesia
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 8575 / 8698 / 8851 / 9008 / 9158 / 9311 / 9407 Denmark
+6 Mar 2020: 1 / ... / N/A / ... / 1060 / ... / 8042 / 8275 / 8497 / 8724 / 9009 / 9205 / 9362 Serbia
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 7579 / 7777 / 7958 / 8212 / 8488 / 8772 / 8928 Philippines
+8 Mar 2020: 3 / ... / N/A / ... / 54 / ... / 5416 / 5913 / 6462 / 7103 / 7667 / 8238 / 8790 Bangladesh
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7527 / 7599 / 7660 / 7680 / 7738 / 7783 / 7801 Norway
+1 Mar 2020: 3 / ... / N/A / 3589 / ... / 7404 / 7445 / 7504 / 7563 / 7682 / 7737 / 7750 Czech Republic
+1 Mar 2020: 1 / ... / N/A / ... / 1284 / ... / 6135 / 6293 / 6416 / 6652 / 6972 / 7288 / 7578 Dominican Republic
+6 Mar 2020: 1 / ... / N/A / ... /1065 /... / 5379 / 5597 / 5949 / 6207 / 6507 / 7006 / 7006 Colombia
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6719 / 6725 / 6738 / 6746 / 6766 / 6767 / 6783 Australia
+10 Mar 2020: 1 / ... / N/A / ... / 1317 / ... / 5779 / 6021 / 6021 / 6200 / 6532 / 6720 / 6720 Panama
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 4534 / 4782 / 5042 / 5268 / 5537 / 5895 / 6193 Egypt 
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 5780 / 5820 / 5851 / 5945 / 6002 / 6071 / 6176 Malaysia
+5 Mar 2020: 1 / ... / N/A / ... / 1380 / ... / 4546 / 4793 / 4996 / 5450 / 5647 / 5951 / 5951 South Africa
+2 Feb 2020: 1 / ... / 6 / ... / 1446 / ... / 4576 / 4695 / 4740 / 4906 / 4995 / 5051 / 5176 Finland
+[In the table above, N/A is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.UBA
+Countries and territories with more than 1000 cases:
+Morocco, Argentina, Kuwait, Algeria, Moldova, Luxembourg, Kazakhstan, Bahrain, Thailand, Hungary, Greece, Oman, Afghanistan, Armenia, Nigeria, Iraq, Uzbekistan, Croatia, Ghana, Azerbaijan, Cameroon, Iceland, Bosnia and Herzegovina, Estonia, Bulgaria, Cuba, Guinea, North Macedonia, New Zealand, Slovenia, Slovakia, Lithuania. Cote d'Ivoire, Bolivia, Djibouti, Hong Kong, Senegal
+Countries with more than 500 cases (and less than 1000):
+Tunisia, Honduras, Latvia, Cyprus, Albania, Kyrgyzstan, Andorra, Lebanon, Niger, Costa Ria, Sri Lanka, Burkina Faso, Uruguay, Guatemala, Congo DR, Somalia, Georgia, San Marino, Mayotte, Channel Islands, Sudan, Mali, Maldives
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Uzbekistan, Bahrain, Cabo Verde, Kazakhstan, Ecuador, Egypt, Romania, Iraq, Singapore, Morocco, Ghana, Serbia, Portugal, Denmark, Sweden, the Netherlands , Poland, Qatar, Indonesia, Malaysia, Ukraine, El Salvador, Paraguay, Bolivia, Panama, Jamaica, Croatia, Belgium, Oman, Somalia, Cameroon, Tanzania, Sudan, El Salvador, Cuba, Azerbaijan, Bulgaria, Bosnia, and Herzegovina
+Total number of reported deaths: 243 024
+Total number of worldwide cases: 3 456 223
+Number of newly confirmed cases in past 24 hours: 58 129
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is 3 456 223, with reports of cases by 216 countries and territories worldwide. The total number of confirmed cases reported from outside China now represents 97.6% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with over 1 million confirmed cases now represents 33.2% of the global cases of COVID-19. A global total of 243 024 deaths have been reported, 238 391 (98.1%) outside mainland China.
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by the UK, France, Germany, Turkey, Russia, Iran, and Brazil as number 10. China is now number 11. US has the highest number of newly confirmed cases in the past 24 hours (16 328) followed by Russia (9623) and UK (4806). - Mod.UBA]
+******
+[2] New countries/territories confirming cases (none)
+Date: Sat 2 May 2020
+No newly identified countries with 1st cases of COVID-19 confirmed.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[As of 2 May 2020, 216 countries and territories have reported COVID-19 cases; 22 countries have not reported any cases. - Mod.UBA]
+******
+[3] Al Jazeera updates
+Date: Sat 2 May 2020
+Source: Al Jazeera [edited]
+https://www.aljazeera.com/news/2020/05/official-missed-chances-slow-coronavirus-live-updates-200501234526091.html
+- The World Health Organization has reiterated that the coronavirus is believed to be "natural in origin," responding to a claim by US President Donald Trump that he had seen evidence that indicated the virus emerged from a virology institute in Wuhan, China.
+- Worldwide, the number of confirmed infections stands above 3.35 million, with nearly 239 000 deaths and approximately 1.05 million recoveries.
+- The coronavirus is ravaging Brazil's poor, tightly packed neighbourhoods, where the disease is harder to control. There were 92 200 cases in Brazil with 6412 deaths reported.
+- 13:46 GMT - England's COVID-19 hospitals death toll rises
+The death toll from COVID-19 in English hospitals rose 370 to 20 853, the health service said. Of the 370 who died, 25 had no underlying health condition, the National Health Service said. The UK's death toll is due to be published later.
+- 12:33 GMT - Dutch coronavirus cases pass 40 000
+The number of confirmed coronavirus infections in the Netherlands has increased by 445 to 40 236, Dutch health authorities said. The National Institute for Public Health reported 94 new deaths, taking total COVID-19 fatalities to 4987.
+- 11:30 GMT - Spain eases strict lockdown conditions
+All Spaniards were allowed to go for walks or play sport after 48 days of home confinement to combat the coronavirus in one of the worst-hit countries. Spain's nearly 47 million people have since 14 Mar [2020] lived under one of the strictest virus lockdowns in the world, with adults authorised to leave home only to buy food or medicine or walk the dog.
+- 10:19 GMT - Spain's coronavirus death toll hit 25 100 after 276 people died overnight, the health ministry said. Total cases rose to 216 582 from 215 216 on Friday.
+- US FDA allows emergency use of remdesivir drug for coronavirus (video)
+- 09:35 GMT - Nearly 10 000 prison inmates have been released in the Philippines as the country races to halt coronavirus infections in its overcrowded jails, a Supreme Court official said. The move follows a directive to lower courts to release those awaiting trial in prison because they could not afford bail, Associate Supreme Court Justice Mario Victor Leonen told reporters.
+- 09:10 GMT - Indonesia recorded 292 new coronavirus cases, taking the total number of infections to 10 843, said health ministry official, Achmad Yurianto, who also reported 31 new deaths, taking the total number of fatalities to 831. The number of people who have recovered from COVID-19, the disease caused by the coronavirus, rose by 74 to 1665, he said. The country has tested more than 79 800 people for the virus, he added.
+- 09:05 GMT - Malaysia reported 105 new coronavirus cases, bringing the total number of infections in the country to 6176. The number of deaths remained at 103.
+- 09:01 GMT - Russia's daily case tally hits new high. Russia reported 9623 new cases of the coronavirus, its highest daily rise, bringing the total to 124 054. The nationwide death toll rose to 1222 after 57 people died in the last 24 hours, Russia's coronavirus crisis response centre said, after revising the previous day's tally.
+- 08:58 GMT - Philippines says coronavirus cases nearing 9000. The country said it has recorded 156 new cases of the novel coronavirus and 24 more deaths, bringing the total number of infections in the country to 8928 and the fatalities to 603. It also said that 40 more individuals had recovered from infections, bringing the recoveries to 1124.
+ #COVID19: Update as of 2 May 2020, 9:00 AM (East Africa Time) Africa CDC: 53 African Union member states reporting #COVID19 40 746 cases, 1689 deaths, and 13 383 recoveries. More information on @AfricaCDC dashboard via 
+https://t.co/teDFU1XFLZ
+ #FactsNotFear #AfricaResponds. <pic.twitter.com/Q8tK2AfARG> Africa CDC (@AfricaCDC) 2 May 2020
+- 08:31 GMT - Singapore's health ministry confirmed 447 new coronavirus infections, the smallest daily rise in 2 weeks, taking the city-state's tally of cases to 17 548 with 16 virus-related deaths. Most of the new cases are among migrant workers living in dormitories, the ministry said.
+- COVID-19 tracking apps raise privacy concerns in Asia (02:36)
+- 07:25 GMT - The Indian government said the world's biggest coronavirus lockdown will be extended for 2 weeks beyond 4 May [2020], but with some easing of restrictions. The home ministry said in a statement that in view of "significant gains in the COVID-19 situation," areas with few or no cases would see "considerable relaxations." The stringent restrictions have been credited with keeping confirmed cases of coronavirus to about 37 000 cases, with 1223 deaths.
+- 07:13 GMT - About 2% of Moscow residents -- or more than 250 000 people -- have the coronavirus, the mayor of the Russian capital said, citing test results.
+- 05:45 GMT - Australia reports a small cluster of coronavirus cases at a meat factory in the Australian state of Victoria, health officials said on Saturday [2 May 2020], as parts of the country started easing physical distancing restrictions after suppressing the infection rate to below 1%. Three of the cases in Victoria were related to a meat-processing facility, said its health minister. A total of 8 employees have tested positive. In Australia's most populous state of New South Wales (NSW), 2 out of 5 new cases were recorded at the Newmarch aged care facility in Sydney, where about 60 people have been infected, and 13 have died. Local clusters of COVID-19 and cruise ship infections have accounted for a large percentage of Australia's nearly 6800 cases and 93 deaths.
+- 05:30 GMT - Thailand reported 6 new coronavirus cases and no new deaths on Saturday [2 May 2020], bringing the total number of cases to 2966, according to Reuters news agency. While more than half of Thailand's nearly 3000 cases were concentrated in Bangkok, Phuket has the highest rate of infection per population, Taweesin said. Since Thailand 1st detected the virus in January [2020], 54 patients have died, 2732 have recovered, and 180 are still hospitalised, according to official figures.
+- 04:13 GMT - Singapore announced on Saturday [2 May 2020] that it will ease some restrictions in the country, allowing some businesses to operate starting 12 May [2020], according to Reuters news agency. Health Minister Gan Kim Yong said that as the number of cases in the broader community drop, more restrictions will be lifted in the weeks to come. The government also said it will allow some students to return to school beginning on 19 May [2020].
+- 03:35 GMT - Malaysian authorities rounded up undocumented migrants as part of efforts to contain the spread of coronavirus, the country's police chief said. Over 700 migrants were taken into custody, including young children and Rohingya refugees from Myanmar, during Friday's [1 May 2020] raid in a downtown area where thousands of migrants and asylum-seekers live, rights groups had said.
+- 02:55 GMT - Germany's confirmed coronavirus cases rose by 945 to 161 703, data from the Robert Koch Institute for infectious diseases showed on Saturday [2 May 2020]. The death toll rose by 94 to 6575.
+- 02:15 GMT - The International Monetary Fund has approved a request from Ecuador for emergency financing to fight the coronavirus pandemic, granting a USD 643 million loan, the Andean country's economy ministry has announced. Ecuador has been among the hardest-hit countries in Latin America, with 24 675 confirmed cases and 883 deaths, plus a further 1357 deaths that were likely caused by the coronavirus. "This financing will allow us to have the necessary liquidity to support the reactivation of the economy and protect jobs," the ministry said in a statement.
+- 01:40 GMT - The Japan Sumo Association has announced it will reconsider its schedule for the summer grand tournament starting on 24 May [2020] if the government extends the state of emergency, Japan's NHK news reported. The nationwide measures are currently due to expire on Wed 6 May [2020]. The opening of the event had already been postponed for 2 weeks to 24 May [2020]. Organisers are also considering holding the tournament without spectators, or cancelling it, the report said.
+- 01:20 GMT - South Korea reported single-digit infections for the 4th day in a row. It reported 6 more cases of the new coronavirus on Saturday [2 May 2020], bringing the nation's total infections to 10 780, according to Yonhap news agency. The nation's death toll from the virus rose by 2 to 250, while 9123 people have recovered, up 51 from a day earlier.
+- 00:05 GMT - Gilead Science Inc's antiviral drug remdesivir was granted emergency use authorisation by the US Food and Drug Administration as a treatment for COVID-19, clearing the way for broader use of the drug around the US. During a meeting at the White House with US President Donald Trump, Gilead Chief Executive Daniel O'Day called the move an important 1st step and said the company was donating 1.5 million vials of the drug to help patients. The donation is expected to be enough for at least 140 000 patients, depending on the number of days they need to be treated. Gilead said on Wednesday [29 Apr 2020] that the drug, which is given intravenously, had helped improve outcomes for patients with COVID-19 and provided data suggesting it worked better when given earlier in the course of infection. Meanwhile, the US Centers for Disease Control and Prevention has launched a national viral genomics consortium to better sequence the transmission of COVID-19.
+- "No miracle": What explains Bali's low coronavirus cases?
+https://www.aljazeera.com/news/2020/05/miracle-explains-bali-coronavirus-cases-200502035557649.html
+An estimated 1.3 million Chinese tourists visited Bali in 2019 and another 110 000 in January [2020] before tourists from China were banned on 2 Feb [2020] [File: Ian Neubauer/Al Jazeera].
+The Indonesian resort island of Bali, which received half a million international tourists per month until visas on arrival were halted on 20 Mar [2020], is now the site of a medical mystery that has beguiled many: there are no visible signs of a widespread coronavirus pandemic here.
+"I was wrong, and I'm starting to question the assumptions behind these models, because the rate of transmission is a lot lower than expected," said Dr Panji Hadisoemarto, an epidemiologist at Padjadjaran University in Java. "But the real question is, is this real or just an artefact of under-reporting?"
+Indonesia has one of the worst COVID-19 testing rates in the world: only 374 per million compared with 20 241 per million in the US and 24 600 in Singapore, according to coronavirus tallying site Worldometer. In Bali, an island of about 4 million people, there were only about 1300 tests conducted so far.
+"Either there is no transmission in Bali, or the transmission is silent because people are getting infected but most of them are asymptomatic," he said, adding that either answer leads to more questions. "Does it have anything to do with genetics, the lifestyle in Bali, or how the virus behaves in the tropics?"
+Epidemiologist Dr Dicky Budiman, who helped formulate Indonesia's Ministry of Health pandemic-management strategy for 20 years, said the spread is going undetected because of a lack of testing and underreporting caused by cultural norms that encourage traditional healing at home. He also theorised that many COVID-19 infections in Bali are being misdiagnosed as dengue fever, a disease spread by mosquitoes. "There is an extraordinarily high number of dengue cases in Bali right now, more than 2100 cases, and I believe that is because testing for dengue is easier, cheaper, and faster than testing for COVID-19."
+Udayana University Professor Gusti Ngurah Mahardika, Bali's most senior virologist, pointed out that the virus does not transmit as effectively in tropical climates like Bali's. "I have published a paper that argues COVID-19 might be sensitive to heat and humidity as has been reported with MERS and SARS," he says.
+"The higher the temperature, the higher the humidity and direct exposure to sunlight will further shorten the life span of the COVID-19 in the air and on non-porous surfaces. This is good news for Indonesia," Indonesian President Joko Widodo said, basing his statement on "emerging findings" released by the US Department of Homeland Security.
+But the heat theory fails to account for infection rates in Singapore, which has very similar meteorological conditions to Bali, but experienced a daily jump of more than 1400 confirmed COVID-19 cases on 20 Apr [2020], despite having one of the world's strictest lockdowns.
+In the Brazilian city of Manaus, where meteorological and demographical conditions are also almost identical to those in Bali, Mayor Virgilio Neto described the situation as a "horror movie," with bodies piling up in refrigerated trucks, mass graves being dug outside cemeteries, and a healthcare system that has collapsed.
+Prof. Mahardika qualifies his responses by saying it's all guesswork because of the limited testing.
+Dr Hadisoemarto concurs: "The truth is no one can explain what is happening in Bali. It's very interesting, and someone needs to go there and do the research because it could help us come up with an answer to stop COVID-19 in its tracks."
+[By: Ian Lloyd Neubauer and Lala Samsura]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+******
+[4] WHO situation report 103 (as of 2 May 2020)
+Date: Sat 2 May 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200502-covid-19-sitrep-103.pdf?sfvrsn=d95e76d8_4
+*The situation report includes information provided by national authorities as of 10:00 CEST, 2 May 2020
+This report has been reformatted to improve accessibility for persons with visual impairment.
+Highlights
+----------
+- No new country/territory/area reported cases of COVID-19 in the past 24 hours.
+- WHO and the European Investment Bank yesterday signed a collaboration agreement to accelerate investment in health preparedness and primary healthcare in countries most vulnerable to the COVID-19 pandemic. The 1st phase will strengthen primary healthcare in 10 African countries.
+- Director-General Dr. Tedros, in his regular media briefing yesterday [1 May 2020], said that, with the signing of the agreement, "we are deepening our relationship with the European Union." He also reminded all that the European Commission will host a pledging conference on 4 May [2020] to raise funds for investment in vaccine research.
+Technical guidance and other resources
+--------------------------
+To view all technical guidance documents regarding COVID-19, please go to 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance
+.
+- Updates from WHO regional offices: WHO AFRO (
+https://www.afro.who.int/health-topics/coronavirus-covid-19
+), WHO PAHO (
+https://www.paho.org/en/topics/coronavirus-infections/coronavirus-disease-covid-19
+), WHO EMRO (
+http://www.emro.who.int/health-topics/corona-virus/index.html
+), WHO SEARO (
+https://www.who.int/southeastasia/outbreaks-and-emergencies/novel-coronavirus-2019
+), WHO EURO (
+http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19
+), WHO WPRO (
+https://www.who.int/westernpacific/emergencies/covid-19
+)
+- Research and development
+- Online courses on COVID-19 and in additional national languages
+- The Strategic Preparedness and Response Plan (SPRP)outlining the support the international community can provide to all countries to prepare and respond to the virus.
+- WHO Health Emergency dashboard
+- Weekly COVID-19 Operations updates
+Recommendations and advice for the public
+------------------
+- Protect yourself.
+- Questions and answers
+- Travel advice
+- EPI-WIN: tailored information for individuals, organizations, and communities
+Case definitions
+-----------------
+WHO periodically updates the Global Surveillance for human infection with coronavirus disease (COVID-19) document, which includes surveillance definitions.
+Definition of COVID-19 death:
+COVID-19 death is defined for surveillance purposes as a death resulting from a clinically compatible illness in a probable or confirmed COVID-19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g., trauma). There should be no period of complete recovery between the illness and death.
+Surveillance
+------------
+[The following data come from "Situation in numbers." The regional case totals are inclusive of China. - Mod.UBA]
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 150 403 (1565) / 6166 (39)
+European Region (61): 1 492 024 (30 620) / 140 586 (2386)
+South-East Asia Region (10): 60 490 (3402) / 2256 (82)
+Eastern Mediterranean Region (22): 194 991 (6406) / 7741 (143)
+Region of the Americas (54): 1 340 591 (48 674) / 72 196 (3109)
+African Region (48): 27 973 (1310) / 1013 (40)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 3 267 184 (91 977) / 229 971 (5799)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[With the addition of Tajikistan (European region) and Comoros (African region) reported on 1 May 2020, the number of countries and territories reporting confirmed cases of COVID-19 is now 214. This includes 19 countries (including 4 territories) from the Western Pacific region, 61 countries (including 7 territories) from the European region, 10 countries from the Southeast Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 48 countries (including 2 territories) from the African region.
+In the 24 hours since the last WHO update:
+----------------------------------------
+The Americas region reported 48 674 new cases (52.9% of the global newly reported cases) and 3109 deaths (53.6% of the global newly reported deaths). Of the newly confirmed cases in the region, 65.3% were reported by the USA, followed by Brazil at 14.8%, Peru at 6.3%, and Canada at 3.3%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 42.7% of the newly reported cases in the region, followed by Peru at 18.0%, Canada at 9.5%, Mexico at 8.4%, Ecuador at 8.3%, Chile at 5.8%, and the Dominican Republic at 1.9%.
+The European region reported 30 620 new cases (33.3% of the global newly reported cases) and 2386 deaths (41.1% of the global newly reported deaths). Russia reported 31.4% of the newly confirmed cases in the region, the UK 20.3%, Germany 8.4%, Turkey 7.1%, Italy 6.4%, and Belarus 2.9%.
+The Eastern Mediterranean region reported 6406 new cases (7.0% of the global newly reported cases) and 143 deaths (2.5% of the global newly reported deaths). Saudi Arabia reported 21.0% of the regional newly reported cases, followed by Pakistan at 20.2%, Iran at 15.7%, Qatar 10.7%, and the United Arab Emirates at 8.7%.
+The African region reported 1310 new cases (1.4% of the global newly reported cases) and 40 deaths (0.69% of the global newly reported deaths). South Africa reported 23.2% of the newly reported cases in the region in the past 24 hours, followed by Nigeria at 18.2%, Cameroon at 18.1%, Algeria at 11.3%, and Senegal at 6.9%.
+The Western Pacific region reported 1565 new cases (1.7% of the global newly reported cases) and 39 deaths (0.67% of the global newly reported deaths). Singapore reported 59.6% of the newly reported cases, followed by the Philippines at 18.1%, Japan at 16.9%, and Malaysia at 4.4%.
+The South-East Asia region reported 3402 new cases (3.7% of the global newly reported cases) and 82 deaths (1.4% of the global newly reported deaths). India reported 67.4% of newly reported cases, followed by Bangladesh at 16.8% and Indonesia at 12.7%. Removing India from the denominator, Bangladesh represents 51.5% of the newly reported cases, Indonesia represents 39.0%, and the Maldives 6.5%.
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region, 30 Dec 2019 through 2 May 2020, at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend.
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.UBA
+HealthMap/ProMED-mail map:
+Worldwide: 
+http://healthmap.org/promed/p/8854
+] 
+See Also
+COVID-19-update (151): China, S Korea, countries w/ high local transm, Congo DR  
+20200502.7290672
+ 
+COVID-19 update (150): global, USA state prisons, WHO  
+20200502.7290671
+COVID-19 update (149): France (IF) animal, cat, owned  
+20200501.7289409
+COVID-19-update (148): China, South Korea, countries w/ high local transmission  
+20200501.7287311
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI  
+20200430.7286479
+COVID-19 update (147): global, contact tracing China, new countries, WHO  
+20200501.7287216
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology  
+20200501.7286113
+COVID-19 update (145): USA, home remedy, bleach/household cleansers  
+20200430.7282290
+Undiagnosed pediatric inflammatory syndrome: UK, COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (144): China, South Korea, countries w/ high local transmission  
+20200430.7284979
+COVID-19 update (143): USA (NY) animal, zoo, tiger, lion, tests  
+20200430.7284183
+COVID-19 update (142): global, care home, WHO  
+20200430.7281182
+COVID-19 update (141): India, animal, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (140): China, South Korea, countries w/ high local transmission  
+20200429.7278751
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) animal, dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................sb/uba/tw/ml

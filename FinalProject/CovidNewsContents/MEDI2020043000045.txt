@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000045
+
+Date : 2020-04-20 00:00:00
+Title : Nigeria records 196 new coronavirus cases with 7 deaths, total now 1,728 bayo wahab
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.20
+Location:Nigeria
+Cases:one case
+Description:Nigeria records 196 new coronavirus cases with 7 deaths, total now 1,728 bayo wahab

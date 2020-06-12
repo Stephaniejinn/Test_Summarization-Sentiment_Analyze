@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200038
+
+Date : 2020-05-01 00:00:00
+Title : London coronavirus map: How many cases are in every London borough as total hits 24,477
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:USA/Virginia
+Cases:least cases
+Description:London coronavirus map: How many cases are in every London borough as total hits 24,477

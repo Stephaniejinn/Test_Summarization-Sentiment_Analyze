@@ -1,0 +1,41 @@
+URL : https://flutrackers.com/forum/forum/genetic-tracking-scientfic-analysis-of-pandemic-influenza-other-diseases/virology-blog-about-viruses-and-viral-disease/856502-vb-the-sars-cov-2-pandemic-could-have-been-prevented
+ID : FLUT2020050200108
+
+Date : 2020-05-02 06:08:47
+Title : VB: The SARS-CoV-2 pandemic could have been prevented
+Ariticle : 
+																							The 3,250,000 cases of COVID-19 and 233,000 deaths caused by SARS-CoV-2 (numbers as of this writing) could have largely been prevented. The viral outbreak could have been stopped in December in Wuhan had we had the foresight and financial support to develop antiviral drugs or vaccines.
+
+In the aftermath of the SARS-CoV pandemic of 2003, wildlife sampling taught us that bats harbor many SARS-like coronaviruses. Subsequent research revealed that some of these bat viruses have pandemic potential. We knew that CoVs lurked in bats in China with the potential to cause an outbreak. But no one would invest the money needed to make antiviral drugs or vaccines.
+
+After SARS-CoV, a number of laboratories continued their research on the virus, but big Pharma lost interest in the virus – because it had disappeared from the face of the Earth. There was no money to be made in SARS-CoV antivirals or vaccines, so none were made. As a result, when SARS-CoV-2 emerged in late 2019, humanity was completely unable to stop its inexorable spread around the globe.
+
+What could have been done? To start, we should have made antiviral drugs that inhibit a broad range of bat SARS-like CoVs. One protein encoded in the genome of these viruses – the RNA dependent RNA polymerase, essential for the synthesis of all viral RNAs – is the most highly conserved protein among all of these viruses. It would have been straightforward to take a sample of these RdRps from bat CoVs, produce them in cell culture, and find small molecule compounds that inhibit all of them. A pan-CoV antiviral drug could have been developed through human phase I trials, and stockpiled for the next pandemic. But there was no money to support such work – neither in the halls of big Pharma or forthcoming from the under-funded NIH.
+
+It might have even been possible to make a pan-CoV vaccine, although in my view this would be much harder and less certain than a pan-CoV antiviral drug. One approach, similar to that being taken to make universal influenza vaccines, is to identify conserved epitopes (the amino acids to which antibodies are directed) on the viral spike protein. It would be straightforward to examine the spike proteins of many bat SARS-like CoVs to identify such conserved epitopes and either design vaccines to target them, or produce monoclonal antibodies agains such targets to be used therapeutically.
+
+All of this research and more is taking place after the fact – too late to impact the pandemic. Companies are now motivated because the profit to be had is clear. Until such therapies are available – too late to impact the 2020 outbreak – we are left with testing antiviral drugs that were developed for other purposes, and they are not ideal. One that is being highly touted is Remdesivir, a drug that must be given intravenously (it is not sufficiently absorbed after oral administration) which means it is typically given only to very sick patients. By that time, virus loads in the lung are already low and giving an antiviral drug will have little impact. We could have had so much more than this.
+
+How would all of this research have impacted the SARS-CoV-2 pandemic? In one scenario, we have stockpiles of a pan-CoV antiviral drug, enough to treat millions of people. When SARS-CoV-2 is first identified in Wuhan, the drug is immediately given a large phase II efficacy trial. We treat not only sick people but all their contacts and contacts of contacts. We also treat health care personnel. The drug will substantially drop virus levels in lung, impairing transmission. A larger phase III trial could follow with even more participants. It is likely that with such an approach, the virus would never have left China; but if it had, we could track it down and use the antiviral to stop spread. This scenario depends, of course, on extensive testing and contact tracing, a process not sufficiently done in the US and for which that country should be ashamed for not responding quickly enough.
+
+It’s easy to blame bats for unwittingly giving humanity SARS-CoV-2. But I also blame both big Pharma and the US government for failing to come up with a pan-CoV antiviral or vaccine. Big Pharma because they are blind to anything that doesn’t enhance their bottom line. And the US government for severely under-funding the NIH so that essential research could not even be done in academic laboratories. It is very difficult to get money from Congress for research on a virus that is not a big human problem. That situation needs to end.
+
+Every American should be outraged that the US has cut off funding for 
+EcoHealth Alliance
+, an organization that supports wildlife sampling to discover viruses with pandemic potential in bats and other species. It is exactly that type of work that is needed to prepare therapeutics for the next pandemic. There is no scientific justification for such a move, only political motives.
+
+I would also like to point out that due to pressure from a number of individuals who felt that determining the pandemic potential of SARS-like CoV in bats was too dangerous, a research moratorium on certain kinds of this research was imposed in 2014. I do hope the authors of that moratorium feel at least a small amount of regret as they look at the rising COVID-19 numbers. After all, Nature does not observe our moratoriums.
+
+Now, as a consequence of this lack of vision, many people have died, economies have been destroyed, and the social structure of the world has changed. The US alone is spending trillions of dollars on recovery assistance. It would have been far cheaper to spend just billions for prevention.
+
+Our model of how we make life-saving vaccines and antiviral drugs has to change. We cannot be dependent on for-profit companies and governments with lack of vision to save our lives. A new breed of non-profit organization is emerging that hopes to fund the development of vaccines and antiviral drugs that would not be otherwise possible. They include the likes of 
+CEPI
+ and 
+READDI
+. Give them your support – our lives depend on it.
+
+I would like to think that this pandemic will at least improve government support for research on viruses that are currently not harming humans, but have the potential to do so. But that would require that those in Congress who dole out the money look beyond politics. I do not think that will happen. Human health, and the viruses that impact it, will always be a political issue.
+
+
+https://www.virology.ws/2020/04/30/t...een-prevented/
+													

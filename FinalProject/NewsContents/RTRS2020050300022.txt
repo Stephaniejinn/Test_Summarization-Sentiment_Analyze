@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-russia/coronavirus-cases-in-russia-rise-by-record-daily-amount-idUSKBN22F07K
-ID : RTRS2020050300022
-
-Date : 2020-05-03 07:48:00
-Title : Coronavirus cases in Russia rise by record daily amount
-Ariticle : 
-MOSCOW (Reuters) - Russia on Sunday recorded its highest daily rise in confirmed coronavirus cases with 10,633 new cases, bringing the overall number of cases to 134,686, according to the authorities’ official website. 
-The mortality rate has slowed in recent days however, and remains much lower, in relative terms, than many other countries.  
-The nationwide death toll rose to 1,280 after 58 people died in the last 24 hours, Russia’s coronavirus crisis response centre said. 

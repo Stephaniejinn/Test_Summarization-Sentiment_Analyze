@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-spain/spains-daily-coronavirus-death-toll-rises-to-325-idUSKBN22B173
-ID : RTRS2020042900052
-
-Date : 2020-04-29 09:30:00
-Title : Spain's daily coronavirus death toll rises to 325
-Ariticle : 
-MADRID (Reuters) - Spain recorded 325 deaths from the novel coronavirus overnight, up from 301 reported the previous day, the health ministry said on Wednesday. 
-The overall death toll from the virus, however, rose by 453 to to 24,275, it said, adding that some of the additional cases were from the previous days. The number of diagnosed cases rose by 2,144 from Tuesday to 212,917, the ministry said. 

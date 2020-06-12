@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400082
+
+Date : 2020-05-03 00:00:00
+Title : News 5 hours ago President orders probe on COVID-19 testing kits after goat, pawpaw tested positive Tanzanian president, John Magufuli, has ordered a probe on the country’s coronavirus testing kits after samples taken from a goat and pawpaw tested positive. Speaking at...
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:Tanzania
+Cases:goat
+Description:News 5 hours ago President orders probe on COVID-19 testing kits after goat, pawpaw tested positive Tanzanian president, John Magufuli, has ordered a probe on the country’s coronavirus testing kits after samples taken from a goat and pawpaw tested positive. Speaking at...

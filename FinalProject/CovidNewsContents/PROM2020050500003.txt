@@ -1,0 +1,127 @@
+URL : https://promedmail.org/promed-post/?id=7299876
+ID : PROM2020050500003
+
+Date : 2020-05-05 03:17:02
+Title : PRO/AH/EDR> Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI
+Ariticle : 
+UNDIAGNOSED PEDIATRIC INFLAMMATORY SYNDROME (03): USA, EUROPE, CORONAVIRUS DISEASE 2019 SUSPECTED, REQUEST FOR INFORMATION
+**************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this post:
+[1] USA (New York City)
+[2] USA (New York)
+[3] USA (Pennsylvania)
+[4] Europe (UK, Italy, France)
+******
+[1] USA (New York City)
+Date: Mon 4 May 2020
+Source: New York City Department of Health -- Health Alert Network [edited]
+https://www1.nyc.gov/assets/doh/downloads/pdf/han/alert/2020/covid-19-pediatric-multi-system-inflammatory-syndrome.pdf
+Pediatric multi-system inflammatory syndrome potentially associated with COVID-19
+-------------------------------------------------------------------
+- 15 cases compatible with multi-system inflammatory syndrome have been identified in children in New York City hospitals.
+- Characterized by persistent fever and features of Kawasaki disease and/or toxic shock syndrome; abdominal symptoms common.
+- Cases may require intensive care unit admission for cardiac and/or respiratory support.
+- Polymerase chain reaction testing for SARS-CoV-2 may be positive or negative.
+- Early recognition and specialist referral are essential, including to critical care if warranted.
+- Immediately report cases to the New York City Health Department's Provider Access Line: 866-692-3641
+4 May 2020
+Dear colleagues,
+A pediatric multi-system inflammatory syndrome, recently reported by authorities in the United Kingdom, [ref] is also being observed among children and young adults in New York City and elsewhere in the United States. Clinical features vary, depending on the affected organ system, but have been noted to include features of Kawasaki disease or features of shock; however, the full spectrum of disease is not yet known. Persistent fever and elevated inflammatory markers (CRP, troponin, etc) have been seen among affected patients. Patients with this syndrome who have been admitted to pediatric intensive care units (PICUs) have required cardiac and/or respiratory support. Only severe cases may have been recognized at this time.
+The NYC Health Department contacted PICUs in NYC during [29 Apr-3 May 2020] and identified 15 patients aged 2-15 years who had been hospitalized from [17 Apr-1 May 2020] with illnesses compatible with this syndrome (that is, typical Kawasaki disease, incomplete Kawasaki disease, and/or shock). All patients had subjective or measured fever and more than half reported rash, abdominal pain, vomiting, or diarrhea. Respiratory symptoms were reported in less than half of these patients. Polymerase chain reaction (PCR) testing for SARS-CoV-2 has been positive (4), negative (10), and initially indeterminate and then negative (1). 6 patients with negative testing by PCR were positive by serology. More than half of the reported patients required blood pressure support and 5 required mechanical ventilation. No fatalities have been reported among these cases.
+If the above-described inflammatory syndrome is suspected, pediatricians should immediately refer patients to a specialist in pediatric infectious disease, rheumatology, and/or critical care, as indicated. Early diagnosis and treatment of patients meeting full or partial criteria for Kawasaki disease is critical to preventing end-organ damage and other long-term complications. Patients meeting criteria for Kawasaki disease should be treated with intravenous immunoglobulin and aspirin.
+Consistent with the NYC Health Code Article 11, which requires reporting of outbreaks and suspected outbreaks of syndromes of known or unknown etiology and of unusual manifestations of disease of public health interest, any patient who meets the following criteria should immediately be reported to the NYC Health Department by calling the Provider Access Line at 866-692-3641:
+- less than 21 years old, with persistent fever (4 or more days), and either incomplete Kawasaki disease, typical Kawasaki disease, and/or toxic shock syndrome-like presentation; and
+- no alternative etiology identified that explains the clinical presentation (note: patients should be reported regardless of SARS-CoV-2 PCR test result)
+Reference
+---------
+Pediatric Intensive Care Society. PICS statement: Increased number of reported cases of novel presentation of multi-system inflammatory disease. [27 Apr 2020]. Available at 
+https://picsociety.uk/wp-content/uploads/2020/04/PICS-statement-re-novel-KD-C19-presentation-v2-27042020.pdf
+.
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+******
+[2] USA (New York)
+Date: Mon 4 May 2020
+Source: Mass Live [edited]
+https://www.masslive.com/coronavirus/2020/05/coronavirus-impacting-kids-pediatricians-warn-of-possible-new-covid-19-related-illnesses-in-children.html
+Mount Sinai Hospital has confirmed reports of new and unusual COVID-19 illness in pediatric patients, NBC Boston reports.
+Dr George Ofori, pediatric critical care director for Mount Sinai Kravis Children's Hospital [in New York City], told NBC, "Some of the cases that we are currently treating entered our care presenting with symptoms such as abdominal pain, vomiting, diarrhea, and a low-grade fever. Others presented first with a rash, conjunctivitis, and/or cracked lips." Symptoms include a fever lasting longer than 5 days, rash, gastrointestinal symptoms, red eyes, and swollen hands and feet, NBC reports.
+Dr Ofori noted some patients developed heart problems and low blood pressure, which led to shock. Some of the patients had been diagnosed with COVID-19 2 to 3 weeks before the symptoms developed, NBC reports. "Whether the underlying condition is COVID-19 or the body's response to COVID-19 is not known at this time," Dr Ofori told NBC. "While it is too early to definitively say what is causing this we believe it is important to alert the public as to what we are seeing."
+According to NBC, Cohen Children's Hospital on Long Island has also seen about a dozen critically ill pediatric patients in the past 2 weeks with similar inflammatory symptoms. "We now have at least about 12 patients in our hospital that are presenting in a similar fashion, that we think have some relation to a [COVID-19] infection," Dr James Schneider, director of pediatric critical care at Cohen Children's Hospital in Nassau, told NBC. "It's something we're starting to see around the country."
+Cohen, NBC reports, is one of several local hospitals with pediatricians concerned about the recent influx of previously healthy children who have developed critical illnesses resembling toxic shock syndrome and Kawasaki disease. Kawasaki disease is an autoimmune disease that is caused by a viral infection, and, if not treated properly, can cause life-threatening damage to the arteries and heart, according to NBC.
+Pediatric cardiologist Dr Nadine Choueiter of Montefiore Medical Center in the Bronx told NBC the cases are rare, but noted, "Yes, we are seeing them and it's important to talk about it to raise awareness so as pediatricians we look for these symptoms and treat them."
+According to NBC, Cohen Children's Hospital currently has a dozen cases, and Mount Sinai's number of cases in their pediatric ICU grew by several this week, up from 2 cases reported on [28 Apr 2020].
+Pediatricians, NBC reports, are noting that besides the serious inflammatory symptoms, many children are testing positive for COVID-19 or the antibodies. Some of the children are testing negative for the coronavirus as well, and are believed to have been exposed to the virus by immediate family members. Doctors are working together to figure out if it's COVID-19 triggering the immune system. "The interesting part is only now are we seeing these patients show up," Dr Schneider remarked to NBC. "Is this a typical surge in Kawasaki disease or is this the typical post-infectious response to a [COVID-19] infection?" Since health officials do not require these symptoms to be tracked in children, it's difficult to determine whether or not these cases are related to COVID-19, NBC wrote.
+The New York City Health Department is now looking into these cases, according to NBC. "We are looking closely at this, "Oxiris Barbot, commissioner of the NYC Department of Health and Mental Hygiene, told NBC. "My team has reached out to the pediatric hospitals to get more information about specific cases that they have concerns are indicating an inflammatory cardiovascular response in children that had not been previously observed."
+[byline: Tom Matthews]
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[HealthMap/ProMED-mail map of New York State, United States: 
+http://healthmap.org/promed/p/252
+]
+******
+[3] USA (Pennsylvania)
+Date: Mon 4 May 2020
+Source: Philly Voice [edited]
+https://www.phillyvoice.com/kawasaki-disease-symptoms-covid-19-complication-children-coronavirus/
+Some pediatric COVID-19 patients are developing symptoms normally associated with Kawasaki disease, a rare inflammatory syndrome that mostly affects children under the age of 5. Several hospitals in the US and the UK have reported such cases, including Children's Hospital of Philadelphia [CHOP], according to ABC News. But the association between the 2 illnesses is not well established.
+Kawasaki disease symptoms include fever, eye irritation, rash, cracked lips, swollen lymph nodes, and swelling of the hands and feet. It is believed to be triggered by a bacterial or viral infection, but is not considered contagious.
+Dr Audrey John, chief of infectious disease at CHOP, told ABC News that the cases seen in the UK "definitely rang a bell with some cases we have seen here." But doctors say the severe inflammation also could be related to toxic shock syndrome, a sometimes fatal complication of bacterial infections. Patients with toxic shock syndrome often experience sudden onset of high fever, low blood pressure, rash, confusion, and seizures. John said it is not always easy to tell the difference between Kawasaki disease and toxic shock syndrome. Low blood pressure, fever, and rash are common symptoms for both. "There is overlap between Kawasaki disease and toxic shock," John said.
+Children represent only a small percentage of COVID-19 cases in the US. Those that do get sick mostly experience mild symptoms. But the reports of inflammatory syndrome are beginning to raise some concern.
+Last week[week of 27 Apr 2020], the Paediatric Intensive Care Society in the UK tweeted about a growing number of children needing intensive care for "multi-system" inflammation. The patients all had "overlapping features of toxic shock syndrome and atypical Kawasaki disease with blood parameters consistent with severe COVID-19". The UK Kawasaki Disease Foundation since has noted that about half of those children tested negative for the coronavirus. Also, there is not enough evidence to suggest an increased risk of COVID-19 infection for children who previously had Kawasaki disease, according to the foundation. Similar cases also are popping up in the US.
+Doctors at Children's National Hospital in Washington, DC and at Cohen Children's Hospital of Northwell Health in New York City have reported children with a Kawasaki-like illness. The inflammation was so severe in some children that it affected multiple organs.
+A baby with a confirmed positive COVID-19 diagnosis at Stanford Children's Hospital in California also was treated for symptoms of Kawasaki disease. She was given intravenous immunoglobulin and high-dose aspirin and now is recovering at home. But Stanford doctor, Brad Segal, who treated the patient, said there is no need for alarm just yet. The complication is rare and more research is needed to understand the factors that trigger it. "I don't, though, think we are going to see a wave of these cases," Segal told CNN. "This isn't something that families, even if they have coronavirus really need to worry about, based on what we know so far."
+[byline: Tracey Romero]
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[HealthMap/ProMED-mail maps:
+Philadelphia, Pennsylvania, United States: 
+http://healthmap.org/promed/p/257
+California, United States: 
+http://healthmap.org/promed/p/5799
+Washington, DC, United States: 
+http://healthmap.org/promed/p/259
+]
+******
+[4] Europe (UK, Italy, France)
+Date: Sat 2 May 2020 06:00 am JST
+Source: Japan Today [edited]
+https://japantoday.com/category/national/rising-cases-of-kids-with-kawasaki-disease-possibly-linked-to-virus
+Doctors in Europe and the United States have been reporting an increase in cases of children who have developed Kawasaki disease or symptoms similar to the rare inflammatory syndrome, with concerns raised over a possible link to the new coronavirus, according to local media reports. The scientific community and national authorities are unsure as to whether the acute febrile illness, which primarily affects children under 4, was triggered by COVID-19, and will remain vigilant in monitoring it.
+Kawasaki disease, the cause of which is unknown and which is usually seen in Asia, is associated with irritation and redness of the whites of the eyes, swollen tongues, skin rashes, and fever. It can limit blood flow to the heart and cause vascular inflammation as well as myocardial infarction. It is usually treatable but could also be fatal.
+In Britain, around 20 children have been identified with the Kawasaki disease, but not all of them tested positive for COVID-19, the BBC reported. "It's a new disease that we think may be caused by coronavirus and the COVID-19 virus. We're not 100 percent sure because some of the people who got it hadn't tested positive, so we're doing a lot of research now, but it is something that we're worried about," health secretary Matt Hancock told LBC Radio, according to a Reuters report.
+In Bergamo, northern Italy, which has been particularly hit by COVID-19, 20 children have been confirmed with Kawasaki disease since late March [2020]. The figure is roughly equivalent to the total number of cases over 3 years.
+In France, there are around 15 children in Parisian hospitals with symptoms of Kawasaki disease, Olivier Veran, the French health minister, told France Info radio on Wednesday [29 Apr 2020]. He said that "some of the children in France and Britain have been revealed to carry the coronavirus," and called for more data from the medical community to see if there is a link between the 2 illnesses.
+In the United States, a 6 month old girl in California who was admitted to hospital with Kawasaki disease tested positive for COVID-19, the Associated Press reported Tuesday [28 Apr 2020]. But it is not clear whether the illnesses had a causal link or are coincidences, Sonja Rasmussen, a pediatrics professor, told the news agency.
+Reuters, meanwhile, reported that at least 3 children in the United States infected with the coronavirus are being treated for Kawasaki disease symptoms in New York. Mark Gorelik, a specialist treating them at Columbia University Medical Center in New York, was quoted as telling the newswire that he believes the cases are likely not Kawasaki disease, but a similar process shared by both with an infectious agent that triggers an immune response.
+The World Health Organization has asked its global network of clinicians to be on alert for this, said Maria Van Kerkhove, the institution's technical lead for COVID-19. "There are some recent rare descriptions of children in some European countries that have had this inflammatory syndrome, which is similar to the Kawasaki syndrome, but it seems to be very rare," she said.
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[HealthMap/ProMED-mail maps:
+United Kingdom: 
+http://healthmap.org/promed/p/40
+Italy: 
+http://healthmap.org/promed/p/35892
+France: 
+http://healthmap.org/promed/p/1871
+It appears that since the alert was raised by the PICS society in the UK, there is now a "seek and ye shall find" mode and cases are being found in multiple locations in the USA (major cities such as New York and Philadelphia, and major academic centers, Stanford in northern California). Italy and France have reported cases in addition to the UK. One suspects with further identification there may be a spectrum of inflammatory disease seen in children as well.
+More information on other geographic locations identifying cases would be greatly appreciated in addition to virologic studies. - Mod.MPP] 
+See Also
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI  
+20200430.7286479
+Undiagnosed pediatric inflammatory syndrome: UK, COVID-19 suspected, alert, RFI  
+20200427.7273105
+.................................................mpp/mj/sh

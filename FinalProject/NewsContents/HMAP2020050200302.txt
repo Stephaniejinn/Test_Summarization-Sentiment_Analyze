@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7290285&trto=en&trfr=pt&pid6
-ID : HMAP2020050200302
-
-Date : 2020-05-01 00:00:00
-Title : PRO/PORT> Novo coronavírus, COVID-19 - Brasil (52), atualização, número de casos e de óbitos -
-Ariticle : 
-O Ministério da Saúde registrou 91.589 casos de coronavírus e 6.329 mortes pela doença no Brasil até as 14h desta sexta-feira (01) [maio/2020], segundo informações repassadas pelas Secretarias Estaduais de Saúde de todo o país. Nas últimas 24 horas, foram 6.209 casos novos e 428 novos óbitos.Dos 91.589 casos confirmados, 38.039 estão recuperados (41,5%) e outros 47.221 estão em acompanhamento. Atualmente, todos os estados brasileiros registram casos e mortes por coronavírus.  
-Brazil | COVID-19 | Humans

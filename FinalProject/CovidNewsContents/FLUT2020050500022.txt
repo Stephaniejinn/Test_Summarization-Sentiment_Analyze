@@ -1,0 +1,76 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/857433-jama-letter-large-vessel-stroke-as-a-presenting-feature-of-covid-19-in-the-young
+ID : FLUT2020050500022
+
+Date : 2020-05-05 13:52:13
+Title : JAMA letter: Large-Vessel Stroke as a Presenting Feature of Covid-19 in the Young
+Ariticle : 
+																							
+Large-Vessel Stroke as a Presenting Feature of Covid-19 in the Young
+
+
+April 28, 2020
+DOI: 10.1056/NEJMc2009787
+
+
+
+To rapidly communicate information on the global clinical effort against Covid-19, the 
+Journal
+ has initiated a series of case reports that offer important teaching points or novel findings. The case reports should be viewed as observations rather than as recommendations for evaluation or treatment. In the interest of timeliness, these reports are evaluated by in-house editors, with peer review reserved for key points as needed.
+
+We report five cases of large-vessel stroke in patients younger than 50 years of age who presented to our health system in New York City. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection was diagnosed in all five patients.
+
+Table 1.
+Clinical Characteristics of Five Young Patients Presenting with Large-Vessel Stroke.
+
+Cough, headache, and chills lasting 1 week developed in a previously healthy 33-year-old woman (Patient 1) (
+Table 1
+). She then had progressive dysarthria with both numbness and weakness in the left arm and left leg over a period of 28 hours. She delayed seeking emergency care because of fear of Covid-19. When she presented to the hospital, the score on the National Institutes of Health Stroke Scale (NIHSS) was 19 (scores range from 0 to 42, with higher numbers indicating greater stroke severity), and computed tomography (CT) and CT angiography showed a partial infarction of the right middle cerebral artery with a partially occlusive thrombus in the right carotid artery at the cervical bifurcation. Patchy ground-glass opacities in bilateral lung apices were seen on CT angiography, and testing to detect SARS-CoV-2 was positive. Antiplatelet therapy was initiated; it was subsequently switched to anticoagulation therapy. Stroke workup with echocardiography and magnetic resonance imaging of the head and neck did not reveal the source of the thrombus. Repeat CT angiography on hospital day 10 showed complete resolution of the thrombus, and the patient was discharged to a rehabilitation facility.
+
+Over a 2-week period from March 23 to April 7, 2020, a total of five patients (including the aforementioned patient) who were younger than 50 years of age presented with new-onset symptoms of large-vessel ischemic stroke. All five patients tested positive for Covid-19. By comparison, every 2 weeks over the previous 12 months, our service has treated, on average, 0.73 patients younger than 50 years of age with large-vessel stroke.
+
+On admission of the five patients, the mean NIHSS score was 17, consistent with severe large-vessel stroke. One patient had a history of stroke. Other pertinent clinical characteristics are summarized in 
+Table 1
+.
+
+A retrospective study of data from the Covid-19 outbreak in Wuhan, China, showed that the incidence of stroke among hospitalized patients with Covid-19 was approximately 5%; the youngest patient in that series was 55 years of age.
+1
+ Moreover, large-vessel stroke was reported in association with the 2004 SARS-CoV-1 outbreak in Singapore.
+2
+ Coagulopathy and vascular endothelial dysfunction have been proposed as complications of Covid-19.
+3
+ The association between large-vessel stroke and Covid-19 in young patients requires further investigation.
+
+Social distancing, isolation, and reluctance to present to the hospital may contribute to poor outcomes. Two patients in our series delayed calling an ambulance because they were concerned about going to a hospital during the pandemic.
+
+Thomas J. Oxley, M.D.
+J. Mocco, M.D.
+Shahram Majidi, M.D.
+Christopher P. Kellner, M.D.
+Hazem Shoirah, M.D.
+I. Paul Singh, M.D.
+Reade A. De Leacy, M.D.
+Tomoyoshi Shigematsu, M.D.
+Travis R. Ladner, M.D.
+Kurt A. Yaeger, M.D.
+Maryna Skliut, M.D.
+Jesse Weinberger, M.D.
+Neha S. Dangayach, M.D.
+Joshua B. Bederson, M.D.
+Stanley Tuhrim, M.D.
+Johanna T. Fifi, M.D.
+Mount Sinai Health System, New York, NY
+
+thomas.oxley@mountsinai.org
+
+
+Disclosure forms
+ provided by the authors are available with the full text of this case at NEJM.org.
+
+This case was published on April 28, 2020, at NEJM.org.
+
+We dedicate this case to our inspiring colleague Gary Sclar, M.D., a neurologist who died of Covid-19.
+
+
+
+https://www.nejm.org/doi/full/10.105..._railB_article
+													

@@ -1,0 +1,30 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-testing-roche-hldg/roche-wins-u-s-nod-for-covid-19-antibody-test-aims-to-boost-output-idUSKBN22F02Q
+ID : RTRS2020050300037
+
+Date : 2020-05-03 02:50:00
+Title : Roche wins U.S. nod for COVID-19 antibody test, aims to boost output
+Ariticle : 
+(Reuters) - Roche (
+ROG.S
+) has won emergency approval from the U.S. Food and Drug Administration (FDA) for an antibody test to determine whether people have ever been infected with the coronavirus, the Swiss drugmaker said 
+here
+ on Sunday. 
+Thomas Schinecker, Roche’s head of diagnostics, said the company aims to more than double production of tests from about 50 million a month to significantly more than 100 million a month by the end of the year. 
+Governments, businesses and individuals are seeking such blood tests to learn who may have had the disease, who may have some immunity and to potentially craft strategies to help end national lockdowns. 
+Basel-based Roche, which also makes molecular tests to identify active COVID-19 infections, said its antibody test has a specificity rate exceeding 99.8% and sensitivity of 100%, meaning tests would show very few false positives and no false negatives. 
+A false-positive result could lead to the mistaken conclusion that someone has immunity. Roche said its test relies on intravenous blood draws, with higher accuracy than finger-prick tests. 
+“If you take blood from a finger prick, you will never be able to achieve the same level of specificity that you will achieve ... when you take blood from the vein,” Schinecker said. 
+“You have to have very, very high specificity. Even 0.1% or 0.2% makes a difference.” 
+Similar antibody tests have also been developed by companies  including U.S.-based Abbott Laboratories (
+ABT.N
+), Becton Dickinson (
+BDX.N
+) and Italy’s DiaSorin (
+DIAS.MI
+). 
+Abbott has said the specificity and sensitivity of its test are 99.5% and 100% respectively. Diasorin has said its Liason XL test has 97.4% sensitivity and 98.5% specificity. 
+As demand escalates for antibody tests, an array of distributors with no background or established testing competency have also joined the experienced companies in an all-but-unregulated marketplace in the United States, according to a Reuters investigation. 
+Roche did not disclose a price for its test but said that it would be identical worldwide. 
+Schinecker foresees a high need for testing healthcare workers and their families for exposure, and those who showed signs and symptoms, to see if they have antibodies. 
+While antibodies typically confer some immunity, Schinecker acknowledged that much remains to be learned about the novel coronavirus before drawing definitive conclusions. 
+“Since this virus is not well known, one can hypothesise, but the proof will take longer,” he said. “Testing these people ... is key to seeing whether or not people really have developed immunity.” 

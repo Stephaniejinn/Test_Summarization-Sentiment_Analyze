@@ -1,0 +1,41 @@
+URL : https://www.cbc.ca/news/world/us-gilead-remdesivir-fauci-1.5550393
+ID : CBCH2020050100003
+
+Date : 2020-04-30 14:19:59.358000
+Title : Some scientists surprised Oval Office used to release preliminary antiviral drug details
+Ariticle : 
+The top U.S. infectious disease official says concerns over leaks compelled him to reveal data on Gilead Sciences Inc.'s experimental drug remdesivir, the first in a scientifically rigorous clinical trial to show benefit in treating COVID-19.
+The dramatic announcement by Dr. Anthony Fauci in the Oval Office on Wednesday prompted concerns among scientists that the U.S. administration was raising hopes about a coronavirus treatment before sharing the full data with researchers.
+As a cautionary example of inflating the potential value of a therapy, some pointed to President Donald Trump's repeated endorsements of malaria drug hydroxychloroquine as a treatment, with no evidence that it works.
+Newer data suggests the malaria treatments may carry significant risks for some sufferers of the respiratory disease caused by the virus.
+Fauci, director of the National Institute of Allergy and Infectious Diseases (NIAID), which is running the trial, said he took the first opportunity to get the word out that patients taking a dummy treatment or placebo should be switched to remdesivir in hopes of benefiting from it.
+WATCH l Remsdesivir not yet approved in Canada:
+He expressed concern that leaks of partial information would lead to confusion. Since the White House was not planning a daily virus briefing, Fauci said he was invited to release the news at a media conference with Louisiana Gov. John Bel Edwards.
+"It was purely driven by ethical concerns," Fauci told Reuters in a telephone interview.
+"I would love to wait to present it at a scientific meeting, but it's just not in the cards when you have a situation where the ethical concern about getting the drug to people on placebo dominates the conversation."
+Dr. Isaac Bogoch of Toronto's University Health Network told CBC News on Thursday he empathized with the tricky position the U.S. administration's expert is in, but said there were still many more questions to be answered.
+"I'm not knocking Dr. Anthony Fauci. I appreciate that there is an ethical obligation to report these findings in real time. It just puts us in a very difficult position when you have one of the world's most high-profile physicians saying this will be the standard of care," said Bogoch.
+"Now we ask ourselves: 'OK, now what?' Are we supposed to put all of our patients that are sick on this drug? Some us don't even have access to this drug. So there's a lot of issues."
+WATCH l 'We were looking for a win,' but more data still needed,' Bogoch says:
+An independent data safety and monitoring board, which had looked at the preliminary results of the NIAID trial, determined it had met its primary goal of reducing hospital stays.
+On Tuesday evening, that information was conveyed in a conference call to scientists studying the drug globally.
+"There are literally dozens and dozens of investigators around the world," Fauci said. "People were starting to leak it."
+But he did not give details of where the unreported data was being shared.
+Several scientists interviewed by Reuters felt the White House setting seemed inappropriate for the release of highly anticipated government-funded trial data on the Gilead therapy.
+They had expected it to be presented simultaneously in a detailed news release, a briefing at a medical meeting or in a scientific journal, allowing researchers to review the data.
+Information from various trials of remdesivir has been leaked to media in recent weeks. In a statement on Wednesday, Gilead said the NIAID's much-anticipated trial had met its primary goal, but gave no details.
+Data in a separate NIAID statement after Fauci spoke detailed preliminary results showing that patients who got the drug had a 31 per cent faster time to recovery than those who got a placebo, cutting hospital stays by four days.
+Bogoch emphasized the very specific conditions under which the drug would be considered if found to be effective.
+"This is really for people who are sick and on the sicker end of the spectrum in the hospital," he said.
+The trial also came close to showing the drug helped people survive the disease, but the data fell just short of statistical significance.
+"I want to see the full data. I want to understand the statistics. I want to understand the benefit and risk. I want to understand the structure of the study and all of it," said Dr. Steven Nissen, the chief academic officer at the Cleveland Clinic.
+"Am I encouraged from what I've heard? Yes, I'm encouraged. But I want to get a full understanding of what happened here and not get it via a photo opportunity from the Oval Office."
+Data that Gilead released on its own trial of remdesivir drew less attention, as it did not compare outcomes between those receiving therapy and those who did not.
+Results from a third study in China suggesting remdesivir failed to help COVID-19 patients were released in the British medical journal the Lancet after review by a peer group of scientists.
+"That's the only thing I'll hang my hat on, and that was negative," said Dr. Eric Topol, director and founder of the Scripps Research Translational Institute in La Jolla, Calif.
+LISTEN l 'We want to make sure that we temper that enthusiasm'
+He was unimpressed by remdesivir's modest benefit.
+"It was expected to be a whopping effect," Topol said. "It clearly does not have that."
+At the Oval Office news conference, Fauci compared the study findings to AZT, the first drug to show any benefit against HIV, decades ago.
+"We know that was an imperfect drug. It was the first step," Fauci said in the interview.
+"Similar to AZT, [remdesivir is] the first baby step towards what hopefully will be a number of better drugs that will come in and be able to treat people with COVID-19."

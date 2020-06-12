@@ -1,0 +1,35 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888877
+ID : GPHN2020050200037
+
+Date : 2020-04-29 18:32:00
+Title : Strokes And Blood Clots Seen In COVID-19 Patients : Shots - Health News - NPR
+Ariticle : 
+A medical worker transports a patient at New York's Mount Sinai Hospital, where doctors noticed that some young COVID-19 patients without other risk factors had strokes. Mary Altaffer/AP hide caption
+toggle caption
+Mary Altaffer/AP
+A medical worker transports a patient at New York's Mount Sinai Hospital, where doctors noticed that some young COVID-19 patients without other risk factors had strokes.
+Mary Altaffer/AP
+When COVID-19 patients began flooding emergency departments at New York hospitals in March, doctors saw some unusual cases of stroke.
+"We had a young woman in her early 30s who came in with a profound stroke, the kind of stroke that leaves someone permanently paralyzed and possibly unable to survive," says Dr. J. Mocco , a professor of neurosurgery and director of the cerebrovascular center at Mount Sinai Health System in New York.
+Her stroke was caused by a blood clot that was restricting blood flow to the right side of her brain. The young woman had none of the usual risk factors for stroke. But she tested positive for SARS-CoV-2, the coronavirus that causes COVID -19.
+And so did several other young, otherwise healthy people who had been admitted for major strokes. So Mocco and other doctors in the hospital system began to compare notes.
+"Speaking with the ICU doctors and the pulmonary doctors, they were seeing clots in the lungs," he says. "Speaking with the renal doctors and the dialysis doctors, they were seeing clots in the renal arteries causing kidney injury."
+Mocco and his colleagues thought it was time to sound the alarm. So they published a letter Tuesday in The New England Journal of Medicine describing five patients in their 30s and 40s who did not have the typical risk factors, but did have the SARS-CoV-2 virus.
+The letter was the latest evidence of a phenomenon doctors have been reporting since the early days of the pandemic in China. COVID-19 seems to produce blood clots — a lot of them. And this has been especially well documented in intensive care units.
+Health
+Transcript
+"Patients who are in the intensive care unit for other causes are at risk of having clots, but nothing like the levels were seeing with COVID-19," says Dr. Craig Coopersmith , a professor of surgery and interim director of the critical care center at Emory University School of Medicine in Atlanta.
+Coopersmith isn't seeing the sort of stroke patients reported in New York: young people without risk factors. But he is seeing abnormal clotting in a "significant minority" of ICU patients with COVID-19.
+Perhaps most surprising, he says, are the COVID-19 patients on dialysis machines, which remove waste products from the blood of people whose kidneys are failing. All of these patients are given blood thinners to prevent clots from occurring as their blood passes through the machine.
+"The dialysis machines almost never clot," Coopersmith says "And we were finding that the machines were clotting two or three or four times a day."
+Even so, blood thinners are able to reduce clotting in most patients with COVID-19. And if a dangerous clot does form, it can often be dissolved with a clot-busting drug.
+But drugs that prevent clots or break them up can also cause uncontrolled bleeding, so patients on them have to be watched closely, Coopersmith says.
+"We have literally five different teams in the hospital specifically and only looking at blood clotting, just because of COVID," he says.
+It's still not clear precisely how COVID-19 is causing blood clots. It could be from the infection itself or the immune system's response to the virus.
+Mocco suspects the virus is damaging the cells that line blood vessels, allowing blood to come in contact with substances in the body that cause clotting.
+And some hints about how COVID-19 affects clotting are coming from lab tests of patients, says Dr. Tiffany Osborn , a professor of surgery and emergency medicine at Washington University in St. Louis.
+"We are seeing lab values that are off the wall," she says.
+For example, doctors are seeing levels of a protein fragment called a D-dimer that are more than 100 times normal levels, Osborn says. This suggests the presence of lots of blood clots that the body is trying to break down.
+Some patients also have very high levels of thrombin, an enzyme that causes blood to clot.
+And there's growing evidence that blood clots associated with COVID-19 are causing problems through the body.
+"You have areas that become purple on the hands and feet," Osborn says. "We think it probably has to do with these blood clots that are going to the extremities."

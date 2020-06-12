@@ -1,7 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-mexico-tally/mexico-reports-1515-new-coronavirus-cases-113-deaths-idUSKBN22E00L
-ID : RTRS2020050200028
-
-Date : 2020-05-02 00:45:00
-Title : Mexico reports 1,515 new coronavirus cases, 113 deaths
-Ariticle : 
-MEXICO CITY (Reuters) - Mexico’s health ministry reported on Friday 1,515 new known coronavirus cases and 113 deaths, bringing the country’s total to 20,739 cases and 1,972 deaths. 

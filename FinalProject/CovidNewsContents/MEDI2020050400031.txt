@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400031
+
+Date : 2020-05-03 00:00:00
+Title : Israel's fatalities from COVID-19 reach 232, 16,208 confirmed cases
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.03
+Location:Israel
+Cases:29 new cases
+Description:Israel's fatalities from COVID-19 reach 232, 16,208 confirmed cases

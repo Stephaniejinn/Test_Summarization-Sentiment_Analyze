@@ -1,8 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7289409&trto=en&trfr=en&pid15023
-ID : HMAP2020050200239
-
-Date : 2020-05-01 00:00:00
-Title : PRO/AH/EDR> COVID-19 update (149): France (IF) animal, cat, owned -
-Ariticle : 
-SummaryCoronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first reported in Wuhan, China, and rapidly spread worldwide. Previous studies suggested cats could be a species susceptible to SARS-CoV-2 with only 4 naturally infected cats reported to date.Here, we investigated the putative infection of SARS-CoV-2 in cats from owners previously suspected of being infected with COVID-19. For each cat, rectal and nasopharyngeal swabs  
-Région d'Île-de-France, France | COVID-19 | Cats

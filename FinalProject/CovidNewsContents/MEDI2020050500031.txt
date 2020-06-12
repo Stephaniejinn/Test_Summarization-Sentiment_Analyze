@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050500031
+
+Date : 2020-05-04 00:00:00
+Title : Iowa reports coronavirus at Woodward home, among 9 DHS workers
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.04
+Location:USA/Iowa
+Cases:534 additional coronavirus cases
+Description:Iowa reports coronavirus at Woodward home, among 9 DHS workers

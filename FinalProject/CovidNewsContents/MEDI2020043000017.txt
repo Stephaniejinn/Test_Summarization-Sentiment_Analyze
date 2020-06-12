@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020043000017
+
+Date : 2020-04-29 00:00:00
+Title : Oklahoma's COVID-19 death toll climbs to 214
+Ariticle : 
+Disease:Coronavirus
+Time:2020.04.29
+Location:USA/Oklahoma
+Cases:seven new COVID-19-related deaths
+Description:Oklahoma's COVID-19 death toll climbs to 214

@@ -1,9 +1,0 @@
-URL : https://www.healthmap.org/ai.php?7278276&trto=en&trfr=en&pid106
-ID : HMAP2020042900268
-
-Date : 2020-04-28 00:00:00
-Title : US coronavirus cases surpass 1 million and the death toll is greater than US losses in Vietnam War - CNN -
-Ariticle : 
-US coronavirus cases surpass 1 million and the death toll is greater than US losses in Vietnam War ; ; 
-United States | COVID-19 | Humans
-Vietnam | COVID-19 | Humans

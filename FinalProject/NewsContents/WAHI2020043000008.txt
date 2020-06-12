@@ -1,19 +1,0 @@
-URL : https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=34169
-ID : WAHI2020043000008
-
-Date : 2020-04-29 00:00:00
-Title : SARS-CoV-2/COVID-19,United States of America
-Ariticle : 
-Information received on 29/04/2020 from Dr Mark Davidson, Associate Administrator, USDA-APHIS,         	United StatesDepartment of Agriculture, Washington, United States of America
-Report type:Follow-up report No. 3
-Date of start of the event:27/03/2020
-Date of confirmation of the event:04/04/2020
-Report date:29/04/2020
-Date submitted to OIE:29/04/2020
-Reason for notification:Emerging disease
-Morbidity:2 (scale 0 to 5)
-Mortality:0 (scale 0 to 5)
-Zoonotic impact:Zoonotic potential currently unknown
-Causal agent:SARS-CoV-2/COVID-19
-Related reports:
-Outbreaks:

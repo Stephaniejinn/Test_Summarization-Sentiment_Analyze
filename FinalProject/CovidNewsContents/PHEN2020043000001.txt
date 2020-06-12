@@ -1,0 +1,108 @@
+URL : https://www.gov.uk/government/news/daily-death-reporting-now-includes-all-positive-covid-19-deaths
+ID : PHEN2020043000001
+
+Date : 2020-04-29 00:00:00
+Title : Daily death reporting now includes all positive COVID-19 deaths
+Ariticle : 
+      
+  
+new data on COVID-19 deaths to take effect from today
+  
+the new daily count includes deaths in all settings with COVID-19 for the first time
+  
+data will complement the new Care Quality Commission (
+CQC
+) and Office for National Statistics (
+ONS
+) figures on care homes
+
+
+Public Health England (
+PHE
+) has developed a new method of reporting daily COVID-19 deaths, to give a more complete number of those who have died from the virus.
+
+For the first time from today, Wednesday  29 April 2020, the government’s daily figure will include deaths that have occurred in all settings where there has been a positive COVID-19 test, including hospitals, care homes and the wider community. Scotland, Northern Ireland and Wales already report out-of-hospital deaths.
+
+Today’s figures have been revised retrospectively by 
+PHE
+ since the first death on 2 March 2020 to include additional data sources. This will bring the total number of deaths in the UK to 26,097 from 2 March until 28 April, including 765 deaths reported in the 24 hours to 5pm on 28 April.  
+
+PHE
+ has now reported an additional 3,811 deaths since the start of the outbreak. Of these, around 70% were outside hospital settings and around 30% were in hospital. The additional hospital deaths have been identified through 
+PHE
+’s laboratory system and were not reported to 
+NHSE
+.
+
+The total number of deaths reported by 
+PHE
+ is approximately 17% higher than previous data showed.
+
+It is important to note that this does not indicate a sudden one day increase and is broadly in line with trends seen by the 
+ONS
+ in their data, which already reports out of hospital deaths.
+
+Dr Yvonne Doyle, Medical Director at 
+PHE
+, said:
+
+  
+Every death from COVID-19 is a tragedy. Tracking the daily death count is vital to help us understand the impact of the disease.
+  
+These more complete data will give us a fuller and more up-to-date picture of deaths in England and will inform the government’s approach as we continue to protect the public.
+
+
+It will remain the case that 
+ONS
+ data, which publishes every week with data from 11 days ago, includes suspected cases where a test has not taken place. 
+ONS
+ figures will therefore continue to include more deaths than our daily series.
+
+From the start of the pandemic, the Department of Health and Social Care (
+DHSC
+) has reported a daily count of COVID-19 deaths in hospitals in England, with deaths in other settings included from Scotland, Wales and Northern Ireland.
+
+Each day, 
+PHE
+ will link data from 3 different sources: the 
+NHSE
+ dataset collected manually from trusts; deaths collected electronically from NHS information systems; and reports from 
+PHE
+ Health Protection Teams as part of their local outbreak management.
+
+Helen Whately, Minister for Care, said:
+
+  
+I am determined that people living in care homes continue to receive the best care possible during these challenging times.  
+  
+Sadly, this pandemic has already taken many lives, and my heart goes out to all those who have lost loved ones before their time.
+  
+Today’s data cannot bring them back but it can help us to better understand the impact this outbreak is having on those living in care homes so that we can continue to do everything in our power to protect them.
+
+
+PHE
+’s data complements the weekly death statistics published by the 
+ONS
+. This has an 11 day delay due to the time taken for deaths to be certified, registered and processed, and includes suspected as well as confirmed cases in all settings. The 
+ONS
+ data is supplemented by 
+CQC
+’s data, which comes from death notifications submitted by adult social care providers and also includes confirmed and suspected cases.
+
+Background
+
+  
+The 
+daily dashboard with UK lab-confirmed cases and UK lab-confirmed deaths
+.
+  
+
+PHE
+’s 
+technical summary of the deaths data reporting
+.
+  
+There is more detail about the current reporting process and the data sources for 
+Wales, Scotland and Northern Ireland (which remain unchanged)
+.
+

@@ -1,0 +1,40 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006869134
+ID : GPHN2020042900148
+
+Date : 2020-04-28 17:17:00
+Title : Surgeons help create new process for disinfecting and reusing N95 masks
+Ariticle : 
+Follow all of ScienceDaily's latest research news and top science headlines !
+Science News
+Surgeons help create new process for disinfecting and reusing N95 masks
+Date:
+American College of Surgeons
+Summary:
+Amid shortages of personal protective equipment due to the Coronavirus Disease 2019 (COVID-19) pandemic, a St. Louis health care system has implemented a process to disinfect disposable N95 respirator masks that allows health care workers to reuse their own mask for up to 20 cycles.
+Share:
+FULL STORY
+Amid shortages of personal protective equipment due to the Coronavirus Disease 2019 (COVID-19) pandemic, a St. Louis health care system has implemented a process to disinfect disposable N95 respirator masks that allows health care workers to reuse their own mask for up to 20 cycles.
+advertisement
+The novel disinfection process, developed in collaboration with Washington University School of Medicine, uses vaporized hydrogen peroxide and is described in an "article in press" on the Journal of the American College of Surgeons website in advance of print.
+Test results from a pilot program at Barnes-Jewish Hospital and two other hospitals that are also part of BJC HealthCare, showed that the disinfection process kills germs from N95 masks while ensuring that the only person who touches the mask is the original mask wearer, study authors reported.
+"Our primary outcome is safety for the health care worker," said project leader and study coauthor Andrew Pierce, MHSA, director of supply plus at Barnes-Jewish. "We want to make it safer for team members who are at risk while taking care of patients with a known or possible COVID-19 diagnosis."
+Their program uses a disinfecting procedure first tested by Duke University researchers in 2016. However, the Barnes-Jewish process has a unique modification -- an identification system that enables the hospital to return the sanitized mask to the same individual each time, said senior author Shaina Eckhouse, MD, FACS, assistant professor of surgery at Washington University School of Medicine, St. Louis. Dr. Eckhouse is part of the multidisciplinary team of university and hospital staff who developed the disinfection program.
+This approach, according to the authors, increased employee acceptance of reusing what is normally a single-use N95 mask and helped ensure proper fit of the returned mask.
+advertisement
+During the COVID-19 pandemic, the Centers for Disease Control and Prevention has recommended strategies for conserving personal protective equipment, including decontamination and reuse of N95 masks. Almost half of U.S. health care facilities reported being nearly or completely out of N95 respirator masks, according to a March 27 survey conducted by the Association for Professionals in Infection Control and Epidemiology.
+In late March, before the program began, Barnes-Jewish had a low inventory of N95 masks -- about a week's worth -- and no expectations for replenishment because of international shortages in hospital supply chains, according to Mr. Pierce.
+How the process works
+The disinfection process that has since been put into place begins at the end of a shift. A health care provider removes his or her N95 mask in that unit's soiled utility room and places it in a sterilization pouch (Crosstex) made of breathable polyethylene fiber (Tyvek by DuPont) on one side. On the other side of the sealed pouch, the worker writes his or her name or employee ID number, hospital, department, and unit location and puts the pouch in the soiled collection bin.
+A designated worker wearing proper protection collects the bins twice a day and takes them to a specially designed and sealed disinfection room -- built in four days, according to Dr. Eckhouse. There the pouches are arranged, breathable side up, by clinical unit on wire racks. A hydrogen peroxide vapor generator (Bioquell Z-2), which Washington University already owned to decontaminate equipment, fills the room with the chemical.
+advertisement
+After 4.5 hours of disinfection, a worker moves the racks of masks to another area that has a fan to offgas the hydrogen peroxide, where the masks stay until sensors record a zero reading. The pouches are returned to their respective units in a decontaminated bin, finishing a process that takes about seven hours, Mr. Pierce said.
+Workers can wear their mask up to three weeks because past studies show that disinfection more than 20 times could alter the fit of the mask, he noted.
+Since the program began April 1 in the Barnes-Jewish emergency department, it expanded in just two weeks to additional clinical departments and other hospitals in the system, which Mr. Pierce called "an immense achievement."
+"A welcome improvement"
+Currently, Mr. Pierce said they are disinfecting 240 N95 masks a day and have the capability of disinfecting 1,500 masks daily.
+Without the disinfection program, he said the health care system would need to discard a substantial amount of its respirator masks. Because of the disinfection, the hospitals now have enough masks to last for weeks.
+"This program is a welcome improvement for extended usage of N95s during the shortage that we are facing," Mr. Pierce said.
+Dr. Eckhouse said other hospitals facing mask shortages can reproduce the disinfection program if they bring together experts in environmental health and safety, medicine, and facility management. "Having the infrastructure already in place would improve the ease of deploying an N95 disinfection process," she stated.
+Other study coauthors are Julie Grossman, MD; Jessica Mody, MHA; Jason Gagne, TS; Carol Sykora, CIC, FAPIC; Sena Sayood, MD; Susan Cook, PhD; Nirah Shomer, DVM, PhD; and Stephen Y. Liang, MD, MPHS.
+make a difference: sponsored opportunity
+Story Source:

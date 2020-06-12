@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200065
+
+Date : 2020-04-28 00:00:00
+Title : Chilliwack poultry plant ordered closed amid COVID-19 outbreak
+Ariticle : 
+Disease:virus
+Time:2020.04.28
+Location:Canada
+Cases:one worker
+Description:Chilliwack poultry plant ordered closed amid COVID-19 outbreak

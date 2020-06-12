@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900051
+
+Date : 2020-03-19 00:00:00
+Title : Chad announces first COVID-19 death
+Ariticle : 
+Disease:Coronavirus
+Time:2020.03.19
+Location:Chad
+Cases:52 people
+Description:Chad announces first COVID-19 death

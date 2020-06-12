@@ -1,0 +1,9 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006875368
+ID : GPHN2020043000027
+
+Date : 2020-04-29 17:31:00
+Title : 13:31 EDT NIH says COVID-19 patients on remdesivir had 31% faster recovery...
+Ariticle : 
+13:31 EDT NIH says COVID-19 patients on remdesivir had 31% faster recovery timeThe National Institutes of Health announced that hospitalized patients with advanced COVID-19 and lung involvement who received remdesivir recovered faster than similar patients who received placebo, according to a preliminary data analysis from a randomized, controlled trial involving 1063 patients, which began on February 21. The trial, sponsored by the National Institute of Allergy and Infectious Diseases, part of the National Institutes of Health, is the first clinical trial launched in the United States to evaluate an experimental treatment for COVID-19. An independent data and safety monitoring board overseeing the trial met on April 27 to review data and shared their interim analysis with the study team. Based upon their review of the data, they noted that remdesivir was better than placebo from the perspective of the primary endpoint, time to recovery, a metric often used in influenza trials.
+ Recovery in this study was defined as being well enough for hospital discharge or returning to normal activity level. Preliminary results indicate that patients who received remdesivir had a 31% faster time to recovery than those who received placebo. Specifically, the median time to recovery was 11 days for patients treated with remdesivir compared with 15 days for those who received placebo. Results also suggested a survival benefit, with a mortality rate of 8.0% for the group receiving remdesivir versus 11.6% for the placebo group, the NIH announced.
+Reference Link

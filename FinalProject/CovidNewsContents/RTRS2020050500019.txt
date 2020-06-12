@@ -1,0 +1,21 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-science/neutralizing-antibody-new-virus-details-to-aid-vaccine-research-idUSKBN22G2DS
+ID : RTRS2020050500019
+
+Date : 2020-05-04 17:44:00
+Title : Neutralizing antibody; new virus details to aid vaccine research
+Ariticle : 
+NEW YORK (Reuters) - The following is a brief roundup of the latest scientific studies on the novel coronavirus and efforts to find treatments and vaccines for COVID-19, the illness caused by the virus. 
+Antibody that “neutralizes” the novel coronavirus 
+Researchers on Monday said they have produced a monoclonal antibody that can "neutralize" the new coronavirus (SARS-CoV-2) that causes the illness COVID-19. Their experiments were done in test tubes, and exactly how the antibody blocks the virus is not yet clear. Reporting on their work in the journal Nature, the European researchers say the antibody "offers the potential to prevent and/or treat COVID-19," but they also emphasize that more studies are needed before we know whether the antibody can be developed into a drug that works in humans. (
+go.nature.com/2ypZXZE
+) 
+New details of coronavirus structure could aid vaccine development 
+New information reported on Monday about the structure of the novel coronavirus will aid in development of a vaccine, investigators say. Vaccine research has been focusing on the so-called spike (S) glycoprotein, a "spike" that protrudes from the surface of the virus and helps it break into cells and infect them. Using high-resolution mass spectrometry, the U.S./UK research team has documented previously unknown details about the spike that may provide vaccine developers with important clues in how best to target it, according to their report in the journal Science. (
+bit.ly/2L0ehe5
+) 
+French hospital discovers COVID-19 case from December 
+A French hospital that retested old samples from pneumonia patients discovered it had treated a man with COVID-19 as early as Dec. 27, nearly a month before the French government confirmed its first cases, and a time when the virus was believed to have been limited to only China. The researchers who reported this discovery in the International Journal of Antimicrobial Agents say it "changes our understanding of the epidemic," and models used to predict how the virus spreads may be based on incorrect data. (
+reut.rs/35vHMOc
+ and 
+bit.ly/35wmyQv
+) 

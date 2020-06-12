@@ -1,0 +1,60 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/treatments/857249-nature-communications-a-human-monoclonal-antibody-blocking-sars-cov-2-infection
+ID : FLUT2020050500005
+
+Date : 2020-05-04 19:42:35
+Title : Nature Communications - A human monoclonal antibody blocking SARS-CoV-2 infection
+Ariticle : 
+																							
+Chunyan Wang
+,
+
+Wentao Li
+,
+
+Dubravka Drabek
+,
+
+Nisreen M. A. Okba
+,
+
+Rien van Haperen
+,
+
+Albert D. M. E. Osterhaus
+,
+
+Frank J. M. van Kuppeveld
+,
+
+Bart L. Haagmans
+,
+
+Frank Grosveld
+ &
+
+Berend-Jan Bosch
+
+
+Nature Communications
+ 
+volume 11
+, Article number: 2251 (2020) 
+Cite this article
+Metricsdetails
+
+Abstract
+
+The emergence of the novel human coronavirus SARS-CoV-2 in Wuhan, China has caused a worldwide epidemic of respiratory disease (COVID-19). Vaccines and targeted therapeutics for treatment of this disease are currently lacking.
+
+Here we report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV) in cell culture.
+
+This cross-neutralizing antibody targets a communal epitope on these viruses and may offer potential for prevention and treatment of COVID-19.
+													
+																							
+“This research builds on the work our groups have done in the past on antibodies targeting the SARS-CoV that emerged in 2002/2003,” said 
+Berend-Jan Bosch,
+ Associate Professor, Research leader at Utrecht University, and co-lead author of the 
+Nature
+ Communications
+ study. “Using this collection of SARS-CoV antibodies, we identified an antibody that also neutralizes infection of SARS-CoV-2 in cultured cells. Such a neutralizing antibody has potential to alter the course of infection in the infected host, support virus clearance or protect an uninfected individual that is exposed to the virus.”
+													

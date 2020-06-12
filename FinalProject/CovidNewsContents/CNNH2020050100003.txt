@@ -1,0 +1,106 @@
+URL : https://edition.cnn.com/2020/04/29/health/sanjay-gupta-podcast-april-29-wellness/index.html
+ID : CNNH2020050100003
+
+Date : 2020-04-29 20:49:33
+Title : The Race for a Vaccine: Dr. Sanjay Gupta's coronavirus podcast for April 29
+Ariticle : 
+ (CNN)
+A vaccine for Covid-19 could come faster than previous vaccines, but it could still be a year or more before one is widely available. CNN Chief Medical Correspondent Dr. Sanjay Gupta talks to a clinical trial participant and explains why this vaccine search is breaking barriers but will still take time.
+You can listen on your favorite podcast app or read the transcript below.
+Dr. Sanjay Gupta:
+ If there's anything on the planet that everybody is hoping for, it's a vaccine for Covid-19. And all over the world, trials are underway. 
+The timeline for the development has been compressed dramatically, with testing on animals and humans taking place at the same time. Usually animal testing comes at least a year before a vaccine would ever get to humans.
+But with the help of existing research on previous coronaviruses like MERS and SARS, the search for a Covid vaccine has become one of the fastest-moving in history. I'll explain the promise and the pitfalls during this race to get a vaccine.
+Read More
+I'm Dr. Sanjay Gupta, CNN's chief medical correspondent. And this is "Coronavirus: Fact vs. Fiction."
+Sean Doyle:
+ You can have nausea. You can sometimes develop fever, which may not be a bad response necessarily, 'cause that might indicate the immune system is mounting a response, meaning you could fight the virus in the future potentially, but you really never know what's going to happen.
+Gupta:
+ That's 31-year-old Sean Doyle. He's one of a small handful of people in the United States testing a possible vaccine for Covid-19.
+When I spoke with Sean, he said his family and friends were nervous about his involvement with experimental medicine. But ultimately, they trusted his instincts as a medical student.
+And he's also had some practice. Sean was involved in a 2017 trial for an Ebola vaccine. He told me that the injection of the potential Covid vaccine into his arm was pretty mild.
+Doyle:
+ It was not as bad as with other vaccines that I've gotten in the past. It really felt just like a flu shot. And after the tenderness subsided, after about a day or two, I really felt totally fine afterward.
+He signed up for a coronavirus vaccine trial using a method that's never been used in humans. Here's why.
+Gupta:
+ Sean received his first dose of the vaccine in March at Emory University Hospital, where I'm also on the neurosurgery faculty.  
+Doyle:
+ So since then, I've returned at the one-week mark and the two-week mark post-vaccine administration and have given some blood samples so that the investigators can both assess my health, one, and two use those blood samples to see whether or not my body and other participants' bodies were able to mount an immune response, suggesting that should our bodies see the virus in the future it could be neutralized. 
+Gupta:
+ People like Sean are the only way vaccines can be proven effective for the population at large. While there are unknown risks for the early trial volunteers, it would be even riskier to skip these important testing stages.
+In 1976, when a new virus -- the so-called "swine flu" -- began spreading in New Jersey, the United States feared it could lead to a pandemic like the 1918 flu. A vaccine was rushed into development, and in less than a year nearly 25 percent of Americans had been vaccinated. 
+CBC broadcast (from archive):
+ In March '76 President Gerald Ford announced the biggest immunization program in history. From the beginning the program was criticized for being hastily implemented and unnecessary.
+Gupta:
+ But soon, devastating side effects began to emerge. At least 30 people died after receiving the vaccine, and about 450 more developed Guillain-Barré syndrome. That's a neurological disorder that can lead to paralysis. The program was ended, and lawsuits flooded the federal government.
+Now trials for a Covid-19 vaccine began less than a month after the virus' genome was first sequenced in early January. 
+And now scientists around the world are hard at work.  
+CNN Senior Medical Correspondent Elizabeth Cohen (on CNN's "New Day"): 
+From Tokyo to Quebec, from Iowa to New Orleans to Australia, scientists in a race to come up with a vaccine. More than 80 vaccine developers in all, according to the World Health Organization. So far, seven vaccines are in human trials.
+Gupta:
+ At least 45 people in Atlanta and Seattle have received an injection of the vaccine, which is called mRNA-1273. Instead of using the actual virus, which could make the volunteers sick, this vaccine relies on mRNA, or messenger RNA. 
+Think of that as the genetic blueprint of the virus. If it works, it'll teach our body to recognize the coronavirus' spiky-looking proteins and then make antibodies to fight it. But this is a first. So far, no such vaccine has ever been approved for use on the general public.
+Dr. Evan Anderson is the lead investigator for the Emory University-based arm of this trial. 
+Dr. Evan Anderson:
+ So with the background knowledge that existed regarding the importance of the spike protein for both MERS and for SARS, this really allowed for the vaccine to be developed in fairly short order given its similarity to those other coronaviruses, really cutting years of time off of the development process. So this is really technology that, if it is successful in this trial or other trials, could expedite other vaccines in the future.
+Gupta:
+ But that's the future. Even if things continue at such a fast pace, it could be a year or even more before a vaccine for Covid-19 is widely available.  
+Microsoft founder Bill Gates is funding seven efforts to find a safe and effective vaccine. He told CNN this weekend that his best-case scenario would be for large-scale manufacturing to begin within a year -- but only if everything goes perfectly.
+Bill Gates:
+ There's over 100 efforts. What we need to do is pick the most promising of those, get money, sort of going full speed, build the manufacturing in parallel, some of which is shared like the fill-finish, which is the last step, where there's nowhere near the capacity for the 7 billion doses, so we need to do that.  
+Gupta:
+ Vaccine development usually happens in three phases: Phase one looks at whether the vaccine is safe for a few people. Phase two looks at whether it's safe for more people and tests various dosage amounts to see if it's effective. Phase three gathers data on whether the vaccine really protects people in real-life situations. 
+Some scientists want to speed up this process even further with what's called a "human-challenge trial." That would purposefully expose people to Covid-19 to test the efficacy of a vaccine. That raises ethical questions as well. And because of the risks, there aren't any challenge trials underway right now. 
+The vaccine Sean Doyle is helping test out is currently in phase one. Here's lead investigator Dr. Evan Anderson again. 
+Anderson:
+ The exact timing of when this vaccine might make it through the phase two and phase three trials remains a bit uncertain at this point in time. It would be most likely that it wouldn't be until sometime in 2021 should this vaccine be successful. If this vaccine does fail, then the timeline gets shifted backwards to some of the candidates that are just now arriving in clinical trials.
+Gupta:
+ But the government could direct manufacturers to begin producing a vaccine before it has gone through all three phases and has been fully tested. 
+At a briefing last month, White House coronavirus task force member Dr. Anthony Fauci explained why he's willing to take this risk. 
+Dr. Anthony Fauci: 
+One of the things that we are going to do that you need to understand -- that has been a stumbling block for previous development of vaccines -- and that is, even before you know something works, at risk, you have to start producing it.  Because once you know it works, you can't say, "Great, it works. Now give me another six months to produce it."
+Gupta:
+ Dr. Fauci said they didn't take that risk with the mosquito-borne Zika virus when it threatened the United States in 2016. By the time human trials for a vaccine showed promise, the cases had dissipated. There is still no vaccine available.  
+Get CNN Health's weekly newsletter 
+Sign up here to get 
+The Results Are In with Dr. Sanjay Gupta
+ every Tuesday from the CNN Health team.
+So efforts to find a vaccine for Covid-19 are moving much faster, but Dr. Fauci said they're doing so safely.  
+Fauci: 
+The worst possible thing you could do is vaccinate somebody to prevent infection and actually make them worse.
+Gupta:
+ We don't want to repeat the same mistakes made in 1976 when the government rushed to get the flu vaccine without proper testing. And that's why people like Sean Doyle are so important. The trial that he's volunteering for may get us closer to a safe and effective vaccine.
+...
+Nurse:
+ We have you on the 23rd at 8 a.m. 
+Doyle: 
+Is that two weeks from today? 
+Nurse: 
+Yeah. Is that still good?
+Doyle: 
+Yes.
+...
+Gupta: 
+That's Sean at his checkup. Over the next year, he'll be monitored to make sure the vaccine doesn't cause any harmful side effects. 
+Scientists hope that Sean's blood, and that of other volunteers, holds the key to unlocking a Covid-19 weapon for the rest of us.
+Meanwhile, scientists overseas are equally hopeful.
+Adrian Hill: 
+We've been given permission by regulators to proceed really at quite a rapid rate. 
+Gupta: 
+That's Adrian Hill, director of the Jenner Institute at the University of Oxford in England. The institute has already begun ambitious, large-scale human trials of its own potential vaccine. If all goes well, researchers say they could have a million doses ready by September.
+Hill: 
+So over the next couple of weeks, we'll probably enroll as many as 1,000 people into this trial. Partly because we've used this type of vaccine before for other indications, and partly because we believe the safety profile should be very good.
+Gupta: 
+In our race to a vaccine, we are walking a tightrope between safety and speed, and only time will tell how well we've struck that balance. It's important to sprint, as long as you don't trip and fall. 
+We'll be back tomorrow. Thanks for listening.
+
+If you have questions, please record them as a voice memo and email them to 
+asksanjay@cnn.com
+ -- we might even include them in our next podcast.
+
+You can also head to 
+cnn.com/coronavirus
+ and sign up for our daily newsletter, which features the latest updates on this fast-moving story from CNN journalists around the globe. For a full listing of episodes of "Coronavirus: Fact vs. Fiction," visit the podcast's page 
+here
+.
+

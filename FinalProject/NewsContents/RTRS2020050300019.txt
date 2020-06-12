@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-793-to-162496-rki-idUSKBN22F047
-ID : RTRS2020050300019
-
-Date : 2020-05-03 03:39:00
-Title : Germany's confirmed coronavirus cases rise by 793 to 162,496: RKI
-Ariticle : 
-BERLIN (Reuters) - The number of confirmed coronavirus cases in Germany increased by 793 to 162,496, data from the Robert Koch Institute (RKI) for infectious diseases showed on Sunday. 
-The reported death toll rose by 74 to 6,649, the tally showed. 

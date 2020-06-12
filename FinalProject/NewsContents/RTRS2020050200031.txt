@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-945-to-161703-rki-idUSKBN22E04L
-ID : RTRS2020050200031
-
-Date : 2020-05-02 03:14:00
-Title : Germany's confirmed coronavirus cases rise by 945 to 161,703: RKI
-Ariticle : 
-(Reuters) - The number of confirmed coronavirus cases in Germany rose by 945 to 161,703, data from the Robert Koch Institute (RKI) for infectious diseases showed on Saturday.  
-The death toll rose by 94 to 6,575.  

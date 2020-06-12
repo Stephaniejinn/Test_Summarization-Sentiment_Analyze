@@ -1,0 +1,24 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006897991
+ID : GPHN2020050400035
+
+Date : 2020-05-03 09:48:00
+Title : Study: Proximity to air polluters puts minorities at coronavirus risk
+Ariticle : 
+Nearly 40% of the people of color who live in Portland live within 2 kilometers of the city's 10 biggest sources of air pollution, according to a new data analysis from researchers at Portland State University.
+Their proximity to these big polluters makes these minority populations especially vulnerable to chronic conditions that could cause complications if they fall ill with COVID-19, the disease caused by the novel coronavirus.
+Vivek Shandas, an urban studies and planning professor at PSU, oversaw the analysis, which was conducted by graduate students Ariel Kane, Blair Vallie and Natalie Knowles. Shandas said the pandemic has put in stark relief issues of inequality that have affected minority communities for decades.
+"It brings up a lot of issues on how we can think about events like this and how they affect all of humanity," he said.
+To do the analysis, which was first reported by Oregon Public Broadcasting, Shandas and his students used air pollution data from Cleaner Air Oregon, a state program that permits and regulates industries that produce air pollution. They overlaid that data with census data from 2010 and 2016 and found that 38% of Portland's minority population lives close to the city's 10 biggest sources of air pollution. Those sources account for 35% of all the air pollution produced in the city, the team found, mostly in North and Northeast Portland.
+The researchers began processing the data well before the coronavirus had grown into a global pandemic, and the timeliness of their research is something they are still grappling with, Knowles said.
+"We started looking at this data for a completely different reason, which is now super relevant," she said. "These issues can have really severe consequences. We're still coming to terms with it."
+Long-term exposure to industrial pollution has long been known as a cause of chronic health problems such as cardiovascular disease, asthma and hypertension. But given the rapid onset of the coronavirus pandemic, there's been little research on the link between air pollution and COVID-19.
+One of the few studies on the subject was published by Harvard researchers last week. They found a small increase in fine particulate matter, PM2.5, can have dramatic results.
+"A small increase in long-term exposure to PM2.5 leads to a large increase in the COVID-19 death rate," the authors wrote.
+At the same time, African Americans and Latinos have seen outsized impacts from the coronavirus. In Louisiana, African Americans accounted for nearly 60 percent of the COVID-19 deaths, while making up only 33 percent of the state's population. In Oregon, half of Washington County's coronavirus cases came from the Latino community, though they make up only 16% of the population.
+Neither the PSU analysis nor Harvard study have been peer-reviewed, and Shandas acknowledged there wasn't enough data yet to tie the air pollution in Portland's communities of color to positive cases of COVID-19. Still, it's clear that the people who live near the biggest polluters are more susceptible to the underlying conditions that often cause death from the disease, Shandas said.
+"The things we've done in the past are not just gone from our bodies," he said. "They affect how we manage the acute respiratory effects of COVID-19."
+Perry Hystad, a professor of environmental and occupational health at Oregon State University, said people who live close to large sources of air pollution can take the same steps recommended on bad air days: limit time outside, use air filters inside and refrain from strenuous activity.
+But state officials could be taking action, too, according to Hystad.
+"These should be the neighborhoods that are targeted for coronavirus screening and antibody testing," he said. "If it's long-term exposure that leads to increased risk, they should be given priority."
+On the policy side, Kane, one of the grad students who conducted the analysis, said these types of situations need to be considered when planners make the decisions that concentrate polluters in these neighborhoods.
+"These planning decisions and policies are having real impact in the everyday lives of folks," she said. "Then you have the extra compounding effects of a pandemic on vulnerable populations. It's going to be important to understand history and create a lens to see these things for future decisions."

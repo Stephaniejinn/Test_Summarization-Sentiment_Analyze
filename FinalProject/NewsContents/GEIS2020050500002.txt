@@ -1,22 +1,0 @@
-URL : https://health.mil/News/Articles/2020/05/04/MHS-expedites-COVID-19-and-flu-test-results
-ID : GEIS2020050500002
-
-Date : 2020-05-04 12:00:00
-Title : MHS expedites COVID-19 and flu test results
-Ariticle : 
-		Recommended Content:	
-Military Health System patients can use secure online resources to quickly access their COVID-19 tests done at military treatment facilities.
-Patients can get their test results upon certification by the lab through the TRICARE Online (TOL) Patient Portal and the MHS GENESIS Patient Portal. It typically takes several days to process a COVID-19 test before it goes online.
-“COVID-19 is very communicable,” said Regina Julian, chief of the Defense Health Agency Healthcare Optimization Division. “Our patients want to do the right thing and self-isolate if they are positive. Our online tools get that information into their hands as soon as possible.”
-To check COVID-19 test results through TOL, MHS beneficiaries can 
-log on to the TOL Patient Portal
- and click on the blue “Health Record” button. Patients using 
-MHS GENESIS
- can click “Health Record” from the home screen, then select “Pathology” to access laboratory results.
-MTF patients can also use the COVID-19 Screening Tool found on both online portals. In addition, beneficiaries may call the Nurse Advice Line with questions, or log onto 
-TRICARE.mil
-, which also provides links to valuable 
-COVID-19 updates and resources
-.
-“Patients who require health care for any reason can call their MTF appointment line to schedule a virtual provider visit,” said Julian. “They can also self-schedule a virtual visit or send their health care team a secure message using either online portal.
-“However, the MHS advises patients not go to an MTF without an appointment to minimize exposure to themselves and MTF staff.”

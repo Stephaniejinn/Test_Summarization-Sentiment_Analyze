@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400068
+
+Date : 2020-05-03 00:00:00
+Title : 5:49 AMHow many coronavirus cases does Australia have now?
+Ariticle : 
+Disease:infections
+Time:2020.05.03
+Location:Australia
+Cases:13 new COVID-19 cases
+Description:5:49 AMHow many coronavirus cases does Australia have now?

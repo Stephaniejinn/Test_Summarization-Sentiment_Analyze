@@ -1,45 +1,0 @@
-URL : https://flutrackers.com/forum/forum/-2019-ncov-new-coronavirus/-2019-ncov-studies-research-academia/epidemiology/855072-cureus-brief-review-on-covid-19-the-2020-pandemic-caused-by-sars-cov-2
-ID : FLUT2020042900015
-
-Date : 2020-04-28 14:36:56
-Title : Cureus.  Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2
-Ariticle : 
-																							
-
-Cureus.
- 2020 Mar 24;12(3):e7386. doi: 10.7759/cureus.7386.
-
-Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2.
-
-
-
-Valencia DN
-1
-.
-
-
-Author information
-
-
-
-
-
-Abstract
-
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the virus responsible for the coronavirus disease of 2019 (COVID-19). First identified in Wuhan (Hubei, China) in December of 2019, it has since been declared a pandemic by the World Health Organization in March of 2020. In this study, we will provide a brief review of viral origin, identification, symptoms, transmission, diagnosis, and potential treatment strategies for the newly identified SARS-CoV-2 strain.
-Copyright © 2020, Valencia et al.
-
-
-
-
-KEYWORDS:
-
-2019-ncov; acei; arb; chloroquine; corona virus; corticosteroids; covid-19; novel coronavirus; remdesivir; sars-cov-2
-
-
-PMID:32337113PMCID:
-PMC7179986
-DOI:
-10.7759/cureus.7386
-
-													

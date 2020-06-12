@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050300076
+
+Date : 2020-05-02 00:00:00
+Title : LATEST NUMBERS: 28,332 cases of coronavirus in Georgia, 1,174 dead
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.02
+Location:USA/Georgia
+Cases:2,925 reported cases
+Description:LATEST NUMBERS: 28,332 cases of coronavirus in Georgia, 1,174 dead

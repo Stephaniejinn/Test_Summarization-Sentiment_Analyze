@@ -1,9 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-sweden-cases/swedens-confirmed-covid-19-cases-rise-above-20000-idUSKBN22B1Q3
-ID : RTRS2020042900063
-
-Date : 2020-04-29 12:11:00
-Title : Sweden's confirmed COVID-19 cases rise above 20,000
-Ariticle : 
-STOCKHOLM (Reuters) - The total number of confirmed COVID-19 cases in Sweden rose past the 20,000 mark on Wednesday as the Nordic country reported 107 new deaths to put the tally at 2,462 since the outbreak began. 
-Statistics compiled and reported daily by Sweden’s Public Health Agency showed 681 new cases of the disease caused by the new coronavirus that emerged in China late last year, bringing the accumulated number to 20,302. 
-Sweden has taken a less strict approach to curbing the the spread of the disease than most European countries, allowing most schools and businesses to remain open even as its mortality rate in the pandemic has run higher than those of its Nordic neigbours.  

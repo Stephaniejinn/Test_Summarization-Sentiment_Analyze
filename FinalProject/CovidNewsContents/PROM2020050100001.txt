@@ -1,0 +1,383 @@
+URL : https://promedmail.org/promed-post/?id=7281182
+ID : PROM2020050100001
+
+Date : 2020-04-30 10:20:36
+Title : PRO/AH/EDR> COVID-19 update (142): global, care home, WHO
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (142): GLOBAL, CARE HOME, WHO
+*************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Global update: Worldometer accessed 29 Apr 2020 16:48 GMT
+[2] New countries/territories confirming cases (none)
+[3] Al Jazeera updates
+[4] UK (England): care home
+[4] WHO situation report 100 (as of 29 Apr 2020)
+******
+[1] Global update: Worldometer
+Date: Wed 29 Apr 2020 accessed 16:48 GMT
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 26 Apr 2020 / 27 Apr 2020 / 28 Apr 2020 / 29 Apr / Country
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 830 / 82 836 / 82 858 / 82 858 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 738 / 10 752 / 10 761 / 10 761 / South Korea
+Countries with major activity (more than 5000 cases with community spread)
+--------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 987 160 / 1 010 356 / 1 035 765 / 1 045 717 / USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 226 629 / 229 422 / 232 128 / 236 899 / Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 197 675 / 199 414 / 201 505 / 203 591 / Italy
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 162 100 / 165 842 / 165 911 / 165 911 / France
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 152 840 / 157 149 / 161 145 / 161 145 / UK
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 157 770 / 158 758 / 159 912 / 160 479 / Germany
+11 Mar 2020: 1 / ... / N/A /... / 15 679 / ... / 110 130 / 112 261 / 114 653 / 117 589 / Turkey
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 80 949 / 87 147 / 93 558 / 99 399 / Russia
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 90 481 / 91 472 / 92 584 / 93 657 / Iran
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 63 100 / 66 501 / 73 235 / 73 235 / Brazil
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 46 895 / 48 500 / 50 026 / 50 373 / Canada
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 46 134 / 46 687 / 47 334 / 47 859 / Belgium
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 37 845 / 38 245 / 38 416 / 38 802 / Netherlands
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 27 890 / 29 451 / 31 324 / 31 787 / India
+6 Mar 2020: 1 / ... / N/A / ... / 1323 /... / 27 517 / 28 699 / 31 190 / 31 190 / Peru
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 061 / 29 164 / 29 264 / 29 407 / Switzerland
+2 Mar 2020: 2 / ... / N/A / ... / 8251 / ... / 23 864 / 24 027 / 24 322 / 24 505 / Portugal
+29 Feb 2020: 1 / 6 / ... / 2758 / ... / 22 719 / 23 240 / 24 258 / 24 258 / Ecuador
+2 Mar 2020: 1 / ... / N/A / ... / 1720 / ... / 17 522 / 18 811 / 20 077 / 21 402 / Saudi Arabia
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 18 640 / 18 926 / 19 621 / 20 302 / Sweden
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 19 262 / 19 648 / 19 877 / 19 877 / Ireland
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 14 677 / 15 529 / 16 752 / 16 752 / Mexico
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 15 443 / 15 555 / 15 728 / 15 782 / Israel
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 13 624 /14 423 / 14 951 / 15 641 / Singapore
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 225 / 15 274 / 15 357 / 15 402 / Austria
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 13 328 / 13 915 / 14 612 / 15 289 / Pakistan
+3 Mar 2020: 1 / ... / N/A / ... / 3031 / ... / 13 331 / 13 813 / 14 365 / 14 885 / Chile
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 13 441 / 14 153 / 13 736 / 13 736 / Japan
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 10 463 / 11 289 / 12 208 / 13 181 / Belarus
+3 Mar 2020: 1 / ... / N/A / ... / 2554 / ... / 11 617 / 11 902 / 12 218 / 12 640 / Poland
+29 Feb 2020: 1 / 3 / ... / 835 / ... / 10 287 / 11 244 / 11 921 / 12 564 / Qatar
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 11 036 / 11 339 / 11 616 / 11 978 / Romania
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 10 349 / 10 839 / 11 380 / 11 380 / United Arab Emirates
+3 Mar 2020: 1 / ... / N/A / ... / 794 / ... / 8617 / 9009 / 9410 / 9866 / Ukraine
+2 Mar 2020: 2 / ... / N/A / ... / 1677 / ... / 8882 / 9096 / 9511 / 9771 / Indonesia
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 8575 / 8698 / 8851 / 9008 / Denmark
+6 Mar 2020: 1 / ... / N/A / ... / 1060 / ... / 8042 / 8275 / 8497 / 8724 / Serbia
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 7579 / 7777 / 7958 / 8212 / Philippines
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7527 / 7599 / 7660 / 7680 / Norway
+1 Mar 2020: 3 / ... / N/A / 3589 / ... / 7404 / 7445 / 7504 / 7563 / Czech Republic
+8 Mar 2020: 3 / ... / N/A / ... / 54 / ... / 5416 / 5913 / 6462 / 7103 / Bangladesh
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6719 / 6725 / 6738 / 6746 / Australia
+1 Mar 2020: 1 / ... / N/A / ... / 1284 / ... / 6135 / 6293 / 6416 / 6652 / Dominican Republic
+10 Mar 2020: 1 / ... / N/A / ... / 1317 / ... / 5779 / 6021 / 6021 / 6200 / Panama
+6 Mar 2020: 1 / ... / N/A / ... /1065 /... / 5379 / 5597 / 5949 / 5949 / Colombia
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 5780 / 5820 / 5851 / 5945 / Malaysia
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 4534 / 4782 / 5042 / 5268 / Egypt
+[In the table above, N/A is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.UBA]
+Countries and territories with more than 1000 cases:
+Finland, South Africa, Morocco, Argentina, Luxembourg, Moldova, Algeria, Kuwait, Thailand, Kazakhstan, Bahrain, Hungary, Greece, Croatia, Oman, Uzbekistan, Iraq, Iceland, Armenia, Azerbaijan, Estonia, Cameroon, Ghana, Afghanistan, Bosnia and Herzegovina, New Zealand, Lithuania, Slovenia, North Macedonia, Slovakia, Cuba, Bulgaria, Nigeria, Cote d'Ivoire, Guinea, Djibouti, Bolivia, Hong Kong
+Countries with more than 500 cases (and less than 1000):
+Tunisia, Cyprus, Latvia, Andorra, Albania, Lebanon, Niger, Kyrgyzstan, Costa Rica, Senegal, Honduras, Burkina Faso, Uruguay, San Marino, Channel Islands, Sri Lanka, Guatemala, Georgia, Somalia
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Algeria, Mayotte, Chile, Guinea, Croatia, Senegal, Belgium, Oman, Somalia, Serbia, Cameroon, Qatar, Armenia, Slovenia, Panama, Gabon, Belarus, Tanzania, Sudan, El Salvador, Mali, Kazakhstan, Cuba, Canada, Azerbaijan, Bulgaria, Switzerland, Togo, Moldova, Afghanistan, India, Bosnia and Herzegovina, Albania, Lithuania, DR Congo, Jamaica, Hungary, Honduras
+Total number of reported deaths: 220 685
+Total number of worldwide cases: 3 179 195
+Number of newly confirmed cases in past 24 hours: 73 890
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is 3 179 195, with reports of cases by 214 countries and territories worldwide. The total number of confirmed cases reported from outside China now represents 97.4% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with over 1 million confirmed cases now represents 33.5% of the global cases of COVID-19. A global total of 220 685 deaths have been reported, 216 052 (97.9%) outside mainland China.
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by France, the UK, Germany, Turkey, Russia, Iran, and China as number 10. - Mod.UBA]
+******
+[2] New countries/territories confirming cases (none)
+Date: Wed 29 Apr 2020
+No newly identified countries with 1st cases of COVID-19 confirmed.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[As of 29 Apr 2020, 214 countries and territories have reported COVID-19 cases, while 24 countries have not reported any cases. - Mod.UBA]
+******
+[3] Al Jazeera updates
+Date: Wed 29 Apr 2020
+Source: Al Jazeera [abridged, edited]
+https://www.aljazeera.com/news/2020/04/coronavirus-cases-exceed-3-million-live-updates-200428233945104.html
+While some countries are beginning to ease virus lockdowns, there is concern infection rates could accelerate again.
+The number of people around the world confirmed to have the coronavirus has risen to more than 3 million, and at least 217 000 have died, according to data compiled by Johns Hopkins University. Nearly 929 000 people have recovered.
+France has unveiled plans, including the adoption of aggressive testing, for a gradual relaxation of its nationwide lockdown from [11 May 2020].
+Germany has already loosened some of its restrictions, but people are now being encouraged to stay at home amid concern the infection rate could be picking up again.
+Airbus posted a 1st quarter loss of half a billion dollars, while British Airways is set to cut up to 12 000 jobs.
+Latest updates
+--------------
+29 Apr 2020:
+12:40 GMT -- Coronavirus hammered US economy in 1st quarter
+The US economy contracted in the 1st quarter at its sharpest pace since the Great Recession as stringent measures to slow the spread of the novel coronavirus almost shut down the country, ending the longest expansion in the nation's history.
+The Commerce Department said gross domestic product fell at a 4.8 percent annualised rate in the January-to-March period after expanding at a 2.1 percent rate in the final 3 months of 2019.
+The 1st quarter decline was the steepest pace of contraction in GDP since the 1st quarter of 2009. The decline reflected a plunge in economic activity in the last 2 weeks of March [2020], which saw millions of Americans seeking unemployment benefits.
+12:20 GMT -- Germany expects record recession due to pandemic
+The German economy is expected to shrink 6.3 percent in 2020 because of the coronavirus, Economy Minister Peter Altmaier said, the biggest slump in Europe's top economy since records began in 1970.
+"The effects of the coronavirus pandemic will push our economy into a recession after 10 years of growth," Altmaier said, adding that the government expected the economy to rebound in 2021.
+The government expects the recession to bottom out in the second quarter and economic activity to pick up again after that.
+12:10 GMT -- [United Arab Emirates] Etihad delays return of passenger flights to [16 Jun 2020]
+Abu Dhabi's Etihad Airways said it now plans to start operating regular passenger flights from [16 Jun 2020], delaying the resumption for a 2nd time this month [April 2020].The airline has opened bookings for flights across its network from [16 Jun 2020], it said in a statement, though cautioned that could change should current restrictions be extended. Etihad on [25 Apr 2020] said it would extend the suspension until at least [16 May 2020] due to the coronavirus outbreak. It earlier planned to start resuming flights from [1 May 2020].
+12:05 GMT -- Dutch coronavirus cases rise to 38 802
+The number of confirmed coronavirus cases in the Netherlands has risen by 386 to 38 802 health authorities said, with 145 new deaths. The country's death toll stands at 4711, the Netherlands' Institute for Public Health (RIVM) said in its daily update. The RIVM cautioned it only reports confirmed cases, and actual numbers are higher.
+11:45 GMT -- Tunisia to reopen food, construction sectors next week
+Tunisia will start relaxing its lockdown to slow the spread of the coronavirus next week [week of 4 May 2020], government ministers said, with the 1st sectors to be reopened including the food industry, construction and half the public service. Other sectors will be relaxed from [11 May 2020], the health minister and the minister in charge of major projects told a news conference, including clothing shops and malls, while some public transport will also resume.
+11:30 GMT -- Russia extends entry ban for foreigners
+Russia has extended an entry ban for foreigners to slow the coronavirus as the country registered a steep rise in the number of new infections. The decree barring foreigners from entering the country, which was introduced in mid-March [2020] and set to expire Thursday [30 Apr 2020], was extended until Russia has the virus under control, Prime Minister Mikhail Mishustin said, "I have signed a government resolution on extending it until the fight against the infection is over and the epidemic situation has improved," he told officials meeting to discuss Russia's response to the pandemic.
+11:25 GMT -- Iran says businesses reopened as no end in sight to virus
+Iran reopened for business despite its persistent coronavirus outbreak as there was no end in sight to the crisis, its president said, as 80 new deaths were announced. "Due to uncertainty about when this virus will end, we are preparing for work, activity, and science," said President Hassan Rouhani. "We have to follow all the medical instructions, but work and production are as essential as these precautions," he told a televised cabinet meeting. The government has allowed many businesses to reopen since [11 Apr 2020] after shutting most down in mid-March to stem the spread of the disease.
+11:20 GMT -- Newborn Syrian baby recovers from COVID-19 [in Turkey]
+A newborn Syrian baby has recovered from COVID-19 after treatment in Izmir, on the Aegean coast of Turkey. [The baby] was diagnosed with the disease just 5 days after opening his eyes to the world, and he was discharged from the hospital with a round of applause after nearly a month of treatment. [The baby] was taken in intensive care unit for newborns as he had difficulty in breathing.
+11:00 GMT -- Germany extends foreign travel warning to [14 Jun 2020]
+Germany is extending an existing warning against foreign travel until [14 Jun 2020] to stem the coronavirus pandemic, Foreign Minister Heiko Maas said. "We have not yet reached the point where we can recommend care-free travel," Maas said, adding "therefore it is necessary to extend the worldwide travel warning until mid-June". Europe's biggest economy has brought home 240 000 stranded tourists in the last 4 weeks, Maas said, adding that "we're not going to undertake such an action again in the coming summer."
+10:00 GMT -- Iran reports 80 new deaths from coronavirus
+The death toll from the coronavirus outbreak in Iran rose by 80 in the past 24 hours to 5957, health ministry spokesman Kianush Jahanpur said in a statement on state TV. The total number of diagnosed cases of new coronavirus in Iran, one of the countries hardest hit by the outbreak in the Middle East, has reached 93 657, he said. [Maps showing confirmed cases by region can be seen at 
+https://www.aljazeera.com/indepth/interactive/2020/03/covid-19-charts-maps-200310163714493.html
+].
+09:45 GMT -- German company begins testing possible vaccine
+German pharmaceutical company BioNTech said it has begun testing a potential vaccine for the new coronavirus on volunteers. BioNTech, which is working with US-based Pfizer, said 12 participants of a clinical trial in Germany have received doses of the vaccine candidate BNT162 since [23 Apr 2020]. BioNTech said in a statement that in a next step, it will begin increasing the dose of BNT162 in a trial involving about 200 participants aged 18 to 55. Read more at 
+https://www.aljazeera.com/news/2020/04/german-company-begins-human-trials-coronavirus-vaccine-200429111230419.html
+09:30 GMT -- Spain's daily toll slightly up with 325 new deaths
+Spain recorded 325 deaths from the novel coronavirus overnight, up from 301 reported the previous day [28 Apr 2020], the health ministry said. The overall death toll from the virus, however, rose by 453 to 24 275, it said, adding that some of the additional cases were from the previous days. The number of diagnosed cases rose by 2144 from Tuesday [28 Apr 2020] to 212 917, the ministry said.
+09:15 GMT -- Highest daily jump in COVID-19 deaths in India
+India saw its highest jump in deaths related to the novel coronavirus in a 24-hour period even as regional governments prepared to ease lockdown restrictions. A total of 73 people affected by the virus had died since Tuesday morning [28 Feb 2020], taking the country-wide toll to 1007, the federal health ministry said. The number of positive cases crossed 30 000. The highest number of COVID-19 cases has been reported from Maharashtra, largely in its 2 biggest cities Mumbai and Pune, and the national capital New Delhi.
+08:50 GMT -- Indonesia reports 260 coronavirus cases, 11 deaths
+Indonesia confirmed 260 new coronavirus infections, taking the total in the southeast Asian nation to 9771, according to health ministry official Achmad Yurianto. Yurianto reported 11 new deaths, taking the total number of fatalities to 784, while 1391 people have recovered. More than 67 700 people have been tested.
+08:45 GMT -- Poland to reopen hotels and malls on [4 May 2020]
+Poland will reopen hotels and shopping malls on [4 May 2020] while it will consider reopening pre-schools on [6 May 2020], Poland's Prime Minister Mateusz Morawiecki said. Poland started relaxing some curbs earlier in April [2020], saying they were costly for the economy. It has reopened forests and parks and eased rules on the number of customers in shops. By Wednesday [29 Apr 2020], the European Union member state of 38 million had reported 12 415 cases and 606 deaths.
+08:35 GMT -- Beijing to lower COVID-19 emergency response level
+Beijing's municipal government said it will lower its COVID-19 emergency response level on Thursday [30 Apr 2020], removing quarantine requirements for some people arriving from other low-risk parts of the country. The decision by Beijing to lower its emergency response measures to level II from level I comes on the same day China announced that the parliament will begin its key annual session in the capital on [22 May 2020]. The number of new daily COVID-19 cases in the country has dropped sharply from the height of the epidemic in February [2020].
+08:30 GMT -- Azerbaijan to keep borders closed till [31 May 2020]
+Azerbaijan will keep its borders closed until [31 May 2020] to help contain the spread of the novel coronavirus, the government said on Wednesday [29 Apr 2020]. The former Soviet republic has so far recorded 1717 coronavirus cases and 22 deaths from the virus. More information about travel restrictions and border shutdowns around the world is available at 
+https://www.aljazeera.com/news/2020/04/german-company-begins-human-trials-coronavirus-vaccine-200429111230419.html
+.
+08:15 GMT -- Turkey extends closure of schools to end-May [2020]
+Turkey has extended the closure of schools until the end of May [2020] as part of its measures to combat the spread of the coronavirus, Education Minister Ziya Selcuk said. Ankara announced the initial closure of schools on [12 Mar 2020] after it reported its 1st case of COVID-19 and now has nearly 115 000 cases with a death toll of nearly 3000.
+07:55 GMT -- Russia's coronavirus cases near 100 000 mark
+Russia has reported 5841 new cases of the novel coronavirus, bringing its overall nationwide case tally to 99 399. The official nationwide death toll reached 972 after 108 people with the virus died in the last 24 hours, Russia's coronavirus crisis response centre said. Russia, the world's largest country by territory, has been on lockdown since President Vladimir Putin announced the closure of most public spaces in late March [2020].
+07:40 GMT -- Singapore confirms 690 new coronavirus cases
+Singapore's health ministry confirmed 690 more coronavirus infections, taking total cases in the country to 15 641. Most of the new cases are among migrant workers living in dormitories in the city-state, which has among the highest number of coronavirus infections in Asia.
+07:10 GMT -- Global airlines face unprecedented turbulence
+The global airlines industry is bleeding billions of dollars in cash, with some carriers already facing bankruptcy and others seeking government help. More than half of the world's fleet of passenger aircraft has been grounded because of travel bans, according to the International Air Transport Association (IATA), an airline industry group. European aviation giant Airbus reported a net loss of 481 million euros (USD 522 m) in the 1st quarter under the impact of the coronavirus crisis. More information is available at 
+https://www.aljazeera.com/ajimpact/fasten-seatbelts-global-airlines-face-unprecedented-turbulence-200427100347905.html
+.
+07:00 GMT -- Japan PM: Impossible to hold Olympics unless virus curbed
+Japanese Prime Minister Shinzo Abe said the postponed Tokyo Olympics could not take place next year [2021] unless the coronavirus pandemic is contained. "We've been saying the Olympic and Paralympic Games must be held in a complete form, in that athletes and spectators can all participate safely," Abe said in response to an opposition legislator in parliament. "It would be impossible to hold the Games in such a complete form unless the coronavirus pandemic is contained," he added.
+06:30 GMT -- Australia to ramp up testing with 10 million more kits
+Australia plans to expand screening for the coronavirus after securing 10 million more test kits from China. Australia, which has been one of the most successful countries in containing COVID-19, has so far carried out around 500 000 tests in a population of 25 million people. "These 10 million tests will allow our state and territory public health units to be able to test right through 2020, to provide us with the capacity to contain, suppress and defeat the virus," Health Minister Greg Hunt told reporters in Melbourne.
+06:00 GMT -- Pakistan records 2nd deadliest day of pandemic
+Pakistan registered its deadliest day from the coronavirus pandemic on Tuesday [28 Apr 2020], with 26 people dying of the highly contagious COVID-19 virus, taking the country's death toll to 327 since its outbreak began in late February [2020]. Cases also rose by their highest single-day amount on Tuesday, increasing by 806 to 14 885, of which 11 113 are active cases, as per data collected by Al Jazeera.
+05:50 GMT -- Qatar sends virus aid to Iran and Algeria
+Qatar has sent medical supplies to Iran and Algeria to support their fight against the novel coronavirus. Qatar Emir Sheikh Tamim bin Hamad al-Thani ordered urgent medical aid to be sent to Algeria, according to a report by the state-run Qatar News Agency (QNA). The country also sent aid to Iran for the 4th time with some 16 tons of medical supplies, the report added.
+05:40 GMT -- Tokyo governor calls to extend nationwide emergency
+Tokyo Governor Yuriko Koike has called for an extension of Japan's nationwide "state of emergency," which requests people to stay home and social distance, to stem the spread of the coronavirus outbreak. "Tokyo is still facing a serious situation and so I would like to have it go on longer," she told reporters. The state of emergency, declared by Japanese Prime Minister Shinzo Abe, lasts through [6 May 2020].
+05:15 GMT -- Germany to extend tourism travel warning to [14 Jun 2020]: Der Spiegel
+Germany will announce on Wednesday [29 Apr 2020] a warning on overseas tourism will be extended until [14 Jun 2020], according to the magazine Der Spiegel. The country is slowly loosening its coronavirus controls but there are concerns the virus is picking up. Earlier, the Robert Koch Institute announced there were 1304 more coronavirus cases and 202 more deaths.
+04:00 GMT -- Brazil deaths reach record [....]
+Brazil's Health Ministry reported a record 474 people died from COVID-19 in the last 24 hours, bringing the country's death toll to 5017. [...]
+03:10 GMT -- China's parliament to sit on [22 May 2020] after coronavirus delay
+China's parliament will start its key annual session in Beijing on [22 May 2020], more than 2 months later than originally planned because of the outbreak of the coronavirus. China usually ratifies major legislation and unveils economic targets at the parliament, which was initially scheduled to start on [5 Mar 2020]. China's top political consultative body, the Chinese People's Political Consultative Conference, has also proposed to start its annual session on [21 May 2020].
+02:30 GMT -- Winston the pug becomes 1st dog in US to test positive for coronavirus
+A pug named Winston has become the 1st pet dog in the United States to test positive for the coronavirus. Winston belongs to a family who are taking part in the Molecular and Epidemiological Study of Suspected Infection research study at Duke University. A handful of pet cats and dogs have previously been found with the virus.
+02:15 GMT -- European countries move towards gradual easing, focus on testing
+Several European countries are eyeing a gradual end to their coronavirus lockdowns as infection rates slow and death rates decline. Governments from France to Spain, Greece and Russia are setting out plans to reopen schools, shops, and businesses with many looking to testing and tracing to keep control of the virus. Social distancing measures will remain in force too. "Our emergence from quarantine will be done step by step," Greek Prime Minister Kyriakos Mitsotakis said in a televised address. "No one can rule out the risk of the threat rekindling. A return [to normal life] must not lead to a relapse. "You can read more about what's going on in each country here.
+02:00 GMT -- China reports 22 new cases of coronavirus, no deaths
+China's National Health Commission says the mainland had 22 new cases of coronavirus for [28 Apr 2020], all but one of them in people who had returned from overseas. The total number of deaths remains unchanged at 4633.
+00:10 GMT -- ICRC calls on Asian countries to include migrants in coronavirus response
+The International Committee of the Red Cross says governments in the Asia Pacific must "systematically include" migrants, regardless of their legal status in their coronavirus response programmes, and take "all possible measures" to reduce the use of immigration detention. "Governments in the region should do more for the migrants," said Christine Cipolla, ICRC regional director for Asia and the Pacific. "It is in their best interest. It saves lives. It protects society as a whole. "Migrants, including refugees, make up a large proportion of the population in several countries and play a crucial role in the economy, the ICRC statement noted.
+23:30 GMT [Tue 28 Apr 2020] -- US considering coronavirus testing on some international flights
+US President Donald Trump says the US is considering testing passengers on international flights for the coronavirus. "We're looking at doing it on international flights coming out of areas that are heavily infected," Trump said at the White House." He added that the administration was already discussing the plan with airlines and it could be introduced "in the very near future." The US has a 1/3 of all confirmed coronavirus cases in the world and the most deaths anywhere.
+[Byline: Kate Mayberry, Saba Aziz]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+******
+[4] UK (England): care home
+Date: Tue 28 Apr 2020 14:10 BST
+Source: The Scottish Sun [edited]
+https://www.thescottishsun.co.uk/news/5539474/residents-die-care-home-essex/
+Director Jenny Smith revealed almost 1/3 of residents have died at the 22-bed Westcliff Lodge Care Home in Westcliff-on-Sea, Essex, with staff now under mounting pressure.
+She told BBC Breakfast: "We're all still adjusting and trying to process the loss. The loss and the pain and the devastation. "We have many people off sick as well with suspected [COVID-19], so we've been under tremendous pressure.
+"There's so much fear among the staff because this is a virus that affects people of all ages, and that's a really primary difference really compared to normal influenza outbreaks."
+The director said tests for the disease were not "timely enough" to stop the huge number of deaths.
+She added: "I feel that's an issue perhaps beyond this country's control because we didn't have the same set-up, say, as Germany.
+"Even more importantly, it perhaps wasn't reliable enough because some people were tested twice and had different results."
+The care home, which has room for 22 residents, has been operating for the past 30 years.
+New figures released today [28 Apr 2020] also showed COVID-19 care home deaths had trebled in the week leading up to [17 Apr 2020] from 1043 to 3096. It means 1/3 of all coronavirus deaths in England and Wales are now happening in care homes, the Office for National Statistics found.
+But the Care Quality Commission (CQC) reported 4343 deaths of residents in homes between [10 and 24 Apr 2020] -- the 1st time such figures have been published by the body.
+Pressure has been mounting on the Government to release the number of care home deaths and they have now pledged to provide more reliable data on the number of victims.
+Some experts believe the true number of coronavirus deaths in care homes could be as high as 7500.
+Responding to the latest figures, Cllr Ian Hudspeth, Chairman of the Local Government Association's Community Wellbeing Board, said: "It is truly shocking to see how many of the most elderly and vulnerable in our communities have died from this dreadful disease.
+"Every death from this virus is a tragedy. This is being exacerbated by the fact some social care staff and other frontline workers still lack the necessary PPE to protect themselves and the people they care for from contracting coronavirus.
+[Byline: Holly Christodoulou]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[Care homes present a high at-risk population for COVID-19 infections, as the majority of residents are elderly and generally have underlying co-morbid conditions. If infected with SARS-CoV-2, the virus that causes COVID-19, residents are at increased risk of serious illness. Other infectious diseases such as influenza related outbreaks have been identified in the past from such facilities.
+Facilities should educate residents, healthcare personnel (HCP), and visitors about COVID-19, by providing information about COVID-19 (including information about signs and symptoms) and strategies for managing stress and anxiety. Furthermore, HCP should be educated and trained on source control while in the facility with adherence to standard infection prevention and control measures, including hand hygiene and selection and use of personal protective equipment (PPE). Have HCP demonstrate competency with putting on and removing PPE instructions and monitor adherence by observing resident care activities. Sick leave policies should be reinforced, reminding HCP not to report to work when symptomatic. - Mod.UBA
+HealthMap/ProMED-mail map of England, United Kingdom: 
+http://healthmap.org/promed/p/64484
+]
+******
+[5] WHO situation report 100 (as of 29 Apr 2020)
+Date: Wed 29 Apr 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200429-sitrep-100-covid-19.pdf
+*The situation report includes information provided by national authorities as of 10:00 CEST, 29 Apr 2020
+Highlights
+----------
+- Globally, the number of total confirmed cases has exceeded 3 million.
+- WHO has published a technical guidance titled 'Strengthening Preparedness for COVID-19 in Cities and Urban Settings'. The guidance supports local leaders and policy-makers in cities and other urban settings in implementing actions that enhance the prevention, preparedness and readiness for COVID-19. The document can be found at 
+https://www.who.int/publications-detail/strengthening-preparedness-for-covid-19-in-cities-and-urban-settings
+.
+- The WHO Regional Office for Europe has highlighted the critical importance of patient rehabilitation in light of the COVID-19 pandemic. More information is available at 
+http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/4/covid-19-exposes-the-critical-importance-of-patient-rehabilitation
+.
+- WHO Regional Director for the Eastern Mediterranean Region, Dr Ahmed Al-Mandhari, has called for 'all to put aside their differences, find common ground, and work together for the sake of humanity'. More information is available at 
+http://www.emro.who.int/media/news/statement-by-whos-regional-director-dr-ahmed-al-mandhari-on-our-collective-fight-against-covid-19.html
+.
+- The WHO Information Network for Epidemics (EPI-WIN) has rapidly built an innovative analysis capability to identify misleading sources, posts and narratives, and predict rising areas of concern and information voids. For more, see 'subject in focus' below.
+Subject in focus: adapting social media listening to fight the COVID-19 infodemic
+--------------------------------------------------------------------------------
+Never before has so much real-time information been collated and shared in the public domain during a public health crisis. This is largely due to the rapid growth of digital communications and social networking which have brought about both positive and negative impacts on society. Today, we are fighting a massive 'infodemic'-an overabundance of false or misleading information on COVID-19, which poses a grave threat to response efforts and public health. At the same time, however, new and impactful measures to manage the infodemic have been identified.
+The WHO Information Network for Epidemics (EPI-WIN), in collaboration with research partners, has rapidly built an innovative analysis capability, to run a weekly study using digital media data to identify, understand and categorize the key concerns expressed by millions of people online. The purpose of this ground breaking work is to provide WHO with curated intelligence to fill information voids with solid facts from trusted sources before misleading information becomes viral, causing further damage to communities.
+The public perception of misleading or false information often coincides with harmful rumour-spreading posts, groups, and profiles that are widely spread on social media platforms. EPI-WIN's work in this area therefore focuses not only on identifying misleading sources, posts, and narratives, but on identifying or predicting rising areas of concern and information voids.
+This is made possible by aggregating publicly available social and news media, web analytics as well as online search data, currently in the English language. Data sets are based around a newly developed pandemic public health taxonomy that focuses on 4 thematic areas: the cause, the illness, the interventions, and the treatment. In addition, a 5th area looks at the type of information shared and meta-conversations on mis-and dis-information.
+These data, captured at a global level, provide the baseline for the analysis, and are examined by digital consultants to identify the most prevalent thematic areas, and themes that are seeing the highest level of growth. Analysts then detect the pace at which comments on these themes are shared, their networks and potentially threatening sources. This systematic approach gives the EPI-WIN team an early warning of the points of concern expressed by the digital public.
+Advanced language analytics are also applied to the data, to measure the presence of emotional language and provide insight into how people are discussing topics. These also highlight whether there is a tangible week-on-week shift in emotional language used for each tracked taxonomy. The analysis focuses on emotions (including denial, sadness, anxiety, fear, anger, and acceptance), rather than sentiment (positive versus negative). This enables WHO to share the types and formats of information needed to address the needs of the public in the most effective way.
+Weekly insights highlight key topics of concern, including areas demonstrating an increase in the spread of misleading information, how and where that information has been spread, the context behind the spread, and the underlying narratives that need to be addressed through reliable information.
+Applying this methodology to public health has provided invaluable insight, inspiring new ways of thinking and communicating risk during health emergencies. This research framework is now being used in Canada in French by the Québec National Institute of Public Health (INSPQ) to guide public health communication strategies in the province. There is now an opportunity to compare the similarities and differences of how this insight can be used at the local level, and with the added layer of bilingual search options.
+The general approach to analysis was presented at the recent WHO consultation on infodemic management framework (see 
+https://www.who.int/teams/risk-communication/who-ad-hoc-online-consultation-on-managing-the-covid-19-infodemic
+).
+Surveillance
+------------
+[The following data come from Table 1: Countries, territories, or areas with reported laboratory-confirmed COVID-19 cases and deaths. Data as of (10:00 am CEST 28 Apr 2020), available at the source URL above. I am presenting the regional case totals with the addition of China. - Mod.UBA]
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 146 720 (1335) / 6037 (39)
+European Region (60): 1 406 899 (21 750) / 129 311 (2882)
+Southeast Asia Region (10): 51 351 (3003) / 2001 (84)
+Eastern Mediterranean Region (22): 176 928 (5690) / 7304 (156)
+Region of the Americas (54): 1 213 088 (33 481) / 62 404 (2193)
+African Region (47): 23 254 (1017) / 903 (22)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 3 018 952 (66 276) / 207 973 (5376)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[The number of countries and territories reporting confirmed cases of COVID-19 is stable at 212. This includes 19 countries (including 4 territories) from the Western Pacific region, 60 countries (including 7 territories) from the European region, 10 countries from the Southeast Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 47 countries (including 2 territories) from the African region.
+In the 24 hours since the last WHO update:
+----------------------------------------
+The Americas region reported 33 481 new cases (50.5% of the global newly reported cases) and 2193 deaths (40.7% of the global newly reported deaths). Of the newly confirmed cases in the region, 67.3% were reported by the USA, followed by Brazil at 13.8%, Canada at 5.1%, and Peru at 3.5%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 42.2% of the newly reported cases in the region, followed by Canada at 15.5%, Peru at 10.8%, Ecuador at 9.3%, Mexico at 7.8%, and Chile at 5.1%.
+The European region reported 21 750 new cases (32.8% of the global newly reported cases) and 2882 deaths (53.6% of the global newly reported deaths). Russia reported 26.9% of the newly confirmed cases in the region, the UK 18.4%, Turkey 11.0%, and Italy 9.6%.
+The Eastern Mediterranean region reported 5690 new cases (8.6% of the global newly reported cases) and 156 deaths (2.9% of the global newly reported deaths). Saudi Arabia reported 1266 new cases representing 22.3% of the regional newly reported cases, followed by Iran at 19.5%, Pakistan at 17.0%, Qatar 11.9%, and the United Arab Emirates at 9.5%.
+The African region reported 1017 new cases (1.5% of the global newly reported cases) and 22 deaths (0.41% of the global newly reported deaths). South Africa reported 20.0% of the newly reported cases in the region in the past 24 hours, followed by Algeria at 13.0%, Ghana at 11.9%, Guinea at 7.6%, and Senegal at 8.7%.
+The Western Pacific region reported 1335 new cases (2.0% of the global newly reported cases) and 39 deaths (0.7% of the global newly reported deaths). Singapore reported 59.9% of the newly reported cases, followed by Japan at 20.7% and the Philippines at 13.6%. Given the high proportion of cases reported by Singapore, removing Singapore from the denominator, Japan represents 51.5% of the newly reported cases in the region, followed by the Philippines at 33.8% and Malaysia at 5.8%.
+The South East Asia region reported 3003 new cases (4.5% of the global newly reported cases) and 84 deaths (1.6% of the global newly reported deaths). India reported 63.2% of newly reported cases, followed by Bangladesh at 18.3% and Indonesia at 13.8%. Removing India from the denominator, Bangladesh represents 49.6% of the newly reported cases, Indonesia represents 37.5%, and the Sri Lanka 8.7%.
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region through (29 Apr 2020) at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend.
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.UBA] 
+See Also
+COVID-19 update (141): India, wild tiger, susp, clarification, RFI  
+20200430.7281768
+COVID-19 update (140): China, South Korea, countries w/ high local transmission  
+20200429.7278751
+COVID-19 update (139): global, cruise ship overview, WHO  
+20200429.7278750
+COVID-19 update (138): India, wild tiger, fatal  
+20200428.7275765
+COVID-19 update (137): China, South Korea, countries w/ high local transmission  
+20200428.7274497
+COVID-19 update (136): global, UK NHS increased testing, Brazil, WHO  
+20200428.7274496
+Undiagnosed pediatric inflammatory syndrome - UK: COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (135): Netherlands (NB) farmed mink  
+20200427.7272289
+COVID-19 update (134): China, South Korea, countries w/ high local transmission  
+20200427.7271470
+COVID-19 update (133): global, ships, tracking app, WHO  
+20200427.7271469
+COVID-19 update (132): China, South Korea, countries w/ high local transmission  
+20200426.7269387
+COVID-19 update (131): global, Australia, USA outbreaks, WHO  
+20200425.7267692
+COVID-19 update (130): USA (NY) zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (129): China, S. Korea & high local transmission countries, Ecuador  
+20200425.7265865
+COVID-19 update (128): global, countries not reporting infections, WHO  
+20200425.7265864
+COVID-19 update (127): China, S. Korea & high local transmission countries  
+20200424.7262187
+COVID-19 update (126): global, US (NY State) serosurvey, WHO  
+20200424.7262138
+COVID-19 update (125): China, S. Korea & high local transmission countries  
+20200423.7259814
+COVID-19 update (124): USA (NY) cat, lion, OIE  
+20200423.7259119
+COVID-19 update (123): USA (NY) animal, cat, conf.  
+20200422.7256272
+COVID-19 update (122): global, prison outbreak, WHO  
+20200422.7255900
+COVID-19 update (121): research updates  
+20200422.7240904
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................sb/uba/mj/ml

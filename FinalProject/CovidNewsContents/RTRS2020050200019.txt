@@ -1,0 +1,15 @@
+URL : https://www.reuters.com/article/us-health-coronavirus-france-casualties/frances-death-toll-from-covid-19-rises-by-218-to-24594-idUSKBN22D61M
+ID : RTRS2020050200019
+
+Date : 2020-05-01 17:40:00
+Title : France's death toll from COVID-19 rises by 218 to 24,594
+Ariticle : 
+PARIS (Reuters) - The number of people who have died from coronavirus infection in France rose by 218 to 24,594 on Friday, while hospitalisations for the disease and people in ICU units continued to decline, France’s public health chief said on Friday.  
+Jerome Salomon said the death toll had increased 0.9% compared with Thursday, a lower rate of increase than over the previous 24 hours. 
+The number of people in hospital with the COVID-19 infection fell further to 25,887 from 26,283 on Thursday, and the number of people in intensive care fell to 3,878 from 4,019. Both numbers have been on a downward trend for more than two weeks. 
+The disease’ reproduction rate, known as the RO, in France had risen to between 0.6-0.7 on average from 0.5, Salomon told a news conference. 
+“This is because of a progressive return to activity,” he said. 
+The number is one of several indicators authorities are watching when deciding on loosening coronavirus restrictions for the public. 
+Public health experts say that an R number of 1 or above would make it impossible to loosen lockdowns. 
+A number of 0.7 means that, on average, 100 people infected with Covid-19 infect 70 other people. This would mean the number of new infections would come down over time. 
+France plans to begin ending its lockdown from May 11, but strict guidelines will remain in place with regions categorised into red and green zones depending on the spread of the virus. 

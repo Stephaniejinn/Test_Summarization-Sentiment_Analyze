@@ -1,0 +1,317 @@
+URL : https://promedmail.org/promed-post/?id=7274496
+ID : PROM2020042900002
+
+Date : 2020-04-28 10:31:46
+Title : PRO/AH/EDR> COVID-19 update (136): global, UK NHS increased testing, Brazil, WHO
+Ariticle : 
+CORONAVIRUS DISEASE 2019 UPDATE (136): GLOBAL, UK NATIONAL HEALTH SERVICE INCREASED TESTING, BRAZIL, WHO
+********************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this update:
+[1] Global update: Worldometer accessed 27 Apr 2020 21:45 EDT
+[2] New countries/territories confirming cases (none)
+[3] UK (England): NHS increased testing
+[4] Brazil
+[5] WHO situation report 98 (as of 27 Apr 2020)
+******
+[1] Global update: Worldometer
+Date: Mon 27 Apr 2020 accessed 21:45 EDT
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 26 Apr 2020 / 27 Apr 2020 / Country
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 830 / 82 836 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 738 / 10 752 / South Korea
+Countries with major activity (more than 5000 cases with community spread)
+--------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 987 160 / 1 010 356 / USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 226 629 / 229 422 / Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 197 675 / 199 414 / Italy
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 162 100 / 165 842 / France
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 157 770 / 158 758 / Germany
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 152 840 / 157 149 / UK
+11 Mar 2020: 1 / ... / N/A /... / 15 679 / ... / 110 130 / 112 261 / Turkey
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 90 481 / 91 472 / Iran
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 80 949 / 87 147 / Russia
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 63 100 / 66 501 / Brazil
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 46 895 / 48 500 / Canada
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 46 134 / 46 687 / Belgium
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 37 845 / 38 245 / Netherlands
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 27 890 / 29 451 / India
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 061 / 29 164 / Switzerland
+6 Mar 2020: 1 / ... / N/A / ... / 1323 /... / 27 517 / 28 699 / Peru
+2 Mar 2020: 2 / ... / N/A / ... / 8251 / ... / 23 864 / 24 027 / Portugal
+29 Feb 2020: 1 / 6 / ... / 2758 / ... / 22 719 / 23 240 / Ecuador
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 19 262 / 19 648 / Ireland
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 18 640 / 18 926 / Sweden
+2 Mar 2020: 1 / ... / N/A / ... / 1720 / ... / 17 522 / 18 811 / Saudi Arabia
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 15 443 / 15 555 / Israel
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 14 677 / 15 529 / Mexico
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 225 / 15 274 / Austria
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 13 624 /14 423 / Singapore
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 13 441 / 14 153 / Japan
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 13 328 / 13 915 / Pakistan
+3 Mar 2020: 1 / ... / N/A / ... / 3031 / ... / 13 331 / 13 813 / Chile
+3 Mar 2020: 1 / ... / N/A / ... / 2554 / ... / 11 617 / 11 902 / Poland
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 11 036 / 11 339 / Romania
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 10 463 / 11 289 / Belarus
+29 Feb 2020: 1 / 3 / ... / 835 / ... / 10 287 / 11 244 / Qatar
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 10 349 / 10 839 / United Arab Emirates
+2 Mar 2020: 2 / ... / N/A / ... / 1677 / ... / 8882 / 9096 / Indonesia
+3 Mar 2020: 1 / ... / N/A / ... / 794 / ... / 8617 / 9009 / Ukraine
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 8575 / 8698 / Denmark
+6 Mar 2020: 1 / ... / N/A / ... / 1060 / ... / 8042 / 8275 / Serbia
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 7579 / 7777 / Philippines
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7527 / 7599 / Norway
+1 Mar 2020: 3 / ... / N/A / 3589 / ... / 7404 / 7445 / Czech Republic
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6719 / 6725 / Australia
+1 Mar 2020: 1 / ... / N/A / ... / 1284 / ... / 6135 / 6293 / Dominican Republic
+10 Mar 2020: 1 / ... / N/A / ... / 1317 / ... / 5779 / 6021 / Panama
+8 Mar 2020: 3 / ... / N/A / ... / 54 / ... / 5416 / 5913 / Bangladesh
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 5780 / 5820 / Malaysia
+6 Mar 2020: 1 / ... / N/A / ... /1065 /... / 5379 / 5597 / Colombia
+[In the table above, N/A is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+Countries and territories with more than 1000 cases:
+Finland, South Africa, Egypt, Morocco, Argentina, Luxembourg, Moldova, Algeria, Kuwait, Thailand, Kazakhstan, Bahrain, Hungary, Greece, Croatia, Oman, Uzbekistan, Iraq, Iceland, Armenia, Azerbaijan, Estonia, Cameroon, Ghana, Afghanistan, Bosnia and Herzegovina, New Zealand, Lithuania, Slovenia, North Macedonia, Slovakia, Cuba, Bulgaria, Nigeria, Cote d'Ivoire, Hong Kong, Djibouti, Bolivia, Guinea
+Countries with more than 500 cases (and less than 1000):
+Tunisia, Cyprus, Latvia, Andorra, Albania, Lebanon, Niger, Kyrgyzstan, Costa Rica, Senegal, Honduras, Burkina Faso, Uruguay, San Marino, Channel Islands, Sri Lanka, Guatemala, Georgia
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Poland, Uzbekistan, Egypt, Israel, Bahrain, Morocco, Kyrgyzstan, Ireland, Romania, Algeria, Mayotte, Chile, Guinea, Croatia, Senegal, Ghana, Kuwait, Belgium, Oman, Somalia, Serbia, Cameroon, Qatar, Armenia, Slovenia, Panama, Gabon
+Total number of reported deaths: 211 449
+Total number of worldwide cases: 3 064 225
+Number of newly confirmed cases in past 24 hours: 69 464
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide has now crossed 3 million (3 064 225), with reports of cases by 214 countries and territories worldwide. The total number of confirmed cases reported from outside China now represents 97.3% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with over 1 million confirmed cases now represents 33.0% of the global cases of COVID-19. A global total of 211 449 deaths have been reported, 206 816 (97.8%) outside mainland China.
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by France, Germany, UK, Turkey, Iran, Russia, and China as number 10, with Russia now having surpassed China in cumulative case counts. - Mod.MPP]
+******
+[2] New countries/territories confirming cases (none)
+Date: Mon 27 Apr 2020
+No newly identified countries with 1st cases of COVID-19 confirmed.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[As of 27 Apr 2020, 214 countries and territories have reported COVID-19 cases, while 24 countries have not reported any cases. - Mod.MPP]
+******
+[3] UK (England): NHS increased testing
+Date: Sun 26 Apr 2020 3:17 PM PDT
+Source: Huffington Post [edited]
+https://tinyurl.com/y6uox4k9
+NHS chiefs have asked all hospitals across England to test every single in-patient for COVID-19, even if they don't show symptoms, HuffPost UK can reveal National medical director Stephen Powis and chief nursing officer Ruth May have jointly written to NHS trust chief executives to implement the new policy to help support more "effective management" of the virus on wards. The advice means that all in-patients, from A&E [accident & emergency] units to maternity units and other wards, will be tested. Adults, children, and even new born babies will all have to be 'swabbed'.
+In a letter sent to trusts in England this weekend [25-26 Apr 2020], Powis and May said that they were "asking you to expand testing to all non-elective patients admitted into your organisations that require a bed overnight, effective from Monday [27 Apr 2020] or before". "This includes patients who are asymptomatic. This should include making preparations to cohort patients as possible COVID cases who need to be admitted whilst they await a test result," the letter states.
+"Appropriate infection prevention control recommendations must then be followed. Where this isn't immediately possible, you should work to put this in place as soon as possible." One NHS trust in London has already told staff that from Monday [27 Apr 2020] the new practice will mean "swabbing" every category of in-patient, including those who are admitted via accident and emergency units. All pregnant women will be swabbed on arrival, and once they have given birth their babies will be swabbed too. All patients due to stay overnight on any ward will also be swabbed.
+The move comes as the government faces the steep challenge of trebling its daily testing figures by Thursday [23 Apr 2020] to hit the 100 000-a-day target set by Matt Hancock [Secretary of State for Health and Social Care] at the start of April [2020]. Government sources insist the expanded hospital testing should not be seen as an attempt to hit that target, as NHS England has its own separate target of 25 000 test capacity per day.
+One government insider told HuffPost UK the plan was to roll out the practice at other hospitals, at least for A&E departments at first. "Giving the increasing capacity, we are able to take necessary action to widen eligibility and make sure the people who need tests most can have one," they said. "And testing all admissions for coronavirus is an effective way of [practising] infection control."
+One added benefit could be that more of the public are encouraged to turn up to accident and emergency units with the reassurance of being tested. At present, A&E admissions are severely down on normal levels, and there are concerns people may be too scared to turn up to hospital even if they have serious conditions that need treatment.
+A note to staff at one London trust, dated Monday [27 Apr 2020], sets out how "from today ALL patients admitted to the hospital are to be swabbed for COVID-19 regardless of whether they are symptomatic or not." All patients both adults and children admitted via the A&E department will be swabbed in the department. All transfers from other hospitals or those admitted directly to wards will be swabbed on admission including children of all ages.
+Hancock set the ambitious target of 100 000 tests per day and has just 4 days left in the month to meet it. He admitted on Monday evening [27 Apr 2020] that the government has a "lot of work" to do to achieve the goal he set out. Just under 30 000 tests were conducted on Sunday [26 Apr 2020], with the capacity of PHE and other labs standing at more than 51 000 per day.
+The health secretary also announced on Monday [27 Apr 2020] that non-urgent hospital treatments would be gradually restored across England as the NHS was able to use its extra capacity built up to deal with COVID-19 patients. Among the moves to increase the rate are more mobile labs, more drive-through centres for key workers, and a new website that allows the public to request tests they can conduct themselves at home. Massively increased testing would pave the way for a 'test, track and trace' strategy -- used successfully in countries like South Korea -- to keep coronavirus suppressed once the government is sure that its lockdown has done enough to prevent a 2nd wave of the disease.
+On his 1st day back in Downing Street after recovering from the virus, Boris Johnson said that there was now "beginning to turn the tide" but warned that lifting stay-at-home restrictions too early could prompt a "new wave of death."
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[There is a photograph of the letter sent by NHS to Chief Executives, Medical Directors, and Directors of Nursing on 24 Apr 2020:
+"Dear Colleagues,
+"Expansion of patient testing for COVID-19
+"As more test capacity has been made available to us, we can now go beyond PHE's original advice which prioritised symptomatic patients and key workers.
+"To further support the effective management of COVID-19 in healthcare settings, we are therefore now asking you to expand testing to all non-elective patients admitted into your organisations that require a bed overnight, effective from Monday [27 Apr 2020] or before.
+"This includes patients who are asymptomatic.
+"This should include making preparations to cohort patients as possible COVID cases who need to be admitted whilst they await a test result. Appropriate infection prevention control recommendations must then be followed. Where this isn't immediately possible, you should work to put this in place as soon as possible.
+"A similar approach will be applied to elective patients from next week [week of 27 Apr 2020], and further advice on protocols for doing so will be issued shortly.
+"We will work with your laboratories and your pathology incident directors to ensure enough supplies of swabs. Samples should be sent to local testing laboratories as per routine arrangements."
+Results should be very interesting and should impact on reducing nosocomial transmission of the SARS-CoV-2. Challenges will be if there are individuals in the early incubation period who still aren't shedding the virus in the nasopharynx at the time of admission. - Mod.MPP
+HealthMap/ProMED-mail map of England, United Kingdom: 
+http://healthmap.org/promed/p/279
+]
+******
+[4] Brazil
+Date: Mon 27 Apr 2020
+Source: AP [Abridged, edited]
+https://apnews.com/2ebc74ac301d5cf866e562850dd448c5
+Brazil is emerging as potentially the next big hot spot for the coronavirus amid President Jair Bolsonaro's insistence that it is just a "little flu" and that there is no need for the sharp restrictions that have slowed the infection's spread in Europe and the US. As some US states and European countries moved gradually Monday [27 Apr 2020] to ease their limits on movement and commerce, the intensifying outbreak in Brazil -- Latin America's biggest country, with 211 million people -- pushed some hospitals to the breaking point, with signs that a growing number of victims are now dying at home.
+"We have all the conditions here for the pandemic to become much more serious," said Paulo Brandao, a virologist at the University of Sao Paulo. Brazil officially reported about 4500 deaths and almost 67 000 confirmed infections. But the true numbers there, as in many other countries, are believed to be vastly higher given the lack of testing and the many people without severe symptoms who haven't sought hospital care. Some scientists said over 1 million in Brazil are probably infected. The country is heading into winter, which can worsen respiratory illnesses.
+In Brazil, Bolsonaro has disputed the seriousness of the coronavirus and said people need to resume their lives to prevent an economic meltdown. But most state governors in the country have adopted restrictions to slow the spread and pushed people to stay at home. In mid-April [2020], Bolsonaro fired his popular health minister after a series of disagreements over efforts to contain the virus, replacing him with an advocate for reopening the economy. Residents protested, leaning out their windows to bang pots and pans.
+Medical officials in Rio de Janeiro and at least 4 other major cities have warned that their hospital systems are on the verge of collapse or too overwhelmed to take any more patients. Officials in Sao Paulo -- the largest city in South America, a tightly packed metropolitan area of over 21 million residents, many living in poverty -- have issued death certificates over the past 2 weeks for 236 people who succumbed at home, double the number before the outbreak, according to the SAMU [mobile emergency service] paramedic service.
+Manaus, an Amazon city of 1.8 million, recorded 142 deaths on Sunday [26 Apr 2020], the most yet, including 41 who died at home. In the main cemetery, workers have been digging mass graves. Brazil's funeral industry warned last week [week of 20 Apr 2020] that the city was running out of coffins and "there could soon be corpses left on corners."
+--
+Communicated by:
+ProMED-mail Rapporteur Kunihiko Iizuka
+[A very sad report to read. This article predicts Brazil will be the next hot spot. A few days ago, Ecuador surfaced as a hot spot when it doubled its confirmed cases overnight. No further case reports were issued over the weekend [25-26 Apr 2020]. Hearing/reading about country after country having their health infrastructure overwhelmed by the caseloads of this pandemic, the political changes that conflict with public health recommendations -- the economic toll vs the human toll. - Mod.MPP
+HealthMap/ProMED-mail map of Brazil: 
+http://healthmap.org/promed/p/6
+]
+******
+[5] WHO situation report 98 (as of 27 Apr 2020)
+Date: Mon 27 Apr 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200427-sitrep-98-covid-19.pdf?sfvrsn=90323472_4
+*The situation report includes information provided by national authorities as of 10:00 CEST, 27 Apr 2020
+Highlights
+----------
+- The WHO Regional Office for the Americas has published a document providing guidance regarding the operation of immunization programs in the context of the COVID-19 pandemic. More information is available at 
+https://iris.paho.org/handle/10665.2/51992
+.
+- The Ministry of Health, Consumer Affairs and Social Welfare of Spain has recently changed its criteria for reporting COVID-19 cases to include only those with positive polymerase chain reaction (PCR) test results. This has resulted in a retrospective decrease of 12 130 cases. Spain will continue to report only new PCR positive cases.
+- An update on Emergency Medical Teams, the Global Health Cluster, the Global Outbreak Alert and Response Network, and Risk Communications and Community Engagement is provided in today's 'subject in focus' below
+Subject in focus: partner coordination
+--------------------------------------
+Emergency Medical Teams (EMTs)
+------------------------------
+- A weekly Global Coordination Call continues to be held, providing the network with updates on current operations, technical guidance, and sharing of current experiences and practices from various EMT responses to COVID-19. For current operations, the EMT Secretariat provides information on requests for global support to raise awareness and facilitate deployments of available EMTs.
+- 19 International EMTs classified and/or in the classification process have deployed to 15 countries across 3 WHO regions.
+- 36 EMTs are responding nationally to support and reinforce local health systems in all Regions.
+- Additional deployments of Chinese EMTs are expected to Algeria, Democratic Republic of the Congo and Zimbabwe. WHO is currently working with the EMTs and countries to facilitate additional teams to Comoros and São Tomé and Príncipe.
+Global Health Cluster (GHC)
+---------------------------
+- WHO and the GHC are coordinating inputs from partners on the 1st update of the Global Humanitarian Response Plan (GHRP) including mental health and psychosocial services, gender-based violence, protection and specific needs of older people and migrants, minimum Sphere humanitarian standards, and issues related to Water, Sanitation and Hygiene (WASH) and the Integrated Food Security Phase Classification (IPC).
+- Analysis is ongoing to strengthen projections and service requirements for COVID-19 cases and wider humanitarian needs; and monitoring the impact of COVID-19 protection measures on access to essential health services.
+- Reports from field locations highlight the challenges of contact tracing and sample collection in insecure areas; insufficient personal protective equipment for partners supporting health facilities; and the additional challenges of operating with staff in self-quarantine.
+- GHC partners were briefed on the development of the UN COVID-19 Supply Chain Taskforce; and a webinar was held for all Health Cluster Coordinators on isolation in humanitarian settings.
+- Interim Guidance on Public Health and Social Measures for COVID-19 Preparedness and Response in Low Capacity and Humanitarian Settings is under development.
+Global Outbreak Alert and Response Network (GOARN)
+--------------------------------------------------
+- UNICEF, IFRC, US CDC, and OCHA continue to work closely with WHO, embedded in the global COVID-19 incident management team; and are supporting all pillars of response.
+- WHO continues to facilitate direct and remote technical assistance to countries through GOARN regional and global networks to support health operations.
+- A public information hub has been launched on the GOARN knowledge platform for COVID-19 to facilitate the sharing of resources by partners and other stakeholders. (
+https://extranet.who.int/goarn/COVID19Hub
+)
+- IFRC, UNICEF, and WHO with GOARN support are strengthening coordination and collaboration among key stakeholders at the global and regional levels in risk communications and community engagement (RCCE).
+- With support from GOARN partners, 23 experts have been deployed or are in the process of deployment to support COVID-19 response directly or remotely. WHO is currently working with GOARN partners and EMTs to provide support in Sao Tome and Príncipe, Timor-Leste, Italy, and Ecuador.
+- A working group of partners has been established on contact tracing, field epidemiology, and using Go.Data to assist the urgent scale up of contact tracing capacity. (
+https://www.who.int/godata/about
+)
+Risk Communications and Community Engagement (RCCE)
+---------------------------------------------------
+- The tripartite partnership of IFRC, UNICEF, and WHO is leading activities on Risk Communications and Community Engagement (RCCE).
+- The tripartite priorities and upcoming guides, research and tools include social, cultural, and behavioural insights to guide strategies and response actions. They also provide recommendations for home care, community engagement for post-lockdown, and for low-resource settings and vulnerable populations.
+- Coordination is focused on linkages between country-level RCCE efforts and broader humanitarian community engagement and coordination.
+GOARN COVID-19 Research
+-----------------------
+Current activities include:
+- Support to the WHO-convened COVID-19 Research Roadmap Social Science Working Group.
+- Support to RCCE tripartite (WHO, UNICEF, IFRC) to identify emerging research needs that GOARN can support and disseminate findings, and support to ad hoc groups to address emerging operational issues. A repository of RCCE research and assessment tools is available on the GOARN COVID-19 Knowledge Hub. (
+https://extranet.who.int/goarn/COVID19Hub
+)
+- Rapid literature searches and evidence reviews with 24-hour turn-around. Requests are through an online portal supported by Librarian Reserve Corps. Priority is given to GOARN operational partners and WHO technical leads. These outputs are sent directly to the requester and posted on the open access GOARN COVID-19 Knowledge Hub. The Librarian Reserve Corps also curates a daily research publications list that is posted on the open access GOARN COVID-19 Knowledge Hub (
+https://extranet.who.int/goarn/COVID19Hub
+)
+- Support for the integration of guidance, training, and tools for contact tracing for COVID-19, including communication of practitioners, and links to Field Epidemiology Training Programmes (FETPs), alumni, regional and global networks, WHO and GOARN field epidemiology partners, and stakeholders, and the Go.Data community.
+Surveillance
+------------
+[The following data come from Table 1: Countries, territories, or areas with reported laboratory-confirmed COVID-19 cases and deaths. Data as of (10:00 am CEST 27 Apr 2020), available at the source URL above. I am presenting the regional case totals with the addition of China. - Mod.MPP]
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 144 121 (1482) / 5958 (15)
+European Region (60): 1 359 380 (29 659) / 124 525 (2307)
+Southeast Asia Region (10): 46 060 (2214) / 1824 (77)
+Eastern Mediterranean Region (22): 165 933 (5347) / 6991 (104)
+Region of the Americas (54): 1 140 520 (45 674) / 58 492 (2453)
+African Region (47): 21 470 (1154) / 865 (26)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 2 878 196 (85 530) / 198 668 (4982)
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[The number of countries and territories reporting confirmed cases of COVID-19 is stable at 212. This includes 19 countries (including 4 territories) from the Western Pacific region, 60 countries (including 7 territories) from the European region, 10 countries from the Southeast Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 47 countries (including 2 territories) from the African region.
+In the 24 hours since the last WHO update:
+The Americas region reported 45 674 new cases (53.4 % of the global newly reported cases) and 2453 deaths (49.2% of the global newly reported deaths). Of the newly confirmed cases in the region, 71.0% were reported by the USA, followed by Brazil at 12.1% and Canada at 3.1%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 41.6% of the newly reported cases in the region, followed by Peru at 27.8%, Canada at 10.8%, Mexico at 7.3%, and Chile at 3.6%. Note that Ecuador did not report any cases, probably related to weekend reporting.
+The European region reported 29 659 new cases (34.7% of the global newly reported cases) and 2307 deaths (46.3% of the global newly reported deaths). Russia reported 42.3% of the newly confirmed cases in the region, the UK 15.0%, Turkey 7.9%, and Italy 7.8%. Note that Spain did not report any newly confirmed cases, probably a function of weekend reporting.
+The Eastern Mediterranean region reported 5347 new cases (6.3% of the global newly reported cases) and 104 deaths (2.1% of the global newly reported deaths). Saudi Arabia reported 1223 new cases representing 22.9% of the regional newly reported cases, followed by Iran at 21.6%, Qatar 17.4%, Pakistan at 11.3%, and the United Arab Emirates at 10.0%. This is the 3rd consecutive day that Saudi Arabia surpassed Iran.
+The African region reported 1154 new cases (1.3% of the global newly reported cases) and 26 deaths (0.52% of the global newly reported deaths). Ghana reported 23.5% of the newly reported cases in the region in the past 24 hours, followed by South Africa at 16.0%, Algeria at 10.9%, Cameroon at 8.9%, Guinea at 8.5%, and Nigeria at 7.9%.
+The Western Pacific region reported 1482 new cases (1.7% of the global newly reported cases) and 15 deaths (0.30% of the global newly reported deaths). Singapore reported 62.8% of the newly reported cases, followed by the Philippines at 19.2%, and Japan at 13.7%. Given the high proportion of cases reported by Singapore, removing Singapore from the denominator, the Philippines represents 51.7% of the newly reported cases in the region, followed by Japan at 36.8% and Malaysia at 6.9%.
+The South East Asia region reported 2214 new cases (2.6% of the global newly reported cases) and 77 deaths (1.5% of the global newly reported deaths). India reported 63.1% of newly reported cases, followed by Bangladesh at 18.9% and Indonesia at 12.4%. Removing India from the denominator, Bangladesh represents 51.1% of the newly reported cases, Indonesia represents 33.6%, Sri Lanka 7.7%, and the Maldives 6.2%.
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region through (27 Apr 2020) at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and now the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend; the European region appears to have its cyclical weekend drop. The America's region does not appear to have decreased even though there were 29 countries reporting no new cases in the past 24 hours. One sees a gradual increase in the number of cases from the Africa Region.
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP] 
+See Also
+Undiagnosed pediatric inflammatory syndrome - UK: COVID-19 suspected, alert, RFI  
+20200427.7273105
+COVID-19 update (135): Netherlands (NB) farmed mink  
+20200427.7272289
+COVID-19 update (134): China, South Korea, countries w/ high local transmission  
+20200427.7271470
+COVID-19 update (133): global, ships, tracking app, WHO  
+20200427.7271469
+COVID-19 update (132): China, South Korea, countries w/ high local transmission  
+20200426.7269387
+COVID-19 update (131): global, Australia, USA outbreaks, WHO  
+20200425.7267692
+COVID-19 update (130): USA (NY) zoo, tiger, lion, new cases  
+20200425.7266556
+COVID-19 update (129): China, S. Korea & high local transmission countries, Ecuador  
+20200425.7265865
+COVID-19 update (128): global, countries not reporting infections, WHO  
+20200425.7265864
+COVID-19 update (127): China, S. Korea & high local transmission countries  
+20200424.7262187
+COVID-19 update (126): global, US (NY State) serosurvey, WHO  
+20200424.7262138
+COVID-19 update (125): China, S. Korea & high local transmission countries  
+20200423.7259814
+COVID-19 update (124): USA (NY) cat, lion, OIE  
+20200423.7259119
+COVID-19 update (123): USA (NY) animal, cat, conf.  
+20200422.7256272
+COVID-19 update (122): global, prison outbreak, WHO  
+20200422.7255900
+COVID-19 update (121): research updates  
+20200422.7240904
+COVID-19 update (120): China, S. Korea & high local transmission countries  
+20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO  
+20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries  
+20200413.7217806
+COVID-19 update (90): countries with high local transmission  
+20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine  
+20200405.7184331
+COVID-19 update (70): China (Hong Kong) cat, pets & stock  
+20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO  
+20200329.7156949
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE  
+20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO  
+20200315.7092618
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending  
+20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO  
+20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO  
+20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO  
+20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO  
+20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO  
+20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI  
+20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research  
+20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban  
+20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ)  
+20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree  
+20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill.  
+20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI  
+20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI  
+20191230.6864153
+.................................................sb/mpp/mj/ml

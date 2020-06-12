@@ -1,8 +1,0 @@
-URL : https://www.reuters.com/article/us-health-coronavirus-germany-cases/germanys-confirmed-coronavirus-cases-rise-by-1639-deaths-up-193-rki-idUSKBN22D4NW
-ID : RTRS2020050100037
-
-Date : 2020-05-01 06:53:00
-Title : Germany's confirmed coronavirus cases rise by 1,639; deaths up 193: RKI
-Ariticle : 
-BERLIN (Reuters) - The number of confirmed coronavirus cases in Germany increased by 1,639 to 160,758, data from the Robert Koch Institute (RKI) for infectious diseases showed on Friday. 
-The death toll rose by 193 to 6,481. 

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200048
+
+Date : 2020-05-01 00:00:00
+Title : NSW premier urges weekend virus testing
+Ariticle : 
+Disease:Coronavirus
+Time:2020.05.01
+Location:Australia
+Cases:nine new coronavirus cases
+Description:NSW premier urges weekend virus testing

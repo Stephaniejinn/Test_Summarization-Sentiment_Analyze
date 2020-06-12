@@ -1,11 +1,0 @@
-URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/pathological-findings/855680-why-the-immune-mechanisms-of-pulmonary-intravascular-coagulopathy-in-covid-19-pneumonia-are-distinct-from-macrophage-activation-syndrome-with-disseminated-intravascular-coagulation
-ID : FLUT2020043000023
-
-Date : 2020-04-30 07:13:28
-Title : Why the Immune Mechanisms of Pulmonary Intravascular Coagulopathy in COVID-19 Pneumonia are Distinct from Macrophage Activation Syndrome with Disseminated Intravascular Coagulation
-Ariticle : 
-																							O'donnell, James & Sharif, Kassem & Emery, Paul & Bridgewood, Charlie & Mcgonagle, Dennis. (2020). Why the Immune Mechanisms of Pulmonary Intravascular Coagulopathy in COVID-19 Pneumonia are Distinct from Macrophage Activation Syndrome with Disseminated Intravascular Coagulation. 10.13140/RG.2.2.19782.83521.
-
-Preprint (PDF Available)
- 
-The COVID-19 lung pathology shows significant microvascular thrombosis and haemorrhage linked to extensive alveolar and interstitial inflammation that shares features with macrophage activation syndrome (MAS). We have termed this lung restricted immunopathology as diffuse pulmonary intravascular coagulopathy (PIC) which is distinct from disseminated intravascular coagulation (DIC) in its early stages. Raised D-dimers and cardiac enzymes, respectfully reflecting pulmonary vascular bed thrombosis and fibrinolysis and emergent pulmonary hypertension induced ventricular stress in the face of normal fibrinogen and platelet levels, are key early feature of severe COVID-19 related PIC. Lack of confirmation of COVID-19 viraemia in early disease with extensive immunothrombosis over a wide pulmonary vascular territory, rather than systemic viral infection, explains the adverse impact of male sex, hypertension and diabetes on COVID-19 prognosis. The immune mechanisms that underlie diffuse alveolar and pulmonary insterstitial MAS-like inflammation that triggers immunothrombosis over a wide territory that evolves slowly may unmask subclinical cardiovascular disease and is distinct from MAS and DIC familiar to Rheumatologists.													
