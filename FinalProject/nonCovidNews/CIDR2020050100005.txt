@@ -1,0 +1,94 @@
+URL : https://www.cidrap.umn.edu/news-perspective/2020/04/news-scan-apr-30-2020
+ID : CIDR2020050100005
+
+Date : 2020-04-30 00:00:00
+Title : News Scan for Apr 30, 2020
+Ariticle : 
+An international team of experts has published guidelines in 
+CMAJ
+ on treating COVID-19 patients that include "weak" recommendations for using corticosteroids in patients with acute respiratory distress syndrome (ARDS) and against using corticosteroids for patients without ARDS, convalescent plasma in patients with severe disease, and antiviral drugs in general.
+The experts based their recommendations on both direct and indirect evidence, remarking on the "very low quality" of most available evidence.
+They said that while they are "very uncertain" as to whether corticosteroids reduce the length of stay in the hospital or intensive care unit in COVID-19 patients with ARDS, evidence suggests that they may reduce death rates and duration of mechanical ventilation.
+In patients without ARDS, however, evidence is conflicting as to whether corticosteroids increase or decrease death rates, the experts said. But because short-term use of corticosteroids is unlikely to do harm, clinicians who do opt to use them in patients without ARDS should use low doses for short periods to lower the risk of toxicity.
+Scant evidence suggests that convalescent plasma is safe and may have some benefit in severely ill COVID-19 patients, but the experts said that they cannot recommend its use because of all the resources needed to prepare and administer it.
+And antiviral drugs, including hydroxychloroquine, shouldn't be used because they cannot lower the already very low death rate of COVID-19 patients with mild or moderate disease, they said. In addition, ribavirin and lopinavir-ritonavir may cause considerable harm, and little is unknown about the adverse effects of other antivirals.
+"Use of medication without established effectiveness can undermine public trust, result in unnecessary harm, compromise investigations that might provide definitive answers, and divert resources from truly beneficial interventions," the authors wrote. "The recommendations in this guideline should discourage use of interventions for which there is very low-quality evidence, thus decreasing medical waste."
+Apr 29 
+CMAJ
+ 
+guidelines
+ 
+Compared with the previous 3 years, US rates of illnesses caused by foodborne pathogens increased or stayed the same in 2019, according to the Centers for Disease Control and Prevention’s (CDC's) annual examination of data compiled from the Foodborne Diseases Active Surveillance Network (FoodNet).
+The preliminary report was published today in the CDC’s 
+Morbidity and Mortality Weekly Report
+. FoodNet operates across 10 US state health departments and tracks the incidence of eight pathogens, including 
+Campylobacter
+, 
+Salmonella
+, 
+Listeria
+, 
+Shigella
+, 
+Vibrio
+, and 
+Yersinia
+.
+During 2019, FoodNet identified 25,866 cases of infection, 6,164 hospitalizations, and 122 deaths, the CDC said. Compared with 2016, 2017, and 2018, the incidence of infections caused by 
+Cyclospora
+ increased by 1,209%, 
+Yersinia 
+by 153%, and 
+Vibrio
+ by 79%. The incidence of infection caused by 
+Listeria
+, 
+Salmonella
+, and 
+Shigella
+ were unchanged.
+"The overall incidence per 100,000 population was highest for 
+Campylobacter 
+(19.5), followed by 
+Salmonella 
+(17.1), STEC (6.3), 
+Shigella 
+(4.8), 
+Cyclospora 
+(1.5), 
+Yersinia 
+(1.4), 
+Vibrio 
+(0.9), and 
+Listeria 
+(0.3)," the report said.
+The CDC said the data indicate that 
+Healthy People 2020 
+targets for reducing foodborne illness will not be met. 
+Apr 30 
+MMWR
+ 
+ 
+ 
+A systematic review and meta-analysis in 
+The Lancet Infectious Diseases
+ has revealed that artemisinin-based combination therapies (ACTs) in pregnant women with malaria are more effective and tolerable than quinine, but that the relatively lower efficacy of the ACT artemether-lumefantrine might require dose optimization.
+The 19 studies included in the study represented 92% of patients in the literature, with 4,968 of 5,360 episodes. Risk of treatment ineffectiveness was higher in the 244 patients given quinine monotherapy (adjusted hazard ratio [aHR], 6.11; 95% confidence interval [CI], 2.57 to 14.54; 
+P
+ < 0.0001) but lower in 840 given artesunate-amodiaquine (aHR, 0.27; 95% CI, 0.14 to 0.52; 
+P
+ < 0.0001), 1,028 given artesunate-mefloquine (aHR, 0.56; 95% CI, 0.34 to 0.94; 
+P
+ = 0.03), and 872 given dihydroartemisinin-piperaquine (aHR, 0.35; 95% CI, 0.18 to 0.68; 
+P
+ = 0.002) than in 1,278 given artemether-lumefantrine, after adjustment for baseline number of asexual parasites in the blood and number of live pregnancies.
+The risk of carrying malarial gametocytes on day 7 was higher after quinine-based therapy than after artemisinin-based treatment (adjusted odds ratio [OR], 7.38; 95% CI, 2.29 to 23.82).
+The World Health Organization (WHO) recommends use of quinine, ideally with clindamycin, in women with malaria in the first trimester, and ACTs only when quinine is unavailable. But because clindamycin is rarely available in malaria-endemic countries, most are given quinine alone (or an ACT if pregnancy is undetected).
+In a commentary in the same journal, Julie Gutman, MD, MSc, of the US Centers for Disease Control and Prevention and Matthew Chico, PhD, MPH, of the London School of Hygiene & Tropical Medicine said that, because of insufficient safety data, ACTs should not be used in the first trimester if malaria testing is not done before dosing or when the drug is given prophylactically.
+"However, considering the evidence base of efficacy, adherence, and tolerability, the risk-benefit analysis for treatment favours the use of ACTs for confirmed malaria in the first trimester of pregnancy," they wrote.
+Apr 29 
+Lancet
+ 
+study
+ and 
+commentary

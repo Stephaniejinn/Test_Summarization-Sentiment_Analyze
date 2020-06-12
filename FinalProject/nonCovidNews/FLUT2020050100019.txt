@@ -1,0 +1,59 @@
+URL : https://flutrackers.com/forum/forum/local-regional-communities-and-organizations/cidrap/855957-cidrap-study-highlights-impact-of-childhood-vaccines-on-antibiotic-use
+ID : FLUT2020050100019
+
+Date : 2020-04-30 22:07:46
+Title : CIDRAP - Study highlights impact of childhood vaccines on antibiotic use
+Ariticle : 
+																							Source: 
+https://www.cidrap.umn.edu/news-pers...antibiotic-use
+
+
+
+Study highlights impact of childhood vaccines on antibiotic use
+Filed Under:
+Antimicrobial Stewardship; Pneumonia; Rotavirus
+Chris Dall | News Reporter | CIDRAP News
+| Apr 30, 2020
+
+
+
+A new study suggests that among the strategies to combat global antibiotic resistance, childhood vaccines may provide the most bang for the buck.
+The study, published yesterday in 
+Nature
+, found that pneumococcal conjugate vaccines and rotavirus vaccines prevent more than 37 million childhood illnesses that would otherwise be treated with antibiotics in low- and middle-income countries (LMICs), and that scaling up vaccination programs in these countries would more than double that number.
+The authors of the study say that while it's been widely thought that vaccines could reduce the burden of antibiotic resistance by reducing the infections that drive antibiotic use, especially in low-income settings, this study provides clear evidence of a significant impact.
+"The magnitude of the effect that can be achieved with this intervention is just staggering when it's put together and considered in a global context," said Joseph Lewnard, PhD, lead study author and an assistant professor of epidemiology at the University of California, Berkeley.
+
+
+Vaccines reduce antibiotic-treated illnesses
+
+For the study, Lewnard and colleagues from the University of California, San Francisco, Imperial College London, and the Center for Disease Dynamics, Economics and Policy looked at the two vaccines that target the predominant causes of acute respiratory infection (ARI) and diarrhea in children in LMICs—the pneumococcal conjugate vaccines against 10 and 13 serotypes of 
+Streptococcus pneumoniae
+ (PCV10/13) and live attenuated rotavirus vaccines. The two vaccines are part of routine pediatric immunization programs around the world, though coverage rates are lower in LMICs than in wealthier countries.
+ARI and diarrhea are the primary drivers of antibiotic use in children in these countries, as few diagnostic tools exist to determine whether these illnesses are caused by a bacterial or viral infection, and antibiotics are often among the few tools that healthcare providers have at their disposal. A 
+recent study
+ in eight LMICs found that, between birth and the age of 5, children receive an average of 25 antibiotic prescriptions, with 80% receiving them for respiratory illness and 50% receiving them for diarrhea.
+While antibiotics are the often the standard treatment for ARIs in all settings because of the likelihood for pneumonia to be bacterial, use of antibiotics for diarrhea should be much more limited, Lewnard said. And antibiotics should not be used at all for rotavirus-attributable diarrhea. Still, there is substantial and concerning empiric use of antibiotics for diarrhea in LMICs.
+"The scale of the problem and the extent of unnecessary antibiotic use is certainly more pronounced for diarrheal infections than for acute respiratory infections," he said.
+Using data on more than 65,000 children obtained from large-scale household surveys conducted in 16 LMICs, in which mothers are asked about the health and the vaccination status of their children, Lewnard and his colleagues conducted a case-control study to compare the impact of vaccination with PCV10/13 and rotavirus vaccines on preventing antibiotic-treated ARI and diarrhea in children under 5. They found that children who received at least three PVC10/13 doses had 8.7% lower odds of antibiotic-treated ARI than unvaccinated children, with the estimated reduction driven mainly by prevention of cases in children aged 24-59 months. For this age group, vaccination was associated with a 19.7% reduction in cases of antibiotic-treated ARI.
+Similarly, children who received at least two doses of rotavirus vaccine were 8.1% less likely to get antibiotic-treated diarrhea than unvaccinated children, with the largest effect (an 11.4% reduction) seen during the first 2 years of life.
+By combining this estimate of vaccine effectiveness with estimates of pathogen-attributable antibiotic use in these countries—i.e., the amount of antibiotic-treated illness caused by vaccine-serotype pneumococci and rotavirus—and current vaccination rates in these countries, Lewnard and his colleagues estimated that PCV10/13 currently prevents 23.8 million episodes of antibiotic-treated ARIs in children aged 24 to 59 months in LMICs. They estimated that rotavirus vaccines prevent 13.6 million episodes of antibiotic treated diarrhea among children aged 0 to 23 months.
+And that could be an underestimate, Lewnard noted, because ARIs are among the more severe pneumococcal infections, and their analysis did not account for milder illnesses—such as ear infections and upper respiratory infections—that can also be caused by pneumococci and are frequently treated with antibiotics in high-income settings.
+"There's a likelihood that we're missing additional treatment that occurs for some less severe conditions caused by pneumococcus," he said.
+In addition, the estimates are based on vaccination rates that range from 66.8% for the PCV10/13 vaccines to 77.3% for rotavirus vaccines. If universal coverage were achieved for these vaccines, they estimate, an additional 40 million episodes of antibiotic-treated illness (21.7 million ARI cases and 18.3 million diarrhea cases) would be averted.
+
+
+Findings support prioritizing vaccines   
+
+Lewnard and his colleagues say that while national action plans to address excessive antibiotic use and resistance in LMICs have focused on improving sanitation and hygiene and promoting antibiotic stewardship interventions, the evidence for the effectiveness of these strategies to date is weak or scarce.
+For example, a 
+recent analysis
+ of three randomized trials evaluating the impact of water, hygiene, and sanitation (WASH) interventions in LMICs found only a modest impact childhood diarrheal disease. And stewardship interventions in low-resource settings, where people frequently purchase antibiotics outside of the healthcare setting, have not been studied much.
+As a result, they believe the findings of this study indicate that childhood vaccination should be prioritized over these strategies in global efforts to fight antibiotic resistance.
+"I believe it should be the first strategy to address the problem," Lewnard said. "I think it's the most logical starting point."
+
+
+
+
+
+													

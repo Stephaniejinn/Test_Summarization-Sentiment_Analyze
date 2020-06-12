@@ -1,0 +1,68 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/viral-mechanisms/856519-the-z%CE%B12-domain-of-zbp1-is-a-molecular-switch-regulating-influenza-induced-panoptosis-and-perinatal-lethality-during-development
+ID : FLUT2020050200114
+
+Date : 2020-05-02 10:09:15
+Title : The Zα2 domain of ZBP1 is a molecular switch regulating influenza-induced PANoptosis and perinatal lethality during development
+Ariticle : 
+																							
+
+J Biol Chem.
+ 2020 Apr 29. pii: jbc.RA120.013752. doi: 10.1074/jbc.RA120.013752. [Epub ahead of print]
+
+The Zα2 domain of ZBP1 is a molecular switch regulating influenza-induced PANoptosis and perinatal lethality during development.
+
+
+
+Kesavardhana S
+1
+, 
+Malireddi RKS
+2
+, 
+Burton AR
+1
+, 
+Porter SN
+1
+, 
+Vogel P
+1
+, 
+Pruett-Miller SM
+1
+, 
+Kanneganti TD
+1
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+Z-DNA-binding protein 1 (ZBP1) is an innate immune sensor of nucleic acids that regulates both host defense responses and development. ZBP1 activation triggers inflammation and pyroptosis, necroptosis, and apoptosis (PANoptosis) by activating receptor-interacting Ser/Thr kinase 3 (RIPK3), caspase-8, and the NLRP3 inflammasome. ZBP1 is unique among innate immune sensors because of its N-terminal Zα1 and Zα2 domains, which bind to nucleic acids in the Z-conformation. However, the specific role of these Zα domains in orchestrating ZBP1 activation and subsequent inflammation and cell death is not clear. Here we generated Zbp1
+ΔZα2/ΔZα2
+ mice that express ZBP1 lacking the Zα2 domain and demonstrate that this domain is critical for influenza A virus (IAV)-induced PANoptosis and underlies the perinatal lethality in mice in which the RHIM domain of RIPK1 had been mutated (Ripk1
+mRHIM/mRHIM
+). Deletion of the Zα2 domain in ZBP1 abolished IAV-induced PANoptosis and NLRP3 inflammasome activation. Furthermore, deletion of the Zα2 domain of ZBP1 was sufficient to rescue Ripk1
+mRHIM/mRHIM
+ mice from the perinatal lethality which is caused by ZBP1-driven cell death and inflammation. Our findings identify the essential role of the Zα2 domain of ZBP1 in several physiological functions and establish a link between Z-RNA sensing via the Zα2 domain and the promotion of influenza-induced PANoptosis and perinatal lethality.
+Published under license by The American Society for Biochemistry and Molecular Biology, Inc.
+
+
+
+
+KEYWORDS:
+
+RNA virus; infection; influenza; influenza virus; microbiology; negative-strand RNA virus
+
+
+PMID:32350114DOI:
+10.1074/jbc.RA120.013752
+Free full text
+
+													

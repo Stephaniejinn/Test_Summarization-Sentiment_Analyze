@@ -1,0 +1,143 @@
+URL : https://promedmail.org/promed-post/?id=7282291
+ID : PROM2020050100007
+
+Date : 2020-04-30 22:28:17
+Title : PRO/AH/EDR> Vesicular stomatitis - USA (02): (AZ,TX) horse, mixed st.
+Ariticle : 
+VESICULAR STOMATITIS - USA (02): (ARIZONA, TEXAS) HORSE, MIXED SEROTYPES
+************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+[1] Arizona: Indiana serotype
+[2] Texas: New Jersey serotype
+******
+[1] Arizona: Indiana serotype
+Date: Tue 28 Apr 2020
+Source: The Horse [edited]
+https://thehorse.com/188119/arizona-horse-confirmed-with-vsv/
+In its 22 Apr 2020 Situation Report, the Animal Plant and Health Inspection Service (APHIS) of the United States Department of Agriculture (USDA) confirmed Arizona's 1st case of vesicular stomatitis virus (VSV) for 2020. As a result, one premises in Cochise County is under quarantine. Cochise is Arizona's southeastern-most county.
+The index premises houses 2 horses and 5 calves. Only one of the horses has shown clinical signs (oral lesions) of VSV. The signs reportedly appeared around 16 Apr 2020. The calves, which only recently were brought to the premises, show no signs. No other animals have moved onto or off the premises.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[HealthMap/ProMED-mail map of Arizona, United States: 
+http://healthmap.org/promed/p/12062
+Arizona county map: 
+https://www.mapsofworld.com/usa/states/arizona/arizona-county-map.html
+]
+******
+[2] Texas: New Jersey serotype
+Date: Tue 28 Apr 2020
+Source: The Horse [edited]
+https://thehorse.com/188130/vsv-confirmed-in-first-texas-horse-for-2020/
+The United States Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS) confirmed in its 23 Apr 2020 situation report 2 horses on a Starr County, Texas, premises tested positive for vesicular stomatitis virus (VSV), New Jersey serotype. The index premises, along with a 2nd nearby equine premises in Starr County where an additional horse was identified, met confirmed VSV case definition with compatible clinical signs and subsequently tested positive.
+The index premises and the subsequent premises contain 4 horses and 5 cattle. The 2 index horses showed clinical signs (lip lesions) around 19 Apr 2020 and the 3rd around 21 Apr 2020.
+No clinical signs have been observed in the cattle, and no animals have moved onto or off the premises.
+Properties with confirmed positive and suspect cases are quarantined for at least 14 days from the onset of lesions in the last animal affected on the premises.
+VSV-New Jersey serotype (VSV-NJ) has not been identified in the United States since 2015. Other cases of VSV confirmed in 2020 (in New Mexico and Arizona) have been VSV-Indiana (VSV-IN) serotype. The last VSV outbreak involving both VSV-NJ and VSV-IN occurred in 1997-1998.
+VS 101
+Vesicular stomatitis virus can cause blisters and sores in the mouth and on the tongue, muzzle, teats, or hooves of horses, cattle, swine, sheep, goats, llamas, and a number of other animals. Lesions usually heal in 2 or 3 weeks.
+Because of the virus' contagious nature and its resemblance to other diseases such as foot-and-mouth disease, animal health officials urge livestock owners and caretakers to report these symptoms to their veterinarian immediately. Most animals recover with supportive care by a veterinarian.
+"Vesicular stomatitis has been conﬁrmed only in the Western Hemisphere," APHIS said on its website. "It is known to be an endemic disease in the warmer regions of North, Central, and South America, and outbreaks of the disease in other temperate geographic parts of the hemisphere occur sporadically. The southwestern and western United States have experienced a number of vesicular stomatitis outbreaks, (and) the most recent and largest VS outbreak occurred in 2015. Outbreaks usually occur during the warmer months, often along waterways."
+Some states and other countries might restrict movement of, or impose additional requirements for, susceptible animals from states having known VS cases. Before moving livestock, contact the state of destination for its requirements.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[Please note, this posting represents 2 distinct serotypes of vesicular stomatitis virus (VSV). The Indiana serotype has already occurred in Arizona and New Mexico, but the Texas cases are the New Jersey serotype.
+Vesicular stomatitis is a viral disease that primarily affects horses, cattle, and swine. The agent causing VSV has a wide host range and can occasionally infect sheep and goats. In affected livestock, VSV causes blister-like lesions to form in the mouth and on the dental pad, tongue, lips, nostrils, hooves, and teats. These blisters swell and break, leaving raw tissue that is so painful that infected animals generally refuse to eat and drink and show signs of lameness. Severe weight loss usually follows, and in dairy cows a severe drop in milk production commonly occurs. Affected dairy cattle can appear to be normal and will continue to eat about half of their feed intake.
+Known competent vectors for transmission of VSV include black flies, sand flies, and biting midges (_Culicoides_ spp.). The use of equine fly/mosquito approved spray is helpful in controlling the insect vectors transmitting this virus. - Mod.TG
+HealthMap/ProMED-mail map of Texas, United States: 
+http://healthmap.org/promed/p/975
+Texas county map: 
+https://www.mapsofworld.com/usa/states/texas/texas-county-map.html
+] 
+See Also
+Vesicular stomatitis - USA (01): (NM) horse, st. Indiana  
+20200417.7234400
+2019
+----
+Vesicular stomatitis - USA (20): horses  
+20191119.6786968
+Vesicular stomatitis - USA (19): USDA  
+20191030.6752704
+Vesicular stomatitis - USA (18): (KS) horse  
+20191027.6748526
+Vesicular stomatitis - USA (17): (CO) horses, USDA report  
+20191020.6737687
+Vesicular stomatitis - USA (16): (TX) horse, USDA update  
+20190911.6667826
+Vesicular stomatitis - USA (15): (CO) horse, USDA update  
+20190831.6650491
+Vesicular stomatitis - USA (14): (UT,TX,CO) horse, USDA  
+20190824.6638357
+Vesicular stomatitis - USA (13): (CO, TX) more cases  
+20190817.6627584
+Vesicular stomatitis - USA (12): (CO) more cases  
+20190806.6609173
+Vesicular stomatitis - USA (10): policy background  
+20190803.6604403
+Vesicular stomatitis - USA (08): (CO) horses  
+20190728.6592890
+Vesicular stomatitis - USA (07): (TX,CO,NM) horse  
+20190725.6586398
+Vesicular stomatitis - USA (06): (TX) horse, update  
+20190722.6581356
+Vesicular stomatitis - USA (05): (CO,TX) horse  
+20190718.6574089
+Vesicular stomatitis: possible vector  
+20190715.6569128
+Vesicular stomatitis - USA (04): (CO,NM) horse  
+20190707.6556122
+Vesicular stomatitis - USA (03): (NM,TX) horse  
+20190704.6551193
+Vesicular stomatitis - USA (02): (TX) horse  
+20190626.6539748
+Vesicular stomatitis - USA: (TX) horse  
+20190624.6536072
+2016
+----
+Vesicular stomatitis - USA: 2015 summary  
+20160105.3911282
+2015
+----
+Vesicular stomatitis - USA (26): (CO) livestock  
+20151209.3852050
+Vesicular stomatitis - USA (25): (UT) livestock  
+20151030.3756784
+Vesicular stomatitis - USA (24) (WY): livestock  
+20151028.3750107
+Vesicular stomatitis - USA (23): (UT) equine  
+20151023.3738406
+Vesicular stomatitis - USA (22): (NE) equine  
+20151022.3736664
+Vesicular stomatitis - USA (21): (WY) livestock  
+20151017.3722395
+Vesicular stomatitis - USA (20): (CO) livestock  
+20151010.3704735
+Vesicular stomatitis - USA (10): (CO) equine additional cases  
+20150716.3515586
+Vesicular stomatitis - USA: equine, bovine, 2014 outbreak resolved  
+20150106.3073096
+2014
+----
+Vesicular stomatitis - USA (20): (CO) livestock, quarantine update  
+20141121.2978287
+Vesicular stomatitis, equine - USA (10): (CO) further spread  
+20140731.2649632
+Vesicular stomatitis, equine - USA: (TX) OIE  
+20140530.2507867
+2013
+----
+Vesicular stomatitis, equine - Belize: (CY) OIE  
+20130524.1735502
+2012
+----
+Vesicular stomatitis, equine - USA (06): (CO)  
+20120804.1228646
+and other items in the archives
+.................................................sb/tg/tw/ml

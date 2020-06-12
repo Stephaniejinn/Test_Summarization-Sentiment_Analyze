@@ -1,0 +1,44 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006902983
+ID : GPHN2020050400185
+
+Date : 2020-05-04 08:05:00
+Title : As India debates using plasma therapy for coronavirus patients, here’s what you should know about it
+Ariticle : 
+In the midst of the Covid-19 pandemic, more than 6,000 people in the United States  who have recovered from the disease have donated their plasma. This convalescent plasma was transfused into more than 3,000 patients with the disease.
+Convalescent plasma has previously been used against viral illnesses such as rabies, hepatitis B, polio, measles, influenza and Ebola. It was also used in recent outbreaks of MERS and SARS-1, where faster viral clearance following convalescent plasma being administered has been documented.
+Researchers say that the convalescent plasma of a patient who has recovered from Covid-19 could contain antibodies developed by the individual against the disease. As a consequence, convalescent plasma could provide short-term immunity against the disease by providing antibodies that neutralise the virus and prevent further damage.
+On April 26, Max Hospital in Delhi had announced a Covid-19 patient had shown “progressive improvement” after being administered convalescent plasma therapy. However, on April 28, the Union health ministry warned against its use. In a press briefing, joint secretary Lav Agarwal said the Indian Council of Medical Research had launched an experimental study on the efficacy of plasma therapy. “Till the study is approved, no one should use it,” Agarwal said.
+In a confusing signal from the authorities, Delhi chief minister Arvind Kejriwal said on May 1 that a Covid-19 patient had recovered at a state government run-hospital after receiving plasma therapy.
+Antibody therapy
+Convalescent plasma is one of the crudest forms of antibody therapy, which was used extensively to treat infectious diseases a century ago. Starting from the 1890s, antibodies obtained from immunised human donors or animals were used to fight disease. With the invention of the first antibiotic in 1928, the use of this “serum therapy” rapidly declined.
+In the present case, a patient who has recovered from Covid-19 and fits the donor criteria donates blood like at a routine blood donation. Plasma is extracted from the blood. It can be transfused to two sick Covid-19 patients, each getting 200 ml. Some patients have been transfused with 300 ml, 900 ml and even a total of 2,400 ml over eight days.
+There are some caveats to consider regarding this method of treatment.
+1. In donors, the antibody level varies from individual to individual.
+2. The amount of antibodies in, say, 200 ml of plasma transfused depends several factors, such as how long before the donor had been infected, whether the donor had a severe or mild infection, whether the donor had other underlying illnesses that compromised her immunity and how long the plasma had been stored.
+3. The high specificity means the antibody won’t probably work against a different mutant or version of the virus.
+Previous studies in Lassa fever and SARS-1 have indicated that convalescent plasma works best as prophylaxis to prevent the disease (before and after exposure to the virus). This is a form of passive immunisation, but it is short lasting, unlike a vaccine, which produces active immunity. It makes sense to have antibodies against the virus before its entry into the body (before exposure) or against a limited number of viruses (immediately after exposure).
+There are several advantages of using convalescent plasma for a new disease like Covid-19.
+1. It is easily available, unlike specific drugs or vaccines that takes time to develop, test and produce.
+2. It is cheap. The only cost involved is in extraction and storage.
+3. The antibodies are highly specific against the virus.
+4. The antibodies can have potential immunomodulator effect, reducing damage from the inflammatory response as the body mounts a severe response to the virus. Plasma treatment could help tone down the high immune response, which results in damage of normal tissue like those in the lungs, leading to lung injury and requiring the patient to be put on a ventilator.
+5. It’s generally safe and well tolerated. It’s as safe as a blood transfusion.
+There are some potential risks with convalescent plasma transfusion.
+1. Risk of non-Covid-19 infections from contamination and improper screening of plasma.
+2. Risks associated with blood transfusion. The most common reactions are generalised itching and rash, which develops in 1%-3% of patients. A fever like reaction can occur in 0.1%-1% of patients. Transfusion-associated circulatory overload, which is due to the volume of plasma transfused overwhelming the system, occurs in less than 1% of patients. Transfusion-related acute lung injury or TRALI  occurs in less than 0.01 % of patients.
+3. These are no large data available on the risks of convalescent plasma in Covid-19 patients though there is concern about TRALI in patients who already have lung injury. The safety of convalescent plasma was noted previously in Ebola and SARS-1 case series.
+4. Theoretical concern about worsening of immune mediated damage, such as lung injuries.
+Is there clinical evidence that convalescent plasma works in Covid-19?
+There is the pyramid of evidence-based medicine. When someone mentions a drug has weak evidence, minimal evidence or doubtful evidence, it indicates that the data published so far fall in the bottom of the pyramid.
+When a doctor says convalescent plasma worked in his patient, this is only anecdotal evidence.
+The evidence for convalescent plasma are mainly case series (description of limited number of patients).
+1. Five critically ill Covid-19 patients in China’s Shenzhen, between January and March, three of five whom have been discharged, with the other two in stable condition.
+2. Four critically ill Covid-19 patients in hospitals in different hospitals in China in February (including one pregnant woman), all of whom recovered
+3. Ten severe Covid-19 patients in three hospitals in China’s Wuhan in February, all tolerated well.
+These are from peer reviewed journals. There are other preprint reports andseveral anecdotal reports as well.
+The US Food and Drug Administration department has approved the use of convalescent plasma for Covid-19 only for severe or immediately life threatening cases. It makes sense because convalescent plasma is a limited resource and it would be improper to use it extensively in asymptomatic/pre-symptomatic or for prophylaxis.
+Pharmaceutical companies are beginning to develop purification procedures and immunising large animals such as horses and cows to extract antisera. Biotechnology companies are racing to develop monoclonal antibodies or engineered highly specific antibodies created in laboratory setting that can be mass produced. But clinical trials are at best months away. Meanwhile the results from the trials conducted in the US are eagerly awaited.
+Dr Amith Viswanath’s Twitter handle is @avstmd.
+Click here to see image
+Click here to see image
+Click here to see image

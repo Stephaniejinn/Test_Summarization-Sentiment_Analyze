@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100042
+
+Date : 2020-04-30 00:00:00
+Title : KENYA - 7 Dead In Northern Kenya Cholera Outbreak
+Ariticle : 
+Disease:Cholera
+Time:2020.04.30
+Location:Kenya
+Cases:At least seven people
+Description:KENYA - 7 Dead In Northern Kenya Cholera Outbreak

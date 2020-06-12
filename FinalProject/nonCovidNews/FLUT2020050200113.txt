@@ -1,0 +1,99 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/surveillance-and-epidemic-control/856520-virol-j-co-circulation-of-multiple-reassortant-h6-subtype-avian-influenza-viruses-in-wild-birds-in-eastern-china-2016-2017
+ID : FLUT2020050200113
+
+Date : 2020-05-02 10:10:27
+Title : Virol J. Co-circulation of multiple reassortant H6 subtype avian influenza viruses in wild birds in eastern China, 2016-2017
+Ariticle : 
+																							
+
+Virol J.
+ 2020 Apr 29;17(1):62. doi: 10.1186/s12985-020-01331-z.
+
+Co-circulation of multiple reassortant H6 subtype avian influenza viruses in wild birds in eastern China, 2016-2017.
+
+
+
+Hu C
+1
+, 
+Li X
+1
+, 
+Zhu C
+1
+, 
+Zhou F
+2
+, 
+Tang W
+1
+, 
+Wu D
+3
+, 
+Li Z
+1
+, 
+Zhou L
+4
+, 
+Liu J
+1
+, 
+Wei X
+5,
+6,
+7
+, 
+Cui J
+5,
+6
+, 
+Wang T
+8,
+9
+, 
+He G
+10,
+11
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+
+H6 subtype influenza viruses were prevalent in domestic poultry and wild birds, which also could pose potential threat to humans. However, little is known about the prevalence of H6 subtype viruses in wild birds in eastern China, a crucial stopover or wintering site for migratory wild birds along the East Asian-Australasian Flyway.
+
+METHODS:
+
+During the routine surveillance in 2016-2017, H6 subtype AIVs positive samples were identified, and the representative strains were selected for further sequence and phylogenetic analysis and the pathogenicity in mice were evaluated.
+
+RESULTS:
+
+Among the 30 H6 positive samples, there were at least four subtypes H6N1, H6N2, H6N5 and H6N8 co-circulated in Shanghai, China. Genetic analysis showed the 8 representative isolates shared homology with different AIV sub-lineages isolated from domestic ducks or wild birds in different countries along the East Asian-Australasian flyways, and were classified into 7 new genotypes. The pathogenicity to mice showed that these H6 viruses could replicate efficiently in the lungs without prior adaptation, but could not cause mice death.
+
+CONCLUSIONS:
+
+Eight novel strains belonged to H6N1, H6N2, H6N5 and H6N8 subtypes were isolated. Phylogenetic analyses revealed multiple origins of internal genes indicative of robust reassortment events and frequent wild birds-poultry interaction encouraging the evolution and emergence of new genotypes. The pathogenicity to mammals should be closely monitored to prevent the emergence of novel pandemic viruses.
+
+
+
+
+KEYWORDS:
+
+Eastern China; H6 subtype avian influenza virus; Novel; Reassortant; Shanghai; Wild birds
+
+
+PMID:32349760DOI:
+10.1186/s12985-020-01331-z
+Free full text
+
+													

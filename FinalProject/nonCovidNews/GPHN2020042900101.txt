@@ -1,0 +1,15 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868866
+ID : GPHN2020042900101
+
+Date : 2020-04-28 23:00:00
+Title : Influenza; TRM Integrins CD103 and CD49a Differentially Support Adherence and Motility After Resolution of Influenza Virus Infection (Published February 14, 2020)
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- By a News Reporter-Staff News Editor at Life Science Weekly - According to news reporting based on a preprint abstract, our journalists obtained the following quote sourced from biorxiv.org:
+“Tissue resident memory CD8 T (TRM) cells are a unique immune memory subset that develops and remains in peripheral tissues at the site of infection, providing future host resistance upon re-exposure to that pathogen.
+“In the pulmonary system, TRM are identified through S1P antagonist CD69 and expression of integrins CD103/{beta}7 and CD49a/CD29({beta}1). Contrary to the established role of CD69 on CD8 T cells, the functions of CD103 and CD49a on this population are not well defined. This study examines the expression patterns and functions of CD103 and CD49a with a specific focus on their impact on T cell motility during influenza virus infection. We show that the TRM cell surface phenotype develops by two-weeks post-infection and that each integrin contributes a distinct function regulating CD8 T cell motility both in vitro and in vivo, with CD49a facilitating migration and CD103 limiting motility through tethering. These results demonstrate for the first time how CD103 and CD49a differentially impact adherence and migration in the tissue, likely affecting overall retention, maintenance of TRM, and host protection. Significance StatementCurrent influenza vaccination strategies require annual immunizations, with fairly low efficacy rates. One technique to improve protection against a greater breadth of influenza viruses is to elicit broadly cross-reactive cell-mediated immunity and generate a local population of cytotoxic T cells to respond to conserved regions of circulating viruses.
+“However, this approach requires improved understanding of how these cells migrate within and attach to the tissue, in order to persist and offer long-term immunity. This study investigates how receptors on the T cell surface impact the cells ability to interact with the tissue and provide evidence for which of these receptors are essential for protection.
+“Furthermore, these studies reveal functional in vivo mechanisms of cellular markers used to characterize TRM.”
+This preprint may not have been peer-reviewed. For more information on this research see: biorxiv.org/content/10.1101/2020.02.14.947986v1
+Keywords for this news article include: Influenza, Immunology, Cell Motility, Health and Medicine.
+Keywords for this news article include: Influenza, Immunology, Cell Motility, Health and Medicine.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

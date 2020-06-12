@@ -1,0 +1,14 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868848
+ID : GPHN2020042900103
+
+Date : 2020-04-28 23:00:00
+Title : Microbiology; Two alveolin network proteins are essential for the subpellicular microtubules assembly and conoid anchoring to the apical pole of mature Toxoplasma gondii (Published February 26, 2020)
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- By a News Reporter-Staff News Editor at Life Science Weekly - According to news reporting based on a preprint abstract, our journalists obtained the following quote sourced from biorxiv.org:
+“Toxoplasma gondii belongs to the coccidian sub-group of Apicomplexa that possess an apical complex harboring a conoid, made of unique tubulin polymer fibers.
+“This enigmatic and dynamic organelle extrudes in extracellular invasive parasites and is associated to the apical polar ring (APR), a microtubule-organizing center for the 22 subpellicular microtubules (SPMTs).
+“The SPMTs are linked to the Inner Membrane Complex (IMC), a patchwork of flattened vesicles, via an intricate network of small filaments composed of alveolins proteins. Here, we capitalize on super-resolution techniques including stimulated emission depletion (STED) microscopy and ultrastructure expansion microscopy (U-ExM) to localize the Apical Cap protein 9 (AC9) and its close partner AC10, identified by BioID, to the alveolin network and intercalated between the SPMTs. Conditional depletion of AC9 or AC10 using the Auxin-induced Degron (AiD) system uncovered a severe loss of fitness. Parasites lacking AC9 or AC10 replicate normally but are defective in microneme secretion and hence fail to invade and egress from infected cells. Remarkably, a series of crucial apical complex proteins (MyoH, AKMT, FRM1, CPH1, ICMAP1 and RNG2) are lost in the mature parasites although they are still present in the forming daughter cells. Electron microscopy on intracellular or deoxycholate-extracted parasites revealed that the mature parasite mutants are conoidless. Closer examination of the SPMTs by U-ExM highlighted the disassembly of the SPMTs in the apical cap region that is presumably at the origin of the catastrophic loss of APR and conoid. AC9 and AC10 are two critical components of the alveolin network that ensure the integrity of the whole apical complex in T. gondii and likely other coccidians.”
+This preprint may not have been peer-reviewed. For more information on this research see: biorxiv.org/content/10.1101/2020.02.25.962589v1
+Keywords for this news article include: Cellular Structures, Cytoplasm, Cytoplasmic Structures, Cytoskeleton, Intracellular Space, Microtubules.
+Keywords for this news article include: Cytoskeleton, Microbiology, Microtubules, Cellular Structures, Intracellular Space, Cytoplasmic Structures.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

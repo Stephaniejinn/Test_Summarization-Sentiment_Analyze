@@ -1,0 +1,124 @@
+URL : https://promedmail.org/promed-post/?id=7294708
+ID : PROM2020050400005
+
+Date : 2020-05-03 21:52:17
+Title : PRO/AH/EDR> Bluetongue - Europe (02): France, BTV-8, cattle, 2015, epidemiology revisited
+Ariticle : 
+BLUETONGUE - EUROPE (02): FRANCE, BTV-8, CATTLE, 2015, EPIDEMIOLOGY REVISITED
+*****************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Tue 28 Apr 2020 
+Source: New Scientist [abridged, edited]
+https://www.newscientist.com/article/2242014-frozen-bull-semen-may-have-unleashed-bluetongue-virus-on-farm-animals/
+Bull semen frozen for several years before being used to inseminate a cow may have sparked an ongoing bluetongue outbreak among farm animals in Europe, according to a genetic analysis of the virus strain.
+"It's the most likely explanation," says Massimo Palmarini of the University of Glasgow, UK.
+Bluetongue is a viral disease spread by biting midges. It can cause a variety of symptoms, from fevers to the bluish tongues that give the disease its name. All ruminants, such as cattle, goats and deer, and camelids, such as llamas and alpacas, can get the disease, but it is most serious in sheep, killing many animals. It is not a threat to human health.
+In 2006, an outbreak began in the Netherlands. It spread to 16 countries and cost billions of euros before a vaccination effort brought it to an end in 2010. "By 2011, no cases were detected," says Palmarini.
+But in 2015, the disease re-emerged in France, and this latest outbreak is still ongoing. To try to work out the source of the infection, Palmarini and colleagues analysed the genetic sequences of 150 samples of the virus from both outbreaks.
+Viruses accumulate minor mutations as they replicate, so if the bluetongue virus had somehow circulated undetected in wild or farm animals in Europe between 2010 and 2015, it should have acquired lots of mutations.
+Instead, the researchers found that the 2015 strain was almost identical to strains circulating in France and Germany in 2007 and 2008, as if it had been somehow frozen in time.
+That is probably exactly what happened. The virus is known to be present in the semen of infected males and can be passed to females during mating, so the team think a farmer froze semen from an infected bull around 2007 and stored it until 2015. It may have been another species, but artificial insemination is most common in cattle.
+"The paper is convincing," says Chris Oura of the University of the West Indies in Trinidad and Tobago. There are other possible causes, such as frozen colostrum, the milk produced immediately after a mammal gives birth, but this is rarely stored for a long time. Frozen semen is the most likely explanation, Oura says.
+Companies that export animal semen have to follow strict standards to avoid contamination, says Palmarini. However, there's far less regulation of what farmers and companies do locally.
+[Byline: Michael Le Page]
+--
+Communicated by:
+ProMED-mail 
+<promed@promedmail.org>
+[BTV-8 returned to France in late August 2015, affecting sheep and cattle, after being reportedly absent there since 2010. An initial assessment, published by DEFRA's International Disease Monitoring team in September 2015, included the following: "At present, the results of the epidemiological report suggest this is not a recent import of infected animals, but whether this is the result of unreported virus circulation (possibly in livestock or wildlife), a vaccine problem, or imported infected midges is not known. More investigations will be carried out in the region and the neighbouring areas to determine the source of infection" ( 
+20150915.3646112
+).
+The current research (Ref. 1) provides a plausible hypothesis, "frozen evolution," to the full genomic preservation of the BTV-8 strain in France between 2010 and 2015. Frozen bovine or ovine semen (or embryos?) could have transferred the unchanged BTV-8 strain over the 6-year gap.
+However, EC 1266/2007 regulation requires cattle to be vaccinated against BTV-8 prior to being serviced, and this should have prevented trans-placental transmission. Was this requirement not followed in the affected farms?
+To the present day, the origin of the uprising emergence of BTV-8 in the Netherlands-Belgium-Germany border triangle in August 2006 remains enigmatic. It would be interesting to note whether the possible involvement of (illegally imported?) frozen semen was ruled out.
+As a side footnote: "Frozen evolution" was considered also in relation to other viruses; one example was addressed in Ref 4. 
+1. Pascall DJ, Nomikou K, Breard E, Zientara S, Filipe AdS, Hoffmann B, et al. (2020) "Frozen evolution" of an RNA virus suggests accidental release as a potential cause of arbovirus re-emergence. PLoS Biol 18(4): e3000673; 
+https://doi.org/10.1371/journal.pbio.3000673
+.
+2. Zhang G, Shoham D, Gilichinsky D et al. (2006). Evidence of Influenza A Virus RNA in Siberian Lake Ice. J VIROLOGY 80 (24), pp. 12 229-12 235. - Mod.AS
+HealthMap/ProMED map available at:
+France: 
+http://healthmap.org/promed/p/100
+] 
+See Also
+Bluetongue - Europe (01): Switzerland (BE) cattle, BTV-8, OIE  
+20200114.6887844
+2019
+----
+Bluetongue - Europe (08): BTV-8, cattle, Germany, congenital, spread assessment  
+20190430.6448057
+Bluetongue - Europe (07): BTV-8, cattle, Belgium, Germany, France, congenital  
+20190330.6394747
+Bluetongue - Europe (05): France, cattle, BTV-8, congenital, Belgium, susp  
+20190312.6363735
+Bluetongue - Europe (04): France, cattle, BTV-8, congenital  
+20190214.6316637
+2016
+----
+Bluetongue - Europe (23): France, bovine, ovine, st 8, spread  
+20161017.4564737
+Bluetongue - Europe (20): France (AO) bovine, st 8, spread, alert  
+20161001.4529942
+Bluetongue - Europe (19): France, bovine, st 8  
+20161001.4529574
+Bluetongue - Europe (14): France, bovine, st 8, update  
+20160917.4494272
+Bluetongue - Europe (10): France, bovine, st 8, OIE  
+20160822.4432554
+Bluetongue - Europe (09): France, bovine, st 8, update  
+20160612.4283031
+Bluetongue - Europe (08): France, bovine, st 8, OIE, assessment  
+20160409.4149402
+Bluetongue - Europe (07): France, bovine, st 8, OIE, assessment  
+20160312.4088596
+Bluetongue - Europe (06): France, bovine, st. 8, OIE, RFI  
+20160222.4042179
+Bluetongue - Europe (02): France, bovine, ovine, st 8, comment, RFI  
+20160109.3923133
+Bluetongue - Europe (01): France (SL,NI) bovine, ovine, st 8, update  
+20160102.3906551
+2015
+----
+Bluetongue - Europe (14): France, bovine, ovine, st 8, genotyping  
+20151107.3773821
+Bluetongue - Europe (13): France, bovine, ovine, st 8, spread, OIE  
+20151105.3769159
+Bluetongue - Europe (09): France, bovine, ovine, st 8, spread, OIE  
+20150925.3670621
+Bluetongue - Europe (08): France, bovine, ovine, st. 8, vaccination, RFI  
+20150923.3664984
+Bluetongue - Europe (07): France, bovine, ovine, st. 8, spread, control  
+20150920.3658294
+Bluetongue - Europe (05): France, bovine, ovine, st 8, spread, vaccination  
+20150918.3654452
+Bluetongue - Europe (04): France (AL) ovine, bovine, st 8, assessment  
+20150915.3646112
+2008
+----
+Bluetongue - Europe (25): BTV-8, UK, epidemiology, vaccination  
+20080510.1602
+Bluetongue - Europe (08): BTV-8 origin  
+20061004.2838
+Bluetongue - Europe (07): BTV-8 origin  
+20061002.2826
+Bluetongue - Europe (06): BTV-8 origin  
+20060923.2713
+Bluetongue - Netherlands, Belgium, Germany (08): BTV-8 origin  
+20060915.2615
+Bluetongue - Netherlands, Belgium, Germany, OIE  
+20060821.2353
+Bluetongue, bovine, ovine - Germany (NRW): suspected  
+20060821.2346
+Bluetongue, bovine, ovine - Belgium, Netherlands  
+20060820.2341
+Bluetongue, bovine, ovine - Belgium  
+20060819.2316
+Bluetongue, ovine - Netherlands: confirmed  
+20060818.2311
+Bluetongue, ovine - Netherlands: suspected  
+20060817.2301
+.................................................sb/arn/msp/ml

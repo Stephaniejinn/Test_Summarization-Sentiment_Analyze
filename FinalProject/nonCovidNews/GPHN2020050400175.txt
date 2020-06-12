@@ -1,0 +1,26 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006902666
+ID : GPHN2020050400175
+
+Date : 2020-05-04 07:04:00
+Title : COVID-19: By numbers, and why it's not the flu
+Ariticle : 
+The cruelest month is over, at least according to one long-gone poet. And a cruel month it was in 2020.
+And at the beginning of May, some good news, some bad news, and some basics about apples and oranges.
+First, the daily numbers. More local cases, but no additional deaths.
+Case numbers rose statewide to 18,671, an increase of 940 cases, as of Sunday morning's update from the Virginia Department of Health.
+That includes 46 cases in Augusta County, where a new case has been reported practically every day in the last week. Staunton has 13 reported cases, Waynesboro 14.
+As testing ramps up, it's likely that case numbers will continue to rise. A key indicator that the state is holding its own is that hospitalizations are not increasing at pace with cases at this point.
+More on that below. Deaths per day are likely to continue at over 30 and perhaps even increase—there were 44 more deaths reported since yesterday—as other numbers decline. Recent reports have explained how this data is not comparable to any flu season.
+You can't compare COVID to the flu.
+Here's the apples and oranges part, most clearly stated by Jeremy Samuel Faust in the Scientific American last week. He points out that the mortality numbers being used about flu deaths by some public officials are not comparable to the coronavirus mortality numbers we're seeing every day. Why not?
+The answer is simple: the "24,000 to 69,000" deaths from the flu is an estimate, which takes actual confirmed flu deaths and runs them through algorithms which create a much larger estimate, based on the assumption that most flu cases—and deaths resulting from the flu—go unreported. Both of those numbers in the estimate range are more than actual reported deaths.
+The number of confirmed flu deaths in the worst flu season in recent memory, 2017-18, was 15,620, according to data from the Centers for Disease Control.
+If you want to compare apples to apples, you can compare that number to the nation's current confirmed COVID-19 deaths of over 64,000. Then you begin to see why the novel coronavirus is not the flu.
+Faust writes that the actual count of deaths last flu season was 7,172. But the CDC mortality estimates for that year are anything between 26,339 and 52,664.
+It may be years before a similar "estimate" of deaths from COVID deaths is available, because the typical flu algorithms—how it's spread and its mortality among specific age groups, for instance—won't apply and will have to be developed.
+If you want to remember one set of comparable numbers, it's this: The worst flu season in recent memory killed 15,620 Americans, without the intervention of social distancing. COVID-19 has killed over 64,000 Americans so far, despite social distancing that has been firm enough to generate protests in some places.
+Some good signs from the last week
+As testing ramps up in Virginia, confirmed cases are increasing but hospitalizations have been on a choppy plateau for nearly a month. The graph on the Virginia Department of Health website shows just how choppy the "flat" top of the curve can be. After a month of exponential increase, the contours of the curve begin to be seen in April data.
+On a micro-trend level, the daily number of patients hospitalized for COVID-19 symptoms has gone down for four straight days, according to data from the Virginia Hospital and Healthcare Association.
+The number of ICU beds in use for COVID patients has fluctuated over the last month but after hitting a high of 469 on April 9 has largely stayed below 420. As of May 3, the number sits at 385.
+The number of ICU patients on ventilators has slowly crept down from 66% to almost exactly 50% as of May 3. This is a welcome trend because ventilator use results in death for 2 out of 3 patients.

@@ -1,0 +1,12 @@
+URL : https://www.healthmap.org/ai.php?7278906&trto=en&trfr=en&pid4
+ID : HMAP2020043000110
+
+Date : 2020-04-29 00:00:00
+Title : PRO/EDR> Dengue/DHF update (05): Americas -
+Ariticle : 
+Cases by Country / Week updated / Serotype / Total / Confirmed / Severe / DeathsNorth AmericaUSA / 16 [w/e 18 Apr 2020] / D? / 133 / 133 / 0 / 0Central America and MexicoBelize / 7 [w/e 15 Feb 2020] / D1,3 / 473 / 156 / 0 / 0Costa Rica / 12 [w/e 21 Mar 2020] / D1,2 / 1574 / 101 / 0 / 0El Salvador / 15 [w/e 11 Apr 2020] / D2 / 2440 / 20 / 4 / 0Guatemala / 11 [w/e 14 Mar 2020] / D1,2,3 / 2808 / 1130 / 1 / 1Honduras / 13 [w/e 28 Mar 2020] / D1,2 / 11 460 / 21 / 982 / 982 /  
+Costa Rica | Dengue | Humans
+Argentina | Dengue | Humans
+Tarija, Tarija, Bolivia | Dengue | Humans
+Brazil | Dengue | Humans
+Guam [USA] | Dengue | Humans

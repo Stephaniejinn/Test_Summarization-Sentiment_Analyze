@@ -1,0 +1,41 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006895743
+ID : GPHN2020050300049
+
+Date : 2020-05-03 23:45:00
+Title : Drug being studied here gets US nod for emergency use
+Ariticle : 
+A drug for Covid-19 that is being studied in Singapore was approved for emergency use in severely ill patients in the United States on Friday. It is remdesivir, an experimental anti-viral drug that blocks the coronavirus from replicating.
+The approval had come just two days ago after early data released from a US National Institutes of Health (NIH) study of 1,063 hospitalised patients with advanced Covid-19 showed that those who took the drug recovered in an average of 11 days, compared with patients who got a placebo and recovered in 15 days.
+Dr Anthony Fauci, head of the National Institute of Allergy and Infectious Diseases at NIH, told a media briefing then that while the 31 per cent improvement in recovery time may not seem like a big deal, "it is a very important proof of concept. Because what it has proven is that a drug can block this virus".
+He had said an emergency use approval would come very quickly.
+The preliminary findings have not shown significant results in terms of the mortality rate.
+Professor Leo Yee Sin, executive director of the National Centre for Infectious Diseases (NCID), said: "We are watching very closely for the detailed/final report from the NIH trial, where Singapore is a participating site, which will be released soon."
+Singapore is also one of the testing sites in another trial, by Gilead Sciences, the maker of remdesivir.
+Early results showed that when treating patients with severe disease, a five-day treatment course is potentially as effective as a 10-day course. All patients in the study received the drug.
+In all, the NCID and general public hospitals are jointly participating in three global drug trials for remdesivir.
+One trial is with the NIH and two others are with Gilead Sciences. They are both conducting trials in multiple centres around the world.
+Now, local clinical researchers, led by Associate Professor David Lye, a senior consultant at NCID, are planning trials of other drugs too.
+These will assess the use of anti-HIV medication lopinavir-ritonavir, as well as an anti-malarial drug called hydroxychloroquine, for the treatment of Covid-19 patients.
+These drugs are also among the four treatment options being studied in the World Health Organisation's (WHO) mega Solidarity Trial.
+The fourth option in the trial is the use of interferon beta-1a, used to alleviate multiple sclerosis, together with lopinavir-ritonavir.
+According to a recent report in The Lancet medical journal, researchers around the world have launched more than 180 clinical trials of everything from repurposed anti-virals and immunomodulators to unproven cell therapies and vitamin C, and a further 150 trials are preparing to recruit patients.
+Drugs under study There are no proven treatments for Covid-19. Some of the more promising ones include:
+REMDESIVIR
+This experimental drug was originally developed to treat Ebola.
+It is being repurposed for Covid-19 because it showed promising results in animal studies for two other diseases caused by coronaviruses - Middle East respiratory syndrome and severe acute respiratory syndrome.
+"NCID and our public hospitals are jointly participating in three clinical trials on the use of the anti-viral drug, remdesivir, in patients with moderate and severe Covid-19 infection, as well as those requiring ICU care," said Professor Tan Chorh Chuan, chief health scientist at the Ministry of Health.
+As of April 30, 76 patients have been recruited for the three trials, of which 16 were for the NIH trial
+Two remdesivir trials in China, which were stopped early due to a lack of eligible patients, found that the drug did not speed up the recovery of patients or prevent them from dying.
+HIV DRUGS The combination of lopinavir-ritonavir is a licensed treatment for HIV.
+According to the WHO, there are indications from laboratory experiments that this combination may be effective against Covid-19, but studies done so far in patients have been inconclusive.
+Singapore hospitals have been using these drugs to treat patients.
+Prof Lye, who is also head of the Infectious Disease Research and Training Office at NCID, said studies for this treatment option are being arranged for the Ascot - short for Australasian Covid-19 trial - which started recently in Australia.
+"We know lopinavir-ritonavir does not work if given late (when patients already need oxygen), so we hope to enrol them in the early first week of illness," said Prof Lye.
+ANTI-MALARIAL DRUGS
+These are chloroquine and its derivative, hydroxychloroquine, which have been used for decades to treat diseases such as malaria, rheumatoid arthritis and lupus.
+Hydroxychloroquine, which is being studied in the Australasian trial, is the drug that was touted by US President Donald Trump as a cure for Covid-19, prompting people in the US and elsewhere to snap it up.
+The drugs have not been proven to cure Covid-19 and the health authorities, such as Health Canada and the FDA, have warned against their use except in hospitals and research studies, as they can cause serious side effects.
+"The chloroquine trial from Brazil has reported some serious side effects, but the doses used in that trial were very high," said Prof Lye.
+"In the Australia trial, the doses of hydroxychloroquine are advised by leading international malaria experts with pharmacological data. Additionally, hydroxychloroquine has fewer side effects than chloroquine," he added.
+Associate Professor Steven Tong, a Royal Melbourne Hospital infectious diseases clinician who is leading the Australian study, has said the aim is to test whether using the HIV drugs and hydroxychloroquine will prevent Covid-19 patients deteriorating to the point of needing a ventilator in intensive care.
+Joyce Teo
