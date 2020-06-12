@@ -1,0 +1,66 @@
+URL : https://flutrackers.com/forum/forum/local-regional-communities-and-organizations/cidrap/857604-cidrap-news-scan-covid-19-vaccine-trial-mers-in-saudi-arabia-flu-vaccine-dosing-in-kids
+ID : FLUT2020050600005
+
+Date : 2020-05-05 20:59:59
+Title : CIDRAP NEWS SCAN: COVID-19 vaccine trial; MERS in Saudi Arabia; Flu vaccine dosing in kids
+Ariticle : 
+																							Source: 
+https://www.cidrap.umn.edu/news-pers...an-may-05-2020
+
+
+
+News Scan for May 05, 2020
+
+COVID-19 vaccine trial; MERS in Saudi Arabia; Flu vaccine dosing in kids
+Filed Under:
+COVID-19; MERS-CoV; Influenza Vaccines
+
+
+
+
+Pfizer, BioNTech launch US trial for novel COVID-19 vaccine
+
+US drug maker Pfizer Inc. and Germany biopharmaceutical company BioNTech announced today that the first US participants in a clinical trial for a novel coronavirus vaccine have begun receiving doses.
+The phase 1 and 2 trial for the BNT162 vaccine program is designed to determine the safety, immunogenicity, and optimal dose levels of four mRNA vaccine candidates simultaneously. The first US subjects enrolled in the first stage of the study, which will enroll up 360 healthy participants, are healthy adults 18 to 55 years of age. Once testing in this group has provided initial evidence of safety and immunogenicity, an older cohort of subjects (65 to 85 years old) will receive doses.
+US patients are already receiving doses of the vaccine at New York University Grossman School of Medicine and the University of Maryland School of Medicine, and other US sites will begin enrolling patients shortly. Testing of the four vaccine candidates began in Germany last month.
+The vaccine is based on modified messenger RNA, which uses a synthetic portion of the viral sequence to instruct the body's cells to make the spike protein of SARS-CoV-2—the virus that causes COVID-19—and stimulate an immune response without causing an infection. Each vaccine candidate is a different combination of mRNA format and target antigen.
+"With our unique and robust clinical study program underway, starting in Europe and now the U.S., we look forward to advancing quickly and collaboratively with our partners at BioNTech and regulatory authorities to bring a safe and efficacious vaccine to the patients who need it most," Pfizer chairman and CEO Albert Bourla, DVM, PhD, said in a company press release.
+The companies say mRNA vaccines offer potentially greater flexibility and quicker development timelines than traditional vaccines, and that advancing multiple candidates into human trials will enable researchers to identify the safest and most effective options. The National Institute of Allergy and Infectious Diseases is currently conducting a phase 1 trial of an mRNA vaccine candidate from Moderna Therapeutics.
+
+May 5 Pfizer/BioNTech 
+press release
+
+
+WHO snapshot covers 15 recent Saudi MERS cases
+
+The World Health Organization (WHO) today provided more details on 15 MERS-CoV cases, 5 of them fatal, reported by Saudi Arabia in March.
+The MERS-CoV (Middle East respiratory syndrome coronavirus) illnesses were reported from four regions: Riyadh (7), Mecca (4), Najran (3), and Al Qassim (1).
+No clusters were reported, and none of the patients were healthcare workers. Two had been exposed to camels or camel milk before they got sick. Thirteen of the patients were men and two were women, and their ages range from 39 to 80. All but three had underlying health conditions, and the most common ones were diabetes and hypertension.
+The WHO that, said since 2012, it has received reports of 2,553 MERS-CoV cases, at least 876 of them fatal. The vast majority are from Saudi Arabia.
+
+May 5 WHO 
+statement
+
+
+Two doses of flu vaccine best for young children, study confirms
+
+Findings from a study published yesterday in 
+JAMA Pediatric
+s support current US recommendation of two doses of flu vaccine for young children.
+Led by researchers with the Centers for Disease Control and Prevention, the case-control study involved 7,533 children 6 months to 8 years old who sought outpatient care for respiratory tract infection at five US Influenza Vaccine Effectiveness Network sites during the 2014-15 through the 2017-18 flu seasons.
+The researchers used electronic medical record documentation of receipt of one or two doses of inactivated flu vaccine (the flu shot) and respiratory tract infection found that 3,912 children (52%) were unvaccinated, 2,924 (39%) were fully vaccinated, and 697 (9%) were partially vaccinated.
+Adjusted vaccine effectiveness (VE) against flu was 51% (95% confidence interval [CI], 44% to 57%) among fully vaccinated children and 41% (95% CI, 25% to 54%) among those partially vaccinated.
+VE of two doses of flu vaccine among 1,519 children 6 months to 2 years old who had never been vaccinated was 53% (95% CI, 28% to 70%), while the VE of one dose was 23% (95% CI, −11% to 47%). Children who received two doses were less likely to have the flu than those who received one dose (adjusted odds ratio, 0.57; 95% CI, 0.35 to 0.93).
+Of the 7,533 total children, 3,480 (46%) were girls, 4,687 (62%) were non-Hispanic white, and 4,871 (65%) were younger than 5 years.
+In a commentary in the same journal, Claire Abraham, MD, and Melissa Stockwell, MD, MPH, of Columbia University in New York City called for research into why many families don't seek a second dose of vaccine and how to educate parents about the need for it. "Such a change could reduce the associated morbidity and mortality of influenza, saving lives and decreasing health care costs annually," they wrote.
+
+May 4 
+JAMA Pediatr
+ 
+abstract
+ and 
+commentary
+
+
+
+													

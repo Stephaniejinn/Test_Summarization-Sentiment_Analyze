@@ -1,0 +1,14 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868799
+ID : GPHN2020042900087
+
+Date : 2020-04-28 22:42:00
+Title : Animal Diseases and Conditions - Avian Influenza (Bird Flu); Findings from Ministry of Agriculture Broadens Understanding of Avian Influenza (Bird Flu) (Global gene expression analysis data of chicken dendritic cells infected with H9N2 avian influenza vi…
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- New research on Animal Diseases and Conditions - Avian Influenza (Bird Flu) is the subject of a report. According to news reporting originating in Jiangsu, People's Republic of China, by NewsRx journalists, research stated, "This data article reports the global gene expression analysis data of chicken DCs infected with H9N2 avian influenza virus (AIV) compared with mock infection. The differentially expressed genes (DEGs), and the data of GO enrichment analysis and KEGG pathway analysis for DEGs were reported here."
+Financial supporters for this research include National Natural Science Foundation of China, National Basic Research Program of China (973 Program), Jiangsu Agricultural Science and Technology Innovation Fund.
+The news reporters obtained a quote from the research from the Ministry of Agriculture, "In addition, some of these DEGs associated with innate immune response and antigen presentation were also verified by qPCR. The replication of H9N2 AIV in DCs, and the viability kinetic of DCs during H9N2 AIV infection, and the primers for qPCR were also reported in this data article."
+According to the news reporters, the research concluded: "The data presented here was used on the research article entitled 'Transcriptomic profile of chicken bone marrow-derive dendritic cells in response to H9N2 avianinfluenza A virus'."
+For more information on this research see: Global gene expression analysis data of chicken dendritic cells infected with H9N2 avian influenza virus. Data In Brief, 2020;30():105430.
+Our news correspondents report that additional information may be obtained by contacting J. Yang, Institute of Veterinary Medicine, Jiangsu Academy of Agricultural Sciences and Key Laboratory of Veterinary Biological Engineering and Technology, Ministry of Agriculture, Nanjing, Jiangsu, People's Republic of China. Additional authors for this research include Q. Liu, X. Huang, Y. Liu, K. Han, D. Zhao, L. Zhang and Y. Li.
+Keywords for this news article include: Asia, Jiangsu, Genetics, Machine Learning, Influenza in Birds, Health and Medicine, RNA Virus Infections, Emerging Technologies, Gene Expression Analysis, People's Republic of China, Avian Influenza (Bird Flu), Orthomyxoviridae Infections, Bird Diseases and Conditions, Avian Diseases and Conditions.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

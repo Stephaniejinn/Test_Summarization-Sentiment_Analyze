@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200081
+
+Date : 2020-05-02 00:00:00
+Title : Rat Hepatitis E virus: Hong Kong investigates new case
+Ariticle : 
+Disease:Hepatitis E
+Time:2020.04.26-2020.05.02
+Location:Hong Kong
+Cases:case
+Description:Rat Hepatitis E virus: Hong Kong investigates new case

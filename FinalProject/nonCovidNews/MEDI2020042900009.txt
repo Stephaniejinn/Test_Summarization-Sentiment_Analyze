@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020042900009
+
+Date : 2020-04-25 00:00:00
+Title : Hepatitis A cases top 500 in Florida this year
+Ariticle : 
+Disease:Hepatitis A
+Time:2020.04.25
+Location:USA/Florida
+Cases:508 cases
+Description:Hepatitis A cases top 500 in Florida this year

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050100043
+
+Date : 2020-04-30 00:00:00
+Title : BANGLADESH - One Dengue Case Reported In 24Hrs
+Ariticle : 
+Disease:Dengue
+Time:2020.04.30
+Location:Bangladesh
+Cases:One new dengue case
+Description:BANGLADESH - One Dengue Case Reported In 24Hrs

@@ -1,0 +1,109 @@
+URL : https://allafrica.com/stories/202005040970.html
+ID : ALFR2020050500013
+
+Date : 2020-05-04 00:00:00
+Title : Africa: Icipe Scientists Discover Malaria Transmission-Blocking Microbe in Mosquitoes
+Ariticle : 
+Nairobi — 
+Researchers from the International Centre of Insect Physiology and Ecology (
+ 
+icipe
+ 
+) and the 
+University of Glasgow, UK
+, 
+have identified a microbe in malaria mosquitoes that is capable of blocking
+ 
+transmission of the disease from the insects to people.
+In a study published in 
+Nature Communications
+ journal (paper link: 
+ https://go.nature.com/2xwzbyl
+), the scientists report that the microbe, which they have named 
+Microsporidia MB,
+ was found in 
+Anopheles
+ mosquitoes. The study was conducted on mosquitoes in their natural environments, mainly on the shores of Lake Victoria in Kenya. The researchers established that mosquitoes carrying 
+Microsporidia MB 
+do not harbour malaria parasites either in nature, or after experimental infection in the laboratory. The research also showed that 
+Microsporidia MB
+ is passed from female mosquitoes to their offspring at high rates, and the microbe does not kill or cause obvious harm to the mosquito host.
+“The bodies of all animals are inhabited by microbes which are either detrimental – in other words pathogens; or neutral / beneficial symbionts,” explains Dr Jeremy Herren, current 
+ 
+icipe
+ 
+ Scientist who led the study while jointly affiliated with 
+ 
+icipe
+ 
+ and the University of Glasgow, UK. “Healthy insects often have microbial symbionts inside their bodies and cells, which can have major effects on the biology of their hosts. At 
+ 
+icipe
+ 
+, my team’s research is focused on this type of microbial symbiont, especially when they may be interfering with transmission of diseases by insects.”
+Key characteristics
+Although the new 
+Microsporidia MB
+ symbiont is naturally found at relatively low levels in malaria mosquitoes in Kenya, the researchers believe that there may be ways to increase the proportion of moquitoes that carry it, to block their capacity to transmit malaria. This type of transmission-blocking intervention has been shown to have transformative potential for controlling Dengue, a disease transmitted by 
+Aedes aegypti
+ mosquitoes. Until now, there have been few examples of microbes that affect malaria transmission mosquitoes.
+“We were excited to find that the 
+Microsporidia MB
+ symbiont is transmitted from mother mosquitoes to their offspring, and that the microbe does not compromise the ability of mosquitoes to survive,” adds Lilian Mbaisi, a Kenyan scholar who was involved in the study, as part of her MSc research at 
+ 
+icipe
+ 
+, registered at the University of Nairobi.
+The authors note that these two attributes are key, as they could enable the spread of symbionts through mosquito poplulations, and their maintainance across many malaria transmission seasons.
+The researchers stress that further studies will be needed to determine precisely how 
+Microsporidia MB
+ could be used to control malaria. The next phase of the research will investigate the dynamics of the microbes in large mosquito populations in screen house ‘semi-field’ facilities.
+The case for scientific and technological advancements
+While significant achievements have been made in tackling malaria, with a reduction of cases by an estimated 40% noticeable by 2015, progress has now plateaued. Therefore, there is a need to ensure current control measures are maintained and strengthened, while also advancing novel control strategies. Moreover, the World Health Organization (WHO) has recently warned that any interruptions in malaria control efforts due to the COVID-19 pandemic could increase malaria incidences and impact.
+Further, as 
+ 
+icipe
+ 
+Director General, Dr Segenet Kelemu observes: “Given recent developments in Africa and globally, the importance of scientific advancement has never been more real. The ongoing coronavirus pandemic, the current locust outbreak in eastern Africa, and the fall armyworm invasion that has been ongoing since 2016, place a most urgent call-to-action for science and scientists, policymakers and development partners.”
+She adds: “These events also serve as a clear demonstration of the opportunity cost brought on by deficiencies in support for critical research and the effective translation of knowledge into innovative solutions. We must all remain alert and unwavered; aware that every breakthrough is vital.”
+And as
+ 
+icipe
+ 
+ commemorates its 50
+th
+ anniversary this year, it is with a recommitment to the long-running vision of nurturing the  best and brightest young talent. This goal will ensure that Africa’s has adequate scientific capacity and leadership, for the sake of continent, and that of humanity, animals and the environment across the globe.
+Notes for Editors
+Publication details:  
+Herren J.K.; Mbaisi H.; Mararo E.; Makhulu E.E.; Mobegi V.A.; Butungi H.; Mancini M. V.; Oundo J.W.; Teal E. T.; Pinaud S.; Lawniczak M.K.N.; Jabara J.; Nattoh G.; Steven P. and Sinkins S. P
+.
+ A microsporidian impairs 
+Plasmodium falciparum
+ transmission in 
+Anopheles arabiensis 
+mosquitoes. 
+Nature Communications
+ 
+11, 
+2187 (2020). 
+https://doi.org/10.1038/s41467-020-16121-y
+Corresponding author: 
+Jeremy Herren; Email: 
+jherren@ 
+icipe
+ .org
+Funding: 
+This research was supported by the Wellcome Trust [107372, 200274, 202888, 206194]; BBSRC [BB/R005338/1, sub-grant AV/PP015/1]; Scottish Research Council; Swiss National Science Foundation [P2ELP3_151932], and R. Geigy Foundation. 
+i
+cipe
+ gratefully acknowledges the financial support of the following core donors: Swiss Agency for Development and Cooperation (SDC); Swedish International Development Cooperation Agency (Sida); UK Aid, from the government of the United Kingdom; the Ministry of Higher Education, Science and Technology, Kenya; and the Government of the Federal Democratic Republic of Ethiopia. 
+The views expressed herein do not necessarily reflect those of these donors.
+Research collaborators:
+ MRC-University of Glasgow Centre for Virus Research, UK; Centre for Biotechnology and Bioinformatics (CEBIB), University of Nairobi, Nairobi, Kenya; University of the Witwaterstrand, Wits Research Institute for Malaria, Johannesburg, South Africa; Department of Biochemistry, University of Nairobi, Nairobi, Kenya; Wellcome Sanger Institute, UK; and Pan African University Institute for Basic Sciences Technology & Innovation, Nairobi, Kenya.
+The 
+International Centre of Insect Physiology and Ecology (
+www. 
+icipe
+ .org
+)
+: Our mission is to help alleviate poverty, ensure food security, and improve the overall health status of peoples of the tropics, by developing and disseminating management tools and strategies for harmful and useful arthropods, while preserving the natural resource base through research and capacity building.

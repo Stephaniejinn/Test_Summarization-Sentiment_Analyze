@@ -1,0 +1,78 @@
+URL : https://flutrackers.com/forum/forum/local-regional-communities-and-organizations/cidrap/855618-cidrap-news-scan-new-drc-ebola-case-impact-of-c-diff-treatment-guidelines-nigeria-lassa-decline
+ID : FLUT2020043000018
+
+Date : 2020-04-29 22:15:26
+Title : CIDRAP NEWS SCAN: New DRC Ebola case; Impact of C diff treatment guidelines; Nigeria Lassa decline
+Ariticle : 
+																							Source: 
+https://www.cidrap.umn.edu/news-pers...an-apr-29-2020
+
+
+
+News Scan for Apr 29, 2020
+
+New DRC Ebola case; Impact of C diff treatment guidelines; Nigeria Lassa decline
+Filed Under:
+Lassa; Ebola; Antimicrobial Stewardship; Clostridium difficile; VHF
+
+
+
+
+Ebola infects 1 more person in DRC
+
+The Democratic Republic of Congo (DRC) reported one more Ebola infection, raising the number of recent cases in Beni to seven.
+The patient is a 39-year-old woman who had been in isolation since her daughter died from Ebola on April 20, Reuters reported yesterday. Her illness raises the outbreak total to 3,462, including 2,267 deaths, according to the World Health Organization (WHO) online dashboard.
+In another development, one of the patients recently diagnosed with Ebola in Beni, a 28-year-old motorbike taxi driver, escaped from a treatment center and is thought to be in an area controlled by armed militias. Boubacar Diallo, the WHO's deputy incident manager, told Reuters that the patient is believed to be in an area controlled by Mai armed groups. The incident raises the risk of further spread in the community.
+In a weekly situation report on the outbreak yesterday, the WHO said the resurgence of the disease in Beni underscores the importance of heightened vigilance amid the challenges of community engagement, access to affected areas, ongoing insecurity, and limited response capacity due to other local and global health emergencies.
+
+Apr 28 Reuters 
+story
+WHO online Ebola 
+dashboard
+Apr 28 WHO African regional office 
+weekly report
+
+
+Revised 
+C diff
+ guidance has quickly changed practice, study finds
+
+Revised clinical practice guidelines for 
+Clostridioides difficile
+ infection (CDI) have had an immediate and significant impact on treatment, researchers reported yesterday in 
+Clinical Infectious Diseases.
+Using US antibiotic prescription data for 2006 through August 2019, researchers from the University of Pittsburgh and the VA Pittsburgh Healthcare System performed an interrupted time-series analysis to compare linear trends for monthly treatment courses of vancomycin, fidaxomicin, and metronidazole. The aim of the analysis was to determine if use of the three drugs changed after publication of revised CDI guidelines from the Infectious Diseases Society of America (IDSA) and the Society for Healthcare Epidemiology of America (SHEA) in 2018, which recommended vancomycin or fidaxomicin as preferred treatments for initial and first recurrent non-severe CDI, rather than metronidazole as previously recommended.
+The analysis found that cumulative treatment courses of oral vancomycin and fidaxomicin increased by 54% and 48%, respectively, in the 18 months following the guidelines compared with the 18 months before, while those of oral metronidazole decreased by 3%. Monthly vancomycin and fidaxomicin use also significantly increased throughout the period following revised guidelines (
+P
+ < 0.0001 and 
+P
+ = 0.0002, respectively), while monthly use of metronidazole decreased significantly (
+P
+ < 0.0001).
+The analysis also showed that the monthly increases in vancomycin use and decreases in metronidazole use were significantly greater following publication of the revised IDSA/SHEA guidelines than after the publication of two randomized clinical trials that established the superiority of vancomycin over metronidazole.
+The authors say the fact that the data used to revise CDI treatment guidelines were available for years before changes in practice were endorsed by IDSA and SHEA suggests that guidelines for CDI and other infections should be updated more frequently.
+"Taken together, our findings support a new IDSA initiative to develop, disseminate, and adopt more timely guidelines and guidance for managing antimicrobial-resistant and other difficult-to-treat infections, as set forth in the society's 2019 Strategic Plan," they wrote.
+
+Apr 28 
+Clin Infect Dis
+ 
+abstract
+
+
+Nigeria ends Lassa outbreak emergency
+
+The Nigeria Centre for Disease Control (NCDC) yesterday announced the end of the emergency phase of its Lassa fever outbreak, now that cases have dropped below the emergency threshold.
+In a statement, it said the outbreak, formally declared on Jan 24, has so far resulted in 979 confirmed cases, including 188 deaths, from 27 states and the Federal Capital Territory. Cases have declined over the past 3 weeks.
+The WHO African regional office said in its weekly outbreaks and health emergencies report that Nigeria's Lassa fever outbreak has greatly improved over the last 10 weeks, with only a few sporadic cases reported. Two states—Edo and Ondo—account for 65% of all confirmed cases. So far, 37 health workers have been infected.
+The WHO warned that there is little room for complacency, given that the environmental conditions for disease spread and the 
+Mastomys natalensis
+ rodents that carry the virus are still prevalent in the country.
+
+Apr 28 NCDC 
+statement
+Apr 26 WHO African regional office 
+weekly report
+
+
+
+													

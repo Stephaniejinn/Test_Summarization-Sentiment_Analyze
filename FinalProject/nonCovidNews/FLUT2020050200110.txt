@@ -1,0 +1,109 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/immunity/856528-complex-genetic-architecture-underlies-regulation-of-influenza-a-virus-specific-antibody-responses-in-the-collaborative-cross
+ID : FLUT2020050200110
+
+Date : 2020-05-02 10:37:59
+Title : Complex Genetic Architecture Underlies Regulation of Influenza-A-Virus-Specific Antibody Responses in the Collaborative Cross
+Ariticle : 
+																							
+
+Cell Rep.
+ 2020 Apr 28;31(4):107587. doi: 10.1016/j.celrep.2020.107587.
+
+Complex Genetic Architecture Underlies Regulation of Influenza-A-Virus-Specific Antibody Responses in the Collaborative Cross.
+
+
+
+Noll KE
+1
+, 
+Whitmore AC
+2
+, 
+West A
+3
+, 
+McCarthy MK
+4
+, 
+Morrison CR
+5
+, 
+Plante KS
+6
+, 
+Hampton BK
+2
+, 
+Kollmus H
+7
+, 
+Pilzner C
+7
+, 
+Leist SR
+8
+, 
+Gralinski LE
+3
+, 
+Menachery VD
+9
+, 
+Schäfer A
+3
+, 
+Miller D
+2
+, 
+Shaw G
+2
+, 
+Mooney M
+10
+, 
+McWeeney S
+11
+, 
+Pardo-Manuel de Villena F
+12
+, 
+Schughart K
+13
+, 
+Morrison TE
+4
+, 
+Baric RS
+14
+, 
+Ferris MT
+2
+, 
+Heise MT
+15
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+Host genetic factors play a fundamental role in regulating humoral immunity to viral infection, including influenza A virus (IAV). Here, we utilize the Collaborative Cross (CC), a mouse genetic reference population, to study genetic regulation of variation in antibody response following IAV infection. CC mice show significant heritable variation in the magnitude, kinetics, and composition of IAV-specific antibody response. We map 23 genetic loci associated with this variation. Analysis of a subset of these loci finds that they broadly affect the antibody response to IAV as well as other viruses. Candidate genes are identified based on predicted variant consequences and haplotype-specific expression patterns, and several show overlap with genes identified in human mapping studies. These findings demonstrate that the host antibody response to IAV infection is under complex genetic control and highlight the utility of the CC in modeling and identifying genetic factors with translational relevance to human health and disease.
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+
+
+
+KEYWORDS:
+
+Collaborative Cross; antibody; complex trait; genetic architecture; genetic mapping; genetic reference population; host genetics; humoral immunity; influenza; influenza virus
+
+
+PMID:32348764DOI:
+10.1016/j.celrep.2020.107587
+
+													

@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400080
+
+Date : 2020-05-03 00:00:00
+Title : UPDATE: Five new deaths from COVID-19 in Wisconsin; 2 new cases in La Crosse Co.
+Ariticle : 
+Disease:La Crosse
+Time:2020.05.03
+Location:USA/Mississippi
+Cases:Two new cases
+Description:UPDATE: Five new deaths from COVID-19 in Wisconsin; 2 new cases in La Crosse Co.

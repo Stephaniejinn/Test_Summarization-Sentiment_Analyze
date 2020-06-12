@@ -1,0 +1,109 @@
+URL : https://promedmail.org/promed-post/?id=7278050
+ID : PROM2020042900008
+
+Date : 2020-04-28 22:27:34
+Title : PRO/EDR> Norovirus - USA: frozen raspberries, cruise ships, 2019
+Ariticle : 
+NOROVIRUS - USA: FROZEN RASPBERRIES, CRUISE SHIPS, 2019
+*******************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Fri 24 Apr 2020
+Source: USA Today from CDC [edited]
+https://eu.usatoday.com/story/travel/cruises/2020/04/24/cdc-report-raspberries-caused-2019-norovirus-outbreak-cruises/3018721001/
+Passengers contemplating boarding another cruise after the coronavirus pandemic might already be planning to pass up the buffet next time they sail due to social-distancing concerns, assuming ships don't do away with them anyway. But a new report published Friday [24 Apr 2020] by the Centers of Disease Control and Prevention spotlights the smoothie bar, too.
+The study identified frozen fruit -- namely raspberries -- used to make smoothies as the culprit of a norovirus outbreak that infected hundreds of passengers on multiple cruises from a single company in 2019.
+Between July and September 2019, the unnamed cruise line experienced "sudden, unexplained outbreaks" of acute gastroenteritis passed between passengers sailing on 10 ships in Europe, according to the CDC. While the outbreak went on throughout the summer, the cruise line's investigations "yielded no clear source" of the outbreaks though food was tested extensively.
+The CDC study found the symptoms -- the rapid onset of vomiting and diarrhea followed by recovery within a 24-hour period -- to be consistent with norovirus. The highly contagious virus can be transmitted through contaminated food or water, direct contact with an infected person or touching contaminated surfaces.
+The CDC's Vessel Sanitation Program (VSP), which works with the cruise industry to prevent and control the introduction, transmission and spread of gastrointestinal illnesses on passenger ships, was 1st notified about the situation in September 2019. Any ship with 13 or more passengers or that has a foreign itinerary with U.S. ports is under its jurisdiction.
+On 18 Sep 2019, the VSP was notified of an acute gastroenteritis outbreak on one of the cruise line's ships that was sailing into New York from Germany.
+According to the CDC report, the ship was met in New York by VSP investigators on 22 Sep 2019. They found that 117 out of 2046 passengers and 8 out of 610 crew members had exhibited symptoms consistent with acute gastroenteritis. From that group, 4 stool samples were collected for testing by the CDC and 3 came back positive for norovirus. But still, the VSP was unable to find the source of that outbreak at the time.
+Shortly afterward, on 7 Oct 2019, the VSP was informed of 2 additional outbreaks in U.S. waters. The 1st was on a ship taking a round-trip voyage from New York City along the eastern seaboard that infected 85 of the ship's 2166 passengers and 10 of its 612 crew members. On the 2nd cruise, from Montreal to New York, 83 of 2251 passengers and 10 of 610 crew members became ill.
+Five stool samples from the 2nd and 3rd voyages investigated were taken by the CDC, and overall, 9 of the 11 samples taken from the 3 voyages tested positive for norovirus.
+After reviewing food questionnaires from passengers on the round-trip New York City voyage, the CDC found that 80% of those sickened "implicated a smoothie made from frozen fruits and berries."
+Berries have been the source of norovirus outbreaks in the past, according to the CDC, which brought in the Food and Drug Administration in to collect frozen fruit and berry samples from the ship for testing.
+The FDA tested 16 fruit groups from the ships and found that 3 items tested positive for norovirus: Tropical fruit cocktail, raspberries and berry mix.
+Later, the cruise line learned its food vendor had bought nearly 22 000 pounds of frozen raspberries at the end of June 2019 -- right before the outbreak began -- from a supplier in China. Those berries were provided to the cruise line's entire fleet.
+In November 2019, the discovery prompted the World Health Organization to issue a recall on frozen raspberries traced back to China.
+CDC spokesperson Jennifer Burchfield would not confirm the cruise line in question. However, she said, "Ten of the 13 outbreaks occurred while the ships were not sailing in U.S. jurisdiction. We do not know the total number of people infected during this multi-ship outbreak."
+[Byline: Morgan Hines]
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+[This is a retrospective study from cruise ship outbreaks arriving in New York from September-October 2019 that has been determined to be associated with frozen raspberries from China.
+A prior ProMED-mail post, Norovirus - Canada (Montreal) raspberries ex China  
+20180211.5621866
+, reported on a norovirus outbreak also caused by frozen raspberries imported from China where hundreds of people were sickened in Quebec [Canada] in 2017 and multiple deaths probably occurred.
+Another situation similar to the one described in the reports above was similarly caused by contaminated imported raspberries as reported in this 2009 publication:
+Maunula L, Roivainen M, Keranen M, et al. Detection of human norovirus from frozen raspberries in a cluster of gastroenteritis outbreaks. Euro Surveill. 2009;14(49):pii=19435. Available online: 
+https://www.eurosurveillance.org/content/10.2807/ese.14.49.19435-en
+.         
+"Abstract. We describe a cluster of norovirus outbreaks affecting about 200 people in Southern Finland in September and October 2009. All outbreaks occurred after consumption of imported raspberries from the same batch intended for the catering sector. Human norovirus genotype GI.4 was found in frozen raspberries. The berries were served in toppings of cakes in separate catering settings or mixed in curd cheese as a snack for children in a daycare center. The relative risk for consumption of the berry dish was 3.0 (p 0.05 or less) at the daycare centre. Human norovirus GI.4 was also detected in samples from 2 patients, and in berries. Both shared identical partial capsid sequences. Based on the results of epidemiological, trace-back and laboratory investigations it was concluded that one particular batch of frozen raspberries was the source of all outbreaks."
+People often associate cruise ships with acute gastrointestinal illnesses such as norovirus, but acute gastrointestinal illness is relatively infrequent on cruise ships. From 2008-2014, 74 million passengers sailed on cruise ships in the Vessel Sanitation Program's jurisdiction. Only 129 678 passengers met the program's case definition for acute gastrointestinal illness, and only a small proportion of those cases (1 in 10) were part of a norovirus outbreak.
+Norovirus is a very contagious virus. You can get norovirus from an infected person, from contaminated food or water, or by touching contaminated surfaces. The virus causes your stomach or intestines or both to get inflamed (acute gastroenteritis). This leads you to have stomach pain, nausea, and diarrhea and to throw up. (CDC)
+Berries may become contaminated with norovirus or other pathogenic viruses such as hepatitis A if handled by an infected worker who does not use appropriate hand hygiene, or if exposed to contaminated agricultural water or a contaminated surface, like a harvesting tote (FDA). When they are used in food items where they are not cooked such as smoothies, fruit salad, cake toppings, the viruses will survive and can infect anyone who consumes them. - Mod.LK
+HealthMap/ProMED map available at:
+United States: 
+http://healthmap.org/promed/p/106
+] 
+See Also
+2019
+----
+Norovirus - Europe: (UK, Ireland) oysters  
+20190113.6256531
+2018
+----
+Norovirus - USA (06): (CA)  
+20181119.6154575
+Norovirus - USA (05): (NC,WA)  
+20180807.5949307
+Norovirus - USA (04): (KY) fast food restaurant  
+20180731.5937289
+Norovirus - USA (ME), UK: summer outbreaks  
+20180727.5930655
+Norovirus - USA (03): (FL)  
+20180627.5879619
+Norovirus - USA (02): (CA) ex Canada (BC), oysters, RFI  
+20180503.5782523
+Norovirus - USA: (WA) restaurant  
+20180115.5559449
+Norovirus - Japan: contaminated seaweed  
+20180420.5759972
+Norovirus - South Korea (05): (KW) Winter Olympics  
+20180322.5704227
+Norovirus - South Korea (04): (KW) Winter Olympics  
+20180220.5640797
+Norovirus - South Korea (03): (KW) Winter Olympics  
+20180217.5634726
+Norovirus - Canada (Montreal) raspberries ex China  
+20180211.5621866
+Norovirus - South Korea (02): (KW) Winter Olympics  
+20180211.5621817
+Norovirus - South Korea: (KW) Winter Olympics  
+20180209.5616795
+ 
+2017
+----
+Norovirus - USA (06): (OH) doughnut shop  
+20170814.5249052
+Gastroenteritis - USA: (VA) restaurant, susp. norovirus  
+20170720.5191492
+Norovirus - USA (05): (CA)  
+20170526.5063193
+Norovirus - USA (04): (CA)  
+20170513.5034178
+Norovirus - USA (03): (WI) fast food restaurant  
+20170420.4982698
+Norovirus - USA (02): (CA)  
+20170319.4910583
+Norovirus - Canada: (BC, AB, ON)  
+20170219.4850305
+Norovirus - USA: (WA)  
+20170204.4815333
+Norovirus - Germany, UK (England)  
+20170127.4797915
+.................................................sb/lk/msp/ml

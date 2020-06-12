@@ -1,0 +1,53 @@
+URL : https://www.cidrap.umn.edu/news-perspective/2020/04/news-scan-apr-28-2020
+ID : CIDR2020042900001
+
+Date : 2020-04-28 00:00:00
+Title : News Scan for Apr 28, 2020
+Ariticle : 
+A new analysis of data from a randomized clinical trial that found that mass distribution of the antibiotic azithromycin to children under 5 years old was associated with reduced childhood mortality in three African countries suggests mortality reduction may be linked to effects on pneumonia, diarrhea, or HIV/AIDS mortality. The findings were published yesterday in the 
+American Journal of Tropical Hygiene and Medicine.
+The secondary analysis of results from the MORDOR (Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance) trial looked specifically at causes of deaths during the trial in Malawi (Niger and Tanzania were the other trial sites). Although the trial was not powered to investigate mortality effects at individual trial sites, investigators used verbal autopsy (VA)—a structured interview with relatives of the deceased to ascertain cause of death—and two different methods of automated VA analysis (InterVA and SmartVA) to assess the major causes of death during the trial and develop a hypothesis about how azithromycin may effect childhood mortality.
+A total of 334 communities in Malawi were randomized to receive azithromycin or placebo during the trial, and 1,184 deaths were recorded, of which 1,131 were followed up with VA. Mortality was 9% lower in the azithromycin-treated communities than in communities that received placebo. An intention-to-treat analysis using IntervA suggested fewer HIV/AIDS deaths in azithromycin-treated communities (rate ratio, 0.70; 95% confidence interval [CI], 0.50 to 0.97; 
+P
+ = 0.03) and fewer pneumonia deaths (rate ratio, 0.82; 95% CI, 0.60 to 1.12; 
+P
+ = 0.22). The use of the SmartVA algorithm suggested fewer diarrhea deaths (rate ratio, 0.71; 95% CI, 0.51 to 1.00; 
+P
+ = 0.05) and fewer pneumonia deaths (rate ratio, 0.58; 95% CI, 0.33 to 1.00; 
+P
+ = 0.05).
+"Although this study is not able to provide strong evidence on the causes of death in the MORDOR trial, the data have been presented fully to enable generation of hypotheses regarding mechanisms of effect of azithromycin on childhood mortality," the authors wrote. "Larger studies will be required to clearly define the effects of azithromycin on cause-specific childhood mortality."
+Another MORDOR analysis published in the same journal found that mass distribution of azithromycin has the potential to be a highly cost-effective intervention for reducing childhood mortality in some settings in Malawi, while a third analysis found that mass distribution of the drug in Malawi had no effect on malaria parasitemia at the community or individual levels.
+Apr 27 
+Am J Trop Med Hyg
+ 
+abstract 1
+ Apr 27 
+Am J Trop Med Hyg
+ 
+abstract 2
+ Apr 27 
+Am J Trop Med Hyg
+ 
+abstract 3
+ 
+The use of rapid molecular drug susceptibility testing (DST) in patients with multidrug-resistant tuberculosis (MDR-TB) significantly reduced time to diagnosis and was associated with decreased time to culture conversion and improved treatment outcomes, Chinese and Swedish researchers reported yesterday in the 
+International Journal of Infectious Diseases.
+In a study that included 242 MDR-TB patients admitted to two Chinese hospitals from 2012 through 2015, the researchers compared time to diagnosis and treatment outcomes in patients before and after implementation of commercially available rapid molecular DST tools (Genotype MTBDRsI and MTBDRplus Assay) for MDR-TB diagnosis. They assessed clinical improvement by looking at time to sputum culture conversion and final treatment outcomes after 2 years of treatment. A total of 114 patients belonged to the pre-implementation group and 128 to the post-implementation group.
+The analysis found that post-implementation patients had a significantly reduced time to MDR-TB diagnosis compared with patients in the pre-implementation group (median: 16 vs 62 days), along with shorter treatment with first-line drugs (median: 11 days vs 59 days) and earlier initiation with second-line drugs (median: 19 vs 69 days). In addition, patients in the post-implementation group had a more rapid culture conversion (median: 12 months vs 24 months) and a higher rate of treatment success (68% vs 47%, 
+P
+ < 0.01).
+Multivariate analysis showed that the effect of molecular DST implementation was significantly positively correlated with early sputum culture conversion (adjusted hazard ratio, 1.94; 95% CI, 1.37 to 2.73) and treatment success (adjusted odds ratio, 2.47; 95% CI, 1.38 to 4.42).
+The authors says the findings are important because MDR-TB poses a major threat to TB control programs, and conventional phenotypic DST methods are time consuming, prolong the time to effective treatment, and require a TB-containment laboratory, which is not always available in low-income settings.
+"Our findings highlight the importance of rapid diagnostic testing for the improvement of MDR-TB treatment outcome," they concluded.
+Apr 27 
+Int J Infect Dis
+ 
+study
+ 
+Flu activity in the Northern Hemisphere is low in most countries and is still at interseasonal levels in the Southern Hemisphere, the World Health Organization (WHO) said today in its latest update. The agency warned, however, that flu reports should be interpreted cautiously, because the COVID-19 pandemic could be influencing healthcare-seeking behaviors and distancing measures could be interrupting flu transmission.
+In Europe, flulike activity was still elevated in Estonia and the Netherlands and severe respiratory illness markers are still high in Russia, but flu detections are low in most reporting countries. Pooled mortality estimates from Europe show an overall increase led by substantial excesses in some countries, likely due to the COVID-19 pandemic.
+Flu levels in the rest of the world are low, but Mozambique is reporting mainly 2009 H1N1 activity. In the Southern Hemisphere's temperate countries, emergency department visits for respiratory symptoms are higher than expected for this time of the year in Australia, though flu stayed at interseasonal levels, the WHO said.
+At the global level, of specimens tested in the first half of April, 54.9% were influenza A and 45.1% were influenza B. Of subtyped influenza A viruses, 77.8% were 2009 H1N1 and 22.2% were H3N2. Of the characterized flu B viruses, 93.5% belonged to the Victoria lineage.
+Apr 27 WHO global flu 
+update

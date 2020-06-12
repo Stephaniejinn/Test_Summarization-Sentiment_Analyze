@@ -1,0 +1,58 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/laboratory-and-imaging-features/856403-j-chem-technol-biotechnol-quantitative-and-sensitive-detection-of-sars-coronavirus-nucleocapsid-protein-using-quantum-dots-conjugated-rna-aptamer-on-chip
+ID : FLUT2020050200084
+
+Date : 2020-05-01 20:17:54
+Title : J Chem Technol Biotechnol. Quantitative and sensitive detection of SARS coronavirus nucleocapsid protein using quantum dots-conjugated RNA aptamer on chip
+Ariticle : 
+																							
+
+J Chem Technol Biotechnol.
+ 2011 Dec;86(12):1475-1479. doi: 10.1002/jctb.2721. Epub 2011 Oct 3.
+
+Quantitative and sensitive detection of SARS coronavirus nucleocapsid protein using quantum dots-conjugated RNA aptamer on chip.
+
+
+
+Roh C
+1
+, 
+Jo SK
+1
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+ Globally, severe acute respiratory syndrome coronavirus (SARS-CoV) is a newly emerging virus that causes SARS with high mortality rate in infected people. The nucleocapsid (N) protein of the severe acute respiratory syndrome (SARS)-associated coronavirus (SARS-CoV) is an important antigen for the early diagnosis of SARS and the detection of diseases. Here, a new quantum dots (QDs)-conjugated RNA aptamer with high sensitivity and rapidity is proposed for the detection of SARS-CoV N protein using an on chip system. 
+RESULTS:
+ A QDs-conjugated RNA aptamer can specifically hybridize on the immobilized SARS-CoV N protein on the surface of a glass chip. Detection is based on the optical signal variation of a QDs-supported RNA aptamer interacting on an immobilized protein chip. Using an optical QDs-based RNA aptamer chip, SARS N protein was detected at concentrations as low as 0.1 pg mL
+-1
+. 
+CONCLUSIONS:
+ It was demonstrated that the QDs-conjugated RNA aptamer could interact on a designed chip specifically and sensitively. This device could form a QDs-conjugated biosensor prototype chip for SARS-CoV N protein diagnosis. The proposed visual SARS-CoV N protein detection technique may avoid the limitations of other reported methods because of its high sensitivity, good specificity, ease of use, and the ability to perform one-spot monitoring.
+Copyright © 2011 Society of Chemical Industry.
+
+
+
+
+KEYWORDS:
+
+SARS coronavirus (CoV); aptamer; nucleocapsid (N) protein; quantum dots (QDs)
+
+
+PMID:32336860PMCID:
+PMC7167159
+DOI:
+10.1002/jctb.2721
+
+Free PMC Article
+
+													

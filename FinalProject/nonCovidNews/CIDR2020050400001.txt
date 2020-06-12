@@ -1,0 +1,142 @@
+URL : https://www.cidrap.umn.edu/news-perspective/2020/05/asp-scan-weekly-may-01-2020
+ID : CIDR2020050400001
+
+Date : 2020-05-01 00:00:00
+Title : ASP Scan (Weekly) for May 01, 2020
+Ariticle : 
+Our weekly wrap-up of antimicrobial stewardship & antimicrobial resistance scans
+The Global Antibiotic Research and Development Partnership (GARDP) this week announced a partnership with Venatorx Pharmaceuticals to accelerate development of an investigational beta-lactam/beta-lactamase inhibitor combination for treating multidrug-resistant hospital infections.
+GARDP and Venatorx, of Malvern, Pennsylvania, will collaborate to complete the development of cefipime/taniborbactam, which is currently being evaluated in a phase 3 trial of patients who have complicate urinary tract infections. Additional clinical trials in adults with multidrug-resistant infections and in children with serious bacterial infections are also planned.
+Taniborbactam is a novel, broad-spectrum beta-lactamase inhibitor that restores the activity of cefepime, a fourth-generation cephalosporin, against carbapenem-resistant Enterobacteriaceae and carbapenem-resistant 
+Pseudomonas aeruginosa
+. The World Health Organization (WHO) has identified both pathogens as critical threats to global health that urgently require new treatment options.
+"More than a hundred thousand people die every year in high-income countries due to hospital infections, and indicators point to a significantly higher burden in low- and middle-income countries," Manica Balasegaram, BMedSci, BMBS, executive director of GARDP, said in a press release. "Our collaboration with Venatorx enables us to accelerate the development of a critically needed treatment for antibiotic-resistant infections in adults and children."
+Apr 29 GARDP
+ 
+press release
+ 
+Nearly all measures of fluoroquinolone use at Veterans Affairs (VA) hospitals declined from 2014 through 2017, but the decrease in inpatient use was much larger than the decline in fluoroquinolone use at discharge, according to a study yesterday in 
+Open Forum Infectious Diseases.
+The study, led by researchers from Michigan Medicine and the VA Ann Arbor Healthcare System, assessed inpatient and discharge fluoroquinolone (ciprofloxacin, moxifloxacin, and levofloxacin) use among veterans hospitalized with infections at 125 VA hospitals from 2014 through 2017. The aim of the study was to measure the decline in fluoroquinolone prescribing, particularly at discharge, since the Veterans Health Administration called for implementation of antibiotic stewardship programs at all hospitals in 2014. Fluoroquinolones have been a particular concern because of their association with 
+Clostridioides difficile
+ infection and adverse events.
+Of the 560,219 hospitalizations with infection analyzed, 37.4% involved a fluoroquinolone prescription either during hospitalization (32.5%) or at discharge (19.6%). Hospitals varied appreciably in inpatient, discharge, and total fluoroquinolone use, with 71% of the hospitals in the highest prescribing quartile located in the southern United States.
+When they analyzed adjusted rates of fluoroquinolone prescribing longitudinally by year, the researchers found a significant decrease in the proportion of patients who were prescribed any fluoroquinolone during hospitalization (relative risk reduction [RRR], 25.4%; absolute risk reduction [ARR], 9.4%). The decline in the proportion of patients prescribed a fluoroquinolone at discharge was statistically significant, but smaller (RRR, 7.4%; ARR, 1.4%). Over the study period, fluoroquinolone use at discharge accounted for a growing percentage of hospitalization-related fluoroquinolone days (from 52% in 2014 to 61.3% in 2017).
+Among the three fluoroquinolones, ciprofloxacin saw the largest decreases in use—mostly due to a decrease in inpatient use—while levofloxacin use was largely stable over time, with small decreases in inpatient use and small increases in discharge use. Moxifloxacin use was low and declined further.
+"Fluoroquinolone prescribing at discharge, and levofloxacin prescribing in particular, is a growing target for stewardship," the authors concluded. "Further studies should evaluate whether interventions to reduce total antibiotic duration may be most effective at decreasing post-discharge fluoroquinolone use."
+Apr 30
+ 
+Open Forum Infect Dis
+ 
+abstract
+ 
+Originally published by CIDRAP News Apr 29
+Revised clinical practice guidelines for CDI have had an immediate and significant impact on treatment, researchers reported yesterday in 
+Clinical Infectious Diseases.
+Using US antibiotic prescription data for 2006 through August 2019, researchers from the University of Pittsburgh and the VA Pittsburgh Healthcare System performed an interrupted time-series analysis to compare linear trends for monthly treatment courses of vancomycin, fidaxomicin, and metronidazole. The aim of the analysis was to determine if use of the three drugs changed after publication of revised CDI guidelines from the Infectious Diseases Society of America (IDSA) and the Society for Healthcare Epidemiology of America (SHEA) in 2018, which recommended vancomycin or fidaxomicin as preferred treatments for initial and first recurrent non-severe CDI, rather than metronidazole as previously recommended.
+The analysis found that cumulative treatment courses of oral vancomycin and fidaxomicin increased by 54% and 48%, respectively, in the 18 months following the guidelines compared with the 18 months before, while those of oral metronidazole decreased by 3%. Monthly vancomycin and fidaxomicin use also significantly increased throughout the period following revised guidelines (
+P
+ < 0.0001 and 
+P
+ = 0.0002, respectively), while monthly use of metronidazole decreased significantly (
+P
+< 0.0001).
+The analysis also showed that the monthly increases in vancomycin use and decreases in metronidazole use were significantly greater following publication of the revised IDSA/SHEA guidelines than after the publication of two randomized clinical trials that established the superiority of vancomycin over metronidazole.
+The authors say the fact that the data used to revise CDI treatment guidelines were available for years before changes in practice were endorsed by IDSA and SHEA suggests that guidelines for CDI and other infections should be updated more frequently.
+"Taken together, our findings support a new IDSA initiative to develop, disseminate, and adopt more timely guidelines and guidance for managing antimicrobial-resistant and other difficult-to-treat infections, as set forth in the society's 2019 Strategic Plan," they wrote. 
+Apr 28
+ 
+Clin Infect Dis
+ 
+abstract
+ 
+Originally published by CIDRAP News Apr 28
+A new analysis of data from a randomized clinical trial that found that mass distribution of the antibiotic azithromycin to children under 5 years old was associated with reduced childhood mortality in three African countries suggests mortality reduction may be linked to effects on pneumonia, diarrhea, or HIV/AIDS mortality. The findings were published yesterday in the 
+American Journal of Tropical Hygiene and Medicine.
+The secondary analysis of results from the MORDOR (Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance) trial looked specifically at causes of deaths during the trial in Malawi (Niger and Tanzania were the other trial sites). Although the trial was not powered to investigate mortality effects at individual trial sites, investigators used verbal autopsy (VA)—a structured interview with relatives of the deceased to ascertain cause of death—and two different methods of automated VA analysis (InterVA and SmartVA) to assess the major causes of death during the trial and develop a hypothesis about how azithromycin may effect childhood mortality.
+A total of 334 communities in Malawi were randomized to receive azithromycin or placebo during the trial, and 1,184 deaths were recorded, of which 1,131 were followed up with VA. Mortality was 9% lower in the azithromycin-treated communities than in communities that received placebo. An intention-to-treat analysis using IntervA suggested fewer HIV/AIDS deaths in azithromycin-treated communities (rate ratio, 0.70; 95% confidence interval [CI], 0.50 to 0.97; 
+P
+ = 0.03) and fewer pneumonia deaths (rate ratio, 0.82; 95% CI, 0.60 to 1.12; 
+P
+ = 0.22). The use of the SmartVA algorithm suggested fewer diarrhea deaths (rate ratio, 0.71; 95% CI, 0.51 to 1.00; 
+P
+ = 0.05) and fewer pneumonia deaths (rate ratio, 0.58; 95% CI, 0.33 to 1.00; 
+P
+ = 0.05).
+"Although this study is not able to provide strong evidence on the causes of death in the MORDOR trial, the data have been presented fully to enable generation of hypotheses regarding mechanisms of effect of azithromycin on childhood mortality," the authors wrote. "Larger studies will be required to clearly define the effects of azithromycin on cause-specific childhood mortality."
+Another MORDOR analysis published in the same journal found that mass distribution of azithromycin has the potential to be a highly cost-effective intervention for reducing childhood mortality in some settings in Malawi, while a third analysis found that mass distribution of the drug in Malawi had no effect on malaria parasitemia at the community or individual levels.
+Apr 27
+ 
+Am J Trop Med Hyg
+ 
+abstract 1
+ Apr 27 
+Am J Trop Med Hyg
+ 
+abstract 2
+ Apr 27 
+Am J Trop Med Hyg
+ 
+abstract 3
+ 
+Originally published by CIDRAP News Apr 28
+The use of rapid molecular drug susceptibility testing (DST) in patients with multidrug-resistant tuberculosis (MDR-TB) significantly reduced time to diagnosis and was associated with decreased time to culture conversion and improved treatment outcomes, Chinese and Swedish researchers reported yesterday in the 
+International Journal of Infectious Diseases.
+In a study that included 242 MDR-TB patients admitted to two Chinese hospitals from 2012 through 2015, the researchers compared time to diagnosis and treatment outcomes in patients before and after implementation of commercially available rapid molecular DST tools (Genotype MTBDRsI and MTBDRplus Assay) for MDR-TB diagnosis. They assessed clinical improvement by looking at time to sputum culture conversion and final treatment outcomes after 2 years of treatment. A total of 114 patients belonged to the pre-implementation group and 128 to the post-implementation group.
+The analysis found that post-implementation patients had a significantly reduced time to MDR-TB diagnosis compared with patients in the pre-implementation group (median: 16 vs 62 days), along with shorter treatment with first-line drugs (median: 11 days vs 59 days) and earlier initiation with second-line drugs (median: 19 vs 69 days). In addition, patients in the post-implementation group had a more rapid culture conversion (median: 12 months vs 24 months) and a higher rate of treatment success (68% vs 47%, 
+P
+ < 0.01).
+Multivariate analysis showed that the effect of molecular DST implementation was significantly positively correlated with early sputum culture conversion (adjusted hazard ratio, 1.94; 95% CI, 1.37 to 2.73) and treatment success (adjusted odds ratio, 2.47; 95% CI, 1.38 to 4.42).
+The authors says the findings are important because MDR-TB poses a major threat to TB control programs, and conventional phenotypic DST methods are time consuming, prolong the time to effective treatment, and require a TB-containment laboratory, which is not always available in low-income settings.
+"Our findings highlight the importance of rapid diagnostic testing for the improvement of MDR-TB treatment outcome," they concluded.
+Apr 27
+ 
+Int J Infect Dis
+ 
+study
+ 
+Originally published by CIDRAP News Apr 27
+Priority antibiotics with a high potential for developing resistance are commonly prescribed to older adults in Australia, particularly those with chronic respiratory conditions, but fewer than one fifth of those prescriptions are accompanied by microbiologic tests, researchers reported in 
+BMC Infectious Diseases.
+In the study, Australian researchers looked at data on a cohort of older adults (mean age 69 years) that were linked to records of community-based antibiotic prescribing and microbiologic testing. Their aim was to examine the incidence rate of (WHO)-defined Access and Watch antibiotic dispensing among older adults and compare it to the rate of microbiologic testing for bacterial infections. Access antibiotics are first-line options for common infections, while Watch antibiotics are those the WHO considers at greater risk for developing resistance. The WHO recommends that microbiologic assessment accompany use of Watch drugs.
+In 2015, among 244,299 participants, there were 63,306 Watch antibiotic prescriptions dispensed and 149,182 microbiology tests conducted; the incidence rate was 0.26 per person-year for Watch group antibiotic dispensing and 0.62 for microbiology testing. Of those antibiotic prescriptions, only 19% were accompanied by microbiology testing within − 14 to + 7 days.
+After adjusting for sociodemographic factors and comorbidities, the researchers found that individuals with chronic respiratory diseases were more likely to receive Watch antibiotics than those without—for example, asthma (adjusted incident rate ratio [aIRR], 1.59; 95% confidence interval [CI], 1.52 to 1.66) and chronic obstructive pulmonary disease (COPD) (aIRR, 2.71; 95% CI, 2.48 to 2.95). The rate of microbiology testing, however, was not higher among them (with asthma aIRR, 1.03; 95% CI, 1.00 to 1.05; with COPD aIRR,1.00; 95% CI, 0.94 to 1.06).
+The authors of the study say the findings are noteworthy because the use of microbiologic testing can be considered a proxy for assessing the appropriateness of antibiotic use.
+"Since watch group antibiotics have high resistance potential, focusing antibiotic stewardship efforts might be needed among older populations with chronic respiratory diseases in the primary care setting," they concluded.
+Apr 25
+ 
+BMC Infect Dis
+ 
+study
+ 
+Originally published by CIDRAP News Apr 27
+Researchers in Hong Kong report that adherence to antibiotic treatment guidelines was associated with shorter hospitalization and improved survival in community-acquired pneumonia (CAP) patients, according to a new study in 
+Open Forum Infectious Diseases.
+The prospective observational cohort study, conducted by researchers at the Chinese University of Hong Kong, looked at 258 patients hospitalized with CAP in Hong Kong from February 2017 to July 2018. The investigators were interested in looking at clinician adherence to new treatment guidelines for common infectious diseases published in Hong Kong in 2017, particularly the recommendations on empiric antibiotic therapy. They documented disease severity, microbiologic results, antibiotic treatment, and outcomes and performed multivariable logistics regression and Cox proportional hazard models to determine independent factors associated with prolonged hospitalization and mortality.
+The researchers identified pathogens in 45% of patients, with 20% having viral pneumonia, 15% having bacterial pneumonia, and 9% having polymicrobial pneumonia. 
+Streptococcus pneumoniae
+(12%), influenza (12%), and 
+Mycoplasma pneumoniae
+ (1.2%) were the most common atypical viral pathogens. The strong majority of patients were prescribed empirical amoxicillin-clavulanate (79%) or ceftriaxone (8%) with or without doxycycline, which are the recommended regimens for CAP requiring hospitalization.
+Non-adherence to local empirical antibiotic treatment guidelines was observed in 25% of patients and, after adjustment for age, underlying chronic illness, and disease severity, was independently associated with prolonged hospitalization (more than 7 days) and higher  mortality (adjusted hazard ratio, 3.88; 95% CI, 1.60 to 9.41).
+The authors of the study say non-adherence to local guidelines involved both overtreatment with broad-spectrum antibiotics and undertreatment with inadequate coverage for potential drug-resistant pathogens.
+"The findings of our study supported our current treatment guidelines," they wrote.
+Apr 24
+ 
+Open Forum Infect Dis
+ 
+abstract
+ 
+Originally published by CIDRAP News Apr 27
+Biopharma start-up Bugworks, Inc., announced last week that it received $7.5 million in financing to complete early clinical studies on a novel broad-spectrum antibiotic targeting a broad range of antibiotic-resistant pathogens.
+The funding from Japanese and South African investors will enable the company to complete phase 1 studies of its GYROX intravenous drug candidate, which targets gram-negative and gram-positive bacteria, including 
+Acinetobacter baumannii, Pseudomonas Aeruginosa, Enterococcus faecium,
+ and 
+Staphylococcus aureus.
+ GYROX is a Gyrase-topoisomerase inhibitor that, according to company officials, has a low risk of developing antimicrobial resistance (AMR) because it inhibits two essential targets in the bacterial replication machinery and has been designed to bypass the efflux-resistance mechanism of the bacteria.
+The money will also help advance an oral version of the drug toward clinical development.
+"This new financing is an endorsement of our team and differentiated AMR assets, as we bring reputed global investors to aid our mission of pandemic preparedness by defeating superbug infections," Bugworks CEO Anand Anandkumar, MD, said in a company press release.
+Bugworks, which is based in Delaware and Bangalore, India, received preclinical funding and support for GYROX from CARB-X (the Combating Antibiotic Resistant Bacteria Biopharmaceutical Accelerator) in 2017.
+Apr 23 Bugworks
+ 
+press release

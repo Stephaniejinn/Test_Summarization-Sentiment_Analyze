@@ -1,0 +1,19 @@
+URL : https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=34191
+ID : WAHI2020050100009
+
+Date : 2020-04-30 00:00:00
+Title : Highly pathogenic avian influenza,Hungary
+Ariticle : 
+Information received on 30/04/2020 from Dr Lajos Bognár, Deputy State Secretary Chief Veterinary Officer, Food Chain Safety Department,         	Ministry of Agriculture, Budapest, Hungary
+Report type:Follow-up report No. 5
+Date of start of the event:22/03/2020
+Date of confirmation of the event:25/03/2020
+Report date:30/04/2020
+Date submitted to OIE:30/04/2020
+Reason for notification:Recurrence of a listed disease
+Date of previous occurrence:31/01/2020
+Manifestation of disease:Clinical disease
+Causal agent:Highly pathogenic avian influenza virus
+Serotype:H5N8
+Nature of diagnosis:Laboratory (advanced)
+This event pertains to:a defined zone within the country

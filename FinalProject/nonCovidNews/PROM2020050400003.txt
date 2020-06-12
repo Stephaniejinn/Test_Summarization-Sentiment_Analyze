@@ -1,0 +1,89 @@
+URL : https://promedmail.org/promed-post/?id=7294947
+ID : PROM2020050400003
+
+Date : 2020-05-03 21:58:30
+Title : PRO/AH/EDR> Yellow fever - Americas (07): Brazil (SC)
+Ariticle : 
+YELLOW FEVER - AMERICAS (07): BRAZIL (SANTA CATARINA)
+*****************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+[1] 
+Date: Tue 28 Apr 2020
+Source: NSC [in Portuguese, trans. Mod.TY, edited]
+https://www.nsctotal.com.br/noticias/sobe-para-15-o-numero-de-pacientes-contaminados-por-febre-amarela-em-santa-catarina
+Santa Catarina has 15 patients infected with yellow fever, according to information issued by the office of Epidemiological Surveillance this past Monday (27 Apr 2020).
+There are 2 cases more in relation to the previous bulletin issued 15 days earlier. Of the total number of people who have contracted the disease, 6 were diagnosed in Blumenau, in the Vale of Itajai.
+The number of deaths remains the same; 2 deaths in 2020, both registered in the month of March 2020. The 1st death is a man in Camboriu according to the state registry. The victim was 42 years of age and was hospitalized in Balneario Camboriu. The 2nd registered [death] occurred on 31 Mar [2020] and was a man 52 years of age in the municipality of Indaial. Neither of these victims were vaccinated against the disease.
+Besides Blumenau, residents of 5 other municipalities have contracted the disease this year [2020]. In Pomerode and Indaial, 6 people have been registered with the infection, 3 in each city. Camboriu, Jaragua do Sul and Sao Bento Sul, no Norte of SC, had one case each.
+According to the office of Epidemiological Surveillance, the disease is also circulating in other municipalities where dead monkeys infected by the virus have been reported. The primates hit with the disease were registered in other cities where there are still no human cases diagnosed: Gaspar, Timbo, Campo Alegre, Rio Negrinho, Luiz Alves and Doutor Pedrinho. 
+Yellow fever is a serious disease that is transmitted by mosquitoes in wildland areas and near forests. It is a disease that progresses rapidly. The infection results in the following symptoms:
+- Fever with up to 7 days duration
+- Intense headache
+- Abdominal pain
+- hemorrhagic manifestations
+- Icterus 
+- Elevated transaminases
+[Byline: Clarissa Battistella]
+--
+Communicated by:
+ProMED-PORT
+<promed@promedmail.org>
+******
+[2] 
+Date: Thu 30 Apr 2020
+Source: Radio Nereu Ramos [in Portuguese, trans. Mod.TY, edited]
+http://www.radionereuramos.com.br/blumenau-registra-seis-casos-de-febre-amarela/
+The Blumenau Secretariat of Health Promotion (SEMUS) now has registered 6 yellow fever cases in the municipality, with Itoupava Central neighborhood accounting for 50% of the cases. The 1st confirmation of the disease in Blumenau was registered on 12 Feb 2020, all those infected without a history of vaccination.
+The 1st case this year [2020] was a 26-year-old man, a resident of the Itoupava Central neighborhood. The 2nd and 3rd laboratory confirmed cases were at the end of March [2020]. The 4th patient with a yellow fever diagnosis is an 18-year-old man, resident of the Passo Manso neighborhood. The 5th confirmed case is a 59-year-old man, resident of the Itoupavazinha neighborhood. The 6th case is a 43-year-old man, also of the north region, a resident of Itoupava Central.
+This year [2020], there were 11 reported epizootics [cases in non-human primates]; collections and tests of dead monkeys found that the deaths of the animals were related to the disease. Of these, 22 had a positive [test] result for yellow fever. The cases occurred in the neighborhoods of Vila Itoupava, Itoupava Central, Itoupavazinha, Fidelis, Passo Manso and Velha Central. Epidemiological Surveillance awaits the results [of tests on] the other collections made in the Salto Weissbach, Salto do Norte, Testo Salto e Badenfurt neighborhoods.
+As of this Tue 28 Apr 2020, the SEMUS teams now have immunized 31 651 people against yellow fever. As it is considered an area of active transmission, vaccination was not suspended during the [COVID-19] pandemic and continues to be carried out throughout the year in the municipality's vaccination facilities.
+The yellow fever vaccine is indicated for children from 9 months to 59 years old, and the new vaccination schedule defined by the MS [Health Ministry] from 2020 onwards provides that children take a dose at 9 months and reinforce the vaccine at 4 years. Above 5 years of age, a single dose is the recommendation.
+--
+Communicated by:
+ProMED-PORT
+<promed@promedmail.org>
+[Yellow fever [YF] virus in Santa Catarina state continues to be active. The human cases this year (2020) are due to YF virus spill-over from the sylvan (forest) transmission cycle. The dead monkeys indicate that the virus has been circulating in the state for over a year. It is important that the human population YF vaccination coverage reach the 95% goal set by the Ministry of Health. Vaccination is the only way to avoid these sylvan cases, since elimination of the forest YF virus transmission cycle is not feasible. Without prevention of these human sylvan cases, there is the risk that YF virus could be introduced by them into the urban cycle of virus transmitted by _Aedes aegypti_ and spread quickly. - Mod.TY
+HealthMap/ProMED map available at:
+Santa Catarina, Brazil: 
+http://healthmap.org/promed/p/2975
+] 
+See Also
+Yellow fever - Americas (06): Brazil, monkey, conservation concern  
+20200403.7180314
+Yellow fever - Americas (05): Brazil (SC)  
+20200222.7015288
+Yellow fever - Americas (04): Brazil (SC)  
+20200206.6959140
+Yellow fever - Americas (03): Brazil, monkey, alert  
+20200203.6948827
+Yellow fever - Americas (02): Brazil, monkey, alert  
+20200120.6900120
+Yellow fever - Americas (01): Brazil (PE) monkey, fatal, susp  
+20200109.6880041
+2019
+----
+Yellow fever - Americas (10): Brazil  
+20190702.6547598
+Yellow fever - Americas (09): Brazil, official summary  
+20190627.6541056
+Yellow fever - Americas (08): Brazil  
+20190606.6507722
+Yellow fever - Americas (07): Brazil, WHO  
+20190419.6432053
+Yellow fever - Americas (06): Brazil (PR)  
+20190325.6385229
+Yellow fever - Americas (05): Brazil, CDC advisory  
+20190309.6358835
+Yellow fever - Americas (04): PAHO/WHO, Bolivia, Brazil, Peru  
+20190307.6355499
+Yellow fever - Americas (03): Brazil (PR, SP)  
+20190211.6310963
+Yellow fever - Americas (02): Brazil (PR, SP)  
+20190208.6305966
+Yellow fever - Americas: PAHO/WHO  
+20190129.6284631
+.................................................sb/ml/ty/msp/ml

@@ -1,0 +1,99 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/vaccines/856532-hum-vaccin-immunother-immunogenicity-of-influenza-vaccine-in-elderly-people-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials-and-its-association-with-real-world-effectiveness
+ID : FLUT2020050200109
+
+Date : 2020-05-02 10:55:18
+Title : Hum Vaccin Immunother.  Immunogenicity of influenza vaccine in elderly people: a systematic review and meta-analysis of randomized controlled trials, and its association with real-world effectiveness
+Ariticle : 
+																							
+
+Hum Vaccin Immunother.
+ 2020 Apr 29:1-10. doi: 10.1080/21645515.2020.1747375. [Epub ahead of print]
+
+Immunogenicity of influenza vaccine in elderly people: a systematic review and meta-analysis of randomized controlled trials, and its association with real-world effectiveness.
+
+
+
+Meng Z
+1,
+2
+, 
+Zhang J
+1,
+2
+, 
+Shi J
+1,
+2
+, 
+Zhao W
+1,
+2
+, 
+Huang X
+1,
+2
+, 
+Cheng L
+3
+, 
+Yang X
+1,
+4
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+Background
+: Older people (≥60 years old) are particularly vulnerable to influenza virus infection, and vaccine is effective in reducing the disease burden in this population. However, it remains obscure whether their antibody response is lower than those of younger adults (18-60 years old). Thus, this meta-analysis was performed to compare the immunogenicity of influenza vaccines and understand their association with real-world vaccine effectiveness (VE) between these two age groups.
+Methods
+: A systematic literature search was conducted to identify relevant studies from Jan 01, 2008 to Nov 10, 2018. These are randomized controlled trials that included older adult samples, which assessed the immunogenicity of inactivated quadrivalent influenza vaccines produced in embryonated eggs. We excluded the studies focused only in children or adults. The outcomes were seroprotecton rate (SPR) and seroconversion rate (SCR).
+Results
+: Six studies were eventually included in the present meta-analysis (7,976 participants). For the SPR, the pooled risk ratio (RR) was 0.92 (95% CI: 0.90-0.94, 
+I
+2
+= 66%, 
+P 
+< .0001) for A/H1N1 and 0.94 (95% CI: 0.90-0.98, 
+I
+2
+= 91%, 
+P 
+= .002) for B/Victoria, and the antibody responses of A/H3N2 and B/Yamagata were similar in the two age groups. For the SCR, the pooled RR was 0.85 (95% CI: 0.76-0.94, 
+I
+2
+= 93%, 
+P 
+= .003), 0.77 (95% CI: 0.66-0.91, 
+I
+2
+= 94%, 
+P 
+= .002), and 0.83 (95% CI: 0.71-0.96, 
+I
+2
+= 94%, 
+P 
+= .02) for A/H1N1, B/Victoria and B/Yamagata, respectively, and the antibody responses of A/H3N2 were similar in the two groups. Some variations were found in the antibody responses across virus types and subtypes after influenza vaccination.
+Conclusion
+: The SPR and SCR of older adults were lower than those in younger adults for A/H1N1 and B/Victoria, while the two age groups had similar antibody responses for A/H3N2. The antibody responses to vaccines were not significantly associated with real-world VE, indicating that antibody response might not fully reflect the vaccine effectiveness of A/H3N2.
+
+
+
+
+KEYWORDS:
+
+Influenza vaccine; frail elderly; hemagglutination inhibition assay; immunogenicity; meta-analysis; quadrivalent influenza vaccine; vaccine effectiveness
+
+
+PMID:32347787DOI:
+10.1080/21645515.2020.1747375
+
+													

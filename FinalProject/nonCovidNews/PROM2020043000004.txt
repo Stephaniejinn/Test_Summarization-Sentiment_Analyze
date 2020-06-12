@@ -1,0 +1,181 @@
+URL : https://promedmail.org/promed-post/?id=7282394
+ID : PROM2020043000004
+
+Date : 2020-04-29 21:41:14
+Title : PRO/PL> Xylella fastidiosa - new host species
+Ariticle : 
+XYLELLA FASTIDIOSA - NEW HOST SPECIES
+*************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Tue 28 Apr 2020
+Source: European Food Safety Authority (EFSA) [edited]
+https://www.efsa.europa.eu/en/news/xylella-37-new-plant-species-added-host-list
+Thirty-seven new plant species have been identified as hosts of the _Xylella fastidiosa_ pathogen. Most were naturally (not artificially) infected and were found both in EU countries (France, Italy, Portugal, and Spain) and non-EU countries (USA and Iran). The new hosts include common ornamental, wild, and commercial plants such as fleabane (_Erigeron_ sp.), _Helichrysum stoechas_, pistachio (_Pistacia vera_), and persimmon (_Diospyros kaki_). The newly identified hosts are included in the latest update of EFSA's database of hosts for _X. fastidiosa_. The list now comprises 595 plant species; for 343 of the species, infection has been identified by at least 2 detection methods under natural or experimental conditions.
+The update was completed following a comprehensive search of the latest scientific literature and notifications to the EU's plant health interception service Europhyt as well as results from EFSA's own horizon-scanning activities. Some existing data on _X. fastidiosa_ strains and geographical coordinates have been updated or modified to increase the accuracy and consistency of the database. The database provides essential evidence to scientists and risk assessors and supports risk managers in carrying out surveillance and other phytosanitary measures, such as inspections of plants for planting.
+[Methodology and data via:
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2020.6114
+ and
+https://www.efsa.europa.eu/en/microstrategy/xylella
+]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[_Xylella fastidiosa_ (Xf) clogs the xylem of plants, leading to wilting, necrosis, and often death. It causes many serious crop diseases such as Pierce's disease of grapevine; leaf scorch of coffee, almond, and  olive (also called 'olive quick decline syndrome'); peach phony disease; plum leaf scald; citrus variegated chlorosis; lucerne dwarf; and leaf scorch of a range of other woody species. Latent infections of wild species as potential pathogen reservoirs have also been reported. Several subspecies of Xf have been proposed, and more research is needed to determine their host range and risks to crops. Initially, all strains of _Xylella_ had been classified into a single species, but a 2nd species in the genus, _X. taiwanensis_, has recently been reported as the cause of a pear leaf scorch (see ProMED-mail post  
+20181022.6105629
+).
+Xf is spread by xylem-feeding insects, but also by grafting and with infected plant material. It is not seed borne. Moist conditions favour the vectors and, therefore, Xf-associated diseases. Disease management is difficult due to the large numbers of hosts and vectors and may include use of clean planting and grafting material, as well as vector control. Both the bacterium and its main vectors are of serious international quarantine concern and are currently considered the most serious threat to European grape and fruit production. Xf has been included on the A2 quarantine list of the European Plant Protection Organisation (EPPO).
+Xf had previously been reported mainly from the Americas. In Europe, it was reported in 2013 in olives from Italy (ProMED-mail posts  
+20131101.2033095
+,  
+20140820.2708739
+,  
+20140424.2425497
+), which was thought to be its 1st report in the region. However, evidence has subsequently been presented that national authorities were aware of the presence of Xf as early as 2004 (see link below). In Spain, reports from 2009 onwards of a "wood decay fungus" killing almond trees (ProMED-mail posts  
+20091022.3630
+,  
+20110907.2728
+) are now likely also to have been misdiagnosed outbreaks of Xf. Subsequent detection of multiple subspecies in a diversity of hosts, including some asymptomatic ornamentals, has suggested that some Xf strains have been present in the Mediterranean for a considerable amount of time. Unfortunately, a lack of diligence has resulted in failure to implement management options early on and is now leading to disastrous losses of valuable, slow-growing orchard trees.
+Maps
+Europe, overview:
+http://www.edinphoto.org.uk/0_MAPS/0_map_europe_political_2001_enlarged.jpg
+Pictures
+Xf leaf scorch on
+- olive:
+https://www.oliveoiltimes.com/wp-content/uploads/2016/04/xf-1200x900.jpg
+,
+http://www.kathysommerconsulting.com/images/xylella.jpg
+ and
+https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/infested_olive_trees_bacterium_xylella_fastidiosa_in_salento_c_adobestock_cesare_palma_250536421.jpeg?itok=NZk_hXqg
+- almond:
+https://d3qz1qhhp9wxfa.cloudfront.net/growingproduce/wp-content/uploads/2013/11/Almond-Leaf-Scorch-Web-300x225.jpg
+,
+http://thealmonddoctor.com/wp-content/uploads/2013/09/Leaf-Scorch-whole-tree.jpg
+ and
+https://d3qz1qhhp9wxfa.cloudfront.net/growingproduce/wp-content/uploads/2013/11/Almond-Leaf-Scorch-Web-300x225.jpg
+Pierce's disease of grapevine:
+http://3.bp.blogspot.com/-1N4_OQE1nv4/UPjFnDHyLLI/AAAAAAAAAa0/JwzuDY3N37g/s400/PD2.jpg
+,
+http://www.ag.auburn.edu/enpl/directory/faculty/delafuente/lab/multimedia/Fieldwork/images/Pierce%27s%20Disease.jpg
+,
+http://www.uky.edu/Ag/kpn/kpn_09/Images/063009%20Hartman%20Grape%20Pierce%27s%20disease-yng%20vines.JPG
+ and
+http://www.uky.edu/Ag/kpn/kpn_09/Images/063009%20Hartman%20Grape%20Pierce%27s%20disease-cv%20Mars.JPG
+Photo galleries of Xf vectors and symptoms on different hosts:
+https://gd.eppo.int/taxon/XYLEFA/photos
+, via
+https://www.ponteproject.eu/symptom-xylella/symptoms-xylella-fastidiosa-diseases-spain/
+ and
+http://www.forestryimages.org/browse/subimages.cfm?sub=647
+Links
+Additional news stories:
+https://www.bbc.com/news/science-environment-52360081
+,
+https://www.euroweeklynews.com/2020/04/17/spain-and-andalucia-in-particular-face-e17-billion-long-term-loss-as-disease-with-no-known-cure-attacks-olive-trees/
+,
+https://www.bbc.com/news/science-environment-52234561
+,
+https://www.hortweek.com/defra-cracks-down-xylella-risk-plants-severely-restricting-lavender-imports/ornamentals/article/1680415
+ (subscr.),
+https://www.telegraph.co.uk/news/2020/04/21/shortage-rosemary-lavender-imminent-import-ban-considered-disease/
+,
+https://www.edp24.co.uk/business/farming/defra-xylella-import-controls-welcomed-by-john-innes-centre-1-6617754
+ and
+https://www.natureworldnews.com/articles/43691/20200421/olive-oil-invasive-plant-bacterium-xylella-fastidiosa.htm
+_X. fastidiosa_ diseases, diagnosis and vector information:
+https://gd.eppo.int/taxon/XYLEFA
+,
+https://onlinelibrary.wiley.com/doi/full/10.1111/epp.12469
+,
+http://www.ncbi.nlm.nih.gov/pubmed/12402083
+,
+http://edis.ifas.ufl.edu/in174
+,
+https://phys.org/news/2019-07-glimmer-italy-olive-tree-leprosy.html
+ (resistance),
+http://www.kathysommerconsulting.com/xyella.htm
+ (on olive) and
+http://thealmonddoctor.com/2013/09/26/almond-leaf-scorch-2/
+ (on almond)
+Xf strains and host range:
+https://bsppjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ppa.12696
+,
+https://link.springer.com/article/10.1007%2Fs10658-019-01736-9
+,
+http://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-11-14-0322-FI
+ and
+http://mic.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000068#tab2
+Xf in Europe:
+https://www.courthousenews.com/court-finds-italy-failed-in-fight-against-olive-tree-disease/
+,
+https://www.pnas.org/content/117/17/9250
+ (impact),
+https://www.eppo.int/ACTIVITIES/plant_quarantine/shortnotes_qps/shortnotes_xylella
+ (summary of strains in different areas),
+https://www.ponteproject.eu/featured-bibliography/collection-of-data-and-information-on-biology-and-control-of-vectors-of-xylella-fastidiosa/
+,
+https://www.nature.com/articles/s41598-017-17957-z
+ (ssp. _pauca_ Italy) and
+https://ec.europa.eu/food/sites/food/files/plant/docs/ph_biosec_legis_emergency_db-host-plants_update11.pdf
+Xf resources and information via:
+http://www.cnr.berkeley.edu/xylella/
+_X. fastidiosa_ taxonomy and strains:
+http://www.uniprot.org/taxonomy/2371
+EPPO A2 quarantine list:
+http://www.eppo.org/QUARANTINE/listA2.htm
+Europhyt:
+https://ec.europa.eu/food/plant/plant_health_biosecurity/europhyt_en
+- Mod.DHA] 
+See Also
+2019
+----
+Xylella, olive - France: (PR)  
+20190909.6663917
+Xylella, almond - Israel: 1st rep  
+20190708.6556871
+Xylella, lavender - Portugal: 1st rep (PO)  
+20190114.6258392
+2018
+----
+Xylella, coffee - Netherlands: 1st rep, (ZH)  
+20181105.6128308
+Xylella, olive - Belgium ex Spain  
+20181022.6105629
+Xylella, almond - Spain: (VC)  
+20180107.5543777
+2017
+----
+Xylella, almond - Spain: (PM)  
+20171017.5385165
+Xylella, grapevine - Spain: (PM)  
+20170914.5315200
+Xylella, ornamental hosts - Czech & Slovak Republics ex Spain, susp.  
+20170406.4953747
+2016
+----
+Xylella, cherry - Spain (02): (IB) grapevine strain  
+20161208.4685744
+Xylella, cherry - Spain: 1st rep (PM)  
+20161125.4653479
+Xylella grapevine strain, oleander - Europe: 1st rep (Germany)  
+20160802.4387487
+2015
+----
+Xylella, unidentified host - France: (Corsica)  
+20150727.3538734
+Xylella, coffee strain - France: 1st rep (Paris)  
+20150422.3313661
+2014
+----
+Xylella leaf scorch, olive - Argentina  
+20141027.2904524
+Xylella leaf scorch, olive & almond - Europe (02): (southern)  
+20140820.2708739
+Xylella leaf scorch, olive & almond - Europe: (southern) alert  
+20140424.2425497
+and older items in the archives
+.................................................sb/dha/tw/ml

@@ -1,0 +1,19 @@
+URL : https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=34186
+ID : WAHI2020050100001
+
+Date : 2020-04-30 00:00:00
+Title : Foot and mouth disease,Algeria
+Ariticle : 
+Information received on 30/04/2020 from Dr Ahmed Chawki El Karim Boughalem, Directeur des Services Vétérinaires, Direction des Services Vétérinaires,         	Ministère de l’Agriculture, du Développement Rural et de la Pêche, Alger, Algeria
+Report type:Follow-up report No. 42
+Date of start of the event:20/06/2018
+Date of confirmation of the event:22/06/2018
+Report date:30/04/2020
+Date submitted to OIE:30/04/2020
+Reason for notification:Recurrence of a listed disease
+Date of previous occurrence:03/05/2015
+Manifestation of disease:Clinical disease
+Causal agent:Foot and mouth disease virus
+Serotype:O
+Nature of diagnosis:Clinical, Laboratory (advanced)
+This event pertains to:a defined zone within the country

@@ -1,0 +1,12 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006887716
+ID : GPHN2020050100262
+
+Date : 2020-04-24 13:00:00
+Title : Infection Rate Up Prior to Detection of Malignant Cancer
+Ariticle : 
+(HealthDay News) — The rate of infection with influenza, gastroenteritis, hepatitis, and pneumonia is increased before detection of malignant cancer, according to a study published online in Cancer Immunology Research.
+Shinako Inaida, PhD, from Kyoto University in Japan, and Shigeo Matsuno, PhD, from the Biomedical Science Association in Tokyo, conducted a 7-year case-control study of people aged ≥30 years to examine the prevalence of influenza, gastroenteritis, hepatitis, and pneumonia infections and their association with malignant cancer formation. Data were included from 2354 people with their first cancer diagnosis in the seventh year and a control group of 48,395 people with no cancer diagnosis by the seventh year.
+The researchers found that throughout the study period, there was an increase in the yearly prevalence rates of influenza, gastroenteritis, hepatitis, and pneumonia infections. One year before cancer detection, the age-adjusted odds ratios were significantly higher for influenza, gastroenteritis, hepatitis, pneumonia, and any of these diseases (1.29, 1.60, 3.38, 2.36, and 1.55, respectively). Significant odds ratios were only found in the second and sixth years before cancer diagnosis for influenza. An increased rate of infection prior to cancer diagnosis was observed for each cancer site.
+“Our data suggest that immune suppression and increased infection could occur during the precancer period,” the authors write. “Further studies are needed to clarify these precancer trends.”
+Reference
+Inaida S and Matsuno S. Previous Infection Positively Correlates to the Tumor Incidence Rate of Patients with Cancer. Canc Immuno Res. doi: 10.1158/2326-6066.CIR-19-0510

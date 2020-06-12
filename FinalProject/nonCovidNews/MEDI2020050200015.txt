@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050200015
+
+Date : 2020-05-02 00:00:00
+Title : Sri Lanka: Warnings of possible dengue surge with onset of rainy season
+Ariticle : 
+Disease:Dengue
+Time:2020
+Location:Sri Lanka
+Cases:18,835 dengue fever cases
+Description:Sri Lanka: Warnings of possible dengue surge with onset of rainy season
