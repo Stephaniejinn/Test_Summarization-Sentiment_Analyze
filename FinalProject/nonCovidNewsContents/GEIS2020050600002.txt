@@ -1,0 +1,166 @@
+URL : https://health.mil/News/Articles/2020/03/01/Incidence-of-Sexually-Transmitted-Infections-MSMR-2020
+ID : GEIS2020050600002
+
+Date : 2020-03-01 12:00:00
+Title : Incidence of Sexually Transmitted Infections Before and After Insertion of an Intrauterine Device or Contraceptive Implant, Active Component Service Women, U.S. Armed Forces, 2014–2019
+Ariticle : 
+		Recommended Content:	
+Long-acting reversible contraceptive (LARC) use has been increasing for almost 2 decades; however, while LARC methods are highly effective at preventing pregnancies, they do not prevent sexually transmitted infections (STIs). As a result, there is concern that the increased use of LARCs could lead to increased risk for STIs through sexual risk behaviors such as reduced condom use. Between 1 January 2015 and 31 December 2018, 18,691 service women in the study population received an intrauterine device (IUD) and 17,723 received an implant. Among active component service women who received an IUD or implant and maintained the same marital status during the study period, there was no notable increase in incidence of STIs in the 12 months after LARC insertion when compared to the 12 months before insertion. However, findings did show that rates of STIs increased from the LARC pre-insertion period to the post-insertion period among women in the youngest age category, suggesting that risk-reduction counseling and educational efforts should be focused on the youngest service members who receive LARC.
+In general, among service women who began using LARC (an IUD or a contraceptive implant), incidence rates of STIs did not increase from the year before to the year after insertion. However, rates of STIs did increase after LARC insertion among women who were less than 20 years of age at the time of insertion.
+Because STIs can negatively affect service members’ readiness and cause serious medical sequelae, the results of the study suggest that providers should emphasize to younger service women that LARC methods do not protect against STIs. Sexually active service members should be counseled that, for the prevention of STIs, condoms should be used along with LARCs.
+Long-acting reversible contraceptive (LARC) use, including subdermal hormonal implants and intrauterine devices (IUDs), has been increasing for almost 2 decades, from 1.5–2.5% of U.S. women of childbearing age in the early 2000s
+1,2
+ to 10.3–14.3% between 2009 and 2015.
+3–6
+ IUDs initially fell out of favor when a design flaw in an early brand resulted in the deaths of 6 women and infections in thousands more,
+7
+ but newer types have been found to be long-lasting, efficacious, and safe.
+1,8
+ Rates of use vary by subgroup, with women in their 20s and 30s
+1,3-5 
+and those with a higher parity
+1,2
+ more likely to use a LARC method than their respective counterparts.
+Among active component service women, a prior
+ MSMR
+ analysis indicated that LARC use increased from 17.2% to 21.7% between 2012 and 2016, mirroring the increasing trend observed in the general population.
+9 
+LARC use among active component service women was most common among those aged 25–29 years,
+9,10
+ although an increase was seen across all age groups.
+9
+As in the civilian population, this increase is most likely related to the efficacy, longevity, and ease of use of LARCs. However, LARCs may have an additional appeal to female service members because of the ability of some LARCs to suppress menstruation,
+7,8,11
+ which may be advantageous in military operational environments.
+While LARC methods are highly effective at preventing pregnancies, they do not prevent sexually transmitted infections (STIs). The increasing use of LARCs as an effective pregnancy prevention method has generated concern that their increased use both in U.S. civilian and military populations could increase risk for STIs through reduced use of condoms and increased high-risk behaviors, such as increased number of sexual partners. While some studies have reported lower rates of condom use among LARC users compared to women using other non-barrier contraceptive methods
+12–16
+ (particularly oral contraceptives
+15
+) and higher rates of STIs,
+13
+ others studies showed no difference in condom use between LARC users and users of the Depo-Provera injection, the patch, or the ring.
+17
+ Factors such as relationship status and number of partners may be related to dual-method use (i.e., use of both condoms and hormonal methods),
+16,18
+ as LARC users with a new partner
+19
+ and those with multiple partners
+18
+ have been shown to be more likely to report condom use than those without. Data from the contraceptive CHOICE project, a prospective cohort study of over 9,000 women who were offered the contraceptive method of their choice at no cost for 2–3 years, indicated that there was no difference in condom use or the number of partners before and after uptake of LARC.
+13,20
+ In addition, a recent systematic review reported no evidence of an association between LARC use and STIs, although the review noted a lack of prospective studies analyzing the relationship between contraceptive use and STI risk.
+21
+A recent 
+MSMR
+ study showed that although the incidence of human papillomavirus (HPV) and genital herpes simplex virus (HSV) infections decreased among female service members during 2010–2018, the incidence of chlamydia and gonorrhea, the 2 most common bacterial STIs, increased,
+22
+ mirroring overall trends in the general U.S. population.
+23 
+STIs can negatively affect service members’ readiness and cause serious medical sequelae if untreated. Given the high, sustained burden of STIs and the uncertainty regarding the association between LARC use and STI risk among military service members, the objective of this analysis was to determine whether LARC initiation was associated with increased incidence of STIs among active component service women between 1 January 2015 and 31 December 2018.
+The surveillance population consisted of all active component service women of the Army, Navy, Marine Corps, or Air Force who received an IUD or implant between 1 January 2015 and 31 December 2018. Data for this study were ascertained from medical administrative and pharmacy data, as well as reports of notifiable medical events, routinely provided to the Armed Forces Health Surveillance Branch and maintained in the Defense Medical Surveillance System (DMSS) for surveillance purposes. STI cases were also derived from positive laboratory records in the Health Level 7 (HL7) chemistry and microbiology databases maintained by the Navy and Marine Corps Public Health Center at the EpiData Center.
+Service women who received an IUD were identified as those who met any of the following criteria: 1) received a prescription for Mirena, Kyleena, Skyla, Paragard, or Liletta; 2) had a qualifying International Classification of Diseases, 9th or 10th Revision (ICD-9 or ICD-10, respectively) diagnosis code for IUD insertion 
+(Table 1)
+ in any diagnostic position; or 3) had a qualifying inpatient procedure code or outpatient Current Procedural Terminology (CPT) code for IUD insertion
+ (Table 1)
+ in any recorded position. Similarly, women who received an implant were identified as those who 1) received a prescription for Nexplanon or Implanon, 2) had a qualifying ICD-9 or ICD-10 diagnosis code for implant insertion
+ (Table 1)
+ in any diagnostic position, or 3) had a qualifying outpatient CPT code for implant insertion 
+(Table 1
+) in any recorded position. Only the first documented insertion of each contraceptive type during the surveillance period was retained. If a woman had both an IUD and implant insertion during the study period, she was included in both groups.
+Women were excluded from the IUD study population if they had an ICD-9 or ICD-10 diagnosis code or outpatient CPT code indicating IUD removal in the 12 months before or after the IUD insertion date
+ (Table 2)
+. Similarly, women were excluded from the implant study population if they had an outpatient CPT code indicating implant removal in the 12 months before or after the implant insertion date 
+(Table 2)
+. Women were excluded from the study population if they did not have continuous active component service time during the 12 months before or after the IUD or implant insertion. In addition, women were excluded if they changed their marital status at any time during the 12 months before or after the IUD or implant insertion.
+Time-varying demographic and military characteristics including age, grade, service, military occupation, marital status, and education were measured at the time of the IUD or implant insertion. Receipt of short-acting reversible contraceptives (SARCs) was measured separately during the 12-month period before IUD or implant insertion and the 12-month period after IUD or implant insertion. Oral contraceptives, patches, and vaginal rings were defined by having a prescription record with therapeutic class code 681200 and a corresponding drug form code.
+24 
+Injectables were defined by having a prescription record for Depo-Provera or medroxyprogesterone acetate.
+Incidence rates of STIs were measured during the period from 12 months to 1 month before IUD or implant insertion and in the 1 month to 12 months following IUD or implant insertion (full surveillance period: 1 January 2014–31 December 2019). A 30-day washout period before and after the IUD or implant insertion was used to account for any additional STI testing or short-term behavioral change that may have occurred during that period. An incident case of chlamydia, gonorrhea, or trichomoniasis was defined by having any of the following: 1) a case-defining diagnosis 
+(Table 2)
+ in the first or second diagnostic position of a record of an outpatient or in-theater medical encounter, 2) a confirmed notifiable disease report (applies only to chlamydia and gonorrhea), or 3) a positive laboratory test for any specimen source or test type. An individual could be counted as having a subsequent case only if there were more than 30 days between the dates on which the case-defining diagnoses were recorded. Incidence rates of STIs during the pre- and post-insertion periods were calculated per 1,000 service women. Crude confidence intervals were calculated in SAS/STAT software, version 9.4 (2014, SAS Institute, Cary, NC) using PROC GENMOD.
+During the study period, 18,691 service women who met inclusion criteria received an IUD and 17,723 received an implant
+ (Table 3)
+. Most of the women who received an IUD were aged 20–24 years (32.8%) or 25–29 years (26.2%). Half of the women who received an IUD were non-Hispanic white, and more than half were single and never married (54.0%) and had a high school education or less (59.0%). Women who received an IUD were more likely to be in the Navy (35.8%), junior enlisted rank (52.0%), and in communications/intelligence occupations (27.9%). A little less than half (44.2%) of women were using any type of SARC before IUD insertion, which dropped to 12.2% after IUD insertion. The most commonly dispensed SARC in the pre- and post-IUD insertion periods were oral contraceptives (34.4% and 10.0%, respectively).
+Most of the women who received an implant were aged 20 years or less (41.9%) or 20–24 years (33.5%). Women with implants were predominantly non-Hispanic white (40.5%), single and never married (74.3%), and had a high school education or less (80.0%). Similar to those who received an IUD, women who received an implant were more likely to be in the Navy (42.9%) and junior enlisted rank (78.6%). Before implant insertion, a little more than one-third (34.7%) of women used any type of SARC, which dropped to 13.1% after implant insertion. The most commonly dispensed SARC in the pre- and post-implant insertion periods were oral contraceptives (25.2% and 11.7%, respectively).
+Among women in the study population who received an IUD, the incidence rates of chlamydia, gonorrhea, and trichomoniasis were generally similar before and after IUD insertion, although rates of chlamydia and gonorrhea increased slightly 
+(Table 4)
+. Incidence rates of chlamydia were 42.5 per 1,000 women before IUD insertion (n=795) and 44.1 per 1,000 women after insertion (n=825). Incidence rates of gonorrhea were 3.3 per 1,000 women (n=62) before insertion and 4.4 per 1,000 women after insertion (n=82). Incidence rates of trichomoniasis remained the same before and after IUD insertion (2.8 per 1,000 [n=53] and 2.8 per 1,000 [n=52], respectively). Taken together, the incidence of any of the 3 STIs was 48.7 per 1,000 before IUD insertion and 51.3 per 1,000 after IUD insertion (incidence rate ratio [IRR]=1.05; 95% confidence interval [CI]: 0.95–1.16).
+Among women in the study population who received an implant, the incidence rate of chlamydia increased slightly, the rate of gonorrhea decreased slightly, and the rate of trichomoniasis remained similar before and after implant insertion 
+(Table 5)
+. Incidence rates of chlamydia were 65.2 per 1,000 before implant insertion (n=1,155) and 68.2 per 1,000 after insertion (n=1,209). Incidence rates of gonorrhea were 5.5 per 1,000 women (n=97) before insertion and 4.4 per 1,000 after insertion (n=78). Incidence rates of trichomoniasis were 3.2 per 1,000 before implant insertion (n=56) and 3.2 per 1,000 after implant insertion (n=57). Taken together, the incidence of any of the 3 STIs was 73.8 per 1,000 before implant insertion and 75.8 per 1,000 after implant insertion (IRR=1.03; 95% CI: 0.95–1.12).
+The incidence rates of any STI after IUD or implant insertion compared to before insertion varied by subgroup. Among women who were less than 20 years of age at the time of IUD or implant insertion, there was an increase in the rate of STIs after insertion, while women in all other age groups showed a decrease or no change in rates. Women who were less than 20 years of age at the time of LARC insertion had 1.61 times the rate of any STI infection after IUD insertion compared to before insertion (95% CI: 1.37–1.89) and 1.38 times the rate of any STI infection after implant insertion compared to before insertion (95% CI: 1.24–1.54) 
+(Tables 6 and 7)
+.
+This study demonstrated that among active component service women who received an IUD or implant and maintained the same marital status during the study period, there was not a notable increase in incidence of STIs from the year before insertion to the year after insertion. This finding suggests that there is not a significant change in sexual risk behaviors among service women overall from before to after receiving an IUD or implant. While the current analysis is unable to ascertain the reasons for this finding, it could be that the number of partners for women choosing a LARC method did not change pre- and post-insertion and/or that LARC users with new or multiple partners increased or continued condom use, as suggested by some previous studies.
+13,18–20
+ However, the finding that rates did increase from pre- to post-IUD and implant insertion among women in the youngest age category suggests that risk-reduction counseling and educational efforts should be focused on the youngest service members who receive LARC. This is particularly important given that service women in the youngest age categories have the highest numbers of self-reported sexual risk behaviors, including numbers of new and multiple sexual partners.
+25
+ Providers who prescribe LARCs to young service women should emphasize that they do not protect against STIs and that condoms should continue to be used in addition to their contraceptive method of choice.
+Overall rates of chlamydia and gonorrhea among women who received an IUD were approximately similar to rates observed in the overall female active component population.
+22
+ In contrast, overall rates of chlamydia and gonorrhea among women who received an implant were somewhat higher; however, women who received an implant were more likely to be younger and single and never married as compared with women who received an IUD, and these are known risk factors for STIs in the overall active component female population.
+22
+ It is worth mentioning that, historically, there has been concern regarding whether IUDs increase the risk of pelvic inflammatory disease (PID) among women with STIs; however, studies have indicated that the risk for PID among women who screened positive for chlamydia or gonorrhea and underwent concurrent IUD insertion is low,
+8,14
+ and current guidelines from the Centers for Disease Control and Prevention and the American College of Obstetricians and Gynecologists state that insertion should not be delayed while awaiting STI screening results.
+8,26
+When the barriers to access are removed, women tend to choose LARC methods over other methods.
+13,20
+ LARC use has been shown to be increasing among service women and this trend will likely continue as both a method of pregnancy prevention and also potentially for menstrual suppression, which has operational benefits.
+9,11
+ One survey-based study of 500 Army women indicated that the majority (85%) expressed a desire to learn more about contraceptive options for menstrual suppression.
+27 
+Similarly, a recent article discussing menstrual suppression among female astronauts on longer missions also highlighted the benefits of some LARC methods in environments where menstrual suppression is beneficial.
+28
+ One LARC option for menstrual suppression is the use of levonorgestrel-releasing IUDs for longer than 12 months, which has been shown to substantially reduce the volume of menstrual blood, with 20% of women achieving amenorrhea.
+29
+There are several limitations of this analysis to consider. The study intended to measure whether risk for STIs changed after IUD or implant insertion as a result of a hypothesized increase in sexual risk behaviors such as reduced use of condoms. However, data on sexual risk behaviors including number and type of sexual partners and condom usage were unavailable. Women were excluded from the population if their marital status changed after IUD or implant insertion, which was done to eliminate the potential confounding effect of a significant change in sexual partner status during the observation periods. Because this study utilized a self-controlled case series design in which the same women comprised the “before” and “after” IUD or implant population, nontime-varying covariates such as race/ethnicity are controlled for in the study design.
+30
+ However, changes in other demographic or military characteristics such as service branch, occupation, and rank in the year before and after IUD or implant insertion were not accounted for, although it is unlikely that these characteristics would change significantly to affect sexual risk behaviors over the course of the 2-year surveillance period for the majority of the study population.
+Providers should continue to recommend LARCs to service women who ask for them. However, providers should also continue to emphasize that LARC methods do not protect against STIs and recommend that condoms be used along with LARCs, especially for younger female service members. No additional STI screening is needed before IUD insertion, and IUDs can be inserted at the time of screening.
+8,26
+ More information about sexual health and LARCs, including clinician training resources, is available through the Navy and Marine Corps Public Health Center’s Sexual Health and Responsibility Program (SHARP) at 
+https://www.med.navy.mil/sites/nmcphc/health-promotion/reproductive-sexual-health/Pages/larc.aspx
+.
+1. Branum AM, Jones J. Trends in long-acting reversible contraception use among U.S. women aged 15–44. NCHS Data Brief. 2015;188:1–8.
+2. Finer LB, Jerman J, Kavanaugh ML. Changes in use of long-acting contraceptive methods in the United States, 2007–2009. Fertil Steril. 2012;98(4):893–897.
+3. Daniels K, Abma JC. Current contraceptive status among women aged 15–49: United States, 2015–2017. NCHS Data Brief. 2018;327:1–8. 
+4. Guttmacher Institute. Contraceptive use in the United States. 
+https://www.guttmacher.org/factsheet/contraceptive-use-united-states
+. Accessed 15 November 2019.
+5. Kavanaugh ML, Jerman J, Finer LB. Changes in use of long-acting reversible contraceptive methods among U.S. women, 2009–2012. Obstet Gynecol. 2015;126(5):917–927.
+6. Kavanaugh ML, Jerman J. Contraceptive method use in the United States: trends and characteristics between 2008, 2012 and 2014. Contraception. 2018;97(1):14–21.
+7. Shoupe D. LARC method: entering a new age of contraception and reproductive health. Contracept Reprod Med.2016;1:4.
+8. Committee on Practice Bulletins-Gynecology, Long-Acting Reversible Contraception Work Group. Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices. Obstet Gynecol. 2017;130(5):e251-e269.
+9. Stahlman S, Witkop CT, Clark LL, Taubman SB. Contraception among active component service women, U.S. Armed Forces, 2012–2016. MSMR. 2017;24(11):10–21.
+10. Witkop CT, Webber BJ, Chu KM, Clark LL. Contraception use among U.S. servicewomen: 2008–2013. Contraception. 2017;96(1):47–53.
+11. Christopher LA, Miller L. Women in war: operational issues of menstruation and unintended pregnancy. Mil Med. 2007;172(1):9–16.
+12. El Ayadi AM, Rocca CH, Kohn JE, et al. The impact of an IUD and implant intervention on dual method use among young women: Results from a cluster randomized trial. Prev Med. 2017;94:1–6.
+13. McNicholas CP, Klugman JB, Zhao Q, Peipert JF. Condom use and incident sexually transmitted infection after initiation of long-acting reversible contraception. Am J Obstet Gynecol. 2017:217(6);672.e1–672.e6.
+14. Birgisson NE, Zhao Q, Secura GM, Madden T, Peipert JF. Positive testing for Neisseria gonorrhoeae and Chlamydia trachomatis and the risk of pelvic inflammatory disease in IUD users. J Womens Health (Larchmt). 2015;24(5):354–359.
+15. Eisenberg DL, Allsworth JE, Zhao Q, Peipert JF. Correlates of dual-method contraceptive use: an analysis of the National Survey of Family Growth (2006–2008). Infect Dis Obstet Gynecol. 2012.
+ https://www.hindawi.com/journals/idog/2012/717163/
+. Accessed 02 March 2020.
+16. Thompson EL, Vamos CA, Griner SB, Logan R, Vázquez-Otero C, Daley EM. Sexually transmitted infection prevention with long-acting reversible contraception: factors associated with dual use. Sex Transm Dis. 2018;45(4):e19.
+17. Steiner RJ, Liddon N, Swartzendruber AL, Rasberry CN, Sales JM. Long-acting reversible contraception and condom use among female US high school students: implications for sexually transmitted infection prevention. JAMA Pediatr. 2016;170(5):428–434.
+18. Williams RL, Fortenberry JD. Dual use of long-acting reversible contraceptives and condoms among adolescents. J Adolesc Health. 2013;52(4 suppl):s29–34.
+19. Bastow B, Sheeder J, Guiahi M, Teal S. Condom use in adolescents and young women following initiation of long- or short-acting contraceptive methods. Contraception. 2018;97(1):70–75.
+20. McNicholas C, Madden T, Secura G, Peipert JF. The contraceptive CHOICE project round up: what we did and what we learned. Clin Obstet Gynecol. 2014;57(4):635–643.
+21. Deese J, Pradhan S, Goetz H, Morrison C. Contraceptive use and the risk of sexually transmitted infection: systematic review and current perspectives. Open Access J Contracept. 2018;9:91–112.
+22. Stahlman S, Seliga N, Oetting AA. Sexually transmitted infections, active component, U.S. Armed Forces, 2010–2018. MSMR. 2019;26(3):2–10.
+23. Centers for Disease Control and Prevention. Sexually transmitted disease surveillance 2018. 
+https://www.cdc.gov/std/stats18/default.htm
+. Accessed 12 February 2020.
+24.Executive Office of Health and Human Services, State of Rhode Island. Dose form reference guide. 
+http://www.eohhs.ri.gov/Portals/0/Uploads/Documents/Pharmacy/dose_form_ref_guide.pdf
+. Accessed 18 February 2020. 
+25. Meadows S, Engel CC, Collins RL, et al. 2015 Department of Defense Health Related Behaviors Survey (HRBS). Rand Health Q. 2018;8(2):5.
+26. Centers for Disease Control and Prevention. US selected practice recommendations for contraceptive use, 2016. Intrauterine contraception. 
+https://www.cdc.gov/reproductivehealth/contraception/mmwr/spr/intrauterine.html. Accessed 18 February 2020
+.
+27. Powell-Dunford NC, Cuda AS, Moore JL, Crago MS, Kelly AM, Deuster PA. Menstrual suppression for combat operations: advantages of oral contraceptive pills. Womens health issues. 2001;21(1):86–91.
+28. Jain V, Wotring VE. Medically induced amenorrhea in female astronauts. NPJ Microgravity. 2016;2:16008.
+29. Andersson K, Odlind V, Rybo G. Levonorgestrel-releasing and copper-releasing (Nova T) IUDs during five years of use: a randomized comparative trial. Contraception. 1994;49(1):56–72.
+30. Petersen I, Douglas I, Whitaker H. Self controlled case series methods: an alternative to standard epidemiological study designs. BMJ. 2016;354:i4515.
+
+

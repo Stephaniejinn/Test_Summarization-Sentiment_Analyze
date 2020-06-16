@@ -1,0 +1,66 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/immunity/856537-hum-vaccin-immunother-lower-influenza-specific-cell-mediated-immune-responses-in-individuals-with-atopic-dermatitis-compared-with-healthy-controls
+ID : FLUT2020050200127
+
+Date : 2020-05-02 11:34:19
+Title : Hum Vaccin Immunother. Lower influenza-specific cell-mediated immune responses in individuals with atopic dermatitis compared with healthy controls
+Ariticle : 
+																							
+
+Hum Vaccin Immunother.
+ 2020 Apr 29:1-9. doi: 10.1080/21645515.2020.1747374. [Epub ahead of print]
+
+Lower influenza-specific cell-mediated immune responses in individuals with atopic dermatitis compared with healthy controls.
+
+
+
+Jalbert E
+1
+, 
+Lussier S
+2
+, 
+Johnson MJ
+1
+, 
+Jepson B
+2
+, 
+Calatroni A
+2
+, 
+David G
+2
+, 
+Leung D
+3
+, 
+Weinberg A
+1
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+In a sub-study of a clinical trial (
+NCT01737710
+) investigating the immunogenicity of trivalent inactivated influenza vaccine (IIV3) administered intradermally or intramuscularly to individuals with atopic dermatitis (AD), we assessed T cell and antigen-presenting cell (APC) responses to influenza B in AD and Non-AD controls. The comparison of IFN-γ ELISpot in 58 AD and 31 Non-AD showed lower responses in AD pre-vaccination. Pre-vaccination, AD also had lower Th2 responses and less inflammatory cytokine production by APC measured by flow cytometry and cytokine levels in culture supernatants. AD also had lower Th1 and Th2 responses to nonspecific anti-CD3/anti-CD28-stimulation, but these were not significantly correlated with the influenza-specific responses, suggesting a primary role for the APC in the decreased influenza-specific T cell responses. Multivariate modeling of influenza-specific responses pre-vaccination with influenza-specific antibody titers and IFN-γ ELISpot as outcome measures identified several T cell and APC subsets that negatively or positively predicted protective responses to the vaccine. However, none of the functional differences between AD and Non-AD had high predictive value on adaptive responses to influenza vaccine, which was in agreement with the overall similar responses to the vaccine in the parent clinical trial.
+
+
+
+
+KEYWORDS:
+
+Influenza vaccine; T cells; antibodies; antigen presenting cells; atopic dermatitis
+
+
+PMID:32347777DOI:
+10.1080/21645515.2020.1747374
+
+
+													

@@ -1,0 +1,114 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/viral-mechanisms/856541-genome-biol-influenza-infection-elicits-an-expansion-of-gut-population-of-endogenous-bifidobacterium-animalis-which-protects-mice-against-infection
+ID : FLUT2020050200123
+
+Date : 2020-05-02 11:44:38
+Title : Genome Biol. Influenza infection elicits an expansion of gut population of endogenous Bifidobacterium animalis which protects mice against infection
+Ariticle : 
+																							
+
+Genome Biol.
+ 2020 Apr 28;21(1):99. doi: 10.1186/s13059-020-02007-1.
+
+Influenza infection elicits an expansion of gut population of endogenous Bifidobacterium animalis which protects mice against infection.
+
+
+
+Zhang Q
+1
+, 
+Hu J
+1
+, 
+Feng JW
+2
+, 
+Hu XT
+1
+, 
+Wang T
+1
+, 
+Gong WX
+1
+, 
+Huang K
+1
+, 
+Guo YX
+2
+, 
+Zou Z
+1
+, 
+Lin X
+1
+, 
+Zhou R
+2
+, 
+Yuan YQ
+3
+, 
+Zhang AD
+1,
+4,
+5
+, 
+Wei H
+1
+, 
+Cao G
+1
+, 
+Liu C
+6
+, 
+Chen LL
+7
+, 
+Jin ML
+8,
+9,
+10
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+
+BACKGROUND:
+
+Influenza is a severe respiratory illness that continually threatens global health. It has been widely known that gut microbiota modulates the host response to protect against influenza infection, but mechanistic details remain largely unknown. Here, we took advantage of the phenomenon of lethal dose 50 (LD
+50
+) and metagenomic sequencing analysis to identify specific anti-influenza gut microbes and analyze the underlying mechanism.
+
+RESULTS:
+
+Transferring fecal microbes from mice that survive virulent influenza H7N9 infection into antibiotic-treated mice confers resistance to infection. Some gut microbes exhibit differential features to lethal influenza infection depending on the infection outcome. Bifidobacterium pseudolongum and Bifidobacterium animalis levels are significantly elevated in surviving mice when compared to dead or mock-infected mice. Oral administration of B. animalis alone or the combination of both significantly reduces the severity of H7N9 infection in both antibiotic-treated and germ-free mice. Functional metagenomic analysis suggests that B. animalis mediates the anti-influenza effect via several specific metabolic molecules. In vivo tests confirm valine and coenzyme A produce an anti-influenza effect.
+
+CONCLUSIONS:
+
+These findings show that the severity of influenza infection is closely related to the heterogeneous responses of the gut microbiota. We demonstrate the anti-influenza effect of B. animalis, and also find that the gut population of endogenous B. animalis can expand to enhance host influenza resistance when lethal influenza infection occurs, representing a novel interaction between host and gut microbiota. Further, our data suggest the potential utility of Bifidobacterium in the prevention and as a prognostic predictor of influenza.
+
+
+
+
+KEYWORDS:
+
+Anti-influenza effect; Bifidobacterium animalis; Gut microbiome; Heterogeneous response; Influenza; LD50; Prognosis predictor
+
+
+PMID:32345342PMCID:
+PMC7187530
+DOI:
+10.1186/s13059-020-02007-1
+
+Free PMC Article
+
+													

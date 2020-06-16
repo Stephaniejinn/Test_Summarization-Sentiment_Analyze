@@ -1,0 +1,42 @@
+URL : https://allafrica.com/stories/202005041028.html
+ID : ALFR2020050500018
+
+Date : 2020-05-04 00:00:00
+Title : Africa: Could Kenyan Research Point Towards Malaria Breakthrough?
+Ariticle : 
+Washington, DC — Today the open-access journal 
+Nature
+ 
+published results
+ of a promising study on a potential way to block the malaria parasite from infecting mosquitoes that transmit malaria through a naturally occurring microbe.
+Researchers at the 
+International Centre of Insect Physiology and Ecology
+ (Icipe) in Kenya and the University of Glasgow in the UK "
+have identified a microbe in malaria mosquitoes that is capable of blocking
+ 
+transmission of the disease from the insects to people", Icipe said in
+ a statement
+ published on its website.
+The findings are big news, because malaria remains a disease that kills nearly half a million people annually, most of them children in sub-Saharan Africa. A vaccine remains an elusive target so far, and previous research on blocking malaria parasites have been far less encouraging. 
+"In contrast", the researchers found "high levels of impairment of P. falciparum transmission were observed" for the microbe called 
+Microsporidia MB
+.
+The scientists operating from Icipe discovered that the naturally occurring microbe they found in a percentage of mosquitoes in high-malaria areas of western Kenya can completely block transmission of the Plasmodium malaria parasite in mosquitoes – meaning those mosquitoes cannot infect people.
+"We were excited to find that the 
+Microsporidia MB
+ symbiont is transmitted from mother mosquitoes to their offspring, and that the microbe does not compromise the ability of mosquitoes to survive," adds Lilian Mbaisi, a Kenyan scholar who was involved in the study, as part of her MSc research at 
+icipe
+, registered at the University of Nairobi."
+People who slather their bare skins with toxic mosquito repellents to avoid being infected with serious mosquito-borne diseases might wonder why the researchers note approvingly that 
+Microsporidia MB
+ does not harm the host mosquito. But mosquitoes are part of the food eco-system of other species, including birds and fish.
+Intentionally infecting more mosquitoes with a microbe that some of them already harbour will be less controversial – perhaps with fewer unforeseen consequences - than with other pathogens that may block Plasmodium transmission. This opens the way to various methods of spreading the microbe among mosquito populations, including mass spraying of mosquito populations.
+Insecticide-treated bednets have been a first-line defense against malaria in Africa – reducing deaths substantially, but they must cover every person at risk of malaria to be effective, and they must be replaced regularly, posing large financial and logistical obstacles.
+As the study published in Nature says:
+"The malaria disease burden remains a major impediment to economic development over many regions of sub-Saharan Africa. Large-scale insecticide treated net (ITN) distribution campaigns over the previous 15 years have reduced malaria cases by an estimated 40%. However, progress has plateaued; between 2014 and 2016 global incidence remained essentially the same. This is a strong indication that current control measures are insufficient and additional novel strategies to control Anopheles mosquito populations or their capacity to transmit Plasmodium parasites are needed if we are to make further inroads in reducing malaria incidence."
+The study found that "the impairment of Plasmodium transmission combined with the key characteristics that will facilitate artiﬁcially elevating its population frequency, namely spore production that is likely to facilitate dissemination, efficient transovarial transmission and apparently non-virulent interactions with An. Arabiensis mosquitoes make 
+Microsporidia MB 
+a realistic candidate for a stable vector population replacement strategy."
+The conclusion, in cautious academic style: "As an unmodified, Anopheles-associated inherited endosymbiont, [
+Microsporidia MB
+] provides attractive prospects for malaria control." In lay terms, this could be a breakthrough.

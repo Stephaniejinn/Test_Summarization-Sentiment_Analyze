@@ -1,0 +1,118 @@
+URL : https://promedmail.org/promed-post/?id=7289035
+ID : PROM2020050200004
+
+Date : 2020-05-01 16:50:40
+Title : PRO/AH/EDR> Hepatitis E - China: (Hong Kong) human, rat virus
+Ariticle : 
+HEPATITIS E - CHINA: (HONG KONG) HUMAN, RAT VIRUS
+*************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Fri 1 May 2020 00:59 HKT
+Source: South China Morning Post [abridged, edited]
+https://www.scmp.com/news/hong-kong/health-environment/article/3082391/hong-kong-man-found-be-infected-rat-hepatitis-e
+Health authorities in Hong Kong have launched an investigation into a rare human case of rat hepatitis E virus involving a 61-year-old man who was infected by an undetermined source. The patient, who lives on a public housing estate in Aberdeen, was admitted to Queen Mary Hospital in Pok Fu Lam on 7 Apr 2020 for treatment of his underlying illnesses. Five days later, he was found to have abnormal liver functions.
+His condition improved, and he was transferred to Tung Wah Hospital for rehabilitation. His blood sample tested positive for the rat hepatitis E virus. It was the 2nd infection with the virus in 2020, after another case was recorded in January 2020. There were 6 cases in 2019.
+The Centre for Health Protection's investigations found neither rodents nor their droppings in the patient's home on Shek Pai Wan Estate. He also had no travel history during the incubation period. His home contacts remained asymptomatic. "Based on the available epidemiological information, the source and the route of infection could not be determined," a centre spokesman said on Thursday [30 Apr 2020].
+[Byline: Danny Mok]
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+[The following is the introduction from a 2018 report: Sridhar S, Yip CCY, Wu S, et al. Rat hepatitis E virus as cause of persistent hepatitis after liver transplant. Emerg Infect Dis. 2018; 24(12): 2241-50; 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6256372/pdf/18-0937.pdf
+. The references can be seen at the original URL.
+"Hepatitis E virus (HEV) infects 20 million humans worldwide annually (1). HEV-infected persons usually have self-limiting acute hepatitis. However, persistent hepatitis can occur in HEV-infected immunocompromised patients who acquire infection by eating undercooked pork, rabbit, deer, camel, or boar meat (2-6). HEV transmission through blood product transfusion also has been described (7).
+"The diverse _Hepeviridae_ family, which incorporates all HEV variants, includes members whose primary host species are terrestrial mammals (genus _Orthohepevirus_) and fish (genus _Piscihepevirus_) (8). The _Orthohepevirus_ genus is classified into 4 species; HEV variants that have been reported to infect humans belong to _Orthohepevirus_ A (HEV-A). A total of 5 genotypes within HEV-A (HEV-1-4 and HEV-7) cause hepatitis in humans, and 3 genotypes (HEV-3, -4, and -7) can cause chronic hepatitis in immunocompromised patients after foodborne zoonotic transmission (2,6,9,10).
+"In addition to HEV-A, the _Orthohepevirus_ genus includes 3 other species: _Orthohepevirus B_ circulates in chickens, _Orthohepevirus C_ (HEV-C) in rats and ferrets, and _Orthohepevirus D_ in bats. HEV-C, also known as rat hepatitis E virus, shares only 50% to 60% nt [nucleotide] identity with HEV-A (8). The zoonotic potential of HEV-C is unknown; cases of clinical infection have not been reported. The substantial phylogenetic divergence between HEV-A and HEV-C, especially in critical receptor binding domains, forms a theoretical species barrier (11). Serologic and molecular tests for HEV are designed primarily to detect HEV-A, and they might miss HEV-C infections. Therefore, the threat to human health, including blood and organ supply safety, from HEV-C is unknown. We aimed to prove definitively that HEV-C can infect humans and describe the clinical, epidemiologic, genomic, and serologic features of this new zoonosis."
+Additionally, a case was reported from Canada in 2019: Andonov A, Robbins M, Borlang J, et al. Rat hepatitis E virus linked to severe acute hepatitis in an immunocompetent patient. J Infect Dis. 2019; 220(6): 951-955; 
+https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiz025/5288497
+More recently, an epidemiologic and clinical report was published regarding this zoonosis in Hong Kong: Sridhar S, Yip CC, Wu S, et al: Transmission of rat hepatitis E virus infection to humans in Hong Kong: a clinical and epidemiological analysis. Hepatology. 2020 Jan 20. doi: 10.1002/hep.31138. [Epub ahead of print]; 
+https://www.ncbi.nlm.nih.gov/pubmed/31960460
+Abstract
+--------
+Background and aims: Hepatitis E virus (HEV) variants causing human infection predominantly belong to HEV species A (HEV-A). HEV species C genotype 1 (HEV-C1) circulates in rats and is highly divergent from HEV-A. It was previously considered unable to infect humans, but the 1st case of human HEV-C1 infection was recently discovered in Hong Kong. The aim of this study is to further describe the features of this novel zoonosis in Hong Kong.
+Approach and results: We conducted a territory-wide prospective screening study for HEV-C1 infection over a 31-month period. Blood samples from 2860 patients with abnormal liver function (n = 2201) or immunosuppressive conditions (n = 659) were screened for HEV-C1 RNA. In addition, 186 captured commensal rats were screened for HEV-C1 RNA. Sequences of human-derived and rat-derived HEV-C1 isolates were compared. Epidemiological and clinical features of HEV-C1 infection were analyzed. HEV-C1 RNA was detected in 6 of 2201 (0.27%) patients with hepatitis and 1 of 659 (0.15%) immunocompromised persons. Including the previously reported case, 8 HEV-C1 infections were identified, including 5 in immunosuppressed patients. Three patients had acute hepatitis, 4 had persistent hepatitis, while 1 had subclinical infection without hepatitis. One patient died of meningoencephalitis, and HEV-C1 was detected in cerebrospinal fluid. HEV-C1 hepatitis was generally milder than HEV-A hepatitis. Seven of 186 (3.76%) rats tested positive for HEV-C1. One HEV-C1 isolate obtained from a rat captured near the residences of patients was closely related to the major outbreak strain.
+Conclusions: HEV-C1 is a cause of hepatitis E in humans in Hong Kong. Immunosuppressed individuals are susceptible to persistent HEV-C1 infection and extrahepatic manifestations. Subclinical HEV-C1 infection threatens blood safety. Tests for HEV-C1 are required in clinical laboratories.
+- Mod.LL
+HealthMap/ProMED-mail map:
+Hong Kong: 
+http://healthmap.org/promed/p/198
+] 
+See Also
+Hepatitis E - USA: zoonosis, undercooked pork, CDC  
+20200301.7038310
+2019
+----
+Hepatitis E - USA: (NY) susp Mexican basil, RFI  
+20190818.6628124
+Hepatitis E - China (02): (Hong Kong) human, rat virus  
+20190812.6618757
+Hepatitis E - China: (Hong Kong) human, rat virus  
+20190515.6470165
+2018
+----
+Hepatitis E - China (02): (HK) human, rat virus, 1st and 2nd reps  
+20181119.6153527
+Hepatitis E - China: (HK) human, rat virus, 1st rep  
+20180928.6057342
+2017
+----
+Hepatitis E - UK (03): gt 3, European sausage  
+20170821.5264392
+Hepatitis E - Europe (02): 2005-2015  
+20170629.5140079
+Hepatitis E - UK (02): EU pork products, commentary  
+20170523.5057366
+Hepatitis E - UK: EU pork products  
+20170522.5055004
+Hepatitis E - France (03): rabbit source  
+20170517.5042542
+Hepatitis E - Australia: 1st postransfusion case, zoonotic  
+20170426.4996999
+Hepatitis E - Europe: blood donation screening  
+20170423.4983952
+Hepatitis E - France (02): comment  
+20170116.4769936
+Hepatitis E - France: platelet transfusion-related  
+20170115.4763642
+2016
+----
+Hepatitis E - Germany: gt 3, asymptomatic, 2011  
+20160904.4461204
+Hepatitis E - Europe: zoonotic  
+20160828.4445881
+2015
+----
+Hepatitis E - Japan: 1st chronic cases  
+20151027.3747156
+Hepatitis E - France: 2013, raw pork stuffing  
+20151021.3733016
+Hepatitis E - UK: undercooked imported pork sausage, 2014  
+20150908.3631747
+Hepatitis E, pet rabbit - Italy  
+20150517.3367922
+Hepatitis E - Spain: HIV infected individuals  
+20150314.3230174
+2014
+----
+Hepatitis E - UK: undercooked pork sausage  
+20141111.2946919
+Hepatitis E - France: (VR) raw pork liver sausage  
+20141010.2850748
+Hepatitis E - Australia: (NSW), undercooked pork liver  
+20140914.2773538
+Hepatitis E - Germany: genotype 3, transfusion related  
+20140529.2506353
+2013
+----
+Hepatitis E - UK: pork sausages, alert  
+20130915.1946331
+Guillain-Barre syndrome - Portugal: hepatitis E virus, genotype 3  
+20130824.1898358
+Hepatitis E - Netherlands: blood donors  
+20130801.1858965
+.................................................sb/ll/rd/ml

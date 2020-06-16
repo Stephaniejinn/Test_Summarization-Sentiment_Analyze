@@ -1,0 +1,16 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006888833
+ID : GPHN2020050200039
+
+Date : 2020-05-01 14:04:00
+Title : Lyme disease: WSU discovery ‘has a significant impact in the development of vaccines’
+Ariticle : 
+No Comments
+The next time a tick feeds on you, Washington State University researchers hope to make sure persistent arthritis caused by Lyme disease doesn’t linger for a lifetime.
+Troy Bankhead, associate professor in WSU’s Veterinary Microbiology and Pathology department, and his team have spent more than a decade analyzing an immune evasive protein of Borrelia burgdorferi, the bacterium that causes tick-borne Lyme disease.
+Borrelia burgdorferi spirochetes/CDC
+With the lab’s latest finding, that work is beginning to pay off.
+According to  research recently published in Cell Reports , Bankhead and assistant research professor Abdul Lone discovered that a surface protein known as VlsE acts as a shield to prevent the immune system from effectively fighting the disease. In particular, the study examined how VlsE protects one of the main proteins responsible for Lyme disease’s persistent arthritis.
+“This really has a significant impact in the development of vaccines,” Bankhead said. “If we can determine which proteins are shielded as opposed to which ones are not, then of course those that are not protected are going to be better candidates for a vaccine.”
+The Centers for Disease Control and Prevention estimates some 300,000 people may get Lyme disease each year in the United States alone. It is most prevalent in the northeast.
+If not treated early with antibiotics, Lyme disease can cause lifelong arthritis, and in more severe cases, bladder infections, heart inflammation, and neurologic and cognitive issues like loss of memory and balance.
+“We chose the arthritis-related protein because arthritis is the most common symptom you see in North America,” Lone said.

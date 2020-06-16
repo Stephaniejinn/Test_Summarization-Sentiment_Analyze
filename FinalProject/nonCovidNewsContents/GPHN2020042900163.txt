@@ -1,0 +1,15 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868733
+ID : GPHN2020042900163
+
+Date : 2020-04-28 22:53:00
+Title : Bovine Diseases and Conditions - Bovine Tuberculosis; Researchers at Nelson Mandela African Institution of Science and Technology Report Research in Bovine Tuberculosis (Modeling the Transmission Dynamics of Bovine Tuberculosis)
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- A new study on bovine tuberculosis is now available. According to news reporting out of Arusha, Tanzania, by NewsRx editors, research stated, "Bovine tuberculosis (bTB) is a bacterial and zoonotic disease which is transmitted through consumption of unpasteurized milk and uncooked meat and inhalation of aerosols."
+Funders for this research include African Development Bank Group.
+The news journalists obtained a quote from the research from Nelson Mandela African Institution of Science and Technology: "In this paper, a deterministic mathematical model is formulated to study the transmission dynamics of bTB in humans and animals. The basic reproduction number R0 is computed to determine the behavior of the disease. Stability analysis shows that there is a possibility for disease-free equilibrium and endemic equilibrium to coexist when R0 = 1. To determine parameters which drive the dynamics of bTB, we performed sensitivity analysis. The analysis shows that the rate at which dairy products are produced, the rate of transmission of bTB from animal to animal, and the rates at which human acquires bTB from infectious dairy products and animals drive the transmission of bTB. However, the disease decreases as the rate of consumption of dairy products decreases."
+According to the news reporters, the research concluded: "To control bTB, education campaign, inspection of dairy products, treatment of infected humans, and quarantine of infected animals are recommended."
+For more information on this research see: Modeling the Transmission Dynamics of Bovine Tuberculosis. International Journal of Mathematics and Mathematical Sciences, 2020,2020. (International Journal of Mathematics and Mathematical Sciences - https://www.hindawi.com/journals/ijmms/). The publisher for International Journal of Mathematics and Mathematical Sciences is Hindawi Limited.
+A free version of this journal article is available at https://doi.org/10.1155/2020/7424075.
+Our news editors report that additional information may be obtained by contacting Theresia Shirima Sabini, School of CoCSE, Nelson Mandela African Institution of Science and Technology, P.O. Box 447, Arusha, Tanzania. Additional authors for this research include Jacob Ismail Irunde, Dmitry Kuznetsov.
+Keywords for this news article include: Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania, Africa, Bovine Tuberculosis, Mycobacterium Infections, Actinomycetales Infections, Bovine Diseases and Conditions, Gram-Positive Bacterial Infections.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC

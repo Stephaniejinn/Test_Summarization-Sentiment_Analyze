@@ -1,0 +1,14 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006869992
+ID : GPHN2020042900192
+
+Date : 2020-04-29 04:03:00
+Title : Local Players Keen to Fill the China Void, Manufacture Kits
+Ariticle : 
+SEEK ACCESS TO VIRUS SAMPLE TO ENSURE CONSISTENCYDomestic manufacturers of rapid antibody rapid test kits for novel coronavirus have approached the Indian Council of Medical Research (ICMR) to provide known samples of Covid-19 positive patients and a dedicated testing body for quick validation of their pilot and manufactured batches.
+The move comes a day after the Centre asked state governments to stop using the antibody test kits supplied by two Chinese companies after ICMR said the kits were showing wide variation in their sensitivity despite early promise of good performance for surveillance purpose.
+There are nine Indian companies who have their antibody test kits validated by the National Institute of Virology (NIV), Pune.
+Domestic diagnostic companies that ET spoke with said access to inactivated known positive and negative samples of Covid-19 will help them build their own in-house panels which would become useful during the development and maintainance batch-to-batch consistency after manufacturing.
+Also, every batch produced by a manufacturer should be validated and approved by NIV or an equivalent testing body before release into the market, domestic diagnostic companies said."Many IVD (in vitro diagnostic device) companies in India, have the capability and capacity to develop and manufacture high quality rapid card tests that could meet the requirements of high sensitivity and specificity," said Veena Kohli, managing director of Vanguard Diagnostics that already makes rapid kits used for detection of antibodies and antigens - which are developed before the antibodies are formed - against dengue and malaria.
+Kohli said there is no point in comparing RT-PCR tests, which are gold standard for Covid-19 diagnosis, with the antibody tests. If faster detection is the aim, then the focus should be to develop rapid card tests that include detection of antigens which are developed before the antibodies are formed.
+Rapid tests are more of a tool for epidemiologists to determine the extent to which a disease has spread in a population and how many have developed immunity for it. They can be used for surveillance purposes. These tests look for the presence of Igm (immunoglobinm) and IgG (Immunoglobulin g) antibodies in an individual. An indication of IgG antibody means that the person has developed a lasting immunity from a disease.
+Presently, this combination of antigen and antibody tests are used for infectious diseases such as dengue and malaria.

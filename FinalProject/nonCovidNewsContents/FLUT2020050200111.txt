@@ -1,0 +1,91 @@
+URL : https://flutrackers.com/forum/forum/welcome-to-the-scientific-library/surveillance-and-epidemic-control/856522-spatial-spread-and-emergence-of-reassortant-h5-highly-pathogenic-avian-influenza-viruses-in-iran-reassortant-h5-highly-pathogenic-avian-influenza-virus-in-iran
+ID : FLUT2020050200111
+
+Date : 2020-05-02 10:13:05
+Title : Spatial spread and emergence of reassortant H5 highly pathogenic avian influenza viruses in Iran reassortant H5 highly pathogenic avian influenza virus in Iran
+Ariticle : 
+																							
+
+Infect Genet Evol.
+ 2020 Apr 26:104342. doi: 10.1016/j.meegid.2020.104342. [Epub ahead of print]
+
+Spatial spread and emergence of reassortant H5 highly pathogenic avian influenza viruses in Iran reassortant H5 highly pathogenic avian influenza virus in Iran.
+
+
+
+Abdollahi H
+1
+, 
+Ali ASM
+2
+, 
+Monne I
+3
+, 
+Milani A
+3
+, 
+Habibi M
+1
+, 
+Zamperin G
+3
+, 
+Ghafouri SA
+2
+, 
+Maghsoudloo H
+1
+, 
+Mohammadpoor B
+1
+, 
+Esmaeilzadeh S
+1
+, 
+Farahani RK
+2
+, 
+Ghasemi Y
+1
+, 
+Afzalkhani AA
+1
+, 
+Nabipoor J
+1
+, 
+Javanmardi B
+1
+, 
+Fusaro A
+3
+, 
+Zecchin B
+4
+.
+
+
+Author information
+
+
+
+
+
+Abstract
+
+Since 2005, H5Nx highly pathogenic avian influenza (HPAI) viruses of the Goose/Guangdong (Gs/GD) lineage have spread worldwide, affecting poultry and wild birds in Asia, Europe, Africa and North America. So far, the role of Western Asia and the Middle East in the diffusion dynamics of this virus has been poorly explored. In order to investigate the genetic diversity and the role of Iran in the transmission dynamics of the Gs/GD lineage, we sequenced the complete genome of twenty-eight H5Nx viruses which were circulating in the country between 2016 and 2018. We reported the first characterization of the HPAI H5N6 subtype of clade 2.3.4.4B in Iran and gave evidence of the high propensity of the Gs/GD H5 AIVs to reassort, describing six novel H5N8 genotypes of clade 2.3.4.4B, some of them likely generated in this area, and one H5N1 reassortant virus of clade 2.3.2.1c. Our spatial analyses demonstrated that the viruses resulted from different viral introductions from Asia and Europe and provided evidence of virus spread from Iran to the Middle East. Therefore, Iran may represent a hot-spot for virus introduction, dissemination and for the generation of new genetic variability. Increasing surveillance efforts in this high-risk area is of utmost importance for the early detection of novel emerging strains with zoonotic potential.
+Copyright © 2020. Published by Elsevier B.V.
+
+
+
+
+KEYWORDS:
+
+H5 highly pathogenic-avian influenza viruses; Iran; Reassortant viruses; Spatial spread
+
+
+PMID:32348876DOI:
+10.1016/j.meegid.2020.104342
+
+													

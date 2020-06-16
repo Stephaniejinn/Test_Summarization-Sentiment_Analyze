@@ -1,0 +1,23 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006872618
+ID : GPHN2020042900234
+
+Date : 2020-04-29 10:14:00
+Title : Sarepta Therapeutics Revives Anti-Viral Program for Covid-19 -- Barrons.com
+Ariticle : 
+Before it turned its attention to developing treatments for Duchenne muscular dystrophy and other rare genetic diseases, Sarepta Therapeutics had a promising anti-viral program targeting the flu as well as Ebola and Marburg.
+In light of the Covid 19 crisis, the company has now reactivated that program and quickly developed a therapeutic that is designed to hinder the virus's ability to replicate using the company's core RNA expertise.
+That therapeutic will be tested at U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID), the Department of Defense's main laboratory for medical biological defense research, Sarepta said Tuesday. If results prove favorable, Sarepta said it and USAMRIID would consider funding proposals to advance the treatment.
+The news had little impact on shares of Sarepta (ticker: SRPT), which fell $2.43, to $119.69 on Tuesday. The company is valued at more than $9 billion.
+There are many drugs that are being developed and tested to treat Covid-19 with the most attention on Gilead Sciences' (GILD) remdesivir.
+The Sarepta treatment uses antisense RNA technology that was used to develop Exondys 51, its main DMD drug that generated about $380 million of sales last year. The new drug is designed to attach to a part of the Covid-19's RNA backbone and prevent the production of a key viral protein.
+"If it works, it will reduce the ability of the virus to replicate" and its ability to infect other cells, Sarepta CEO Doug Ingram said. He cautioned that the drug is at an "early stage." Testing at USAMRIID is likely to begin in cell cultures and then move to animals if the therapeutic agent shows signs of controlling the Covid-19 virus.
+Ingram said that USAMRIID had approached Sarepta because of the collaborative work between the two in the past and USAMRIID's appreciation for Sarepta's anti-viral technology.
+Ingram said the Covid-19 initiative won't slow Sarepta efforts to develop drugs for Duchenne and other rare diseases.
+Most attention on Wall Street is focused on a Sarepta DMD gene therapy in clinical trials that is designed to produce a form of the protein dystrophin, which is lacking in children with that fatal disease. That gene therapy has shown promising results in a small number of patients.
+Sarepta noted earlier Tuesday that "clinical and preclinical studies of Sarepta's RNA technology have found evidence of antiviral activity of Sarepta's PMO technology in coronaviruses and other viruses." PMO refers to phosphorodiamidate morpholino oligomer.
+SVB Leerink analyst Joseph Schwartz called Tuesday's development an "incremental positive" for Sarepta. Schwartz noted that the Covid-19 therapy uses an enhanced cell-penetrating technology developed by Sarepta, but that one issue is "uncertainties around dose-limiting toxicities."
+"Taken together, we believe there is positive precedent for SRPT's PPMOs as a potential treatment for Covid-19 but also remain cautious given uncertainty surrounding potential PPMO toxicity," he wrote. PPMO refers to the enhanced version of the PMO technology.
+Schwartz has an Outperform rating on Sarepta shares.
+Write to Andrew Bary at andrew.bary@barrons.com
+(END) Dow Jones Newswires
+April 29, 2020 06:14 ET (10:14 GMT)

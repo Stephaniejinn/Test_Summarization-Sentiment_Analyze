@@ -1,0 +1,76 @@
+URL : https://flutrackers.com/forum/forum/local-regional-communities-and-organizations/cidrap/856436-cidrap-news-scan-antibiotic-development-collaboration-fluoroquinolone-decline-at-va-hospitals-polio-in-3-nations-monkeypox-smallpox-vaccine-contract
+ID : FLUT2020050200102
+
+Date : 2020-05-01 21:22:45
+Title : CIDRAP NEWS SCAN: Antibiotic development collaboration; Fluoroquinolone decline at VA hospitals; Polio in 3 nations; Monkeypox-smallpox vaccine contract
+Ariticle : 
+																							Source: 
+https://www.cidrap.umn.edu/news-pers...an-may-01-2020
+
+
+News Scan for May 01, 2020
+
+Antibiotic development collaboration; Fluoroquinolone decline at VA hospitals; Polio in 3 nations; Monkeypox-smallpox vaccine contract
+Filed Under:
+Monkeypox; Antimicrobial Stewardship; Polio; Smallpox; Bioterrorism
+
+
+
+
+Drug firm teams with nonprofit to develop new antibiotic
+
+The Global Antibiotic Research and Development Partnership (GARDP) this week announced a partnership with Venatorx Pharmaceuticals to accelerate development of an investigational beta-lactam/beta-lactamase inhibitor combination for treating multidrug-resistant hospital infections.
+GARDP and Venatorx, of Malvern, Pennsylvania, will collaborate to complete the development of cefipime/taniborbactam, which is currently being evaluated in a phase 3 trial of patients who have complicate urinary tract infections. Additional clinical trials in adults with multidrug-resistant infections and in children with serious bacterial infections are also planned.
+Taniborbactam is a novel, broad-spectrum beta-lactamase inhibitor that restores the activity of cefepime, a fourth-generation cephalosporin, against carbapenem-resistant Enterobacteriaceae and carbapenem-resistant 
+Pseudomonas aeruginosa
+. The World Health Organization has identified both pathogens as critical threats to global health that urgently require new treatment options.
+"More than a hundred thousand people die every year in high-income countries due to hospital infections, and indicators point to a significantly higher burden in low- and middle-income countries," Manica Balasegaram, BMedSci, BMBS, executive director of GARDP, said in a press release. "Our collaboration with Venatorx enables us to accelerate the development of a critically needed treatment for antibiotic-resistant infections in adults and children."
+
+Apr 29 GARDP 
+press release
+
+
+Fluoroquinolone use in VA hospitals has declined, study finds
+
+Nearly all measures of fluoroquinolone use at Veterans Affairs (VA) hospitals declined from 2014 through 2017, but the decrease in inpatient use was much larger than the decline in fluoroquinolone use at discharge, according to a study yesterday in 
+Open Forum Infectious Diseases.
+The study, led by researchers from Michigan Medicine and the VA Ann Arbor Healthcare System, assessed inpatient and discharge fluoroquinolone (ciprofloxacin, moxifloxacin, and levofloxacin) use among veterans hospitalized with infections at 125 VA hospitals from 2014 through 2017. The aim of the study was to measure the decline in fluoroquinolone prescribing, particularly at discharge, since the Veterans Health Administration called for implementation of antibiotic stewardship programs at all hospitals in 2014. Fluoroquinolones have been a particular concern because of their association with 
+Clostridioides difficile
+ infection and adverse events.
+Of the 560,219 hospitalizations with infection analyzed, 37.4% involved a fluoroquinolone prescription either during hospitalization (32.5%) or at discharge (19.6%). Hospitals varied appreciably in inpatient, discharge, and total fluoroquinolone use, with 71% of the hospitals in the highest prescribing quartile located in the southern United States.
+When they analyzed adjusted rates of fluoroquinolone prescribing longitudinally by year, the researchers found a significant decrease in the proportion of patients who were prescribed any fluoroquinolone during hospitalization (relative risk reduction [RRR], 25.4%; absolute risk reduction [ARR], 9.4%). The decline in the proportion of patients prescribed a fluoroquinolone at discharge was statistically significant, but smaller (RRR, 7.4%; ARR, 1.4%). Over the study period, fluoroquinolone use at discharge accounted for a growing percentage of hospitalization-related fluoroquinolone days (from 52% in 2014 to 61.3% in 2017).
+Among the three fluoroquinolones, ciprofloxacin saw the largest decreases in use—mostly due to a decrease in inpatient use—while levofloxacin use was largely stable over time, with small decreases in inpatient use and small increases in discharge use. Moxifloxacin use was low and declined further.
+"Fluoroquinolone prescribing at discharge, and levofloxacin prescribing in particular, is a growing target for stewardship," the authors concluded. "Further studies should evaluate whether interventions to reduce total antibiotic duration may be most effective at decreasing post-discharge fluoroquinolone use."
+
+Apr 30 
+Open Forum Infect Dis
+ 
+abstract
+
+
+More polio cases from Afghanistan, Pakistan, and Ivory Coast
+
+Three countries—Afghanistan, Pakistan, and Ivory Coast—reported new polio cases this week, according to the latest weekly update from the Global Polio Eradication Initiative (GPEI).
+Afghanistan reported one more wild poliovirus type 1 (WPV1) case, which involves a patient from Laghman province, lifting its total this year to five.
+Meanwhile, Pakistan reported two new circulating vaccine-derived poliovirus type 2 (cVDPV2) cases, one each from Khyber Pakhtunkhwa and the Federally Administered Tribal Areas. The country has now reported 42 cVDPV2 cases for the year.
+And Ivory Coast reported one more cVDPV2 case, a patient from Gbokle-Nawa-San-Pedro district, bringing the country's 2020 total to three. Two are linked to Nigeria's Jigawa outbreak, and one is linked to an outbreak in Togo.
+
+Apr 30 GPEI 
+update
+
+
+BARDA contract adds monkeypox-smallpox vaccine to federal stockpile
+
+Bavarian Nordic announced yesterday that the US Biomedical Advanced Research and Development Authority (BARDA), part of the Health and Human Services' Office of the Assistant Secretary for Preparedness and Response, has placed a new order for its new monkeypox and smallpox vaccine.
+Called Jynneos, the vaccine was approved by the Food and Drug Administration (FDA) in September 2019, marking the first vaccine approved for monkeypox in the country and the first FDA-approved non-replicating smallpox vaccine.
+The company said the order is part of a 10-year 2017 BARDA contract and includes the manufacturing of additional bulk vaccine and the supply of up to 1.4 million doses of liquid frozen Jynneos. The new order is worth up to $200 million and will be placed in the Strategic National Stockpile for potential use by first-line responders.
+
+Apr 30 Bavarian Nordic 
+press release
+Sep 25, 2019, CIDRAP News story "
+FDA OKs first human monkeypox vaccine (also protective against smallpox)
+"
+
+
+
+													

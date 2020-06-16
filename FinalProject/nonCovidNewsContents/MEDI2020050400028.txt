@@ -1,0 +1,11 @@
+URL : https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html
+ID : MEDI2020050400028
+
+Date : 2020-05-09 00:00:00
+Title : Rwanda records 60% reduction in malaria deaths
+Ariticle : 
+Disease:Malaria
+Time:2020.05.03-2020.05.09
+Location:Rwanda
+Cases:country's malaria deaths
+Description:Rwanda records 60% reduction in malaria deaths

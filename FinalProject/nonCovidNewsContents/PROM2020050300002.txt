@@ -1,0 +1,163 @@
+URL : https://promedmail.org/promed-post/?id=7291902
+ID : PROM2020050300002
+
+Date : 2020-05-02 21:31:28
+Title : PRO/AH/EDR> Vesicular stomatitis - USA (03): (TX) horse, st. Indiana
+Ariticle : 
+VESICULAR STOMATITIS - USA (03): (TEXAS) HORSE, SEROTYPE INDIANA
+****************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+In this post:
+[1] New serotype for Texas
+[2] VSV outbreak summary to date
+******
+[1] New serotype for Texas
+Date: Thu 30 Apr 2020
+Source: Texas Animal Health Commission [edited]
+https://www.tahc.texas.gov/news/2020/2020-04-30_VSV.pdf
+Vesicular stomatitis virus (VSV) was confirmed in one horse on an El Paso County premises. This confirmation marks the 3rd case of VSV in Texas this year [2020].
+The horse was tested after the owner observed lesions and contacted their veterinary practitioner. The horse has been isolated on the premises and is being monitored. The El Paso site will remain under state quarantine until 14 days from the onset of lesions in the last-affected animal on the premises.
+"VSV is spread by direct contact with infected animals or by insect vectors like black flies, sand flies, and biting midges," said Dr. Andy Schwartz, TAHC executive director. "An epidemiological investigation is underway on the VSV-positive premises to identify the means for disease transmission."
+It is important to note that the National Veterinary Services Laboratories (NVSL) confirmed the VSV virus as the Indiana serotype. This is a different strain from the Starr County confirmation (New Jersey serotype); however, it is the same strain of VSV having been confirmed in horses in nearby Las Cruces, New Mexico. Since the VSV-infected horse has not recently traveled, this could indicate VSV-infected insects are the likely source of infection on this premises.
+Vesicular stomatitis is a viral disease primarily affecting horses and cattle and occasionally swine, sheep, goats, llamas, and alpacas. VSV can cause blisters and sores in the mouth and on the tongue, muzzle, teats, or hooves of susceptible animals. Additional signs of infection include fever, drooling or frothing at the mouth, reluctance to eat, lameness, or laminitis if lesions develop around the coronary band. Lesions usually will heal in 2 or 3 weeks, and most animals recover with supportive care by a veterinarian.
+Prevention:
+Even with the best defensive measures, VSV could infect a herd. However, these tips may help protect livestock:
+- Control biting flies (fly spray, fly traps, maintaining clean pens, etc.).
+- Keep equine animals stalled or under a roof to reduce exposure to flies.
+- Feed and water stock from their individual buckets.
+- Don't visit a ranch that's under quarantine for VSV. Wait until the animals have healed.
+- Restrict nose-to-nose contact between horses from other premises.
+- Clean and disinfect tack and equipment between uses.
+If you suspect infection:
+- Call your private veterinarian immediately.
+- Separate affected horse(s) from all healthy horses on the property.
+- Handle all healthy animals before sick animals. After handling sick animals, make sure to wash and disinfect your hands and boots; if possible, change and wash your clothes as well.
+Some states and other countries may restrict movement of, or impose additional requirements for, equine or other susceptible animals coming from states having known cases of VSV. Before moving livestock, contact the state of destination for their requirements. For international export information, contact the USDA, Veterinary Services Austin office at (301) 851-3300 option 2.
+The TAHC will send out updates upon receiving new VSV confirmations. Sign up at 
+https://bit.ly/2Wjf7HX
+ for the equine email list to receive the VSV updates to your inbox. All cases will be reported to the Equine Disease Communication Center.
+The United States 2020 VSV outbreak began on 13 Apr 2020 when NVSL confirmed the 1st VSV-positive premises in New Mexico. Arizona and Texas subsequently broke with VSV cases.
+Veterinary guidance:
+If you suspect a client's animal is infected with VSV, contact your TAHC Region Office for procedures, required paperwork, and important sample submission information.
+For more information about VSV and preventative measures, visit the links below:
+- TAHC Fact Sheet: 
+https://www.tahc.texas.gov/news/brochures/TAHCFactsheet_VesicularStomatitis.pdf
+- Equine Biosecurity Guidance: 
+https://www.tahc.texas.gov/news/brochures/TAHCBrochure_BiosecurityEquine.pdf
+- USDA VSV webpage: 
+https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/equine/vsv/vesicular-stomatitis
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+******
+[2] VSV outbreak summary to date
+Date: Fri 1 May 2020
+Source: Feedstuffs [abridged, edited]
+https://www.feedstuffs.com/news/vesicular-stomatitis-outbreak-expanding
+The 2020 vesicular stomatitis virus (VSV) outbreak is growing, with the Texas Animal Health Commission (TAHC) confirming the virus on an El Paso County, Texas, premises, marking the 3rd case of VSV in Texas this year [2020].
+In a 29 Apr 2020 situation update, the US Department of Agriculture's (USDA) Animal & Plant Health Inspection Service (APHIS) reported that, to date, 14 premises have been identified in 6 counties across 3 states: New Mexico, Arizona, and Texas.
+APHIS confirmed both the VSV-Indiana and VSV-New Jersey serotypes have been identified this year [2020]. VSV-Indiana occurred in the US in 2019, while VSV-New Jersey was last isolated in the US in the 2014-2015 outbreak, APHIS said, noting that both serotypes are known to circulate in endemic cycles in southern Mexico. The last US outbreak involving both serotypes occurred in 1997-98.
+The US 2020 VSV outbreak began on 13 Apr 2020 when NVSL confirmed the 1st VSV-positive premises in New Mexico. Arizona's index case was confirmed 22 Apr [2020], and Texas's 1st case was confirmed 23 Apr 2020.
+[Byline: Tim Lundeen]
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+[The outbreak of vesicular stomatitis virus (VSV) in the United States is a mixed outbreak. In the state of Texas, it is a mixed outbreak as well. Texas has both Indiana serotype and New Jersey serotype. Most of Texas thus far appears to be New Jersey serotype, while this case, bordering New Mexico, is the same serotype as what is in New Mexico, the Indiana serotype.
+Use of horse-approved fly/mosquito spray may also help reduce the insect burden around the animals. - Mod.TG
+HealthMap/ProMED-mail map:
+El Paso County, Texas, United States: 
+http://healthmap.org/promed/p/9169
+] 
+See Also
+Vesicular stomatitis - USA (02): (AZ,TX) horse, mixed st.  
+20200430.7282291
+Vesicular stomatitis - USA (01): (NM) horse, st. Indiana  
+20200417.7234400
+2019
+----
+Vesicular stomatitis - USA (20): horses  
+20191119.6786968
+Vesicular stomatitis - USA (19): USDA  
+20191030.6752704
+Vesicular stomatitis - USA (18): (KS) horse  
+20191027.6748526
+Vesicular stomatitis - USA (17): (CO) horses, USDA report  
+20191020.6737687
+Vesicular stomatitis - USA (16): (TX) horse, USDA update  
+20190911.6667826
+Vesicular stomatitis - USA (15): (CO) horse, USDA update  
+20190831.6650491
+Vesicular stomatitis - USA (14): (UT,TX,CO) horse, USDA  
+20190824.6638357
+Vesicular stomatitis - USA (13): (CO, TX) more cases  
+20190817.6627584
+Vesicular stomatitis - USA (12): (CO) more cases  
+20190806.6609173
+Vesicular stomatitis - USA (10): policy background  
+20190803.6604403
+Vesicular stomatitis - USA (08): (CO) horses  
+20190728.6592890
+Vesicular stomatitis - USA (07): (TX,CO,NM) horse  
+20190725.6586398
+Vesicular stomatitis - USA (06): (TX) horse, update  
+20190722.6581356
+Vesicular stomatitis - USA (05): (CO,TX) horse  
+20190718.6574089
+Vesicular stomatitis: possible vector  
+20190715.6569128
+Vesicular stomatitis - USA (04): (CO,NM) horse  
+20190707.6556122
+Vesicular stomatitis - USA (03): (NM,TX) horse  
+20190704.6551193
+Vesicular stomatitis - USA (02): (TX) horse  
+20190626.6539748
+Vesicular stomatitis - USA: (TX) horse  
+20190624.6536072
+2016
+----
+Vesicular stomatitis - USA: 2015 summary  
+20160105.3911282
+2015
+----
+Vesicular stomatitis - USA (26): (CO) livestock  
+20151209.3852050
+Vesicular stomatitis - USA (25): (UT) livestock  
+20151030.3756784
+Vesicular stomatitis - USA (24) (WY): livestock  
+20151028.3750107
+Vesicular stomatitis - USA (23): (UT) equine  
+20151023.3738406
+Vesicular stomatitis - USA (22): (NE) equine  
+20151022.3736664
+Vesicular stomatitis - USA (21): (WY) livestock  
+20151017.3722395
+Vesicular stomatitis - USA (20): (CO) livestock  
+20151010.3704735
+Vesicular stomatitis - USA (10): (CO) equine additional cases  
+20150716.3515586
+Vesicular stomatitis - USA: equine, bovine, 2014 outbreak resolved  
+20150106.3073096
+2014
+----
+Vesicular stomatitis - USA (20): (CO) livestock, quarantine update  
+20141121.2978287
+Vesicular stomatitis, equine - USA (10): (CO) further spread  
+20140731.2649632
+Vesicular stomatitis, equine - USA: (TX) OIE  
+20140530.2507867
+2013
+----
+Vesicular stomatitis, equine - Belize: (CY) OIE  
+20130524.1735502
+2012
+----
+Vesicular stomatitis, equine - USA (06): (CO)  
+20120804.1228646
+and other items in the archives
+.................................................sb/tg/tw/ml

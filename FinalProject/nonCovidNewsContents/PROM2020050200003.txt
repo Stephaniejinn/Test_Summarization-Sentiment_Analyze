@@ -1,0 +1,231 @@
+URL : https://promedmail.org/promed-post/?id=7289038
+ID : PROM2020050200003
+
+Date : 2020-05-01 16:53:21
+Title : PRO/AH/EDR> Avian influenza (42): Hungary (BE) poultry, HPAI H5N8, spread, OIE
+Ariticle : 
+AVIAN INFLUENZA (42): HUNGARY (BEKES) POULTRY, HPAI H5N8, SPREAD, OIE
+*********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+Date: Thu 30 Apr 2020
+Source: OIE, WAHIS (World Animal Health Information System), weekly disease information 2020 [edited]
+https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventReport&reportid=34184
+Highly pathogenic avian influenza, Hungary
+------------------------------------------
+Information received on [and dated] 30 Apr 2020 from Dr. Lajos Bognar, Deputy State Secretary Chief Veterinary Officer, Food Chain Safety Department, Ministry of Agriculture, Budapest, Hungary
+Summary
+Report type: Immediate notification
+Date of start of the event: 26 Apr 2020
+Date of confirmation of the event: 30 Apr 2020
+Reason for notification: Recurrence of a listed disease
+Date of previous occurrence: 31 Jan 2020
+Manifestation of disease: Clinical disease
+Causal agent: Highly pathogenic avian influenza virus
+Serotype: H5N8
+Nature of diagnosis: Laboratory (advanced)
+This event pertains to a defined zone within the country.
+New outbreaks (2)
+Outbreak location 1: Battonya, Bekes
+Date of start of the outbreak: 26 Apr 2020
+Outbreak status: resolved 28 Apr 2020
+Epidemiological unit: Farm
+Affected animals:
+Species / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered
+Birds / 10 760 / NA / NA / NA / NA
+Affected population: Turkeys
+NA, not available.
+Outbreak location 2: Nagykamaras, Bekes
+Date of start of the outbreak: 27 Apr 2020
+Outbreak status: Continuing (or date resolved not provided)
+Epidemiological unit: Farm
+Affected animals:
+Species / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered
+Birds / 9872 / NA / NA / NA / NA
+Affected population: Geese
+Summary of outbreaks
+Total outbreaks: 2
+Total animals affected
+Species / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered
+Birds / 20 632 / ** / NA / NA / NA
+Outbreak statistics [rates apparent, expressed as percentages]
+Species / Morbidity rate / Mortality rate / Case fatality rate / Proportion susceptible animals lost*
+Birds / ** / ** / ** / **
+*Removed from the susceptible population through death, destruction, and/or slaughter.
+**Not calculated because of missing information.
+Epidemiology
+Source of the outbreak(s) or origin of infection: Unknown or inconclusive
+Control measures
+Measures applied: Movement control inside the country; surveillance outside containment and/or protection zone; traceability; official disposal of carcasses, by-products, and waste; zoning; vaccination prohibited; no treatment of affected animals
+Measures to be applied: Stamping out; disinfection
+Diagnostic test results
+Laboratory name and type: Veterinary Diagnostic Directorate (national laboratory)
+Species / Test / Test date / Result
+Birds / Nucleotide sequencing / 30 Apr 2020 / Positive
+Birds / Real-time PCR / 30 Apr 2020 / Positive
+Future reporting
+The event is continuing. Weekly follow-up reports will be submitted.
+[The location of the outbreaks can be seen on the interactive map at the source URL above.]
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[In addition to reporting HPAI subtype H5N8 in the county of Bekes, on 30 Apr 2020 Hungary also reported new outbreaks in the counties of Bacs-Kiskun and Csongrad. See last follow-up reports for these counties as follows:
+Bacs-Kiskun: 
+https://www.oie.int/wahis_2/temp/reports/en_fup_0000034191_20200430_193720.pdf
+Csongrad: 
+https://www.oie.int/wahis_2/temp/reports/en_fup_0000034195_20200430_194353.pdf
+- Mod.CRD
+HealthMap/ProMED-mail map:
+Bekes, Hungary: 
+http://healthmap.org/promed/p/44399
+] 
+See Also
+Avian influenza (41): Hungary (BK, CS) poultry, HPAI H5N8, spread  
+20200428.7277841
+Avian influenza (38): Hungary (CS) poultry, HPAI H5N8, OIE  
+20200403.7176779
+Avian influenza (37): Germany (ST) poultry, HPAI H5N8, OIE  
+20200401.7168460
+Avian influenza (36): Hungary (BK) poultry, HPAI H5N8, OIE  
+20200327.7147622
+Avian influenza (35): Europe, poultry, wild, HPAI H5N8, LPAI H6N1  
+20200325.7139260
+Avian influenza (34): Germany (NI) poultry, HPAI H5N8, OIE  
+20200323.7130557
+Avian influenza (31): Germany (SN) backyard poultry, HPAI H5N8, OIE  
+20200317.7102102
+Avian influenza (23): Germany (BW) backyard poultry, HPAI H5N8, OIE  
+20200211.6978876
+Avian influenza (20): Saudi Arabia (RI) poultry, HPAI H5N8, OIE  
+20200205.6954045
+Avian influenza (15): Germany (BB) wild bird, HPAI H5N8, OIE  
+20200123.6909182
+Avian influenza (14): Poland, wild bird, poultry, H5N8, OIE, spread  
+20200122.6907496
+Avian influenza (13): Ukraine (VI) poultry, HPAI H5, OIE  
+20200121.6902541
+Avian influenza (12): Czech Republic (VY) backyard poultry, HPAI H5N8, OIE  
+20200120.6900659
+Avian influenza (11): Czech Republic (JK) poultry, HPAI H5N8  
+20200119.6897846
+Avian influenza (09): Hungary (HB) poultry, HPAI H5N8, OIE  
+20200116.6892603
+Avian influenza (08): Romania (MM) poultry, HPAI H5N8, OIE  
+20200115.6890556
+Avian influenza (07): Hungary (KE) poultry, H5N8, OIE  
+20200113.6887610
+Avian influenza (05): Slovakia (NI) backyard poultry, H5N8, OIE  
+20200111.6884061
+Avian influenza (03): United Kingdom (Northern Ireland) poultry, suspected, RFI, NOT  
+20200108.6877259
+Avian influenza (02): Poland (LU, WP) poultry, HPAI H5N8, spread  
+20200106.6874145
+Avian influenza (01): Poland (LU) poultry, H5N8, OIE  
+20200102.6867443
+2019
+----
+Avian influenza (33): Israel (HZ) poultry, HPAI H5N8, OIE  
+20190425.6439824
+Avian influenza (19): Iraq (BA) HPAI, poultry, H5N8, OIE  
+20190325.6385716
+Avian influenza (13): Iran (EA) HPAI, poultry, H5N8, spread, OIE  
+20190314.6365229
+Avian influenza (10): Pakistan (Islamabad) wild bird, HPAI H5N8, OIE  
+20190227.6339643
+Avian influenza (07): Namibia (KA) wild bird, HPAI H5N8, OIE  
+20190214.6316883
+Avian influenza (05): Kuwait (FA) HPAI, pet birds, H5N8, OIE  
+20190207.6305342
+Avian influenza (01): Iran (MN) HPAI, poultry, H5N8, spread, OIE  
+20190108.6248574
+2018
+----
+Avian influenza (113): Iran (EA) HPAI, poultry, H5N8, OIE  
+20181213.6206812
+Avian influenza (112): Iran (TE) HPAI, poultry, H5N8, OIE  
+20181203.6178640
+Avian influenza (104): Bulgaria (KK) poultry, H5N8, spread, OIE  
+20181020.6101904
+Avian influenza (102): Bulgaria (PD) poultry, H5N8, OIE  
+20181009.6080595
+Avian influenza (101): Germany, HPAI H5N8, eagle, 2016-2017  
+20181008.6077837
+Avian influenza (100): Bulgaria (PD) poultry, H5N8, OIE  
+20181001.6064181
+Avian influenza (43): Bulgaria (DO) poultry, HPAI H5N8  
+20180307.5670395
+2017
+----
+Avian influenza (156): Bulgaria, poultry, HPAI H5N8, spread  
+20171107.5428919
+Avian influenza, human (76): Russia, H5N8  
+20171104.5419594
+Avian influenza (151): Germany wild bird, HPAI H5N8, Bulgaria poultry, H5, OIE  
+20171023.5398822
+Avian influenza (150): Germany (NI) wild bird, HPAI H5N8, regional alarm  
+20171021.5395412
+Avian influenza (146): Italy, north, poultry, wild, HPAI H5N8, spread  
+20171012.5377180
+Avian influenza (133): Germany (ST) wild bird, HPAI H5N8, OIE  
+20170829.5282824
+Avian influenza (130): Switzerland (VD) wild bird, HPAI H5N8, OIE  
+20170818.5257654
+Avian influenza (120): France (NC) HPAI H5N8, poultry, spread  
+20170704.5148229
+Avian influenza (110): UK, England poultry, backyard, HPAI H5N8  
+20170604.5083412
+Avian influenza (91): Europe (Finland) Africa (Niger) H5N8, wild, poultry, OIE  
+20170414.4970119
+Avian influenza (76): UK (Wales) wildfowl, HPAI H5N8, OIE  
+20170315.4901311
+Avian influenza (60): Europe (Lithuania, Russia) wild birds, HPAI H5N8, H5, OIE, RFI  
+20170227.4868106
+Avian influenza (59): Ireland, HPAI H5N8, swan  
+20170225.4864529
+Avian influenza (40): Portugal (Algarve) wildfowl, HPAI H5N8, OIE  
+20170202.4811961
+Avian influenza (30): Italy (VN) poultry, HPAI H5N8, OIE  
+20170124.4787128
+Avian influenza (16): Europe, HPAI H5, H5N8, wildfowl  
+20170117.4771394
+Avian influenza (11): Ireland (WX) wild bird, HPAI H5N8, new strain, OIE  
+20170111.4759033
+Avian influenza (10): global, H5N8 clade 2.3.4.4, FAO update & recommendations  
+20170111.4758712
+Avian influenza (08): Slovenia, HPAI H5N8, swan  
+20170111.4757155
+Avian influenza (05): Europe, Asia, H5N8, poultry, wild, spread  
+20170109.4752395
+Avian influenza (01): Croatia (VP) HPAI H5N8, 1st report  
+20170101.4736233
+2016
+----
+Avian influenza (153): Europe, Asia, Africa, H5N8, poultry, wild, spread, RFI  
+20161229.4731583
+Avian influenza (142): Europe, Middle East, Africa, 1st cases, spread HPAI H5N8  
+20161221.4712786
+Avian influenza (134): Europe, HPAI H5N8, wild, poultry, spread  
+20161214.4699227
+Avian influenza (120): Romania, HPAI H5N8, swan  
+20161130.4665157
+Avian influenza (119): Romania (CT) wildfowl, HPAI H5N8, OIE  
+20161130.4664106
+Avian influenza (106): Europe, wild, poultry, HPAI H5N8, spread  
+20161121.4645059
+Avian influenza (104): Europe (Germany) wild, poultry, HPAI H5N8, genotyping  
+20161119.4641281
+Avian influenza (102): Europe, wild birds, poultry, HPAI H5N8, spread, control  
+20161115.4631139
+Avian influenza (91): Poland (ZP) wild, H5N8, OIE  
+20161108.4614616
+Avian influenza (90): India (KL) poultry, H5N8, OIE, (HR) poultry, susp, RFI  
+20161105.4609424
+Avian influenza (89): Hungary (BE,CS) poultry, wild bird, HPAI H5N8, OIE  
+20161104.4608240
+Avian influenza (79): Russia (TU) HPAI H5N8, migratory birds  
+20161011.4551755
+.................................................crd/rd/ml

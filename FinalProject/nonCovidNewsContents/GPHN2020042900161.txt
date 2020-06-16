@@ -1,0 +1,15 @@
+URL : https://gphin.canada.ca/cepr/showarticle.jsp?docId=1006868737
+ID : GPHN2020042900161
+
+Date : 2020-04-28 22:41:00
+Title : Microbiology; Differential protein phosphorylation affects the localisation of two secreted Toxoplasma proteins and is widespread during stage conversion (Published April 10, 2020)
+Ariticle : 
+2020 APR 28 (NewsRx) -- By a News Reporter-Staff News Editor at Life Science Weekly -- By a News Reporter-Staff News Editor at Life Science Weekly - According to news reporting based on a preprint abstract, our journalists obtained the following quote sourced from biorxiv.org:
+“The intracellular parasite Toxoplasma gondii resides within a membrane bound parasitophorous vacuole (PV) and secretes an array of proteins to establish this replicative niche. It has been shown previously that Toxoplasma both secretes kinases and that numerous proteins are phosphorylated after secretion.
+“Here we assess the role of phosphorylation of SFP1 and the related GRA29, two secreted proteins with unknown function. We show that both proteins form stranded structures in the PV that are independent of the previously described intravacuolar network or actin. GRA29 likely acts as a seed for SFP1 strand formation, and these structures can form independently of other Toxoplasma secreted proteins. We show that an unstructured region at the C-terminus of SFP1 and GRA29 is required for the formation of strands and that mimicking phosphorylation of this domain negatively regulates strand development. When tachyzoites convert to chronic stage bradyzoites, both proteins show a dispersed localisation throughout the cyst matrix. Many secreted proteins are reported to dynamically redistribute as the cyst forms and secreted kinases are known to play a role in cyst formation.
+“Using quantitative phosphoproteome and proteome analysis comparing tachyzoite and early bradyzoite stages, we reveal widespread differential phosphorylation of secreted proteins.
+“These data support a model in which secreted kinases and phosphatases are important to dynamically regulate parasite secreted proteins during stage conversion.”
+This preprint may not have been peer-reviewed. For more information on this research see: biorxiv.org/content/10.1101/2020.04.09.035279v1
+Keywords for this news article include: Peptides, Peptides and Proteins, Proteins.
+Keywords for this news article include: Microbiology, Peptides and Proteins.
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2020, NewsRx LLC
