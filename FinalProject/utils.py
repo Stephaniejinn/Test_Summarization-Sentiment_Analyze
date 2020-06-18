@@ -11,7 +11,7 @@ train_article_path = "sumdata/train/train.article.txt"
 train_title_path = "sumdata/train/train.title.txt"
 valid_article_path = "sumdata/train/valid.article.filter.txt"
 valid_title_path = "sumdata/train/valid.title.filter.txt"
-our_test_path = "NewsContents/AFRO2020050600002.txt"
+our_test_path = "CovidNewsContents/BBCH2020042900001.txt"
 our_test_trainingPath = "NewsContents/"
 
 def clean_str(sentence):
@@ -22,6 +22,7 @@ def clean_str(sentence):
 def clean_title(file_name):
     file = open(file_name, "r", encoding='utf-8')
     filedata = file.readlines()
+    temp = []
     article = []
     title = ''
     for eachLine in filedata:
@@ -34,8 +35,19 @@ def clean_title(file_name):
                 if len(eachLine.split(" "))<5:
                     continue
                 else:
-                    article += eachLine.split("\n")
-    return article, title
+                    temp += eachLine.split("\n")
+
+    for i in range(len(temp)):
+        temp2 = temp[i].split(" ")
+        str =''
+        for j in temp2:
+            if j == "":
+                continue
+            else :
+                str += j+" "
+        if len(str)>5:
+            article.append(str)
+    return temp, title
 
 
 def clean_title_forTraining(dir_name):
@@ -109,7 +121,7 @@ def build_dataset(step, word_dict, article_max_len, summary_max_len, toy=False):
     elif step == "train1":
         article_list,title_list = clean_title_forTraining(our_test_trainingPath)
     elif step == "valid":
-        article_list = get_text_list(our_test_path, toy)
+        article_list = clean_title(our_test_path)
     elif step == "test":
         article_list,title_list = clean_title(toy)
     else:
